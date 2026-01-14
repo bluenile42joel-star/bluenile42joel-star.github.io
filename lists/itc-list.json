@@ -3,476 +3,476 @@
         "card_name": "Artemis, Scourge of Rodents",
         "number": 2,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "1"
     },
     {
         "card_name": "The Man With Many Masks",
         "number": 3,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "2"
     },
     {
         "card_name": "The Nameless Rider",
         "number": 5,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "4"
     },
     {
         "card_name": "Puck, Fae Harlequin",
         "number": 9,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "8"
     },
     {
         "card_name": "Ivar's Bestiary",
         "number": 11,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "10"
     },
     {
         "card_name": "Absence Elemental",
         "number": 72,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "71"
     },
     {
         "card_name": "Saura Pemmin, Morphomancer",
         "number": 4,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "3"
     },
     {
         "card_name": "Samael, the Reaper",
         "number": 6,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "5"
     },
     {
         "card_name": "Watterson, Wayward Fire",
         "number": 10,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "9"
     },
     {
         "card_name": "Raiz, Curious Cultivator",
         "number": 12,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "11"
     },
     {
         "card_name": "Amass Allies",
         "number": 73,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "72"
     },
     {
         "card_name": "Abdicate",
         "number": 93,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "92"
     },
     {
         "card_name": "Sir Thomas, God-Eater",
         "number": 7,
         "shape": "planeswalker",
-        "set": "itc",
+        "set": "ITC",
         "position": "6"
     },
     {
         "card_name": "Become Omnipotent",
         "number": 124,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "123"
     },
     {
         "card_name": "Volundr, Seeker of Mt. King",
         "number": 13,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "12"
     },
     {
         "card_name": "Begin the Masquerade",
         "number": 74,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "73"
     },
     {
         "card_name": "Archetypal Imagination",
         "number": 94,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "93"
     },
     {
         "card_name": "Vestige of Satanas",
         "number": 8,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "7"
     },
     {
         "card_name": "Falling Out",
         "number": 125,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "124"
     },
     {
         "card_name": "The World Tree Sprouts",
         "number": 14,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "13"
     },
     {
         "card_name": "Down the Rabbit Hole",
         "number": 75,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "74"
     },
     {
         "card_name": "Behold the New Worlds",
         "number": 95,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "94"
     },
     {
         "card_name": "Abrupt End",
         "number": 109,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "108"
     },
     {
         "card_name": "Grand Finale",
         "number": 126,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "125"
     },
     {
         "card_name": "Champion's Prize",
         "number": 132,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "131"
     },
     {
         "card_name": "Eternal Recall",
         "number": 76,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "75"
     },
     {
         "card_name": "Case of the Living Mystery",
         "number": 96,
         "shape": "saga",
-        "set": "itc",
+        "set": "ITC",
         "position": "95"
     },
     {
         "card_name": "Callous Betrayal",
         "number": 110,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "109"
     },
     {
         "card_name": "Limits Broken",
         "number": 127,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "126"
     },
     {
         "card_name": "Chased by Wolves",
         "number": 133,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "132"
     },
     {
         "card_name": "Evil's End",
         "number": 77,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "76"
     },
     {
         "card_name": "Circle of Transmutation",
         "number": 97,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "96"
     },
     {
         "card_name": "Crush Underfoot",
         "number": 111,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "110"
     },
     {
         "card_name": "Prelude to Invasion",
         "number": 128,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "127"
     },
     {
         "card_name": "Collector of Lost Things",
         "number": 134,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "133"
     },
     {
         "card_name": "Fold Up",
         "number": 78,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "77"
     },
     {
         "card_name": "Cloning Vat",
         "number": 98,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "97"
     },
     {
         "card_name": "Demonic Blessing",
         "number": 112,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "111"
     },
     {
         "card_name": "Tyrant of the Cliffs",
         "number": 129,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "128"
     },
     {
         "card_name": "Frost Channeler",
         "number": 135,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "134"
     },
     {
         "card_name": "Go Separate Ways",
         "number": 79,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "78"
     },
     {
         "card_name": "Don't Be Ridiculous!",
         "number": 99,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "98"
     },
     {
         "card_name": "Diabolic Machinations",
         "number": 113,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "112"
     },
     {
         "card_name": "Unexpexted Reunion",
         "number": 130,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "129"
     },
     {
         "card_name": "Gathmori Nomad",
         "number": 136,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "135"
     },
     {
         "card_name": "Gods' Ire",
         "number": 80,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "79"
     },
     {
         "card_name": "Envision",
         "number": 100,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "99"
     },
     {
         "card_name": "Evolved Manhunter",
         "number": 114,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "113"
     },
     {
         "card_name": "Worldbreaker's Oath",
         "number": 131,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "130"
     },
     {
         "card_name": "Grasping \u2014",
         "number": 137,
         "shape": "modal double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "136"
     },
     {
         "card_name": "Let Go",
         "number": 81,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "80"
     },
     {
         "card_name": "Mass Memory Wipe",
         "number": 101,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "100"
     },
     {
         "card_name": "False Love's Kiss",
         "number": 115,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "114"
     },
     {
         "card_name": "Cathartic Reunion",
         "number": 205,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "204"
     },
     {
         "card_name": "Living Equation",
         "number": 138,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "137"
     },
     {
         "card_name": "Miracle Fusion",
         "number": 82,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "81"
     },
     {
         "card_name": "Precognition Engine",
         "number": 102,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "101"
     },
     {
         "card_name": "Gone Too Soon",
         "number": 116,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "115"
     },
     {
         "card_name": "Life of the Party",
         "number": 206,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "205"
     },
     {
         "card_name": "On the House",
         "number": 139,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "138"
     },
     {
         "card_name": "Ontological Paradox",
         "number": 83,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "82"
     },
     {
         "card_name": "Run on Thin Air",
         "number": 103,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "102"
     },
     {
         "card_name": "Loose Ends",
         "number": 117,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "116"
     },
     {
         "card_name": "War Elemental",
         "number": 207,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "206"
     },
     {
         "card_name": "Paradoxical Architecture",
         "number": 140,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "139"
     },
     {
         "card_name": "Present the Ring",
         "number": 84,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "83"
     },
     {
         "card_name": "Ten Thousand Years",
         "number": 104,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "103"
     },
     {
         "card_name": "Nilpotence",
         "number": 118,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "117"
     },
     {
@@ -482,28 +482,28 @@
         "card_name": "Rebuild from Ruin",
         "number": 141,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "140"
     },
     {
         "card_name": "Soul Sisters",
         "number": 85,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "84"
     },
     {
         "card_name": "Thirst for Adventure",
         "number": 105,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "104"
     },
     {
         "card_name": "Not Strong Enough",
         "number": 119,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "118"
     },
     {
@@ -513,28 +513,28 @@
         "card_name": "Tyrant of the Woods",
         "number": 142,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "141"
     },
     {
         "card_name": "Sourdough Soldier",
         "number": 86,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "85"
     },
     {
         "card_name": "Thirst for Greatness",
         "number": 106,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "105"
     },
     {
         "card_name": "Pincing \u2014",
         "number": 120,
         "shape": "modal double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "119"
     },
     {
@@ -544,28 +544,28 @@
         "card_name": "Once Upon A Time",
         "number": 208,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "207"
     },
     {
         "card_name": "Stop the Fight",
         "number": 87,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "86"
     },
     {
         "card_name": "Tyrant of the Lakes",
         "number": 107,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "106"
     },
     {
         "card_name": "Soul Tether",
         "number": 121,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "120"
     },
     {
@@ -575,28 +575,28 @@
         "card_name": "Titan of Industry",
         "number": 209,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "208"
     },
     {
         "card_name": "Superhuman Reflexes",
         "number": 88,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "87"
     },
     {
         "card_name": "Void Rabbit",
         "number": 108,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "107"
     },
     {
         "card_name": "Soul Toxin",
         "number": 122,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "121"
     },
     {
@@ -609,21 +609,21 @@
         "card_name": "Synthetic Life",
         "number": 89,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "88"
     },
     {
         "card_name": "Aetherdynamics",
         "number": 200,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "199"
     },
     {
         "card_name": "Tyrant of the Moors",
         "number": 123,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "122"
     },
     {
@@ -636,21 +636,21 @@
         "card_name": "Tyrant of the Meadows",
         "number": 90,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "89"
     },
     {
         "card_name": "Clone",
         "number": 201,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "200"
     },
     {
         "card_name": "Desecration Elemental",
         "number": 204,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "203"
     },
     {
@@ -663,14 +663,14 @@
         "card_name": "Vanishing Point",
         "number": 91,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "90"
     },
     {
         "card_name": "Mulldrifter",
         "number": 202,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "201"
     },
     {
@@ -686,14 +686,14 @@
         "card_name": "Welcoming Entrance",
         "number": 92,
         "shape": "fuse split",
-        "set": "itc",
+        "set": "ITC",
         "position": "91"
     },
     {
         "card_name": "Westfield's Eidetic Memory",
         "number": 203,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "202"
     },
     {
@@ -709,7 +709,7 @@
         "card_name": "Flickerwisp",
         "number": 197,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "196"
     },
     {
@@ -728,7 +728,7 @@
         "card_name": "Happily Ever After",
         "number": 198,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "197"
     },
     {
@@ -747,7 +747,7 @@
         "card_name": "Wedding Ring",
         "number": 199,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "198"
     },
     {
@@ -779,77 +779,77 @@
         "card_name": "Astra F., Pata-Stronomer",
         "number": 15,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "14"
     },
     {
         "card_name": "The Stitcher",
         "number": 18,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "17"
     },
     {
         "card_name": "Vex Wilson, Death Witch",
         "number": 52,
         "shape": "adventure",
-        "set": "itc",
+        "set": "ITC",
         "position": "51"
     },
     {
         "card_name": "Rubber Annie, Ringmaster",
         "number": 19,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "18"
     },
     {
         "card_name": "Angela, Doomed Storyteller",
         "number": 20,
         "shape": "transform double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "19"
     },
     {
         "card_name": "Cedric, Alfheim Archmage",
         "number": 16,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "15"
     },
     {
         "card_name": "Cunning Manipulation",
         "number": 145,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "144"
     },
     {
         "card_name": "Scarmaker",
         "number": 146,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "145"
     },
     {
         "card_name": "Raye Sunlight, Flower Witch",
         "number": 53,
         "shape": "adventure",
-        "set": "itc",
+        "set": "ITC",
         "position": "52"
     },
     {
         "card_name": "Ivar, Supernaturalist",
         "number": 21,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "20"
     },
     {
         "card_name": "The Oracle",
         "number": 17,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "16"
     },
     {
@@ -859,7 +859,7 @@
         "card_name": "Watterson's Ambition",
         "number": 147,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "146"
     },
     {
@@ -869,14 +869,14 @@
         "card_name": "Jenny Everywhere",
         "number": 22,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "21"
     },
     {
         "card_name": "Kind Lee, Protection Witch",
         "number": 51,
         "shape": "adventure",
-        "set": "itc",
+        "set": "ITC",
         "position": "50"
     },
     {
@@ -892,14 +892,14 @@
         "card_name": "Confession of Love",
         "number": 148,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "147"
     },
     {
         "card_name": "Backdoor Access",
         "number": 143,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "142"
     },
     {
@@ -915,14 +915,14 @@
         "card_name": "Inspiring Survivor",
         "number": 149,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "148"
     },
     {
         "card_name": "Dragon Flock Leader",
         "number": 144,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "143"
     },
     {
@@ -938,14 +938,14 @@
         "card_name": "Twilight Rebirth",
         "number": 150,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "149"
     },
     {
         "card_name": "Winged \u2014",
         "number": 167,
         "shape": "modal double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "166"
     },
     {
@@ -979,49 +979,49 @@
         "card_name": "Jenny Nowhere",
         "number": 23,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "22"
     },
     {
         "card_name": "The Tixel Twins",
         "number": 24,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "23"
     },
     {
         "card_name": "Scarmender",
         "number": 155,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "154"
     },
     {
         "card_name": "Macedonian Sarissa",
         "number": 156,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "155"
     },
     {
         "card_name": "Attune to Reality",
         "number": 158,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "157"
     },
     {
         "card_name": "Pure Joyce, Helpful Witch",
         "number": 54,
         "shape": "adventure",
-        "set": "itc",
+        "set": "ITC",
         "position": "53"
     },
     {
         "card_name": "Watterson, Prodigy",
         "number": 25,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "24"
     },
     {
@@ -1031,28 +1031,28 @@
         "card_name": "Sunfire Dragon",
         "number": 157,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "156"
     },
     {
         "card_name": "Mask of Illusions",
         "number": 159,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "158"
     },
     {
         "card_name": "Destroying Angel",
         "number": 151,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "150"
     },
     {
         "card_name": "Henry F., Pata-Matician",
         "number": 55,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "54"
     },
     {
@@ -1065,7 +1065,7 @@
         "card_name": "Tentacled \u2014",
         "number": 166,
         "shape": "modal double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "165"
     },
     {
@@ -1075,7 +1075,7 @@
         "card_name": "Frostfire Weird",
         "number": 152,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "151"
     },
     {
@@ -1094,7 +1094,7 @@
         "card_name": "Game Knight",
         "number": 153,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "152"
     },
     {
@@ -1113,7 +1113,7 @@
         "card_name": "Marauder's Dragonship",
         "number": 154,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "153"
     },
     {
@@ -1132,7 +1132,7 @@
         "card_name": "Rematch",
         "number": 165,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "164"
     },
     {
@@ -1163,14 +1163,14 @@
         "card_name": "Detective Westfield",
         "number": 33,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "32"
     },
     {
         "card_name": "Ariel Vivelia",
         "number": 28,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "27"
     },
     {
@@ -1180,28 +1180,28 @@
         "card_name": "Granny, Combat Sage",
         "number": 35,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "34"
     },
     {
         "card_name": "Aarie Cedricsdottir",
         "number": 26,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "25"
     },
     {
         "card_name": "Old Man Loki",
         "number": 43,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "42"
     },
     {
         "card_name": "Reven Novano",
         "number": 45,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "44"
     },
     {
@@ -1211,28 +1211,28 @@
         "card_name": "Tyler, Tavern Keeper",
         "number": 49,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "48"
     },
     {
         "card_name": "Alfheim Armed Forces",
         "number": 27,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "26"
     },
     {
         "card_name": "Ronan, Head of Operations",
         "number": 47,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "46"
     },
     {
         "card_name": "Reven, the Showstopper",
         "number": 46,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "45"
     },
     {
@@ -1245,14 +1245,14 @@
         "card_name": "High King Vidar",
         "number": 37,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "36"
     },
     {
         "card_name": "Devourer of Hope",
         "number": 161,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "160"
     },
     {
@@ -1268,7 +1268,7 @@
         "card_name": "Madam Universe, Mayor",
         "number": 39,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "38"
     },
     {
@@ -1287,7 +1287,7 @@
         "card_name": "Vignette",
         "number": 164,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "163"
     },
     {
@@ -1309,14 +1309,14 @@
         "card_name": "Ashley, Alter Ego",
         "number": 29,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "28"
     },
     {
         "card_name": "Experiment 111, the Mimic",
         "number": 34,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "33"
     },
     {
@@ -1326,7 +1326,7 @@
         "card_name": "Castor and Pollux Dioscuri",
         "number": 31,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "30"
     },
     {
@@ -1336,7 +1336,7 @@
         "card_name": "AXS Harper",
         "number": 30,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "29"
     },
     {
@@ -1355,7 +1355,7 @@
         "card_name": "President Leonidas",
         "number": 44,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "43"
     },
     {
@@ -1389,77 +1389,77 @@
         "card_name": "Heracles, the Challenger",
         "number": 36,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "35"
     },
     {
         "card_name": "J.P. Watterson",
         "number": 38,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "37"
     },
     {
         "card_name": "Metatron, Machine God",
         "number": 40,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "39"
     },
     {
         "card_name": "Molly and Aarie, Newlywed",
         "number": 41,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "40"
     },
     {
         "card_name": "Noah, Freelance Alchemist",
         "number": 42,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "41"
     },
     {
         "card_name": "Avatar of Metatron",
         "number": 160,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "159"
     },
     {
         "card_name": "Metatron's Verdict",
         "number": 163,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "162"
     },
     {
         "card_name": "Cosmic Coronation",
         "number": 32,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "31"
     },
     {
         "card_name": "Spear of Destiny",
         "number": 48,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "47"
     },
     {
         "card_name": "Ubu Roi",
         "number": 50,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "49"
     },
     {
         "card_name": "Metapattern",
         "number": 162,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "161"
     },
     {
@@ -1491,189 +1491,189 @@
         "card_name": "I Contain Infinite Worlds",
         "number": 1,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "0"
     },
     {
         "card_name": "Blood Lotus",
         "number": 56,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "55"
     },
     {
         "card_name": "Hero's Tribute",
         "number": 57,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "56"
     },
     {
         "card_name": "The Morphblade",
         "number": 58,
         "shape": "planeswalker",
-        "set": "itc",
+        "set": "ITC",
         "position": "57"
     },
     {
         "card_name": "Mox Amethyst",
         "number": 59,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "58"
     },
     {
         "card_name": "The Philosopher's Stone",
         "number": 60,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "59"
     },
     {
         "card_name": "Children of the Worm",
         "number": 68,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "67"
     },
     {
         "card_name": "Fusion Tutoring",
         "number": 69,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "68"
     },
     {
         "card_name": "Homunculus Prototype",
         "number": 70,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "69"
     },
     {
         "card_name": "Leyline of Frost",
         "number": 71,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "70"
     },
     {
         "card_name": "Aetheric Resonator",
         "number": 168,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "167"
     },
     {
         "card_name": "Artist's Palette",
         "number": 169,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "168"
     },
     {
         "card_name": "Gathraxi Astroformer",
         "number": 170,
         "shape": "leveler",
-        "set": "itc",
+        "set": "ITC",
         "position": "169"
     },
     {
         "card_name": "Gathraxi Cosmoformer",
         "number": 171,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "170"
     },
     {
         "card_name": "Gathraxi Terraformer",
         "number": 172,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "171"
     },
     {
         "card_name": "Golden Apple",
         "number": 173,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "172"
     },
     {
         "card_name": "Map of the Multiverse",
         "number": 174,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "173"
     },
     {
         "card_name": "Satanas' Cellphone",
         "number": 175,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "174"
     },
     {
         "card_name": "Three-Sided Coin",
         "number": 176,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "175"
     },
     {
         "card_name": "Watterson's Panopticon",
         "number": 177,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "176"
     },
     {
         "card_name": "Weapons of Mass Production",
         "number": 178,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "177"
     },
     {
         "card_name": "Grandmaster Clock",
         "number": 194,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "193"
     },
     {
         "card_name": "Power Lines",
         "number": 195,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "194"
     },
     {
         "card_name": "Colossus Hammer",
         "number": 210,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "209"
     },
     {
         "card_name": "Crucible of Worlds",
         "number": 211,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "210"
     },
     {
         "card_name": "Hero's Engine",
         "number": 212,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "211"
     },
     {
         "card_name": "Thought Vessel",
         "number": 213,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "212"
     },
     {
@@ -1708,7 +1708,7 @@
         "card_name": "The Black Manor",
         "number": 61,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "60"
     },
     {
@@ -1727,7 +1727,7 @@
         "card_name": "Citadel of the Dread Bard",
         "number": 214,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "213"
     },
     {
@@ -1758,7 +1758,7 @@
         "card_name": "Mount Apollyon",
         "number": 63,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "62"
     },
     {
@@ -1771,7 +1771,7 @@
         "card_name": "Impassable Forest",
         "number": 196,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "195"
     },
     {
@@ -1793,140 +1793,140 @@
         "card_name": "The Imaginary Tavern",
         "number": 62,
         "shape": "adventure",
-        "set": "itc",
+        "set": "ITC",
         "position": "61"
     },
     {
         "card_name": "Mount King",
         "number": 64,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "63"
     },
     {
         "card_name": "Sapling of Yggdrasil",
         "number": 65,
         "shape": "transform double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "64"
     },
     {
         "card_name": "Tales from the Imaginary Tavern",
         "number": 66,
         "shape": "saga",
-        "set": "itc",
+        "set": "ITC",
         "position": "65"
     },
     {
         "card_name": "Yggdrasil, Corrupted",
         "number": 67,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "66"
     },
     {
         "card_name": "Active Warzone",
         "number": 179,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "178"
     },
     {
         "card_name": "Amber City",
         "number": 180,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "179"
     },
     {
         "card_name": "Amethyst City",
         "number": 181,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "180"
     },
     {
         "card_name": "Astral Nexus",
         "number": 182,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "181"
     },
     {
         "card_name": "Basalt Ruins",
         "number": 183,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "182"
     },
     {
         "card_name": "Chromatic Crossroads",
         "number": 184,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "183"
     },
     {
         "card_name": "Emerald City",
         "number": 185,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "184"
     },
     {
         "card_name": "Great Unknown",
         "number": 186,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "185"
     },
     {
         "card_name": "Militia Headquarters",
         "number": 187,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "186"
     },
     {
         "card_name": "Oddwyld Expanse",
         "number": 188,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "187"
     },
     {
         "card_name": "Opal City",
         "number": 189,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "188"
     },
     {
         "card_name": "Ordinary World",
         "number": 190,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "189"
     },
     {
         "card_name": "Refugee Camp",
         "number": 191,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "190"
     },
     {
         "card_name": "Twilight Cavern",
         "number": 192,
         "shape": "transform double faced",
-        "set": "itc",
+        "set": "ITC",
         "position": "191"
     },
     {
         "card_name": "Warp Stones",
         "number": 193,
         "shape": "normal",
-        "set": "itc",
+        "set": "ITC",
         "position": "192"
     },
     {
