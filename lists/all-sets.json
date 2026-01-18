@@ -4,6 +4,11 @@
             "set_code": "ITC",
             "set_name": "ITC The Box 01",
             "formats": ""
+        },
+        {
+            "set_code": "SN01",
+            "set_name": "Season 01: Tavern",
+            "formats": "Main Story"
         }
     ]
 }

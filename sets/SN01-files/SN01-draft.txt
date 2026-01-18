@@ -1,0 +1,148 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Abrupt End",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Callous Betrayal",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Cathartic Reunion",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Chased by Wolves",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Falling Out",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "False Love's Kiss",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Gone Too Soon",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "On the House",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Once Upon A Time",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Stop the Fight",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "The Hero's Bride",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "The Imaginary Tavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Tyler, Tavern Keeper",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/SN01-files/img/12.jpg"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Abrupt End
+	1 Callous Betrayal
+	1 Cathartic Reunion
+	1 Chased by Wolves
+	1 Falling Out
+	1 False Love's Kiss
+	1 Gone Too Soon
+	1 On the House
+	1 Once Upon A Time
+	1 Stop the Fight
+	1 The Hero's Bride
+	1 The Imaginary Tavern
+	1 Tyler, Tavern Keeper
