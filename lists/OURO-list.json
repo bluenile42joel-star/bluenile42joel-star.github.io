@@ -1,0 +1,52 @@
+﻿[
+    {
+        "card_name": "Forest",
+        "number": 5,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "0"
+    },
+    {
+        "card_name": "Island",
+        "number": 2,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "1"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 4,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "2"
+    },
+    {
+        "card_name": "Plains",
+        "number": 1,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "3"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 3,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "4"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
