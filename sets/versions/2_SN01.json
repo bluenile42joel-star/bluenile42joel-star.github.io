@@ -1,7 +1,7 @@
 ﻿{
     "name": "Tales from the Imaginary Tavern",
     "formats": "Main Story",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -108,6 +108,5 @@
             "position": "4",
             "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
         }
-    ],
-    "version": 2
+    ]
 }

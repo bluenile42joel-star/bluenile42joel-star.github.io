@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Tales from the Imaginary Tavern</title>
-  <link rel="icon" type="image/x-icon" href="/sets/SN01-files/icon.png">
+  <title>Ouroboros: Inside</title>
+  <link rel="icon" type="image/x-icon" href="/sets/OURO-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
   <link rel="stylesheet" href="/resources/card-text.css">
@@ -312,10 +312,10 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="/sets/SN01-files/icon.png">
+				<img class="set-logo" src="/sets/OURO-files/icon.png">
 				<div class="banner-text">
-					<div class="set-title">Tales from the Imaginary Tavern</div>
-					<div class="extras-container"><a href="/sets/SN01-files/SN01-draft.txt" download>Draft</a><div class="dot"> • </div>
+					<div class="set-title">Ouroboros: Inside</div>
+					<div class="extras-container"><a href="/sets/OURO-files/OURO-draft.txt" download>Draft</a><div class="dot"> • </div>
 			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
 			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
 				</div>
@@ -375,7 +375,7 @@
 				card_list_arrayified = card_list.cards;
 
 
-			await fetch('/sets/SN01-files/SN01-draft.txt')
+			await fetch('/sets/OURO-files/OURO-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -385,7 +385,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "SN01")
+				if (card_list_arrayified[i].set == "OURO")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -1195,7 +1195,7 @@
 			let set_card_list = [];
 			for (card of card_list_arrayified)
 			{
-				if (card.set == "SN01")
+				if (card.set == "OURO")
 				{
 					set_card_list.push(card);
 				}

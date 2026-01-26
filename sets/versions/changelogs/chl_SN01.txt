@@ -1,4 +1,23 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Abrupt End removed.
+Callous Betrayal removed.
+Cathartic Reunion removed.
+Chased by Wolves removed.
+Falling Out removed.
+False Love's Kiss removed.
+Gone Too Soon removed.
+On the House removed.
+Once Upon A Time removed.
+Stop the Fight removed.
+The Hero's Bride removed.
+The Imaginary Tavern removed.
+Tyler, Tavern Keeper removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

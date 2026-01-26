@@ -1,13 +1,13 @@
 ﻿{
     "sets": [
         {
-            "set_code": "ITC",
-            "set_name": "ITC The Box 01",
-            "formats": ""
+            "set_code": "OURO",
+            "set_name": "Ouroboros: Inside",
+            "formats": "Imaginary Worlds"
         },
         {
             "set_code": "SN01",
-            "set_name": "Season 01: Tavern",
+            "set_name": "Tales from the Imaginary Tavern",
             "formats": "Main Story"
         }
     ]
