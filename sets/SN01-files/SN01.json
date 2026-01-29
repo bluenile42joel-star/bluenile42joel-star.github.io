@@ -1,6 +1,6 @@
 ﻿{
     "name": "Tales from the Imaginary Tavern",
-    "formats": "Main Story",
+    "formats": "",
     "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "draft booster",
@@ -26,7 +26,7 @@
             "artist": "JaeCheol Park",
             "alias": "",
             "position": "0",
-            "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
         },
         {
             "card_name": "Island",
@@ -46,7 +46,7 @@
             "artist": "Vladimir Mokry",
             "alias": "",
             "position": "1",
-            "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
         },
         {
             "card_name": "Swamp",
@@ -66,7 +66,7 @@
             "artist": "Liliya Shaifulina",
             "alias": "",
             "position": "2",
-            "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
         },
         {
             "card_name": "Mountain",
@@ -86,7 +86,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "3",
-            "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
         },
         {
             "card_name": "Forest",
@@ -106,8 +106,8 @@
             "artist": "Lucas Staniec",
             "alias": "",
             "position": "4",
-            "notes": "Cycle-Basic-SN01\nLore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
         }
     ],
-    "version": 2
+    "version": 3
 }

@@ -1,11 +1,11 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Forest",
+			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "5",
+			"type": "Basic Land — Plains",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/0.jpg"
 			}
@@ -21,31 +21,31 @@
 			}
 		},
 		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/2.jpg"
+			}
+		},
+		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/2.jpg"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "1",
-			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/3.jpg"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "3",
+			"type": "Basic Land — Forest",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/4.jpg"
 			}

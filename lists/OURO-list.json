@@ -1,7 +1,7 @@
 ﻿[
     {
-        "card_name": "Forest",
-        "number": 5,
+        "card_name": "Plains",
+        "number": 1,
         "shape": "normal",
         "set": "OURO",
         "position": "0"
@@ -14,22 +14,22 @@
         "position": "1"
     },
     {
-        "card_name": "Mountain",
-        "number": 4,
+        "card_name": "Swamp",
+        "number": 3,
         "shape": "normal",
         "set": "OURO",
         "position": "2"
     },
     {
-        "card_name": "Plains",
-        "number": 1,
+        "card_name": "Mountain",
+        "number": 4,
         "shape": "normal",
         "set": "OURO",
         "position": "3"
     },
     {
-        "card_name": "Swamp",
-        "number": 3,
+        "card_name": "Forest",
+        "number": 5,
         "shape": "normal",
         "set": "OURO",
         "position": "4"

@@ -1,6 +1,6 @@
 ﻿{
     "name": "Ouroboros: Inside",
-    "formats": "Imaginary Worlds",
+    "formats": "",
     "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "draft booster",
@@ -9,12 +9,12 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": "Forest",
+            "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
-            "number": 5,
-            "color_identity": "G",
+            "type": "Basic Land \u2014 Plains",
+            "number": 1,
+            "color_identity": "W",
             "cost": "",
             "rules_text": "",
             "flavor_text": "[i][/i]",
@@ -26,7 +26,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "0",
-            "notes": "Cycle-Basic-OURO\nLore-World-Ouroboros"
+            "notes": "Design-LL-Basic-OURO\n!tag:Lore-World-Ouroboros"
         },
         {
             "card_name": "Island",
@@ -46,47 +46,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "1",
-            "notes": "Cycle-Basic-OURO\nLore-World-Ouroboros"
-        },
-        {
-            "card_name": "Mountain",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
-            "number": 4,
-            "color_identity": "R",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "OURO",
-            "loyalty": "",
-            "artist": "Hato Tsuki",
-            "alias": "",
-            "position": "2",
-            "notes": "Cycle-Basic-OURO\nLore-World-Ouroboros"
-        },
-        {
-            "card_name": "Plains",
-            "color": "",
-            "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
-            "number": 1,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "OURO",
-            "loyalty": "",
-            "artist": "Hato Tsuki",
-            "alias": "",
-            "position": "3",
-            "notes": "Cycle-Basic-OURO\nLore-World-Ouroboros"
+            "notes": "Design-LL-Basic-OURO\n!tag:Lore-World-Ouroboros"
         },
         {
             "card_name": "Swamp",
@@ -105,9 +65,49 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
+            "position": "2",
+            "notes": "Design-LL-Basic-OURO\n!tag:Lore-World-Ouroboros"
+        },
+        {
+            "card_name": "Mountain",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Mountain",
+            "number": 4,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "OURO",
+            "loyalty": "",
+            "artist": "Hato Tsuki",
+            "alias": "",
+            "position": "3",
+            "notes": "Design-LL-Basic-OURO\n!tag:Lore-World-Ouroboros"
+        },
+        {
+            "card_name": "Forest",
+            "color": "",
+            "rarity": "common",
+            "type": "Basic Land \u2014 Forest",
+            "number": 5,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "OURO",
+            "loyalty": "",
+            "artist": "Hato Tsuki",
+            "alias": "",
             "position": "4",
-            "notes": "Cycle-Basic-OURO\nLore-World-Ouroboros"
+            "notes": "Design-LL-Basic-OURO\n!tag:Lore-World-Ouroboros"
         }
     ],
-    "version": 2
+    "version": 3
 }
