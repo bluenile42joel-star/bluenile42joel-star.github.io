@@ -1,39 +1,5 @@
 ﻿[
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Forest 2",
-        "number": 5,
-        "shape": "normal",
-        "set": "OURO",
-        "position": "4"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
         "card_name": "Plains",
         "number": 1,
         "shape": "normal",
@@ -62,7 +28,11 @@
         "position": "3"
     },
     {
-        "card_name": "e"
+        "card_name": "Forest",
+        "number": 5,
+        "shape": "normal",
+        "set": "OURO",
+        "position": "4"
     },
     {
         "card_name": "er"

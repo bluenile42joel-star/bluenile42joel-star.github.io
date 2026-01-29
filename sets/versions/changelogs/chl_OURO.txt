@@ -1,4 +1,11 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Forest 2 removed.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Forest 2 added.

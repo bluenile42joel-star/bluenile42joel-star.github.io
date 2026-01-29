@@ -41,10 +41,10 @@
 			}
 		},
 		{
-			"name": "Forest 2",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Forest",
+			"type": "Basic Land — Forest",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/OURO-files/img/4.jpg"
@@ -55,4 +55,3 @@
 [rare(1)]
 [uncommon(3)]
 [common(10)]
-	5 Forest 2
