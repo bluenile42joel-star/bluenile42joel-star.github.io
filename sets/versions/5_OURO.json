@@ -89,10 +89,10 @@
             "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros"
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest 2",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Land \u2014 Forest",
             "number": 5,
             "color_identity": "G",
             "cost": "",
