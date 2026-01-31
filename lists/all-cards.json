@@ -18,7 +18,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "0",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag Lore-World-Ouroboros\n!tag<world> Ouroboros",
+            "notes": "!tag Lore-World-Ouroboros\n!tag<world> Ouroboros\n\nDesign-LL-Basic-OURO\nLore-World-Ouroboros\n\n",
             "image_type": "jpg",
             "v_mana": ""
         },
