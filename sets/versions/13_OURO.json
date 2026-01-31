@@ -26,7 +26,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "0",
-            "notes": "!tag Lore-World-Ouroboros\n!tag<world> Ouroboros\nDesign-LL-Basic-OURO\nLore-World-Ouroboros"
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag Lore-World-Ouroboros\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Island",
