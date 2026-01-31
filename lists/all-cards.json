@@ -18,7 +18,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "0",
-            "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros",
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -40,7 +40,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "1",
-            "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros",
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -62,7 +62,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "2",
-            "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros",
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -84,7 +84,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "3",
-            "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros",
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -106,7 +106,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "4",
-            "notes": "Design-LL-Basic-OURO\n!tag Lore-World-Ouroboros",
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -128,7 +128,7 @@
             "artist": "JaeCheol Park",
             "alias": "",
             "position": "0",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern",
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -150,7 +150,7 @@
             "artist": "Vladimir Mokry",
             "alias": "",
             "position": "1",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern",
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -172,7 +172,7 @@
             "artist": "Liliya Shaifulina",
             "alias": "",
             "position": "2",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern",
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -194,7 +194,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "3",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern",
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -216,7 +216,7 @@
             "artist": "Lucas Staniec",
             "alias": "",
             "position": "4",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern",
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern",
             "image_type": "jpg",
             "v_mana": ""
         }

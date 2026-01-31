@@ -26,7 +26,7 @@
             "artist": "JaeCheol Park",
             "alias": "",
             "position": "0",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern"
         },
         {
             "card_name": "Island",
@@ -46,7 +46,7 @@
             "artist": "Vladimir Mokry",
             "alias": "",
             "position": "1",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern"
         },
         {
             "card_name": "Swamp",
@@ -66,7 +66,7 @@
             "artist": "Liliya Shaifulina",
             "alias": "",
             "position": "2",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern"
         },
         {
             "card_name": "Mountain",
@@ -86,7 +86,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "3",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern"
         },
         {
             "card_name": "Forest",
@@ -106,7 +106,7 @@
             "artist": "Lucas Staniec",
             "alias": "",
             "position": "4",
-            "notes": "Design-LL-Basic-SN01\n!tag:Lore-Faction-Tavern"
+            "notes": "Design-LL-Basic-SN01\nLore-Faction-Tavern\n\n!tag<faction> Tavern"
         }
     ]
 }
