@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/COTD-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>COTD visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/COTD-files/logo.png" />
+	<img class="preload-hidden" src="/sets/SN01-files/icon.png" />
+		<img class="preload-hidden" src="/sets/OURO-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="COTD"><img src="/sets/COTD-files/icon.png">Card of the Day</a>
+	
+		<a class="set-bar inactive" href="SN01"><img src="/sets/SN01-files/icon.png">Tales from the Imaginary Tavern</a>
+	
+		<a class="set-bar inactive" href="OURO"><img src="/sets/OURO-files/icon.png">Ouroboros: Inside</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/COTD-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\8.jpg" id="8" data-flag="@X" onclick="openSidebar('8',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\43.jpg" id="43" data-flag="@X" onclick="openSidebar('43',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\65.jpg" id="65" data-flag="@X" onclick="openSidebar('65',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\86.jpg" id="86" data-flag="@X" onclick="openSidebar('86',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\102.jpg" id="102" data-flag="@X" onclick="openSidebar('102',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\9.jpg" id="9" data-flag="@X" onclick="openSidebar('9',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\44.jpg" id="44" data-flag="@X" onclick="openSidebar('44',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\66.jpg" id="66" data-flag="@X" onclick="openSidebar('66',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\87.jpg" id="87" data-flag="@X" onclick="openSidebar('87',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\103.jpg" id="103" data-flag="@X" onclick="openSidebar('103',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\10.jpg" id="10" data-flag="@X" onclick="openSidebar('10',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\45.jpg" id="45" data-flag="@X" onclick="openSidebar('45',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\67.jpg" id="67" data-flag="@X" onclick="openSidebar('67',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\88.jpg" id="88" data-flag="@X" onclick="openSidebar('88',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\104.jpg" id="104" data-flag="@X" onclick="openSidebar('104',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\11.jpg" id="11" data-flag="@X" onclick="openSidebar('11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\46.jpg" id="46" data-flag="@X" onclick="openSidebar('46',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\68.jpg" id="68" data-flag="@X" onclick="openSidebar('68',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\89.jpg" id="89" data-flag="@X" onclick="openSidebar('89',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\105.jpg" id="105" data-flag="@X" onclick="openSidebar('105',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\12.jpg" id="12" data-flag="@X" onclick="openSidebar('12',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\47.jpg" id="47" data-flag="@X" onclick="openSidebar('47',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\69.jpg" id="69" data-flag="@X" onclick="openSidebar('69',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\90.jpg" id="90" data-flag="@X" onclick="openSidebar('90',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\106.jpg" id="106" data-flag="@X" onclick="openSidebar('106',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\13.jpg" id="13" data-flag="@X" onclick="openSidebar('13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\48.jpg" id="48" data-flag="@X" onclick="openSidebar('48',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\70.jpg" id="70" data-flag="@X" onclick="openSidebar('70',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\91.jpg" id="91" data-flag="@X" onclick="openSidebar('91',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\107.jpg" id="107" data-flag="@X" onclick="openSidebar('107',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\16.jpg" id="16" data-flag="@X" onclick="openSidebar('16',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\49.jpg" id="49" data-flag="@X" onclick="openSidebar('49',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\71.jpg" id="71" data-flag="@X" onclick="openSidebar('71',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\92.jpg" id="92" data-flag="@X" onclick="openSidebar('92',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\108.jpg" id="108" data-flag="@X" onclick="openSidebar('108',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\17.jpg" id="17" data-flag="@X" onclick="openSidebar('17',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\50.jpg" id="50" data-flag="@X" onclick="openSidebar('50',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\72.jpg" id="72" data-flag="@X" onclick="openSidebar('72',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\93.jpg" id="93" data-flag="@X" onclick="openSidebar('93',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\109.jpg" id="109" data-flag="@X" onclick="openSidebar('109',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\18.jpg" id="18" data-flag="@X" onclick="openSidebar('18',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\51.jpg" id="51" data-flag="@X" onclick="openSidebar('51',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\73.jpg" id="73" data-flag="@X" onclick="openSidebar('73',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\94.jpg" id="94" data-flag="@X" onclick="openSidebar('94',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\110.jpg" id="110" data-flag="@X" onclick="openSidebar('110',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\19.jpg" id="19" data-flag="@X" onclick="openSidebar('19',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\52.jpg" id="52" data-flag="@X" onclick="openSidebar('52',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\74.jpg" id="74" data-flag="@X" onclick="openSidebar('74',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\95.jpg" id="95" data-flag="@X" onclick="openSidebar('95',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\111_back.jpg" alt="/sets\COTD-files\img\111_front.jpg" id="111" data-flag="@XD" onclick="openSidebar('111',false)"><button class="flip-btn" onclick="imgFlip('111')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\20.jpg" id="20" data-flag="@X" onclick="openSidebar('20',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\53.jpg" id="53" data-flag="@X" onclick="openSidebar('53',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\75.jpg" id="75" data-flag="@X" onclick="openSidebar('75',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\96.jpg" id="96" data-flag="@X" onclick="openSidebar('96',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\112.jpg" id="112" data-flag="@X" onclick="openSidebar('112',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\21.jpg" id="21" data-flag="@X" onclick="openSidebar('21',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\54.jpg" id="54" data-flag="@X" onclick="openSidebar('54',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\76.jpg" id="76" data-flag="@X" onclick="openSidebar('76',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\97.jpg" id="97" data-flag="@X" onclick="openSidebar('97',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\113.jpg" id="113" data-flag="@X" onclick="openSidebar('113',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\22.jpg" id="22" data-flag="@X" onclick="openSidebar('22',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\55.jpg" id="55" data-flag="@X" onclick="openSidebar('55',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\77.jpg" id="77" data-flag="@X" onclick="openSidebar('77',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\98.jpg" id="98" data-flag="@X" onclick="openSidebar('98',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\114.jpg" id="114" data-flag="@X" onclick="openSidebar('114',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\23.jpg" id="23" data-flag="@X" onclick="openSidebar('23',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\56.jpg" id="56" data-flag="@X" onclick="openSidebar('56',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\78_back.jpg" alt="/sets\COTD-files\img\78_front.jpg" id="78" data-flag="@XD" onclick="openSidebar('78',false)"><button class="flip-btn" onclick="imgFlip('78')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\99.jpg" id="99" data-flag="@X" onclick="openSidebar('99',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\115.jpg" id="115" data-flag="@X" onclick="openSidebar('115',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\24.jpg" id="24" data-flag="@X" onclick="openSidebar('24',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\57.jpg" id="57" data-flag="@X" onclick="openSidebar('57',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\79.jpg" id="79" data-flag="@X" onclick="openSidebar('79',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\100.jpg" id="100" data-flag="@X" onclick="openSidebar('100',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\116.jpg" id="116" data-flag="@X" onclick="openSidebar('116',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\25.jpg" id="25" data-flag="@X" onclick="openSidebar('25',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\58.jpg" id="58" data-flag="@X" onclick="openSidebar('58',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\80.jpg" id="80" data-flag="@X" onclick="openSidebar('80',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\101.jpg" id="101" data-flag="@X" onclick="openSidebar('101',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\117.jpg" id="117" data-flag="@X" onclick="openSidebar('117',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\26.jpg" id="26" data-flag="@X" onclick="openSidebar('26',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\59.jpg" id="59" data-flag="@X" onclick="openSidebar('59',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\81.jpg" id="81" data-flag="@X" onclick="openSidebar('81',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\373.jpg" id="373" data-flag="@X" onclick="openSidebar('373',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\119.jpg" id="119" data-flag="@X" onclick="openSidebar('119',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\29.jpg" id="29" data-flag="@X" onclick="openSidebar('29',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\60.jpg" id="60" data-flag="@X" onclick="openSidebar('60',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\82.jpg" id="82" data-flag="@X" onclick="openSidebar('82',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\374.jpg" id="374" data-flag="@X" onclick="openSidebar('374',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\120.jpg" id="120" data-flag="@X" onclick="openSidebar('120',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\30.jpg" id="30" data-flag="@X" onclick="openSidebar('30',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\61.jpg" id="61" data-flag="@X" onclick="openSidebar('61',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\83.jpg" id="83" data-flag="@X" onclick="openSidebar('83',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\375.jpg" id="375" data-flag="@X" onclick="openSidebar('375',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\121.jpg" id="121" data-flag="@X" onclick="openSidebar('121',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\31.jpg" id="31" data-flag="@X" onclick="openSidebar('31',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\62.jpg" id="62" data-flag="@X" onclick="openSidebar('62',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\84.jpg" id="84" data-flag="@X" onclick="openSidebar('84',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\376.jpg" id="376" data-flag="@X" onclick="openSidebar('376',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\122.jpg" id="122" data-flag="@X" onclick="openSidebar('122',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\32.jpg" id="32" data-flag="@X" onclick="openSidebar('32',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\63.jpg" id="63" data-flag="@X" onclick="openSidebar('63',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\85.jpg" id="85" data-flag="@X" onclick="openSidebar('85',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\377.jpg" id="377" data-flag="@X" onclick="openSidebar('377',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\123.jpg" id="123" data-flag="@X" onclick="openSidebar('123',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\33.jpg" id="33" data-flag="@X" onclick="openSidebar('33',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\64.jpg" id="64" data-flag="@X" onclick="openSidebar('64',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\352.jpg" id="352" data-flag="@X" onclick="openSidebar('352',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\378_back.jpg" alt="/sets\COTD-files\img\378_front.jpg" id="378" data-flag="@XD" onclick="openSidebar('378',false)"><button class="flip-btn" onclick="imgFlip('378')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\124.jpg" id="124" data-flag="@X" onclick="openSidebar('124',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\34.jpg" id="34" data-flag="@X" onclick="openSidebar('34',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\305.jpg" id="305" data-flag="@X" onclick="openSidebar('305',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\353.jpg" id="353" data-flag="@X" onclick="openSidebar('353',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\379.jpg" id="379" data-flag="@X" onclick="openSidebar('379',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\125.jpg" id="125" data-flag="@X" onclick="openSidebar('125',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\35.jpg" id="35" data-flag="@X" onclick="openSidebar('35',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\306.jpg" id="306" data-flag="@X" onclick="openSidebar('306',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\354.jpg" id="354" data-flag="@X" onclick="openSidebar('354',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\380.jpg" id="380" data-flag="@X" onclick="openSidebar('380',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\126.jpg" id="126" data-flag="@X" onclick="openSidebar('126',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\36.jpg" id="36" data-flag="@X" onclick="openSidebar('36',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\307.jpg" id="307" data-flag="@X" onclick="openSidebar('307',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\355.jpg" id="355" data-flag="@X" onclick="openSidebar('355',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\381.jpg" id="381" data-flag="@X" onclick="openSidebar('381',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\400.jpg" id="400" data-flag="@X" onclick="openSidebar('400',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\37.jpg" id="37" data-flag="@X" onclick="openSidebar('37',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\308.jpg" id="308" data-flag="@X" onclick="openSidebar('308',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\356.jpg" id="356" data-flag="@X" onclick="openSidebar('356',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\382.jpg" id="382" data-flag="@X" onclick="openSidebar('382',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\401.jpg" id="401" data-flag="@X" onclick="openSidebar('401',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\38.jpg" id="38" data-flag="@X" onclick="openSidebar('38',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\309.jpg" id="309" data-flag="@X" onclick="openSidebar('309',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\357.jpg" id="357" data-flag="@X" onclick="openSidebar('357',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\383.jpg" id="383" data-flag="@X" onclick="openSidebar('383',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\402.jpg" id="402" data-flag="@X" onclick="openSidebar('402',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\39.jpg" id="39" data-flag="@X" onclick="openSidebar('39',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\310.jpg" id="310" data-flag="@X" onclick="openSidebar('310',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\358.jpg" id="358" data-flag="@X" onclick="openSidebar('358',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\384.jpg" id="384" data-flag="@X" onclick="openSidebar('384',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\403.jpg" id="403" data-flag="@X" onclick="openSidebar('403',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\40.jpg" id="40" data-flag="@X" onclick="openSidebar('40',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\311.jpg" id="311" data-flag="@X" onclick="openSidebar('311',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\359.jpg" id="359" data-flag="@X" onclick="openSidebar('359',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\385.jpg" id="385" data-flag="@X" onclick="openSidebar('385',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\404.jpg" id="404" data-flag="@X" onclick="openSidebar('404',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\41.jpg" id="41" data-flag="@X" onclick="openSidebar('41',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\312.jpg" id="312" data-flag="@X" onclick="openSidebar('312',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\360.jpg" id="360" data-flag="@X" onclick="openSidebar('360',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\386.jpg" id="386" data-flag="@X" onclick="openSidebar('386',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\405.jpg" id="405" data-flag="@X" onclick="openSidebar('405',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\42.jpg" id="42" data-flag="@X" onclick="openSidebar('42',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\313.jpg" id="313" data-flag="@X" onclick="openSidebar('313',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\361.jpg" id="361" data-flag="@X" onclick="openSidebar('361',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\387.jpg" id="387" data-flag="@X" onclick="openSidebar('387',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\406.jpg" id="406" data-flag="@X" onclick="openSidebar('406',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\276.jpg" id="276" data-flag="@X" onclick="openSidebar('276',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\314.jpg" id="314" data-flag="@X" onclick="openSidebar('314',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\362.jpg" id="362" data-flag="@X" onclick="openSidebar('362',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\388.jpg" id="388" data-flag="@X" onclick="openSidebar('388',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\407.jpg" id="407" data-flag="@X" onclick="openSidebar('407',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\277.jpg" id="277" data-flag="@X" onclick="openSidebar('277',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\315.jpg" id="315" data-flag="@X" onclick="openSidebar('315',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\363.jpg" id="363" data-flag="@X" onclick="openSidebar('363',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\389.jpg" id="389" data-flag="@X" onclick="openSidebar('389',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\408.jpg" id="408" data-flag="@X" onclick="openSidebar('408',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\278.jpg" id="278" data-flag="@X" onclick="openSidebar('278',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\316.jpg" id="316" data-flag="@X" onclick="openSidebar('316',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\364.jpg" id="364" data-flag="@X" onclick="openSidebar('364',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\390.jpg" id="390" data-flag="@X" onclick="openSidebar('390',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\409.jpg" id="409" data-flag="@X" onclick="openSidebar('409',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\279.jpg" id="279" data-flag="@X" onclick="openSidebar('279',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\317.jpg" id="317" data-flag="@X" onclick="openSidebar('317',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\365.jpg" id="365" data-flag="@X" onclick="openSidebar('365',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\391.jpg" id="391" data-flag="@X" onclick="openSidebar('391',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\410.jpg" id="410" data-flag="@X" onclick="openSidebar('410',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\280.jpg" id="280" data-flag="@X" onclick="openSidebar('280',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\318.jpg" id="318" data-flag="@X" onclick="openSidebar('318',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\366.jpg" id="366" data-flag="@X" onclick="openSidebar('366',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\392.jpg" id="392" data-flag="@X" onclick="openSidebar('392',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\411.jpg" id="411" data-flag="@X" onclick="openSidebar('411',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\281.jpg" id="281" data-flag="@X" onclick="openSidebar('281',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\319.jpg" id="319" data-flag="@X" onclick="openSidebar('319',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\367.jpg" id="367" data-flag="@X" onclick="openSidebar('367',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\393.jpg" id="393" data-flag="@X" onclick="openSidebar('393',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\412.jpg" id="412" data-flag="@X" onclick="openSidebar('412',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\282.jpg" id="282" data-flag="@X" onclick="openSidebar('282',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\321.jpg" id="321" data-flag="@X" onclick="openSidebar('321',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\368.jpg" id="368" data-flag="@X" onclick="openSidebar('368',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\394.jpg" id="394" data-flag="@X" onclick="openSidebar('394',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\413.jpg" id="413" data-flag="@X" onclick="openSidebar('413',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\283.jpg" id="283" data-flag="@X" onclick="openSidebar('283',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\322.jpg" id="322" data-flag="@X" onclick="openSidebar('322',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\369.jpg" id="369" data-flag="@X" onclick="openSidebar('369',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\395.jpg" id="395" data-flag="@X" onclick="openSidebar('395',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\414.jpg" id="414" data-flag="@X" onclick="openSidebar('414',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\284.jpg" id="284" data-flag="@X" onclick="openSidebar('284',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\323.jpg" id="323" data-flag="@X" onclick="openSidebar('323',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\370.jpg" id="370" data-flag="@X" onclick="openSidebar('370',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\396.jpg" id="396" data-flag="@X" onclick="openSidebar('396',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\415.jpg" id="415" data-flag="@X" onclick="openSidebar('415',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\285.jpg" id="285" data-flag="@X" onclick="openSidebar('285',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\324.jpg" id="324" data-flag="@X" onclick="openSidebar('324',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\371.jpg" id="371" data-flag="@X" onclick="openSidebar('371',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\397.jpg" id="397" data-flag="@X" onclick="openSidebar('397',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\416.jpg" id="416" data-flag="@X" onclick="openSidebar('416',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\286.jpg" id="286" data-flag="@X" onclick="openSidebar('286',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\325.jpg" id="325" data-flag="@X" onclick="openSidebar('325',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\372.jpg" id="372" data-flag="@X" onclick="openSidebar('372',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\398.jpg" id="398" data-flag="@X" onclick="openSidebar('398',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\417.jpg" id="417" data-flag="@X" onclick="openSidebar('417',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\287.jpg" id="287" data-flag="@X" onclick="openSidebar('287',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\326.jpg" id="326" data-flag="@X" onclick="openSidebar('326',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\586.jpg" id="586" data-flag="@X" onclick="openSidebar('586',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\399.jpg" id="399" data-flag="@X" onclick="openSidebar('399',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\418.jpg" id="418" data-flag="@X" onclick="openSidebar('418',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\288.jpg" id="288" data-flag="@X" onclick="openSidebar('288',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\327.jpg" id="327" data-flag="@X" onclick="openSidebar('327',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\587.jpg" id="587" data-flag="@X" onclick="openSidebar('587',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\419.jpg" id="419" data-flag="@X" onclick="openSidebar('419',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\289.jpg" id="289" data-flag="@X" onclick="openSidebar('289',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\328.jpg" id="328" data-flag="@X" onclick="openSidebar('328',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\420.jpg" id="420" data-flag="@X" onclick="openSidebar('420',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\290.jpg" id="290" data-flag="@X" onclick="openSidebar('290',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\329.jpg" id="329" data-flag="@X" onclick="openSidebar('329',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\421.jpg" id="421" data-flag="@X" onclick="openSidebar('421',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\291.jpg" id="291" data-flag="@X" onclick="openSidebar('291',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\330.jpg" id="330" data-flag="@X" onclick="openSidebar('330',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\422.jpg" id="422" data-flag="@X" onclick="openSidebar('422',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\292.jpg" id="292" data-flag="@X" onclick="openSidebar('292',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\331.jpg" id="331" data-flag="@X" onclick="openSidebar('331',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\423.jpg" id="423" data-flag="@X" onclick="openSidebar('423',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\293.jpg" id="293" data-flag="@X" onclick="openSidebar('293',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\332.jpg" id="332" data-flag="@X" onclick="openSidebar('332',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\424.jpg" id="424" data-flag="@X" onclick="openSidebar('424',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\294.jpg" id="294" data-flag="@X" onclick="openSidebar('294',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\333.jpg" id="333" data-flag="@X" onclick="openSidebar('333',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\425.jpg" id="425" data-flag="@X" onclick="openSidebar('425',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\295.jpg" id="295" data-flag="@X" onclick="openSidebar('295',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\334.jpg" id="334" data-flag="@X" onclick="openSidebar('334',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\426.jpg" id="426" data-flag="@X" onclick="openSidebar('426',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\296.jpg" id="296" data-flag="@X" onclick="openSidebar('296',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\335.jpg" id="335" data-flag="@X" onclick="openSidebar('335',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\427.jpg" id="427" data-flag="@X" onclick="openSidebar('427',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\297.jpg" id="297" data-flag="@X" onclick="openSidebar('297',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\336.jpg" id="336" data-flag="@X" onclick="openSidebar('336',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\428.jpg" id="428" data-flag="@X" onclick="openSidebar('428',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\298.jpg" id="298" data-flag="@X" onclick="openSidebar('298',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\337.jpg" id="337" data-flag="@X" onclick="openSidebar('337',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\429.jpg" id="429" data-flag="@X" onclick="openSidebar('429',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\299.jpg" id="299" data-flag="@X" onclick="openSidebar('299',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\338.jpg" id="338" data-flag="@X" onclick="openSidebar('338',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\430.jpg" id="430" data-flag="@X" onclick="openSidebar('430',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\300.jpg" id="300" data-flag="@X" onclick="openSidebar('300',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\339.jpg" id="339" data-flag="@X" onclick="openSidebar('339',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\431.jpg" id="431" data-flag="@X" onclick="openSidebar('431',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\301.jpg" id="301" data-flag="@X" onclick="openSidebar('301',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\340.jpg" id="340" data-flag="@X" onclick="openSidebar('340',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\432.jpg" id="432" data-flag="@X" onclick="openSidebar('432',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\302.jpg" id="302" data-flag="@X" onclick="openSidebar('302',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\341.jpg" id="341" data-flag="@X" onclick="openSidebar('341',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\433.jpg" id="433" data-flag="@X" onclick="openSidebar('433',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\303.jpg" id="303" data-flag="@X" onclick="openSidebar('303',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\342.jpg" id="342" data-flag="@X" onclick="openSidebar('342',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\435.jpg" id="435" data-flag="@X" onclick="openSidebar('435',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\304.jpg" id="304" data-flag="@X" onclick="openSidebar('304',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\343.jpg" id="343" data-flag="@X" onclick="openSidebar('343',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\436.jpg" id="436" data-flag="@X" onclick="openSidebar('436',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\584.jpg" id="584" data-flag="@X" onclick="openSidebar('584',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\344.jpg" id="344" data-flag="@X" onclick="openSidebar('344',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\588.jpg" id="588" data-flag="@X" onclick="openSidebar('588',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\591.jpg" id="591" data-flag="@X" onclick="openSidebar('591',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\345.jpg" id="345" data-flag="@X" onclick="openSidebar('345',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\346.jpg" id="346" data-flag="@X" onclick="openSidebar('346',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\347.jpg" id="347" data-flag="@X" onclick="openSidebar('347',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\348.jpg" id="348" data-flag="@X" onclick="openSidebar('348',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\349.jpg" id="349" data-flag="@X" onclick="openSidebar('349',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\350.jpg" id="350" data-flag="@X" onclick="openSidebar('350',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\351.jpg" id="351" data-flag="@X" onclick="openSidebar('351',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\579.jpg" id="579" data-flag="@X" onclick="openSidebar('579',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\580.jpg" id="580" data-flag="@X" onclick="openSidebar('580',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\585.jpg" id="585" data-flag="@X" onclick="openSidebar('585',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\128.jpg" id="128" data-flag="@X" onclick="openSidebar('128',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\134.jpg" id="134" data-flag="@X" onclick="openSidebar('134',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\136.jpg" id="136" data-flag="@X" onclick="openSidebar('136',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\138.jpg" id="138" data-flag="@X" onclick="openSidebar('138',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\139_back.jpg" alt="/sets\COTD-files\img\139_front.jpg" id="139" data-flag="@XD" onclick="openSidebar('139',false)"><button class="flip-btn" onclick="imgFlip('139')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\129.jpg" id="129" data-flag="@X" onclick="openSidebar('129',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\135.jpg" id="135" data-flag="@X" onclick="openSidebar('135',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\137.jpg" id="137" data-flag="@X" onclick="openSidebar('137',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\197.jpg" id="197" data-flag="@X" onclick="openSidebar('197',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\140.jpg" id="140" data-flag="@X" onclick="openSidebar('140',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\130.jpg" id="130" data-flag="@X" onclick="openSidebar('130',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\444.jpg" id="444" data-flag="@X" onclick="openSidebar('444',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\196.jpg" id="196" data-flag="@X" onclick="openSidebar('196',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\446.jpg" id="446" data-flag="@X" onclick="openSidebar('446',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\141.jpg" id="141" data-flag="@X" onclick="openSidebar('141',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\131.jpg" id="131" data-flag="@X" onclick="openSidebar('131',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\445.jpg" id="445" data-flag="@X" onclick="openSidebar('445',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\483.jpg" id="483" data-flag="@X" onclick="openSidebar('483',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\447.jpg" id="447" data-flag="@X" onclick="openSidebar('447',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\142.jpg" id="142" data-flag="@X" onclick="openSidebar('142',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\132.jpg" id="132" data-flag="@X" onclick="openSidebar('132',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\481.jpg" id="481" data-flag="@X" onclick="openSidebar('481',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\448.jpg" id="448" data-flag="@X" onclick="openSidebar('448',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\143.jpg" id="143" data-flag="@X" onclick="openSidebar('143',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\133.jpg" id="133" data-flag="@X" onclick="openSidebar('133',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\482.jpg" id="482" data-flag="@X" onclick="openSidebar('482',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\484.jpg" id="484" data-flag="@X" onclick="openSidebar('484',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\144.jpg" id="144" data-flag="@X" onclick="openSidebar('144',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\195.jpg" id="195" data-flag="@X" onclick="openSidebar('195',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\145.jpg" id="145" data-flag="@X" onclick="openSidebar('145',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\202_back.jpg" alt="/sets\COTD-files\img\202_front.jpg" id="202" data-flag="@XD" onclick="openSidebar('202',false)"><button class="flip-btn" onclick="imgFlip('202')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\449.jpg" id="449" data-flag="@X" onclick="openSidebar('449',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\437.jpg" id="437" data-flag="@X" onclick="openSidebar('437',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\450.jpg" id="450" data-flag="@X" onclick="openSidebar('450',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\438.jpg" id="438" data-flag="@X" onclick="openSidebar('438',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\485.jpg" id="485" data-flag="@X" onclick="openSidebar('485',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\439.jpg" id="439" data-flag="@X" onclick="openSidebar('439',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\486.jpg" id="486" data-flag="@X" onclick="openSidebar('486',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\440.jpg" id="440" data-flag="@X" onclick="openSidebar('440',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\487.jpg" id="487" data-flag="@X" onclick="openSidebar('487',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\441.jpg" id="441" data-flag="@X" onclick="openSidebar('441',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\590.jpg" id="590" data-flag="@X" onclick="openSidebar('590',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\442.jpg" id="442" data-flag="@X" onclick="openSidebar('442',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\443.jpg" id="443" data-flag="@X" onclick="openSidebar('443',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\480.jpg" id="480" data-flag="@X" onclick="openSidebar('480',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\146.jpg" id="146" data-flag="@X" onclick="openSidebar('146',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\148.jpg" id="148" data-flag="@X" onclick="openSidebar('148',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\154.jpg" id="154" data-flag="@X" onclick="openSidebar('154',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\155.jpg" id="155" data-flag="@X" onclick="openSidebar('155',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\158.jpg" id="158" data-flag="@X" onclick="openSidebar('158',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\147.jpg" id="147" data-flag="@X" onclick="openSidebar('147',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\149.jpg" id="149" data-flag="@X" onclick="openSidebar('149',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\461.jpg" id="461" data-flag="@X" onclick="openSidebar('461',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\156.jpg" id="156" data-flag="@X" onclick="openSidebar('156',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\159.jpg" id="159" data-flag="@X" onclick="openSidebar('159',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\198.jpg" id="198" data-flag="@X" onclick="openSidebar('198',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\150.jpg" id="150" data-flag="@X" onclick="openSidebar('150',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\462.jpg" id="462" data-flag="@X" onclick="openSidebar('462',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\157.jpg" id="157" data-flag="@X" onclick="openSidebar('157',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\201_back.jpg" alt="/sets\COTD-files\img\201_front.jpg" id="201" data-flag="@XD" onclick="openSidebar('201',false)"><button class="flip-btn" onclick="imgFlip('201')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\451.jpg" id="451" data-flag="@X" onclick="openSidebar('451',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\151.jpg" id="151" data-flag="@X" onclick="openSidebar('151',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\463.jpg" id="463" data-flag="@X" onclick="openSidebar('463',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\464.jpg" id="464" data-flag="@X" onclick="openSidebar('464',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\465.jpg" id="465" data-flag="@X" onclick="openSidebar('465',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\452.jpg" id="452" data-flag="@X" onclick="openSidebar('452',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\152.jpg" id="152" data-flag="@X" onclick="openSidebar('152',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\489.jpg" id="489" data-flag="@X" onclick="openSidebar('489',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\490.jpg" id="490" data-flag="@X" onclick="openSidebar('490',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\466.jpg" id="466" data-flag="@X" onclick="openSidebar('466',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\453.jpg" id="453" data-flag="@X" onclick="openSidebar('453',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\153.jpg" id="153" data-flag="@X" onclick="openSidebar('153',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\467.jpg" id="467" data-flag="@X" onclick="openSidebar('467',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\454.jpg" id="454" data-flag="@X" onclick="openSidebar('454',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\199.jpg" id="199" data-flag="@X" onclick="openSidebar('199',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\491.jpg" id="491" data-flag="@X" onclick="openSidebar('491',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\455.jpg" id="455" data-flag="@X" onclick="openSidebar('455',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\200.jpg" id="200" data-flag="@X" onclick="openSidebar('200',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\488.jpg" id="488" data-flag="@X" onclick="openSidebar('488',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\456.jpg" id="456" data-flag="@X" onclick="openSidebar('456',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\457.jpg" id="457" data-flag="@X" onclick="openSidebar('457',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\458.jpg" id="458" data-flag="@X" onclick="openSidebar('458',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\459.jpg" id="459" data-flag="@X" onclick="openSidebar('459',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\460.jpg" id="460" data-flag="@X" onclick="openSidebar('460',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\171.jpg" id="171" data-flag="@X" onclick="openSidebar('171',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\165.jpg" id="165" data-flag="@X" onclick="openSidebar('165',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\175.jpg" id="175" data-flag="@X" onclick="openSidebar('175',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\160.jpg" id="160" data-flag="@X" onclick="openSidebar('160',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\172.jpg" id="172" data-flag="@X" onclick="openSidebar('172',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\188.jpg" id="188" data-flag="@X" onclick="openSidebar('188',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\192.jpg" id="192" data-flag="@X" onclick="openSidebar('192',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\164.jpg" id="164" data-flag="@X" onclick="openSidebar('164',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\185.jpg" id="185" data-flag="@X" onclick="openSidebar('185',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\189.jpg" id="189" data-flag="@X" onclick="openSidebar('189',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\479.jpg" id="479" data-flag="@X" onclick="openSidebar('479',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\177.jpg" id="177" data-flag="@X" onclick="openSidebar('177',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\190.jpg" id="190" data-flag="@X" onclick="openSidebar('190',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\474.jpg" id="474" data-flag="@X" onclick="openSidebar('474',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\179.jpg" id="179" data-flag="@X" onclick="openSidebar('179',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\475.jpg" id="475" data-flag="@X" onclick="openSidebar('475',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\194.jpg" id="194" data-flag="@X" onclick="openSidebar('194',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\476.jpg" id="476" data-flag="@X" onclick="openSidebar('476',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\477.jpg" id="477" data-flag="@X" onclick="openSidebar('477',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\162.jpg" id="162" data-flag="@X" onclick="openSidebar('162',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\173.jpg" id="173" data-flag="@X" onclick="openSidebar('173',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\472.jpg" id="472" data-flag="@X" onclick="openSidebar('472',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\161.jpg" id="161" data-flag="@X" onclick="openSidebar('161',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\470.jpg" id="470" data-flag="@X" onclick="openSidebar('470',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\163.jpg" id="163" data-flag="@X" onclick="openSidebar('163',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\174.jpg" id="174" data-flag="@X" onclick="openSidebar('174',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\169.jpg" id="169" data-flag="@X" onclick="openSidebar('169',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\166.jpg" id="166" data-flag="@X" onclick="openSidebar('166',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\180.jpg" id="180" data-flag="@X" onclick="openSidebar('180',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\471.jpg" id="471" data-flag="@X" onclick="openSidebar('471',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\168.jpg" id="168" data-flag="@X" onclick="openSidebar('168',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\187.jpg" id="187" data-flag="@X" onclick="openSidebar('187',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\478.jpg" id="478" data-flag="@X" onclick="openSidebar('478',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\167.jpg" id="167" data-flag="@X" onclick="openSidebar('167',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\176.jpg" id="176" data-flag="@X" onclick="openSidebar('176',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\178.jpg" id="178" data-flag="@X" onclick="openSidebar('178',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\182.jpg" id="182" data-flag="@X" onclick="openSidebar('182',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\183.jpg" id="183" data-flag="@X" onclick="openSidebar('183',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\184.jpg" id="184" data-flag="@X" onclick="openSidebar('184',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\473.jpg" id="473" data-flag="@X" onclick="openSidebar('473',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\170.jpg" id="170" data-flag="@X" onclick="openSidebar('170',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\181.jpg" id="181" data-flag="@X" onclick="openSidebar('181',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\186.jpg" id="186" data-flag="@X" onclick="openSidebar('186',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\191.jpg" id="191" data-flag="@X" onclick="openSidebar('191',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\193.jpg" id="193" data-flag="@X" onclick="openSidebar('193',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\468.jpg" id="468" data-flag="@X" onclick="openSidebar('468',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\469.jpg" id="469" data-flag="@X" onclick="openSidebar('469',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\0.jpg" id="0" data-flag="@X" onclick="openSidebar('0',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\1.jpg" id="1" data-flag="@X" onclick="openSidebar('1',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\2.jpg" id="2" data-flag="@X" onclick="openSidebar('2',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\3.jpg" id="3" data-flag="@X" onclick="openSidebar('3',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\4.jpg" id="4" data-flag="@X" onclick="openSidebar('4',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\5.jpg" id="5" data-flag="@X" onclick="openSidebar('5',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\6.jpg" id="6" data-flag="@X" onclick="openSidebar('6',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\7.jpg" id="7" data-flag="@X" onclick="openSidebar('7',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\203.jpg" id="203" data-flag="@X" onclick="openSidebar('203',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\204.jpg" id="204" data-flag="@X" onclick="openSidebar('204',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\205.jpg" id="205" data-flag="@X" onclick="openSidebar('205',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\206.jpg" id="206" data-flag="@X" onclick="openSidebar('206',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\207.jpg" id="207" data-flag="@X" onclick="openSidebar('207',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\208.jpg" id="208" data-flag="@X" onclick="openSidebar('208',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\209.jpg" id="209" data-flag="@X" onclick="openSidebar('209',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\210.jpg" id="210" data-flag="@X" onclick="openSidebar('210',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\211.jpg" id="211" data-flag="@X" onclick="openSidebar('211',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\212.jpg" id="212" data-flag="@X" onclick="openSidebar('212',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\213.jpg" id="213" data-flag="@X" onclick="openSidebar('213',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\214.jpg" id="214" data-flag="@X" onclick="openSidebar('214',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\215.jpg" id="215" data-flag="@X" onclick="openSidebar('215',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\216.jpg" id="216" data-flag="@X" onclick="openSidebar('216',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\217.jpg" id="217" data-flag="@X" onclick="openSidebar('217',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\218.jpg" id="218" data-flag="@X" onclick="openSidebar('218',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\219.jpg" id="219" data-flag="@X" onclick="openSidebar('219',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\220.jpg" id="220" data-flag="@X" onclick="openSidebar('220',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\270.jpg" id="270" data-flag="@X" onclick="openSidebar('270',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\271.jpg" id="271" data-flag="@X" onclick="openSidebar('271',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\272.jpg" id="272" data-flag="@X" onclick="openSidebar('272',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\273.jpg" id="273" data-flag="@X" onclick="openSidebar('273',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\274.jpg" id="274" data-flag="@X" onclick="openSidebar('274',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\275.jpg" id="275" data-flag="@X" onclick="openSidebar('275',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\492.jpg" id="492" data-flag="@X" onclick="openSidebar('492',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\493.jpg" id="493" data-flag="@X" onclick="openSidebar('493',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\494.jpg" id="494" data-flag="@X" onclick="openSidebar('494',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\495.jpg" id="495" data-flag="@X" onclick="openSidebar('495',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\496.jpg" id="496" data-flag="@X" onclick="openSidebar('496',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\497.jpg" id="497" data-flag="@X" onclick="openSidebar('497',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\498.jpg" id="498" data-flag="@X" onclick="openSidebar('498',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\499.jpg" id="499" data-flag="@X" onclick="openSidebar('499',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\500.jpg" id="500" data-flag="@X" onclick="openSidebar('500',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\501.jpg" id="501" data-flag="@X" onclick="openSidebar('501',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\502.jpg" id="502" data-flag="@X" onclick="openSidebar('502',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\503.jpg" id="503" data-flag="@X" onclick="openSidebar('503',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\504.jpg" id="504" data-flag="@X" onclick="openSidebar('504',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\505.jpg" id="505" data-flag="@X" onclick="openSidebar('505',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\506.jpg" id="506" data-flag="@X" onclick="openSidebar('506',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\507.jpg" id="507" data-flag="@X" onclick="openSidebar('507',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\508.jpg" id="508" data-flag="@X" onclick="openSidebar('508',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\509.jpg" id="509" data-flag="@X" onclick="openSidebar('509',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\510.jpg" id="510" data-flag="@X" onclick="openSidebar('510',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\511.jpg" id="511" data-flag="@X" onclick="openSidebar('511',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\513.jpg" id="513" data-flag="@X" onclick="openSidebar('513',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\514.jpg" id="514" data-flag="@X" onclick="openSidebar('514',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\515.jpg" id="515" data-flag="@X" onclick="openSidebar('515',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\516.jpg" id="516" data-flag="@X" onclick="openSidebar('516',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\517.jpg" id="517" data-flag="@X" onclick="openSidebar('517',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\575.jpg" id="575" data-flag="@X" onclick="openSidebar('575',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\576.jpg" id="576" data-flag="@X" onclick="openSidebar('576',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\578.jpg" id="578" data-flag="@X" onclick="openSidebar('578',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\589.jpg" id="589" data-flag="@X" onclick="openSidebar('589',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\544.jpg" id="544" data-flag="@X" onclick="openSidebar('544',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\545.jpg" id="545" data-flag="@X" onclick="openSidebar('545',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\227.jpg" id="227" data-flag="@X" onclick="openSidebar('227',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\547.jpg" id="547" data-flag="@X" onclick="openSidebar('547',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\532.jpg" id="532" data-flag="@X" onclick="openSidebar('532',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\571.jpg" id="571" data-flag="@X" onclick="openSidebar('571',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\570.jpg" id="570" data-flag="@X" onclick="openSidebar('570',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\546.jpg" id="546" data-flag="@X" onclick="openSidebar('546',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\569.jpg" id="569" data-flag="@X" onclick="openSidebar('569',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\548.jpg" id="548" data-flag="@X" onclick="openSidebar('548',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\567.jpg" id="567" data-flag="@X" onclick="openSidebar('567',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\568.jpg" id="568" data-flag="@X" onclick="openSidebar('568',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\583.jpg" id="583" data-flag="@X" onclick="openSidebar('583',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\529.jpg" id="529" data-flag="@X" onclick="openSidebar('529',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\526.jpg" id="526" data-flag="@X" onclick="openSidebar('526',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\521.jpg" id="521" data-flag="@X" onclick="openSidebar('521',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\524.jpg" id="524" data-flag="@X" onclick="openSidebar('524',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\523.jpg" id="523" data-flag="@X" onclick="openSidebar('523',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\543.jpg" id="543" data-flag="@X" onclick="openSidebar('543',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\540.jpg" id="540" data-flag="@X" onclick="openSidebar('540',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\535.jpg" id="535" data-flag="@X" onclick="openSidebar('535',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\538.jpg" id="538" data-flag="@X" onclick="openSidebar('538',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\537.jpg" id="537" data-flag="@X" onclick="openSidebar('537',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\549.jpg" id="549" data-flag="@X" onclick="openSidebar('549',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\560.jpg" id="560" data-flag="@X" onclick="openSidebar('560',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\555.jpg" id="555" data-flag="@X" onclick="openSidebar('555',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\558.jpg" id="558" data-flag="@X" onclick="openSidebar('558',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\557.jpg" id="557" data-flag="@X" onclick="openSidebar('557',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\563.jpg" id="563" data-flag="@X" onclick="openSidebar('563',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\565.jpg" id="565" data-flag="@X" onclick="openSidebar('565',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\528.jpg" id="528" data-flag="@X" onclick="openSidebar('528',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\233.jpg" id="233" data-flag="@X" onclick="openSidebar('233',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\520.jpg" id="520" data-flag="@X" onclick="openSidebar('520',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\525.jpg" id="525" data-flag="@X" onclick="openSidebar('525',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\522.jpg" id="522" data-flag="@X" onclick="openSidebar('522',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\542.jpg" id="542" data-flag="@X" onclick="openSidebar('542',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\527.jpg" id="527" data-flag="@X" onclick="openSidebar('527',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\534.jpg" id="534" data-flag="@X" onclick="openSidebar('534',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\539.jpg" id="539" data-flag="@X" onclick="openSidebar('539',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\536.jpg" id="536" data-flag="@X" onclick="openSidebar('536',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\562.jpg" id="562" data-flag="@X" onclick="openSidebar('562',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\541.jpg" id="541" data-flag="@X" onclick="openSidebar('541',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\554.jpg" id="554" data-flag="@X" onclick="openSidebar('554',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\559.jpg" id="559" data-flag="@X" onclick="openSidebar('559',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\556.jpg" id="556" data-flag="@X" onclick="openSidebar('556',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\561.jpg" id="561" data-flag="@X" onclick="openSidebar('561',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\581.jpg" id="581" data-flag="@X" onclick="openSidebar('581',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\577.jpg" id="577" data-flag="@X" onclick="openSidebar('577',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\221.jpg" id="221" data-flag="@X" onclick="openSidebar('221',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\222.jpg" id="222" data-flag="@X" onclick="openSidebar('222',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\223.jpg" id="223" data-flag="@X" onclick="openSidebar('223',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\224.jpg" id="224" data-flag="@X" onclick="openSidebar('224',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\225.jpg" id="225" data-flag="@X" onclick="openSidebar('225',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\226.jpg" id="226" data-flag="@X" onclick="openSidebar('226',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\228.jpg" id="228" data-flag="@X" onclick="openSidebar('228',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\229.jpg" id="229" data-flag="@X" onclick="openSidebar('229',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\230.jpg" id="230" data-flag="@X" onclick="openSidebar('230',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\231.jpg" id="231" data-flag="@X" onclick="openSidebar('231',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\232.jpg" id="232" data-flag="@X" onclick="openSidebar('232',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\234.jpg" id="234" data-flag="@X" onclick="openSidebar('234',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\235.jpg" id="235" data-flag="@X" onclick="openSidebar('235',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\236.jpg" id="236" data-flag="@X" onclick="openSidebar('236',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\237.jpg" id="237" data-flag="@X" onclick="openSidebar('237',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\238_back.jpg" alt="/sets\COTD-files\img\238_front.jpg" id="238" data-flag="@XD" onclick="openSidebar('238',false)"><button class="flip-btn" onclick="imgFlip('238')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\239.jpg" id="239" data-flag="@X" onclick="openSidebar('239',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\COTD-files\img\240_back.jpg" alt="/sets\COTD-files\img\240_front.jpg" id="240" data-flag="@XD" onclick="openSidebar('240',false)"><button class="flip-btn" onclick="imgFlip('240')"></button></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\241.jpg" id="241" data-flag="@X" onclick="openSidebar('241',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\242.jpg" id="242" data-flag="@X" onclick="openSidebar('242',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\518.jpg" id="518" data-flag="@X" onclick="openSidebar('518',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\519.jpg" id="519" data-flag="@X" onclick="openSidebar('519',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\530.jpg" id="530" data-flag="@X" onclick="openSidebar('530',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\531.jpg" id="531" data-flag="@X" onclick="openSidebar('531',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\533.jpg" id="533" data-flag="@X" onclick="openSidebar('533',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\550.jpg" id="550" data-flag="@X" onclick="openSidebar('550',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\551.jpg" id="551" data-flag="@X" onclick="openSidebar('551',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\552.jpg" id="552" data-flag="@X" onclick="openSidebar('552',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\553.jpg" id="553" data-flag="@X" onclick="openSidebar('553',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\564.jpg" id="564" data-flag="@X" onclick="openSidebar('564',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\566.jpg" id="566" data-flag="@X" onclick="openSidebar('566',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\572.jpg" id="572" data-flag="@X" onclick="openSidebar('572',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\573.jpg" id="573" data-flag="@X" onclick="openSidebar('573',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\574.jpg" id="574" data-flag="@X" onclick="openSidebar('574',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\582.jpg" id="582" data-flag="@X" onclick="openSidebar('582',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\243.jpg" id="243" data-flag="@X" onclick="openSidebar('243',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\244.jpg" id="244" data-flag="@X" onclick="openSidebar('244',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\245.jpg" id="245" data-flag="@X" onclick="openSidebar('245',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\246.jpg" id="246" data-flag="@X" onclick="openSidebar('246',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\247.jpg" id="247" data-flag="@X" onclick="openSidebar('247',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\248.jpg" id="248" data-flag="@X" onclick="openSidebar('248',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\249.jpg" id="249" data-flag="@X" onclick="openSidebar('249',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\250.jpg" id="250" data-flag="@X" onclick="openSidebar('250',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\251.jpg" id="251" data-flag="@X" onclick="openSidebar('251',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\252.jpg" id="252" data-flag="@X" onclick="openSidebar('252',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\253.jpg" id="253" data-flag="@X" onclick="openSidebar('253',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\254.jpg" id="254" data-flag="@X" onclick="openSidebar('254',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\255.jpg" id="255" data-flag="@X" onclick="openSidebar('255',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\256.jpg" id="256" data-flag="@X" onclick="openSidebar('256',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\257.jpg" id="257" data-flag="@X" onclick="openSidebar('257',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\258.jpg" id="258" data-flag="@X" onclick="openSidebar('258',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\259.jpg" id="259" data-flag="@X" onclick="openSidebar('259',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\260.jpg" id="260" data-flag="@X" onclick="openSidebar('260',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\261.jpg" id="261" data-flag="@X" onclick="openSidebar('261',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\262.jpg" id="262" data-flag="@X" onclick="openSidebar('262',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\263.jpg" id="263" data-flag="@X" onclick="openSidebar('263',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\264.jpg" id="264" data-flag="@X" onclick="openSidebar('264',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\265.jpg" id="265" data-flag="@X" onclick="openSidebar('265',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\266.jpg" id="266" data-flag="@X" onclick="openSidebar('266',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\267.jpg" id="267" data-flag="@X" onclick="openSidebar('267',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\268.jpg" id="268" data-flag="@X" onclick="openSidebar('268',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\COTD-files\img\269.jpg" id="269" data-flag="@X" onclick="openSidebar('269',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

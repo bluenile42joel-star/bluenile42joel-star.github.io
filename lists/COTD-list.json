@@ -1,0 +1,4818 @@
+﻿[
+    {
+        "card_name": "Absence Elemental",
+        "number": 9,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "8"
+    },
+    {
+        "card_name": "Aarie's Conjuration",
+        "number": 44,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "43"
+    },
+    {
+        "card_name": "Abrupt End",
+        "number": 66,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "65"
+    },
+    {
+        "card_name": "R, rrr Rrrrrrrr",
+        "number": 87,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "86"
+    },
+    {
+        "card_name": "Champion's Triumph",
+        "number": 103,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "102"
+    },
+    {
+        "card_name": "Amass Allies",
+        "number": 10,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "9"
+    },
+    {
+        "card_name": "Abdicate",
+        "number": 45,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "44"
+    },
+    {
+        "card_name": "Callous Betrayal",
+        "number": 67,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "66"
+    },
+    {
+        "card_name": "R, the Gunsmith",
+        "number": 88,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "87"
+    },
+    {
+        "card_name": "Chased by Wolves",
+        "number": 104,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "103"
+    },
+    {
+        "card_name": "Artemis, Scourge of Rodents",
+        "number": 11,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "10"
+    },
+    {
+        "card_name": "Archetypal Imagination",
+        "number": 46,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "45"
+    },
+    {
+        "card_name": "Death Elemental",
+        "number": 68,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "67"
+    },
+    {
+        "card_name": "Become Omnipotent",
+        "number": 89,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "88"
+    },
+    {
+        "card_name": "Collector of Lost Things",
+        "number": 105,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "104"
+    },
+    {
+        "card_name": "Astral Aperture B",
+        "number": 12,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "11"
+    },
+    {
+        "card_name": "Behold the New Worlds",
+        "number": 47,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "46"
+    },
+    {
+        "card_name": "Demonic Blessing",
+        "number": 69,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "68"
+    },
+    {
+        "card_name": "Davin Tixel",
+        "number": 90,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "89"
+    },
+    {
+        "card_name": "Commune with Dragons",
+        "number": 106,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "105"
+    },
+    {
+        "card_name": "Astral Severance",
+        "number": 13,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "12"
+    },
+    {
+        "card_name": "Case of the Living Mystery",
+        "number": 48,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "47"
+    },
+    {
+        "card_name": "Diabolic Machinations",
+        "number": 70,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "69"
+    },
+    {
+        "card_name": "Dragon's Soul",
+        "number": 91,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "90"
+    },
+    {
+        "card_name": "Dragon Migration",
+        "number": 107,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "106"
+    },
+    {
+        "card_name": "Begin the Masquerade",
+        "number": 14,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "13"
+    },
+    {
+        "card_name": "Circle of Transmutation",
+        "number": 49,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "48"
+    },
+    {
+        "card_name": "Evolved Manhunter",
+        "number": 71,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "70"
+    },
+    {
+        "card_name": "Falling Out",
+        "number": 92,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "91"
+    },
+    {
+        "card_name": "Explore the House",
+        "number": 108,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "107"
+    },
+    {
+        "card_name": "Clash of Immortals",
+        "number": 17,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "16"
+    },
+    {
+        "card_name": "Civilianize",
+        "number": 50,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "49"
+    },
+    {
+        "card_name": "False Love's Kiss",
+        "number": 72,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "71"
+    },
+    {
+        "card_name": "Grand Finale",
+        "number": 93,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "92"
+    },
+    {
+        "card_name": "Frost Channeler",
+        "number": 109,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "108"
+    },
+    {
+        "card_name": "Down the Rabbit Hole",
+        "number": 18,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "17"
+    },
+    {
+        "card_name": "Cloning Vat",
+        "number": 51,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "50"
+    },
+    {
+        "card_name": "Gone Too Soon",
+        "number": 73,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "72"
+    },
+    {
+        "card_name": "Limits Broken",
+        "number": 94,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "93"
+    },
+    {
+        "card_name": "Gathmori Nomad",
+        "number": 110,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "109"
+    },
+    {
+        "card_name": "Eternal Recall",
+        "number": 19,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "18"
+    },
+    {
+        "card_name": "Don't Be Ridiculous!",
+        "number": 52,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "51"
+    },
+    {
+        "card_name": "Loose Ends",
+        "number": 74,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "73"
+    },
+    {
+        "card_name": "Prelude to Invasion",
+        "number": 95,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "94"
+    },
+    {
+        "card_name": "Go Feral",
+        "number": 111,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "110"
+    },
+    {
+        "card_name": "Evil's End",
+        "number": 20,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "19"
+    },
+    {
+        "card_name": "Envision",
+        "number": 53,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "52"
+    },
+    {
+        "card_name": "The Nameless Rider",
+        "number": 75,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "74"
+    },
+    {
+        "card_name": "Puck, Fae Harlequin",
+        "number": 96,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "95"
+    },
+    {
+        "card_name": "Grasping \u2014",
+        "number": 112,
+        "shape": "modal double faced",
+        "set": "COTD",
+        "position": "111"
+    },
+    {
+        "card_name": "Fold Up",
+        "number": 21,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "20"
+    },
+    {
+        "card_name": "The Man With Many Masks",
+        "number": 54,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "53"
+    },
+    {
+        "card_name": "Nilpotence",
+        "number": 76,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "75"
+    },
+    {
+        "card_name": "Traumatic Scar",
+        "number": 97,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "96"
+    },
+    {
+        "card_name": "Ivar's Bestiary",
+        "number": 113,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "112"
+    },
+    {
+        "card_name": "Go Forth and Destroy",
+        "number": 22,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "21"
+    },
+    {
+        "card_name": "Mass Memory Wipe",
+        "number": 55,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "54"
+    },
+    {
+        "card_name": "Not Strong Enough",
+        "number": 77,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "76"
+    },
+    {
+        "card_name": "Tyrant of the Cliffs",
+        "number": 98,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "97"
+    },
+    {
+        "card_name": "Living Equation",
+        "number": 114,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "113"
+    },
+    {
+        "card_name": "Go Separate Ways",
+        "number": 23,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "22"
+    },
+    {
+        "card_name": "Precognition Engine",
+        "number": 56,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "55"
+    },
+    {
+        "card_name": "Omnicide",
+        "number": 78,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "77"
+    },
+    {
+        "card_name": "Unexpexted Reunion",
+        "number": 99,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "98"
+    },
+    {
+        "card_name": "On the House",
+        "number": 115,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "114"
+    },
+    {
+        "card_name": "Gods' Ire",
+        "number": 24,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "23"
+    },
+    {
+        "card_name": "Reika Tixel",
+        "number": 57,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "56"
+    },
+    {
+        "card_name": "Pincing \u2014",
+        "number": 79,
+        "shape": "modal double faced",
+        "set": "COTD",
+        "position": "78"
+    },
+    {
+        "card_name": "Watterson, Wayward Fire",
+        "number": 100,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "99"
+    },
+    {
+        "card_name": "Paradoxical Architecture",
+        "number": 116,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "115"
+    },
+    {
+        "card_name": "Harness Divinity",
+        "number": 25,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "24"
+    },
+    {
+        "card_name": "Run on Thin Air",
+        "number": 58,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "57"
+    },
+    {
+        "card_name": "Samael, the Reaper",
+        "number": 80,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "79"
+    },
+    {
+        "card_name": "Worldbreaker's Oath",
+        "number": 101,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "100"
+    },
+    {
+        "card_name": "Raiz, Curious Cultivator",
+        "number": 117,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "116"
+    },
+    {
+        "card_name": "Let Go",
+        "number": 26,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "25"
+    },
+    {
+        "card_name": "Saura Pemmin, Morphomancer",
+        "number": 59,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "58"
+    },
+    {
+        "card_name": "Sir Thomas, God-Eater",
+        "number": 81,
+        "shape": "planeswalker",
+        "set": "COTD",
+        "position": "80"
+    },
+    {
+        "card_name": "Bar Room",
+        "number": 102,
+        "shape": "fuse split",
+        "set": "COTD",
+        "position": "101"
+    },
+    {
+        "card_name": "Rebuild from Ruin",
+        "number": 118,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "117"
+    },
+    {
+        "card_name": "Miracle Fusion",
+        "number": 27,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "26"
+    },
+    {
+        "card_name": "Shape Change",
+        "number": 60,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "59"
+    },
+    {
+        "card_name": "Soul Tether",
+        "number": 82,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "81"
+    },
+    {
+        "card_name": "Amass Assault",
+        "number": 374,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "373"
+    },
+    {
+        "card_name": "The Hero's Bride",
+        "number": 120,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "119"
+    },
+    {
+        "card_name": "The Multiverse Trembles",
+        "number": 30,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "29"
+    },
+    {
+        "card_name": "Ten Thousand Years",
+        "number": 61,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "60"
+    },
+    {
+        "card_name": "Soul Toxin",
+        "number": 83,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "82"
+    },
+    {
+        "card_name": "Bait the Beasts",
+        "number": 375,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "374"
+    },
+    {
+        "card_name": "Tyrant of the Woods",
+        "number": 121,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "120"
+    },
+    {
+        "card_name": "Ontological Paradox",
+        "number": 31,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "30"
+    },
+    {
+        "card_name": "Thirst for Adventure",
+        "number": 62,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "61"
+    },
+    {
+        "card_name": "Step On",
+        "number": 84,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "83"
+    },
+    {
+        "card_name": "Battle Allies",
+        "number": 376,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "375"
+    },
+    {
+        "card_name": "Volundr, Seeker of Mt. King",
+        "number": 122,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "121"
+    },
+    {
+        "card_name": "Present the Ring",
+        "number": 32,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "31"
+    },
+    {
+        "card_name": "Thirst for Greatness",
+        "number": 63,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "62"
+    },
+    {
+        "card_name": "Tyrant of the Moors",
+        "number": 85,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "84"
+    },
+    {
+        "card_name": "Bitter Rivalry",
+        "number": 377,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "376"
+    },
+    {
+        "card_name": "The World Tree Sprouts",
+        "number": 123,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "122"
+    },
+    {
+        "card_name": "Soul Sisters",
+        "number": 33,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "32"
+    },
+    {
+        "card_name": "Tyrant of the Lakes",
+        "number": 64,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "63"
+    },
+    {
+        "card_name": "Vestige of Satanas",
+        "number": 86,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "85"
+    },
+    {
+        "card_name": "Born on Dicehold B",
+        "number": 378,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "377"
+    },
+    {
+        "card_name": "Worldmaking A",
+        "number": 124,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "123"
+    },
+    {
+        "card_name": "Sourdough Soldier",
+        "number": 34,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "33"
+    },
+    {
+        "card_name": "Void Rabbit",
+        "number": 65,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "64"
+    },
+    {
+        "card_name": "...Even Gods Die",
+        "number": 353,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "352"
+    },
+    {
+        "card_name": "Burn the World",
+        "number": 379,
+        "shape": "transform double faced",
+        "set": "COTD",
+        "position": "378"
+    },
+    {
+        "card_name": "Worldmaking B",
+        "number": 125,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "124"
+    },
+    {
+        "card_name": "Stop the Fight",
+        "number": 35,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "34"
+    },
+    {
+        "card_name": "Alchemist's Retort",
+        "number": 306,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "305"
+    },
+    {
+        "card_name": "Around the Multiverse",
+        "number": 354,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "353"
+    },
+    {
+        "card_name": "Cosmic Bleed",
+        "number": 380,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "379"
+    },
+    {
+        "card_name": "Worlds within Worlds",
+        "number": 126,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "125"
+    },
+    {
+        "card_name": "Superhuman Reflexes",
+        "number": 36,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "35"
+    },
+    {
+        "card_name": "Aquatic Adaptation",
+        "number": 307,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "306"
+    },
+    {
+        "card_name": "Bargain with the Fae",
+        "number": 355,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "354"
+    },
+    {
+        "card_name": "Deadly Performance",
+        "number": 381,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "380"
+    },
+    {
+        "card_name": "Busy Kitchen",
+        "number": 127,
+        "shape": "fuse split",
+        "set": "COTD",
+        "position": "126"
+    },
+    {
+        "card_name": "Synthetic Life",
+        "number": 37,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "36"
+    },
+    {
+        "card_name": "Bedtime Story",
+        "number": 308,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "307"
+    },
+    {
+        "card_name": "Black Deployment",
+        "number": 356,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "355"
+    },
+    {
+        "card_name": "Dimensional Rift",
+        "number": 382,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "381"
+    },
+    {
+        "card_name": "Alchemy Abundant Harvest",
+        "number": 401,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "400"
+    },
+    {
+        "card_name": "Temporal Chasm A",
+        "number": 38,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "37"
+    },
+    {
+        "card_name": "Birth of Metatron",
+        "number": 309,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "308"
+    },
+    {
+        "card_name": "Browse",
+        "number": 357,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "356"
+    },
+    {
+        "card_name": "Discover the New Worlds",
+        "number": 383,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "382"
+    },
+    {
+        "card_name": "Alchemy Ramp Spell",
+        "number": 402,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "401"
+    },
+    {
+        "card_name": "Temporal Chasm B",
+        "number": 39,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "38"
+    },
+    {
+        "card_name": "Blue Deployment",
+        "number": 310,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "309"
+    },
+    {
+        "card_name": "Dark Star Rising",
+        "number": 358,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "357"
+    },
+    {
+        "card_name": "Dragon Cycler",
+        "number": 384,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "383"
+    },
+    {
+        "card_name": "The Andvaranaut",
+        "number": 403,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "402"
+    },
+    {
+        "card_name": "Tyrant of the Meadows",
+        "number": 40,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "39"
+    },
+    {
+        "card_name": "Born on Dicehold A",
+        "number": 311,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "310"
+    },
+    {
+        "card_name": "Death Warp",
+        "number": 359,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "358"
+    },
+    {
+        "card_name": "End the Invasion",
+        "number": 385,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "384"
+    },
+    {
+        "card_name": "Assemble the Party",
+        "number": 404,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "403"
+    },
+    {
+        "card_name": "Vanishing Point",
+        "number": 41,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "40"
+    },
+    {
+        "card_name": "Born on Gemini",
+        "number": 312,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "311"
+    },
+    {
+        "card_name": "Fabricia Board Wipe",
+        "number": 360,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "359"
+    },
+    {
+        "card_name": "Energy Projection",
+        "number": 386,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "385"
+    },
+    {
+        "card_name": "Born on Echelon",
+        "number": 405,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "404"
+    },
+    {
+        "card_name": "Public Area",
+        "number": 42,
+        "shape": "fuse split",
+        "set": "COTD",
+        "position": "41"
+    },
+    {
+        "card_name": "Born on Proteus",
+        "number": 313,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "312"
+    },
+    {
+        "card_name": "Fabricia Kill Spell",
+        "number": 361,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "360"
+    },
+    {
+        "card_name": "Host Augment Red",
+        "number": 387,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "386"
+    },
+    {
+        "card_name": "Born on Palata",
+        "number": 406,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "405"
+    },
+    {
+        "card_name": "Welcoming Entrance",
+        "number": 43,
+        "shape": "fuse split",
+        "set": "COTD",
+        "position": "42"
+    },
+    {
+        "card_name": "Born on Sygil",
+        "number": 314,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "313"
+    },
+    {
+        "card_name": "Fabricia Thingy",
+        "number": 362,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "361"
+    },
+    {
+        "card_name": "Hotwire",
+        "number": 388,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "387"
+    },
+    {
+        "card_name": "Born on Xenos",
+        "number": 407,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "406"
+    },
+    {
+        "card_name": ".Template: Legend",
+        "number": 277,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "276"
+    },
+    {
+        "card_name": "Break the Fourth Wall",
+        "number": 315,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "314"
+    },
+    {
+        "card_name": "Final Chapter",
+        "number": 363,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "362"
+    },
+    {
+        "card_name": "Infusion Red",
+        "number": 389,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "388"
+    },
+    {
+        "card_name": "Dimensional Nexus",
+        "number": 408,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "407"
+    },
+    {
+        "card_name": "Astral Incorporation",
+        "number": 278,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "277"
+    },
+    {
+        "card_name": "Clash of Intellect",
+        "number": 316,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "315"
+    },
+    {
+        "card_name": "Fine, I'll Play",
+        "number": 364,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "363"
+    },
+    {
+        "card_name": "Involuntary Volunteer Act",
+        "number": 390,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "389"
+    },
+    {
+        "card_name": "Double XP",
+        "number": 409,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "408"
+    },
+    {
+        "card_name": "Blacklist",
+        "number": 279,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "278"
+    },
+    {
+        "card_name": "Dimensional Attunement",
+        "number": 317,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "316"
+    },
+    {
+        "card_name": "The Hollow Mask",
+        "number": 365,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "364"
+    },
+    {
+        "card_name": "Lightning Bottle",
+        "number": 391,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "390"
+    },
+    {
+        "card_name": "Elvish Painter",
+        "number": 410,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "409"
+    },
+    {
+        "card_name": "Born on Iroas",
+        "number": 280,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "279"
+    },
+    {
+        "card_name": "Dispersal Tactics",
+        "number": 318,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "317"
+    },
+    {
+        "card_name": "Host Augment Black",
+        "number": 366,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "365"
+    },
+    {
+        "card_name": "Mobilize Forces",
+        "number": 392,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "391"
+    },
+    {
+        "card_name": "Feed the Trolls",
+        "number": 411,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "410"
+    },
+    {
+        "card_name": "Born on Lagrbjod",
+        "number": 281,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "280"
+    },
+    {
+        "card_name": "Erase Identity",
+        "number": 319,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "318"
+    },
+    {
+        "card_name": "Infusion Black",
+        "number": 367,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "366"
+    },
+    {
+        "card_name": "Multiversal Traveler",
+        "number": 393,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "392"
+    },
+    {
+        "card_name": "First Steps",
+        "number": 412,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "411"
+    },
+    {
+        "card_name": "Code of Divine Law",
+        "number": 282,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "281"
+    },
+    {
+        "card_name": "Evasion Tactics",
+        "number": 320,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "319"
+    },
+    {
+        "card_name": "Kindred Boardwipe",
+        "number": 368,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "367"
+    },
+    {
+        "card_name": "Obnoxious Catcaller",
+        "number": 394,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "393"
+    },
+    {
+        "card_name": "Food Card",
+        "number": 413,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "412"
+    },
+    {
+        "card_name": "Diverging Timelines",
+        "number": 283,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "282"
+    },
+    {
+        "card_name": "Failed Fusion",
+        "number": 322,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "321"
+    },
+    {
+        "card_name": "Librarian's Assistant",
+        "number": 369,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "368"
+    },
+    {
+        "card_name": "Overwhelming Dread",
+        "number": 395,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "394"
+    },
+    {
+        "card_name": "Gorilla Tactics",
+        "number": 414,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "413"
+    },
+    {
+        "card_name": "Dungeon Dimension",
+        "number": 284,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "283"
+    },
+    {
+        "card_name": "Happily Never After",
+        "number": 323,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "322"
+    },
+    {
+        "card_name": "Super Cool Removal Spell",
+        "number": 370,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "369"
+    },
+    {
+        "card_name": "Red Deployment",
+        "number": 396,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "395"
+    },
+    {
+        "card_name": "Green Deployment",
+        "number": 415,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "414"
+    },
+    {
+        "card_name": "Enlistment Program",
+        "number": 285,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "284"
+    },
+    {
+        "card_name": "Host Augment Blue",
+        "number": 324,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "323"
+    },
+    {
+        "card_name": "The Second Age: War",
+        "number": 371,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "370"
+    },
+    {
+        "card_name": "Revenge of the Meek",
+        "number": 397,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "396"
+    },
+    {
+        "card_name": "Happy Birthday! A",
+        "number": 416,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "415"
+    },
+    {
+        "card_name": "Erase the Easel",
+        "number": 286,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "285"
+    },
+    {
+        "card_name": "Infinite Possibility",
+        "number": 325,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "324"
+    },
+    {
+        "card_name": "Tormentous Nightmare",
+        "number": 372,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "371"
+    },
+    {
+        "card_name": "Speed Training",
+        "number": 398,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "397"
+    },
+    {
+        "card_name": "Happy Birthday! B",
+        "number": 417,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "416"
+    },
+    {
+        "card_name": "The Faustroll Family Tree",
+        "number": 287,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "286"
+    },
+    {
+        "card_name": "Infusion Blue",
+        "number": 326,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "325"
+    },
+    {
+        "card_name": "Wildform Black",
+        "number": 373,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "372"
+    },
+    {
+        "card_name": "Throw Out",
+        "number": 399,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "398"
+    },
+    {
+        "card_name": "Host Augment Green",
+        "number": 418,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "417"
+    },
+    {
+        "card_name": "Host Augment White",
+        "number": 288,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "287"
+    },
+    {
+        "card_name": "Jester's Masque",
+        "number": 327,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "326"
+    },
+    {
+        "card_name": "Jet Masque",
+        "number": 587,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "586"
+    },
+    {
+        "card_name": "Wildform Red",
+        "number": 400,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "399"
+    },
+    {
+        "card_name": "Infinite Energy",
+        "number": 419,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "418"
+    },
+    {
+        "card_name": "Infusion White",
+        "number": 289,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "288"
+    },
+    {
+        "card_name": "Leyline of Aether",
+        "number": 328,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "327"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ruby Masque",
+        "number": 588,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "587"
+    },
+    {
+        "card_name": "Infusion Green",
+        "number": 420,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "419"
+    },
+    {
+        "card_name": "Mythic Weapon Art",
+        "number": 290,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "289"
+    },
+    {
+        "card_name": "Magic in the Air",
+        "number": 329,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "328"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jabberwock Egg",
+        "number": 421,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "420"
+    },
+    {
+        "card_name": "No Weapons Allowed",
+        "number": 291,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "290"
+    },
+    {
+        "card_name": "Master of Roles",
+        "number": 330,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "329"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Level Up",
+        "number": 422,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "421"
+    },
+    {
+        "card_name": "Plans Gone Awry A",
+        "number": 292,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "291"
+    },
+    {
+        "card_name": "Morphblade's Insight",
+        "number": 331,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "330"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Leveler Guy",
+        "number": 423,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "422"
+    },
+    {
+        "card_name": "Plans Gone Awry C",
+        "number": 293,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "292"
+    },
+    {
+        "card_name": "New Worlds Dragon Rider",
+        "number": 332,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "331"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Leyline of Consuption",
+        "number": 424,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "423"
+    },
+    {
+        "card_name": "Power of Names A",
+        "number": 294,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "293"
+    },
+    {
+        "card_name": "Plot Twist",
+        "number": 333,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "332"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Map Guy",
+        "number": 425,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "424"
+    },
+    {
+        "card_name": "The Third Age: Law",
+        "number": 295,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "294"
+    },
+    {
+        "card_name": "Power of Names B",
+        "number": 334,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "333"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Migrating Dragon",
+        "number": 426,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "425"
+    },
+    {
+        "card_name": "This Creature",
+        "number": 296,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "295"
+    },
+    {
+        "card_name": "Reorganize",
+        "number": 335,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "334"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "'Patamorphosis",
+        "number": 427,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "426"
+    },
+    {
+        "card_name": "Token Doubler Guy",
+        "number": 297,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "296"
+    },
+    {
+        "card_name": "Replicate Form",
+        "number": 336,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "335"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reflect on the Past",
+        "number": 428,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "427"
+    },
+    {
+        "card_name": "True Immortality A",
+        "number": 298,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "297"
+    },
+    {
+        "card_name": "Reprogram",
+        "number": 337,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "336"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seeker's Journal",
+        "number": 429,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "428"
+    },
+    {
+        "card_name": "True Immortality B",
+        "number": 299,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "298"
+    },
+    {
+        "card_name": "Sabotage the Show",
+        "number": 338,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "337"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sense of Scale",
+        "number": 430,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "429"
+    },
+    {
+        "card_name": "Vote of No Confidence",
+        "number": 300,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "299"
+    },
+    {
+        "card_name": "Solve for X",
+        "number": 339,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "338"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Take a Bite",
+        "number": 431,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "430"
+    },
+    {
+        "card_name": "Weird Card",
+        "number": 301,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "300"
+    },
+    {
+        "card_name": "Spoiler Warning",
+        "number": 340,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "339"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The First Age: Khaos",
+        "number": 432,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "431"
+    },
+    {
+        "card_name": "White Deployment",
+        "number": 302,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "301"
+    },
+    {
+        "card_name": "Style Points",
+        "number": 341,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "340"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Unnamed, Multiclass Adept",
+        "number": 433,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "432"
+    },
+    {
+        "card_name": "Wildform White",
+        "number": 303,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "302"
+    },
+    {
+        "card_name": "The Fourth Age: Possibility",
+        "number": 342,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "341"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wildform Green",
+        "number": 434,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "433"
+    },
+    {
+        "card_name": "Witch's Covenant",
+        "number": 304,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "303"
+    },
+    {
+        "card_name": "The Stolen City",
+        "number": 343,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "342"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Worldbuidling",
+        "number": 436,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "435"
+    },
+    {
+        "card_name": "Wrath of the Dragon Queen",
+        "number": 305,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "304"
+    },
+    {
+        "card_name": "Thingy",
+        "number": 344,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "343"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Worlds Tour",
+        "number": 437,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "436"
+    },
+    {
+        "card_name": "Pearl Masque",
+        "number": 585,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "584"
+    },
+    {
+        "card_name": "Thirst for Violence",
+        "number": 345,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "344"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Emerald Masque",
+        "number": 589,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "588"
+    },
+    {
+        "card_name": "Form of Yourself",
+        "number": 592,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "591"
+    },
+    {
+        "card_name": "Time Dilation",
+        "number": 346,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "345"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Time is a Flat Circle",
+        "number": 347,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "346"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Too Long, Didn't Read",
+        "number": 348,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "347"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Visionary Sight",
+        "number": 349,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "348"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Westfield's Discontinuity B",
+        "number": 350,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "349"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Westfield's Psychometry",
+        "number": 351,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "350"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wildform Blue",
+        "number": 352,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "351"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ancestral Recall Skill",
+        "number": 580,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "579"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Untapper Device",
+        "number": 581,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "580"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sapphire Masque",
+        "number": 586,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "585"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "A Day at the Beach",
+        "number": 129,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "128"
+    },
+    {
+        "card_name": "Cunning Manipulation",
+        "number": 135,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "134"
+    },
+    {
+        "card_name": "Scarmaker",
+        "number": 137,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "136"
+    },
+    {
+        "card_name": "Rubber Annie, Ringmaster",
+        "number": 139,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "138"
+    },
+    {
+        "card_name": "Angela, Doomed Storyteller",
+        "number": 140,
+        "shape": "transform double faced",
+        "set": "COTD",
+        "position": "139"
+    },
+    {
+        "card_name": "Astra F., Pata-Stronomer",
+        "number": 130,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "129"
+    },
+    {
+        "card_name": "The Stitcher",
+        "number": 136,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "135"
+    },
+    {
+        "card_name": "Watterson's Ambition",
+        "number": 138,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "137"
+    },
+    {
+        "card_name": "Raye Sunlight, Flower Witch",
+        "number": 198,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "197"
+    },
+    {
+        "card_name": "Confession of Love",
+        "number": 141,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "140"
+    },
+    {
+        "card_name": "Backdoor Access",
+        "number": 131,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "130"
+    },
+    {
+        "card_name": "The Many-Masked Murderer",
+        "number": 445,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "444"
+    },
+    {
+        "card_name": "Vex Wilson, Death Witch",
+        "number": 197,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "196"
+    },
+    {
+        "card_name": "Judy F., Pata-Pugilist",
+        "number": 447,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "446"
+    },
+    {
+        "card_name": "Inspiring Survivor",
+        "number": 142,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "141"
+    },
+    {
+        "card_name": "Cedric, Alfheim Archmage",
+        "number": 132,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "131"
+    },
+    {
+        "card_name": "Steal the Blueprints",
+        "number": 446,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "445"
+    },
+    {
+        "card_name": "Intimidation Training",
+        "number": 484,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "483"
+    },
+    {
+        "card_name": "Supernatural Strength",
+        "number": 448,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "447"
+    },
+    {
+        "card_name": "Ivar, Supernaturalist",
+        "number": 143,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "142"
+    },
+    {
+        "card_name": "Dragon Flock Leader",
+        "number": 133,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "132"
+    },
+    {
+        "card_name": "Maven Brown, Raven Witch",
+        "number": 482,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "481"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Welcome to the Circus!",
+        "number": 449,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "448"
+    },
+    {
+        "card_name": "Jenny Everywhere",
+        "number": 144,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "143"
+    },
+    {
+        "card_name": "The Oracle",
+        "number": 134,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "133"
+    },
+    {
+        "card_name": "Stealth Training",
+        "number": 483,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "482"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Strength Training",
+        "number": 485,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "484"
+    },
+    {
+        "card_name": "Moving In",
+        "number": 145,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "144"
+    },
+    {
+        "card_name": "Kind Lee, Protection Witch",
+        "number": 196,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "195"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Twilight Rebirth",
+        "number": 146,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "145"
+    },
+    {
+        "card_name": "Winged \u2014",
+        "number": 203,
+        "shape": "modal double faced",
+        "set": "COTD",
+        "position": "202"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Angela, SN01",
+        "number": 450,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "449"
+    },
+    {
+        "card_name": "Clair F., Pata-Gender",
+        "number": 438,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "437"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jumping Spider",
+        "number": 451,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "450"
+    },
+    {
+        "card_name": "Clive Westfield in...",
+        "number": 439,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "438"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Endurance Training",
+        "number": 486,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "485"
+    },
+    {
+        "card_name": "Melody House",
+        "number": 440,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "439"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Moxie Brown, Mouse Witch",
+        "number": 487,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "486"
+    },
+    {
+        "card_name": "New Model",
+        "number": 441,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "440"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Slice of Life",
+        "number": 488,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "487"
+    },
+    {
+        "card_name": "Plans Gone Awry B",
+        "number": 442,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "441"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fairy Tale",
+        "number": 591,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "590"
+    },
+    {
+        "card_name": "Separate and Combine",
+        "number": 443,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "442"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Weapon Art",
+        "number": 444,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "443"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Flight Training",
+        "number": 481,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "480"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Destroying Angel",
+        "number": 147,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "146"
+    },
+    {
+        "card_name": "Frostfire Weird",
+        "number": 149,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "148"
+    },
+    {
+        "card_name": "Scarmender",
+        "number": 155,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "154"
+    },
+    {
+        "card_name": "Macedonian Sarissa",
+        "number": 156,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "155"
+    },
+    {
+        "card_name": "Attune to Reality",
+        "number": 159,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "158"
+    },
+    {
+        "card_name": "Jenny Nowhere",
+        "number": 148,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "147"
+    },
+    {
+        "card_name": "Game Knight",
+        "number": 150,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "149"
+    },
+    {
+        "card_name": "Food Guy",
+        "number": 462,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "461"
+    },
+    {
+        "card_name": "Molly, Astral Drifter",
+        "number": 157,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "156"
+    },
+    {
+        "card_name": "Mask of Illusions",
+        "number": 160,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "159"
+    },
+    {
+        "card_name": "Pure Joyce, Helpful Witch",
+        "number": 199,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "198"
+    },
+    {
+        "card_name": "Marauder's Dragonship",
+        "number": 151,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "150"
+    },
+    {
+        "card_name": "Hand of the Market",
+        "number": 463,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "462"
+    },
+    {
+        "card_name": "Sunfire Dragon",
+        "number": 158,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "157"
+    },
+    {
+        "card_name": "Tentacled \u2014",
+        "number": 202,
+        "shape": "modal double faced",
+        "set": "COTD",
+        "position": "201"
+    },
+    {
+        "card_name": "Decisive Victory",
+        "number": 452,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "451"
+    },
+    {
+        "card_name": "Reven, Wandering Bard",
+        "number": 152,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "151"
+    },
+    {
+        "card_name": "Strengthened by Suffering",
+        "number": 464,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "463"
+    },
+    {
+        "card_name": "Blade Rift",
+        "number": 465,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "464"
+    },
+    {
+        "card_name": "Reshape the Multiverse",
+        "number": 466,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "465"
+    },
+    {
+        "card_name": "Heat Death",
+        "number": 453,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "452"
+    },
+    {
+        "card_name": "The Tixel Twins",
+        "number": 153,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "152"
+    },
+    {
+        "card_name": "Poison Training",
+        "number": 490,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "489"
+    },
+    {
+        "card_name": "Reflex Training",
+        "number": 491,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "490"
+    },
+    {
+        "card_name": "UNNAMED",
+        "number": 467,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "466"
+    },
+    {
+        "card_name": "The Metatronian Heirarchy",
+        "number": 454,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "453"
+    },
+    {
+        "card_name": "Watterson, Prodigy",
+        "number": 154,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "153"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Xenos Wildform",
+        "number": 468,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "467"
+    },
+    {
+        "card_name": "Render Obsolete",
+        "number": 455,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "454"
+    },
+    {
+        "card_name": "Henry F., Pata-Matician",
+        "number": 200,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "199"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Teleportation Training",
+        "number": 492,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "491"
+    },
+    {
+        "card_name": "Sublime Inversion",
+        "number": 456,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "455"
+    },
+    {
+        "card_name": "Rematch",
+        "number": 201,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "200"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Healing Training",
+        "number": 489,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "488"
+    },
+    {
+        "card_name": "Andromeda's Limiter",
+        "number": 457,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "456"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Dealer's Luck",
+        "number": 458,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "457"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Endless Iteration",
+        "number": 459,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "458"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marlin Model Alpha",
+        "number": 460,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "459"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Twist of Fortune",
+        "number": 461,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "460"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Detective Westfield",
+        "number": 172,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "171"
+    },
+    {
+        "card_name": "Ariel Vivelia",
+        "number": 166,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "165"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Granny, Combat Sage",
+        "number": 176,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "175"
+    },
+    {
+        "card_name": "Aarie Cedricsdottir",
+        "number": 161,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "160"
+    },
+    {
+        "card_name": "Devourer of Hope",
+        "number": 173,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "172"
+    },
+    {
+        "card_name": "Reven Novano",
+        "number": 189,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "188"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tyler, Tavern Keeper",
+        "number": 193,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "192"
+    },
+    {
+        "card_name": "Alfheim Armed Forces",
+        "number": 165,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "164"
+    },
+    {
+        "card_name": "Old Man Loki",
+        "number": 186,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "185"
+    },
+    {
+        "card_name": "Reven, the Showstopper",
+        "number": 190,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "189"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Star of Heaven",
+        "number": 480,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "479"
+    },
+    {
+        "card_name": "High King Vidar",
+        "number": 178,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "177"
+    },
+    {
+        "card_name": "Ronan, Head of Operations",
+        "number": 191,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "190"
+    },
+    {
+        "card_name": "The Overlord",
+        "number": 475,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "474"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Madam Universe, Mayor",
+        "number": 180,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "179"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Queen Alice",
+        "number": 476,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "475"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vignette",
+        "number": 195,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "194"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reven, SN02",
+        "number": 477,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "476"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Reven, Torture Poet",
+        "number": 478,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "477"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Alexandria Armed Forces A",
+        "number": 163,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "162"
+    },
+    {
+        "card_name": "Everybody, Art Elemental A",
+        "number": 174,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "173"
+    },
+    {
+        "card_name": "Love Thy Scars",
+        "number": 473,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "472"
+    },
+    {
+        "card_name": "Adalinda, Dragonspeaker",
+        "number": 162,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "161"
+    },
+    {
+        "card_name": "Fortune Teller Lady",
+        "number": 471,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "470"
+    },
+    {
+        "card_name": "Alexandria Armed Forces B",
+        "number": 164,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "163"
+    },
+    {
+        "card_name": "Experiment 111, the Mimic",
+        "number": 175,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "174"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Castor and Pollux Dioscuri",
+        "number": 170,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "169"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Ashley, Alter Ego",
+        "number": 167,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "166"
+    },
+    {
+        "card_name": "Magnus Arneson, Explorer",
+        "number": 181,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "180"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Granny, Enlightened Mentor",
+        "number": 472,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "471"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "AXS Harper",
+        "number": 169,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "168"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "President Leonidas",
+        "number": 188,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "187"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seven Months War",
+        "number": 479,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "478"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Avatar of Metatron",
+        "number": 168,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "167"
+    },
+    {
+        "card_name": "Heracles, the Challenger",
+        "number": 177,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "176"
+    },
+    {
+        "card_name": "J.P. Watterson",
+        "number": 179,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "178"
+    },
+    {
+        "card_name": "Metatron's Verdict",
+        "number": 183,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "182"
+    },
+    {
+        "card_name": "Molly and Aarie, Newlywed",
+        "number": 184,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "183"
+    },
+    {
+        "card_name": "Noah, Freelance Alchemist",
+        "number": 185,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "184"
+    },
+    {
+        "card_name": "Mad Harry, Chaos Queen",
+        "number": 474,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "473"
+    },
+    {
+        "card_name": "Cosmic Coronation",
+        "number": 171,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "170"
+    },
+    {
+        "card_name": "Metapattern",
+        "number": 182,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "181"
+    },
+    {
+        "card_name": "Phalanx, Civil Militia",
+        "number": 187,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "186"
+    },
+    {
+        "card_name": "Spear of Destiny",
+        "number": 192,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "191"
+    },
+    {
+        "card_name": "Ubu Roi",
+        "number": 194,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "193"
+    },
+    {
+        "card_name": "Battle Guy A",
+        "number": 469,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "468"
+    },
+    {
+        "card_name": "Battle Guy B",
+        "number": 470,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "469"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Astral Aperture A",
+        "number": 1,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "0"
+    },
+    {
+        "card_name": "Children of the Worm",
+        "number": 2,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "1"
+    },
+    {
+        "card_name": "Everybody, Art Elemental B",
+        "number": 3,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "2"
+    },
+    {
+        "card_name": "Fusion Tutoring",
+        "number": 4,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "3"
+    },
+    {
+        "card_name": "The Hero",
+        "number": 5,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "4"
+    },
+    {
+        "card_name": "Homunculus Prototype",
+        "number": 6,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "5"
+    },
+    {
+        "card_name": "Humble Heritage",
+        "number": 7,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "6"
+    },
+    {
+        "card_name": "Leyline of Frost",
+        "number": 8,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "7"
+    },
+    {
+        "card_name": "Aetheric Resonator",
+        "number": 204,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "203"
+    },
+    {
+        "card_name": "Artist's Palette",
+        "number": 205,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "204"
+    },
+    {
+        "card_name": "Blood Lotus",
+        "number": 206,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "205"
+    },
+    {
+        "card_name": "Gathraxi Astroformer",
+        "number": 207,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "206"
+    },
+    {
+        "card_name": "Gathraxi Cosmoformer",
+        "number": 208,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "207"
+    },
+    {
+        "card_name": "Gathraxi Terraformer",
+        "number": 209,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "208"
+    },
+    {
+        "card_name": "Golden Apple",
+        "number": 210,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "209"
+    },
+    {
+        "card_name": "Hero's Memorial",
+        "number": 211,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "210"
+    },
+    {
+        "card_name": "Jukebox",
+        "number": 212,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "211"
+    },
+    {
+        "card_name": "Map of the Multiverse",
+        "number": 213,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "212"
+    },
+    {
+        "card_name": "Molly's Eyepatch",
+        "number": 214,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "213"
+    },
+    {
+        "card_name": "The Morphblade",
+        "number": 215,
+        "shape": "planeswalker",
+        "set": "COTD",
+        "position": "214"
+    },
+    {
+        "card_name": "Mox Amethyst",
+        "number": 216,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "215"
+    },
+    {
+        "card_name": "The Philosopher's Stone",
+        "number": 217,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "216"
+    },
+    {
+        "card_name": "Satanas' Cellphone",
+        "number": 218,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "217"
+    },
+    {
+        "card_name": "Three-Sided Coin",
+        "number": 219,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "218"
+    },
+    {
+        "card_name": "Watterson's Panopticon",
+        "number": 220,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "219"
+    },
+    {
+        "card_name": "Weapons of Mass Production",
+        "number": 221,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "220"
+    },
+    {
+        "card_name": "Born on Earth",
+        "number": 271,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "270"
+    },
+    {
+        "card_name": "Chaos Magic",
+        "number": 272,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "271"
+    },
+    {
+        "card_name": "Custom Character",
+        "number": 273,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "272"
+    },
+    {
+        "card_name": "Reshape Identity",
+        "number": 274,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "273"
+    },
+    {
+        "card_name": "Rose, Background",
+        "number": 275,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "274"
+    },
+    {
+        "card_name": "You, Background",
+        "number": 276,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "275"
+    },
+    {
+        "card_name": "Airship",
+        "number": 493,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "492"
+    },
+    {
+        "card_name": "Atlas of Krokrvegr",
+        "number": 494,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "493"
+    },
+    {
+        "card_name": "Birthday Cake",
+        "number": 495,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "494"
+    },
+    {
+        "card_name": "Coalition Banner",
+        "number": 496,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "495"
+    },
+    {
+        "card_name": "Dimensional Lodestone",
+        "number": 497,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "496"
+    },
+    {
+        "card_name": "Dragon Fossil",
+        "number": 498,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "497"
+    },
+    {
+        "card_name": "Family Crest",
+        "number": 499,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "498"
+    },
+    {
+        "card_name": "Gathmori Aetherskiff",
+        "number": 500,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "499"
+    },
+    {
+        "card_name": "Guardian Minotaur",
+        "number": 501,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "500"
+    },
+    {
+        "card_name": "Launch Shuttle",
+        "number": 502,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "501"
+    },
+    {
+        "card_name": "Mox Aetherium",
+        "number": 503,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "502"
+    },
+    {
+        "card_name": "Mug of Ale",
+        "number": 504,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "503"
+    },
+    {
+        "card_name": "Paradigm Shift Thingy",
+        "number": 505,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "504"
+    },
+    {
+        "card_name": "Reality Anchor Alpha",
+        "number": 506,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "505"
+    },
+    {
+        "card_name": "Reality Anchor Beta",
+        "number": 507,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "506"
+    },
+    {
+        "card_name": "Reality Anchor Delta",
+        "number": 508,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "507"
+    },
+    {
+        "card_name": "Reality Anchor Gamma",
+        "number": 509,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "508"
+    },
+    {
+        "card_name": "Reality Anchor Omega",
+        "number": 510,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "509"
+    },
+    {
+        "card_name": "S.C.O.U.T.",
+        "number": 511,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "510"
+    },
+    {
+        "card_name": "Sunstone and Moonstone",
+        "number": 512,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "511"
+    },
+    {
+        "card_name": "Training Weights",
+        "number": 514,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "513"
+    },
+    {
+        "card_name": "Very Strange Object",
+        "number": 515,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "514"
+    },
+    {
+        "card_name": "The Voyager, SN07",
+        "number": 516,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "515"
+    },
+    {
+        "card_name": "Wizard's Spellbook",
+        "number": 517,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "516"
+    },
+    {
+        "card_name": "World in a Bottle",
+        "number": 518,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "517"
+    },
+    {
+        "card_name": "Grandmaster Clock",
+        "number": 576,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "575"
+    },
+    {
+        "card_name": "Power Lines",
+        "number": 577,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "576"
+    },
+    {
+        "card_name": "Summon Simulacrum",
+        "number": 579,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "578"
+    },
+    {
+        "card_name": "I Contain Infinite Worlds",
+        "number": 590,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "589"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Frozen Field",
+        "number": 545,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "544"
+    },
+    {
+        "card_name": "Frozen Lake",
+        "number": 546,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "545"
+    },
+    {
+        "card_name": "The Black Manor",
+        "number": 228,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "227"
+    },
+    {
+        "card_name": "Frozen Peak",
+        "number": 548,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "547"
+    },
+    {
+        "card_name": "Dryad Arbor",
+        "number": 533,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "532"
+    },
+    {
+        "card_name": "Thriving Town W",
+        "number": 572,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "571"
+    },
+    {
+        "card_name": "Thriving Town U",
+        "number": 571,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "570"
+    },
+    {
+        "card_name": "Frozen Moor",
+        "number": 547,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "546"
+    },
+    {
+        "card_name": "Thriving Town R",
+        "number": 570,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "569"
+    },
+    {
+        "card_name": "Frozen Wood",
+        "number": 549,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "548"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thriving Town B",
+        "number": 568,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "567"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Thriving Town G",
+        "number": 569,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "568"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Untap Atlas",
+        "number": 584,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "583"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Cave WU",
+        "number": 530,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "529"
+    },
+    {
+        "card_name": "Cave UB",
+        "number": 527,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "526"
+    },
+    {
+        "card_name": "Cave BR",
+        "number": 522,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "521"
+    },
+    {
+        "card_name": "Cave RG",
+        "number": 525,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "524"
+    },
+    {
+        "card_name": "Cave GW",
+        "number": 524,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "523"
+    },
+    {
+        "card_name": "Food Land WU",
+        "number": 544,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "543"
+    },
+    {
+        "card_name": "Food Land UB",
+        "number": 541,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "540"
+    },
+    {
+        "card_name": "Food Land BR",
+        "number": 536,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "535"
+    },
+    {
+        "card_name": "Food Land RG",
+        "number": 539,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "538"
+    },
+    {
+        "card_name": "Food Land GW",
+        "number": 538,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "537"
+    },
+    {
+        "card_name": "Funky Land",
+        "number": 550,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "549"
+    },
+    {
+        "card_name": "Planet Land UB",
+        "number": 561,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "560"
+    },
+    {
+        "card_name": "Planet Land BR",
+        "number": 556,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "555"
+    },
+    {
+        "card_name": "Planet Land RG",
+        "number": 559,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "558"
+    },
+    {
+        "card_name": "Planet Land GW",
+        "number": 558,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "557"
+    },
+    {
+        "card_name": "Planet Land WU",
+        "number": 564,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "563"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Spirit Realm",
+        "number": 566,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "565"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Cave WB",
+        "number": 529,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "528"
+    },
+    {
+        "card_name": "Mt. Apollyon",
+        "number": 234,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "233"
+    },
+    {
+        "card_name": "Cave BG",
+        "number": 521,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "520"
+    },
+    {
+        "card_name": "Cave RW",
+        "number": 526,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "525"
+    },
+    {
+        "card_name": "Cave GU",
+        "number": 523,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "522"
+    },
+    {
+        "card_name": "Food Land WB",
+        "number": 543,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "542"
+    },
+    {
+        "card_name": "Cave UR",
+        "number": 528,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "527"
+    },
+    {
+        "card_name": "Food Land BG",
+        "number": 535,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "534"
+    },
+    {
+        "card_name": "Food Land RW",
+        "number": 540,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "539"
+    },
+    {
+        "card_name": "Food Land GU",
+        "number": 537,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "536"
+    },
+    {
+        "card_name": "Planet Land WB",
+        "number": 563,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "562"
+    },
+    {
+        "card_name": "Food Land UR",
+        "number": 542,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "541"
+    },
+    {
+        "card_name": "Planet Land BG",
+        "number": 555,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "554"
+    },
+    {
+        "card_name": "Planet Land RW",
+        "number": 560,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "559"
+    },
+    {
+        "card_name": "Planet Land GU",
+        "number": 557,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "556"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Planet Land UR",
+        "number": 562,
+        "shape": "leveler",
+        "set": "COTD",
+        "position": "561"
+    },
+    {
+        "card_name": "Misty Moors",
+        "number": 582,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "581"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Impassable Forest",
+        "number": 578,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "577"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Active Warzone",
+        "number": 222,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "221"
+    },
+    {
+        "card_name": "Amber City",
+        "number": 223,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "222"
+    },
+    {
+        "card_name": "Amethyst City",
+        "number": 224,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "223"
+    },
+    {
+        "card_name": "Astral Nexus",
+        "number": 225,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "224"
+    },
+    {
+        "card_name": "Backdoor",
+        "number": 226,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "225"
+    },
+    {
+        "card_name": "Basalt Ruins",
+        "number": 227,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "226"
+    },
+    {
+        "card_name": "Chromatic Crossroads",
+        "number": 229,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "228"
+    },
+    {
+        "card_name": "Emerald City",
+        "number": 230,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "229"
+    },
+    {
+        "card_name": "Great Unknown",
+        "number": 231,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "230"
+    },
+    {
+        "card_name": "The Imaginary Tavern",
+        "number": 232,
+        "shape": "adventure",
+        "set": "COTD",
+        "position": "231"
+    },
+    {
+        "card_name": "Militia Headquarters",
+        "number": 233,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "232"
+    },
+    {
+        "card_name": "Oddwyld Expanse",
+        "number": 235,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "234"
+    },
+    {
+        "card_name": "Opal City",
+        "number": 236,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "235"
+    },
+    {
+        "card_name": "Ordinary World",
+        "number": 237,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "236"
+    },
+    {
+        "card_name": "Refugee Camp",
+        "number": 238,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "237"
+    },
+    {
+        "card_name": "Sapling of Yggdrasil",
+        "number": 239,
+        "shape": "transform double faced",
+        "set": "COTD",
+        "position": "238"
+    },
+    {
+        "card_name": "Tales from the Imaginary Tavern",
+        "number": 240,
+        "shape": "saga",
+        "set": "COTD",
+        "position": "239"
+    },
+    {
+        "card_name": "Twilight Cavern",
+        "number": 241,
+        "shape": "transform double faced",
+        "set": "COTD",
+        "position": "240"
+    },
+    {
+        "card_name": "Warp Stones",
+        "number": 242,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "241"
+    },
+    {
+        "card_name": "Yggdrasil, Corrupted",
+        "number": 243,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "242"
+    },
+    {
+        "card_name": "Astral Domain",
+        "number": 519,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "518"
+    },
+    {
+        "card_name": "Blank Canvas",
+        "number": 520,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "519"
+    },
+    {
+        "card_name": "Cool Battle Land",
+        "number": 531,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "530"
+    },
+    {
+        "card_name": "Dragon Sanctuary",
+        "number": 532,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "531"
+    },
+    {
+        "card_name": "Faustroll Manor",
+        "number": 534,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "533"
+    },
+    {
+        "card_name": "Heart of the World",
+        "number": 551,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "550"
+    },
+    {
+        "card_name": "Lodestar Beacon",
+        "number": 552,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "551"
+    },
+    {
+        "card_name": "New World Vista",
+        "number": 553,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "552"
+    },
+    {
+        "card_name": "Peaceful Domicile",
+        "number": 554,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "553"
+    },
+    {
+        "card_name": "Rainbow Land",
+        "number": 565,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "564"
+    },
+    {
+        "card_name": "Splash Land",
+        "number": 567,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "566"
+    },
+    {
+        "card_name": "Token Land A",
+        "number": 573,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "572"
+    },
+    {
+        "card_name": "Token Land B",
+        "number": 574,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "573"
+    },
+    {
+        "card_name": "The Urd-Well",
+        "number": 575,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "574"
+    },
+    {
+        "card_name": "Search Atlas",
+        "number": 583,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "582"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Snow-Covered Wastes",
+        "number": 244,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "243"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 245,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "244"
+    },
+    {
+        "card_name": "Plains",
+        "number": 246,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "245"
+    },
+    {
+        "card_name": "Plains",
+        "number": 247,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "246"
+    },
+    {
+        "card_name": "Plains",
+        "number": 248,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "247"
+    },
+    {
+        "card_name": "Plains",
+        "number": 249,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "248"
+    },
+    {
+        "card_name": "Snow-Covered Plains",
+        "number": 250,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "249"
+    },
+    {
+        "card_name": "Island",
+        "number": 251,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "250"
+    },
+    {
+        "card_name": "Island",
+        "number": 252,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "251"
+    },
+    {
+        "card_name": "Island",
+        "number": 253,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "252"
+    },
+    {
+        "card_name": "Island",
+        "number": 254,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "253"
+    },
+    {
+        "card_name": "Snow-Covered Island",
+        "number": 255,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "254"
+    },
+    {
+        "card_name": "Snow-Covered Swamp",
+        "number": 256,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "255"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 257,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "256"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 258,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "257"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 259,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "258"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 260,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "259"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 261,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "260"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 262,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "261"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 263,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "262"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 264,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "263"
+    },
+    {
+        "card_name": "Snow-Covered Mountain",
+        "number": 265,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "264"
+    },
+    {
+        "card_name": "Forest",
+        "number": 266,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "265"
+    },
+    {
+        "card_name": "Forest",
+        "number": 267,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "266"
+    },
+    {
+        "card_name": "Forest",
+        "number": 268,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "267"
+    },
+    {
+        "card_name": "Forest",
+        "number": 269,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "268"
+    },
+    {
+        "card_name": "Snow-Covered Forest",
+        "number": 270,
+        "shape": "normal",
+        "set": "COTD",
+        "position": "269"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
