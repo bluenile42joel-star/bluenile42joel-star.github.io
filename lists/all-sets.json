@@ -1,11 +1,6 @@
 ﻿{
     "sets": [
         {
-            "set_code": "COTD",
-            "set_name": "Card of the Day",
-            "formats": ""
-        },
-        {
             "set_code": "OURO",
             "set_name": "Ouroboros: Inside",
             "formats": ""
