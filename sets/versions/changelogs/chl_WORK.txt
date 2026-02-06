@@ -1,4 +1,70 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Everybody, Art Elemental B added.
+The Man With Many Masks added.
+Saura Pemmin, Morphomancer added.
+Lord Maxwell added.
+The Nameless Rider added.
+Samael, the Reaper added.
+R, rrr Rrrrrrrr added.
+R, the Gunsmith added.
+Puck, Fae Harlequin added.
+Paradoxical Architecture added.
+Raiz, Curious Cultivator added.
+Volundr, Seeker of Mt. King added.
+The World Tree Sprouts added.
+Andromeda, Star Soldier added.
+Astra F., Pata-Stronomer added.
+Stoneface Jones added.
+Fera Wolf added.
+Rubber Annie, Ringmaster added.
+Jenny Everywhere added.
+Edwin Odd Edd Odwin added.
+Jenny Nowhere added.
+Adalinda, Dragonspeaker added.
+Ariel Vivelia added.
+Beth Cardinal, Aleph Naut added.
+Captain Beatrice Crown added.
+Castor and Pollux Dioscuri added.
+Everybody, Art Elemental A added.
+Jem, Intrepid Pilgrim added.
+Madam Universe, Mayor added.
+Magnus Arneson, Explorer added.
+Moirai, UNNAMED added.
+Noah, Freelance Alchemist added.
+Ubu Roi added.
+Kind Lee, Protection Witch added.
+Vex Wilson, Death Witch added.
+Raye Sunlight, Flower Witch added.
+Pure Joyce, Helpful Witch added.
+Henry F., Pata-Matician added.
+Hero's Memorial added.
+Sapling of Yggdrasil added.
+Grandmaster Clock added.
+Power Lines added.
+Impassable Forest added.
+Mt. King added.
+Pearl Masque added.
+Sapphire Masque added.
+Jet Masque added.
+Ruby Masque added.
+Emerald Masque added.
+.Template: Boardgame added.
+Mestra, the Boundless added.
+Flickerwisp added.
+Clone added.
+Mulldrifter added.
+Desecration Elemental added.
+Life of the Party added.
+War Elemental added.
+Titan of Industry added.
+Wheel of Sun and Moon added.
+Thought Vessel added.
+
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
