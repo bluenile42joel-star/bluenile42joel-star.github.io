@@ -1,0 +1,832 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Homunculus Prototype",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Homunculus",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Leyline of Frost",
+			"rarity": "special",
+			"mana_cost": "{2}{S}{S}",
+			"type": "Snow Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Absence Elemental",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Begin the Masquerade",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Down the Rabbit Hole",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Fold Up",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "Gods' Ire",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Soul Sisters",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/7.jpg"
+			}
+		},
+		{
+			"name": "Sourdough Soldier",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Food Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/8.jpg"
+			}
+		},
+		{
+			"name": "Synthetic Life",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/9.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Meadows",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/10.jpg"
+			}
+		},
+		{
+			"name": "Vanishing Point",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/11.jpg"
+			}
+		},
+		{
+			"name": "Welcoming Entrance",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Room",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/12.jpg"
+			}
+		},
+		{
+			"name": "Behold the New Worlds",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/13.jpg"
+			}
+		},
+		{
+			"name": "Case of the Living Mystery",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Case Detective",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "Circle of Transmutation",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/15.jpg"
+			}
+		},
+		{
+			"name": "Civilianize",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Cloning Vat",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Don't Be Ridiculous!",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Envision",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/19.jpg"
+			}
+		},
+		{
+			"name": "Run on Thin Air",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/20.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Lakes",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/21.jpg"
+			}
+		},
+		{
+			"name": "Void Rabbit",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Rabbit",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/22.jpg"
+			}
+		},
+		{
+			"name": "Death Elemental",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elemental Skeleton",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/23.jpg"
+			}
+		},
+		{
+			"name": "Evolved Manhunter",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Homunculus Horror",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/24.jpg"
+			}
+		},
+		{
+			"name": "Nilpotence",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/25.jpg"
+			}
+		},
+		{
+			"name": "Pincing —",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Scorpion",
+			"collector_number": "27",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/26_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/26_front.jpg"
+			}
+		},
+		{
+			"name": "Step On",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/27.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Moors",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/28.jpg"
+			}
+		},
+		{
+			"name": "Dragon's Soul",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Enchantment — Dragon Aura",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/29.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Cliffs",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/30.jpg"
+			}
+		},
+		{
+			"name": "Collector of Lost Things",
+			"rarity": "special",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment Creature — Ouphe",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/31.jpg"
+			}
+		},
+		{
+			"name": "Commune with Dragons",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/32.jpg"
+			}
+		},
+		{
+			"name": "Dragon Migration",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/33.jpg"
+			}
+		},
+		{
+			"name": "Explore the House",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/34.jpg"
+			}
+		},
+		{
+			"name": "Frost Channeler",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Elf Druid",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/35.jpg"
+			}
+		},
+		{
+			"name": "Go Feral",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/36.jpg"
+			}
+		},
+		{
+			"name": "Grasping —",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Plant",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/37_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/37_front.jpg"
+			}
+		},
+		{
+			"name": "Living Equation",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/38.jpg"
+			}
+		},
+		{
+			"name": "Tyrant of the Woods",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/39.jpg"
+			}
+		},
+		{
+			"name": "Worldmaking A",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/40.jpg"
+			}
+		},
+		{
+			"name": "Worldmaking B",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/41.jpg"
+			}
+		},
+		{
+			"name": "Worlds within Worlds",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/42.jpg"
+			}
+		},
+		{
+			"name": "Dragon Flock Leader",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/43.jpg"
+			}
+		},
+		{
+			"name": "Frostfire Weird",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Elemental Weird",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/44.jpg"
+			}
+		},
+		{
+			"name": "Game Knight",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/45.jpg"
+			}
+		},
+		{
+			"name": "Marauder's Dragonship",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Kindred Artifact — Dragon Vehicle",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/46.jpg"
+			}
+		},
+		{
+			"name": "Sunfire Dragon",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/47.jpg"
+			}
+		},
+		{
+			"name": "Mask of Illusions",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/48.jpg"
+			}
+		},
+		{
+			"name": "Devourer of Hope",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Enchantment Creature — Nightmare Horror",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/49.jpg"
+			}
+		},
+		{
+			"name": "Slice of Life",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/50.jpg"
+			}
+		},
+		{
+			"name": "Slice of Life",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/51.jpg"
+			}
+		},
+		{
+			"name": "Tentacled —",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Octopus Ooze",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/52_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/52_front.jpg"
+			}
+		},
+		{
+			"name": "Winged —",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Bird",
+			"collector_number": "54",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/53_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/53_front.jpg"
+			}
+		},
+		{
+			"name": "Aetheric Resonator",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/54.jpg"
+			}
+		},
+		{
+			"name": "Artist's Palette",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/55.jpg"
+			}
+		},
+		{
+			"name": "The Philosopher's Stone",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "Amber City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/57.jpg"
+			}
+		},
+		{
+			"name": "Amethyst City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/58.jpg"
+			}
+		},
+		{
+			"name": "Basalt Ruins",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/59.jpg"
+			}
+		},
+		{
+			"name": "Belvedere Land Black",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/60.jpg"
+			}
+		},
+		{
+			"name": "Belvedere Land Blue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/61.jpg"
+			}
+		},
+		{
+			"name": "Belvedere Land Green",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/62.jpg"
+			}
+		},
+		{
+			"name": "Belvedere Land Red",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/63.jpg"
+			}
+		},
+		{
+			"name": "Belvedere Land White",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Crossroads",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/65.jpg"
+			}
+		},
+		{
+			"name": "Emerald City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/66.jpg"
+			}
+		},
+		{
+			"name": "Great Unknown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/67.jpg"
+			}
+		},
+		{
+			"name": "Mt. Apollyon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/68.jpg"
+			}
+		},
+		{
+			"name": "Oddwyld Expanse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/69.jpg"
+			}
+		},
+		{
+			"name": "Opal City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/70.jpg"
+			}
+		},
+		{
+			"name": "Twilight Cavern",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "72",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/71_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/71_front.jpg"
+			}
+		},
+	]
+
+[cube(15)]
+	1 Homunculus Prototype
+	1 Leyline of Frost
+	1 Absence Elemental
+	1 Begin the Masquerade
+	1 Down the Rabbit Hole
+	1 Fold Up
+	1 Gods' Ire
+	1 Soul Sisters
+	1 Sourdough Soldier
+	1 Synthetic Life
+	1 Tyrant of the Meadows
+	1 Vanishing Point
+	1 Welcoming Entrance
+	1 Behold the New Worlds
+	1 Case of the Living Mystery
+	1 Circle of Transmutation
+	1 Civilianize
+	1 Cloning Vat
+	1 Don't Be Ridiculous!
+	1 Envision
+	1 Run on Thin Air
+	1 Tyrant of the Lakes
+	1 Void Rabbit
+	1 Death Elemental
+	1 Evolved Manhunter
+	1 Nilpotence
+	1 Pincing —
+	1 Step On
+	1 Tyrant of the Moors
+	1 Dragon's Soul
+	1 Tyrant of the Cliffs
+	1 Collector of Lost Things
+	1 Commune with Dragons
+	1 Dragon Migration
+	1 Explore the House
+	1 Frost Channeler
+	1 Go Feral
+	1 Grasping —
+	1 Living Equation
+	1 Tyrant of the Woods
+	1 Worldmaking A
+	1 Worldmaking B
+	1 Worlds within Worlds
+	1 Dragon Flock Leader
+	1 Frostfire Weird
+	1 Game Knight
+	1 Marauder's Dragonship
+	1 Sunfire Dragon
+	1 Mask of Illusions
+	1 Devourer of Hope
+	1 Slice of Life
+	1 Slice of Life
+	1 Tentacled —
+	1 Winged —
+	1 Aetheric Resonator
+	1 Artist's Palette
+	1 The Philosopher's Stone
+	1 Amber City
+	1 Amethyst City
+	1 Basalt Ruins
+	1 Belvedere Land Black
+	1 Belvedere Land Blue
+	1 Belvedere Land Green
+	1 Belvedere Land Red
+	1 Belvedere Land White
+	1 Chromatic Crossroads
+	1 Emerald City
+	1 Great Unknown
+	1 Mt. Apollyon
+	1 Oddwyld Expanse
+	1 Opal City
+	1 Twilight Cavern
