@@ -1,4 +1,206 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Fusion Tutoring added.
+Clash of Immortals added.
+Clash of Immortals added.
+Clash of Immortals added.
+Eternal Recall added.
+Evil's End added.
+Harness Divinity added.
+Let Go added.
+Miracle Fusion added.
+The Multiverse Trembles added.
+The Multiverse Trembles added.
+The Multiverse Trembles added.
+Ontological Paradox added.
+Stop the Fight added.
+Superhuman Reflexes added.
+Abdicate added.
+Archetypal Imagination added.
+Shape Change added.
+Ten Thousand Years added.
+Thirst for Adventure added.
+Thirst for Greatness added.
+Abrupt End added.
+Callous Betrayal added.
+False Love's Kiss added.
+Gone Too Soon added.
+Loose Ends added.
+Not Strong Enough added.
+Become Omnipotent added.
+Falling Out added.
+Limits Broken added.
+Prelude to Invasion added.
+Traumatic Scar added.
+Unexpexted Reunion added.
+Worldbreaker's Oath added.
+Rebuild from Ruin added.
+Scarmaker added.
+Supernatural Strength added.
+Confession of Love added.
+Inspiring Survivor added.
+Destroying Angel added.
+Scarmender added.
+Attune to Reality added.
+Cosmic Coronation added.
+Metapattern added.
+Spear of Destiny added.
+Vignette added.
+Flight Training added.
+Intimidation Training added.
+Strength Training added.
+Endurance Training added.
+Restoration Training added.
+Rematch added.
+Poison Training added.
+Reflex Training added.
+Teleportation Training added.
+Blood Lotus added.
+Golden Apple added.
+Map of the Multiverse added.
+Molly's Eyepatch added.
+Mox Amethyst added.
+Active Warzone added.
+Ordinary World added.
+I Contain Infinite Worlds added.
+Aetherdynamics added.
+Behold the Multiverse added.
+Behold the Multiverse added.
+Cathartic Reunion added.
+Romantic Rendezvous added.
+Romantic Rendezvous added.
+Once Upon A Time added.
+Colossus Hammer added.
+Hero's Engine added.
+Barkchannel Pathway added.
+Blazemire Verge added.
+Bleachbone Verge added.
+Blightstep Pathway added.
+Branchloft Pathway added.
+Brightclimb Pathway added.
+Clearwater Pathway added.
+Cragcrown Pathway added.
+Darkbore Pathway added.
+Floodfarm Verge added.
+Gloomlake Verge added.
+Hengegate Pathway added.
+Hushwood Verge added.
+Multiversal Passage added.
+Multiversal Passage added.
+Multiversal Passage added.
+Multiversal Passage added.
+Needleverge Pathway added.
+Riverglide Pathway added.
+Riverpyre Verge added.
+Sunbillow Verge added.
+Thornspire Verge added.
+Wastewood Verge added.
+Willowrush Verge added.
+Go Separate Ways added.
+Present the Ring added.
+Aarie's Conjuration added.
+Peaceful Domicile added.
+Citizen added.
+Citizen added.
+Amass Allies added.
+Chased by Wolves added.
+Militia Headquarters added.
+Refugee Camp added.
+Faceless One added.
+Ally Army added.
+Survivor added.
+Wolf added.
+
+
+Happily Ever After
+
+Molly and Aarie, Newlywed
+
+Supportive Parents
+
+Children of the Worm
+
+Artemis, Scourge of Rodents
+
+Fold Up
+
+Go Forth and Destroy
+
+Soul Sisters
+
+Case of the Living Mystery
+
+Sir Thomas, God-Eater
+
+Champion's Triumph
+
+Collector of Lost Things
+
+On the House
+
+Astra F., Pata-Stronomer
+
+Marauder's Dragonship
+
+Ariel Vivelia
+
+Castor and Pollux Dioscuri
+
+Detective Westfield
+
+J.P. Watterson
+
+Tyler, Tavern Keeper
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Weapons of Mass Production
+
+Wedding Ring
+
+Life of the Party
+
+Titan of Industry
+
+The Astral Worm
+
+Copy
+
+Mouse
+
+Rhino Warrior
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Pirate
+
+Star
+
+Angel
+
+Angel
+
+Clue
+
+Food
+
+Treasure
+
+Watterson's Vision
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.
