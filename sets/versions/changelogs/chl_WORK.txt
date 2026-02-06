@@ -1,4 +1,335 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Humble Heritage added.
+Astral Incorporation added.
+Astral Severance added.
+Mass Memory Wipe added.
+Precognition Engine added.
+Demonic Blessing added.
+Omnicide added.
+Soul Tether added.
+Soul Toxin added.
+Tempt With Ambition added.
+Grand Finale added.
+Gathmori Nomad added.
+Ivar's Bestiary added.
+Backdoor Access added.
+Cunning Manipulation added.
+Watterson's Ambition added.
+Twilight Rebirth added.
+Macedonian Sarissa added.
+Alfheim Armed Forces added.
+Avatar of Metatron added.
+AXS Harper added.
+Metatron's Verdict added.
+Phalanx, Civil Militia added.
+Gathraxi Astroformer added.
+Gathraxi Cosmoformer added.
+Gathraxi Terraformer added.
+Jukebox added.
+Satanas' Cellphone added.
+Three-Sided Coin added.
+Watterson's Panopticon added.
+Astral Nexus added.
+Backdoor added.
+The Black Manor added.
+Warp Stones added.
+Form of Yourself added.
+Happily Ever After added.
+Westfield's Eidetic Memory added.
+Crucible of Worlds added.
+Citadel of the Dread Bard added.
+Angela, Doomed Storyteller added.
+Cedric, Alfheim Archmage added.
+Ivar, Supernaturalist added.
+Ronan, Head of Operations added.
+The Morphblade added.
+The Oracle added.
+The Stitcher added.
+Reven Novano added.
+Aarie Cedricsdottir added.
+President Leonidas added.
+High King Vidar added.
+The Hero added.
+Reven, the Showstopper added.
+Watterson, Prodigy added.
+Watterson, Wayward Fire added.
+Davin Tixel added.
+Reika Tixel added.
+The Tixel Twins added.
+Heracles, the Challenger added.
+Molly and Aarie, Newlywed added.
+Supportive Parents added.
+Experiment 111, the Mimic added.
+Granny, Combat Sage added.
+Ashley, Alter Ego added.
+Molly, Astral Drifter added.
+Sword of Hope and Destiny added.
+Vestige of Satanas added.
+Yggdrasil, Corrupted added.
+Old Man Loki added.
+Wedding Ring added.
+Sir Thomas, God-Eater added.
+Detective Westfield added.
+Clue added.
+Champion's Triumph added.
+Treasure added.
+On the House added.
+Tyler, Tavern Keeper added.
+Food added.
+Children of the Worm added.
+Artemis, Scourge of Rodents added.
+Go Forth and Destroy added.
+J.P. Watterson added.
+Slice of Life added.
+Weapons of Mass Production added.
+The Astral Worm added.
+Copy added.
+Mouse added.
+Angel added.
+Angel added.
+Watterson's Vision added.
+Rhino Warrior added.
+Citizen added.
+Citizen added.
+Citizen added.
+Citizen added.
+Star added.
+Pirate added.
+
+Worldmaking A removed.
+Worldmaking B removed.
+Belvedere Land Black removed.
+Belvedere Land Blue removed.
+Belvedere Land Green removed.
+Belvedere Land Red removed.
+Belvedere Land White removed.
+Everybody, Art Elemental B removed.
+Lord Maxwell removed.
+Andromeda, Star Soldier removed.
+Stoneface Jones removed.
+Fera Wolf removed.
+Beth Cardinal, Aleph Naut removed.
+Captain Beatrice Crown removed.
+Everybody, Art Elemental A removed.
+Jem, Intrepid Pilgrim removed.
+Moirai, UNNAMED removed.
+Kind Lee, Protection Witch removed.
+Vex Wilson, Death Witch removed.
+Raye Sunlight, Flower Witch removed.
+Pure Joyce, Helpful Witch removed.
+Sapling of Yggdrasil removed.
+Mt. King removed.
+.Template: Boardgame removed.
+Mestra, the Boundless removed.
+
+Gods' Ire
+
+Sourdough Soldier
+
+Synthetic Life
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Behold the New Worlds
+
+Circle of Transmutation
+
+Civilianize
+
+Cloning Vat
+
+Don't Be Ridiculous!
+
+Envision
+
+Run on Thin Air
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Death Elemental
+
+Evolved Manhunter
+
+Nilpotence
+
+Pincing —
+
+Step On
+
+Tyrant of the Moors
+
+Dragon's Soul
+
+Tyrant of the Cliffs
+
+Commune with Dragons
+
+Dragon Migration
+
+Explore the House
+
+Frost Channeler
+
+Go Feral
+
+Grasping —
+
+Living Equation
+
+Tyrant of the Woods
+
+Worlds within Worlds
+
+Dragon Flock Leader
+
+Frostfire Weird
+
+Game Knight
+
+Sunfire Dragon
+
+Mask of Illusions
+
+Devourer of Hope
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+The Philosopher's Stone
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Chromatic Crossroads
+
+Emerald City
+
+Great Unknown
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Opal City
+
+Twilight Cavern
+
+Paradoxical Architecture
+
+The World Tree Sprouts
+
+Hero's Memorial
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Flickerwisp
+
+Clone
+
+Mulldrifter
+
+Desecration Elemental
+
+War Elemental
+
+Wheel of Sun and Moon
+
+Thought Vessel
+
+Puck, Fae Harlequin
+
+R, rrr Rrrrrrrr
+
+R, the Gunsmith
+
+The Nameless Rider
+
+Samael, the Reaper
+
+Noah, Freelance Alchemist
+
+Volundr, Seeker of Mt. King
+
+Jenny Everywhere
+
+Jenny Nowhere
+
+Adalinda, Dragonspeaker
+
+Magnus Arneson, Explorer
+
+Henry F., Pata-Matician
+
+Madam Universe, Mayor
+
+Ubu Roi
+
+Saura Pemmin, Morphomancer
+
+Raiz, Curious Cultivator
+
+The Man With Many Masks
+
+Edwin Odd Edd Odwin
+
+Rubber Annie, Ringmaster
+
+Castor and Pollux Dioscuri
+
+Soul Sisters
+
+Life of the Party
+
+Fold Up
+
+Case of the Living Mystery
+
+Collector of Lost Things
+
+Ariel Vivelia
+
+Astra F., Pata-Stronomer
+
+Marauder's Dragonship
+
+Slice of Life
+
+Slice of Life
+
+Titan of Industry
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Everybody, Art Elemental B added.
