@@ -1,4 +1,633 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+Explore the House removed.
+Worlds within Worlds removed.
+Jukebox removed.
+Backdoor removed.
+Stop the Fight removed.
+Abrupt End removed.
+Callous Betrayal removed.
+False Love's Kiss removed.
+Gone Too Soon removed.
+Falling Out removed.
+Cathartic Reunion removed.
+Once Upon A Time removed.
+Bleachbone Verge removed.
+Riverpyre Verge removed.
+Sunbillow Verge removed.
+Wastewood Verge removed.
+Willowrush Verge removed.
+On the House removed.
+Tyler, Tavern Keeper removed.
+Chased by Wolves removed.
+Wolf removed.
+
+Children of the Worm
+
+Fusion Tutoring
+
+The Hero
+
+Homunculus Prototype
+
+Humble Heritage
+
+I Contain Infinite Worlds
+
+Leyline of Frost
+
+Absence Elemental
+
+Amass Allies
+
+Artemis, Scourge of Rodents
+
+Astral Incorporation
+
+Astral Severance
+
+Begin the Masquerade
+
+Clash of Immortals
+
+Clash of Immortals
+
+Clash of Immortals
+
+Down the Rabbit Hole
+
+Eternal Recall
+
+Evil's End
+
+Fold Up
+
+Form of Yourself
+
+Go Forth and Destroy
+
+Go Separate Ways
+
+Gods' Ire
+
+Harness Divinity
+
+Let Go
+
+Miracle Fusion
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Ontological Paradox
+
+Present the Ring
+
+Soul Sisters
+
+Sourdough Soldier
+
+Superhuman Reflexes
+
+Synthetic Life
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Aarie's Conjuration
+
+Abdicate
+
+Archetypal Imagination
+
+Behold the New Worlds
+
+Case of the Living Mystery
+
+Circle of Transmutation
+
+Civilianize
+
+Cloning Vat
+
+Don't Be Ridiculous!
+
+Envision
+
+The Man With Many Masks
+rules_text: Draft this card face up.
+As you draft a card, you may remove it from the draft face down.
+Morph {X}
+As this creature is turned face up, you may reveal a creature card with mana vaule X that you removed from the draft with a card named The Man With Many Masks. If you do, this creature becomes a copy of that card, except it's legendary and its name is The Man With Many Masks. => Morph {X}{U}
+As this creature is turned face up, you may have it become a copy of a creature on the battlefield of a creature card in a graveyard with mana value X or less.
+
+Mass Memory Wipe
+
+Precognition Engine
+
+Reika Tixel
+
+Run on Thin Air
+
+Saura Pemmin, Morphomancer
+
+Shape Change
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Death Elemental
+
+Demonic Blessing
+
+Evolved Manhunter
+
+Loose Ends
+
+The Nameless Rider
+
+Nilpotence
+
+Not Strong Enough
+
+Omnicide
+
+Pincing —
+
+Samael, the Reaper
+
+Sir Thomas, God-Eater
+
+Soul Tether
+
+Soul Toxin
+
+Step On
+
+Tempt With Ambition
+
+Tyrant of the Moors
+
+Vestige of Satanas
+
+R, rrr Rrrrrrrr
+
+R, the Gunsmith
+
+Become Omnipotent
+
+Davin Tixel
+
+Dragon's Soul
+
+Grand Finale
+
+Limits Broken
+
+Prelude to Invasion
+
+Puck, Fae Harlequin
+
+Traumatic Scar
+
+Tyrant of the Cliffs
+
+Unexpexted Reunion
+
+Watterson, Wayward Fire
+
+Worldbreaker's Oath
+
+Champion's Triumph
+
+Collector of Lost Things
+
+Commune with Dragons
+
+Dragon Migration
+rules_text: As an additional cost to cast this spell, you may behold a Dragon. [i](To behold a Dragon., choose a Dragon. you control or reveal a Dragon. card from your hand.)[/i]
+Search your library for a basic land card. If a Dragon was beheld, instead search your library for any land card. Put that card onto the battlefield, then shuffle. => As an additional cost to cast this spell, you may behold a Dragon. [i](To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)[/i]
+Search your library for a basic land card. If a Dragon was beheld, instead search your library for any land card. Put that card onto the battlefield, then shuffle.
+
+Frost Channeler
+
+Gathmori Nomad
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Raiz, Curious Cultivator
+
+Rebuild from Ruin
+
+Tyrant of the Woods
+
+Volundr, Seeker of Mt. King
+
+The World Tree Sprouts
+
+Astra F., Pata-Stronomer
+
+Cedric, Alfheim Archmage
+
+Dragon Flock Leader
+
+The Oracle
+
+Cunning Manipulation
+
+The Stitcher
+
+Scarmaker
+
+Watterson's Ambition
+
+Rubber Annie, Ringmaster
+
+Supernatural Strength
+
+Angela, Doomed Storyteller
+
+Confession of Love
+
+Inspiring Survivor
+
+Ivar, Supernaturalist
+
+Jenny Everywhere
+
+Twilight Rebirth
+
+Destroying Angel
+
+Edwin Odd Edd Odwin
+
+Jenny Nowhere
+
+Frostfire Weird
+
+Game Knight
+
+Marauder's Dragonship
+
+The Tixel Twins
+rules_text: Vigilance, haste
+{W}, {T}: The next artifact spell you cast this turn has affinity for Artificers. [i](This spell costs {1} less to cast for each Artificers. you control.)[/i] => Vigilance, haste
+{W}, {T}: The next artifact spell you cast this turn has affinity for Artificers. [i](This spell costs {1} less to cast for each Artificer you control.)[/i]
+
+Watterson, Prodigy
+
+Scarmender
+
+Macedonian Sarissa
+
+Molly, Astral Drifter
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+Aarie Cedricsdottir
+
+Adalinda, Dragonspeaker
+
+Alfheim Armed Forces
+
+Ariel Vivelia
+
+Ashley, Alter Ego
+
+Avatar of Metatron
+
+AXS Harper
+
+Castor and Pollux Dioscuri
+
+Cosmic Coronation
+
+Detective Westfield
+
+Devourer of Hope
+
+Experiment 111, the Mimic
+
+Granny, Combat Sage
+
+Heracles, the Challenger
+
+High King Vidar
+
+J.P. Watterson
+
+Madam Universe, Mayor
+
+Magnus Arneson, Explorer
+
+Metapattern
+
+Metatron's Verdict
+
+Molly and Aarie, Newlywed
+
+Noah, Freelance Alchemist
+
+Old Man Loki
+
+Phalanx, Civil Militia
+
+President Leonidas
+
+Reven Novano
+
+Reven, the Showstopper
+
+Ronan, Head of Operations
+
+Spear of Destiny
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Exile up to X target nonland permanents. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Exile X target nonland permanents.
+
+Ubu Roi
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Restoration Training
+
+Henry F., Pata-Matician
+
+Rematch
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Blood Lotus
+
+Gathraxi Astroformer
+
+Gathraxi Cosmoformer
+
+Gathraxi Terraformer
+
+Golden Apple
+
+Hero's Memorial
+
+Map of the Multiverse
+
+Molly's Eyepatch
+
+The Morphblade
+
+Mox Amethyst
+
+The Philosopher's Stone
+
+Satanas' Cellphone
+
+Sword of Hope and Destiny
+
+Three-Sided Coin
+
+Watterson's Panopticon
+
+Weapons of Mass Production
+
+Active Warzone
+
+Amber City
+
+Amethyst City
+
+Astral Nexus
+
+Basalt Ruins
+
+The Black Manor
+
+Chromatic Crossroads
+
+Emerald City
+
+Great Unknown
+
+Militia Headquarters
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Opal City
+
+Ordinary World
+
+Peaceful Domicile
+
+Refugee Camp
+
+Twilight Cavern
+
+Warp Stones
+
+Yggdrasil, Corrupted
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Faceless One
+
+Flickerwisp
+
+Happily Ever After
+
+Wedding Ring
+
+Aetherdynamics
+
+Behold the Multiverse
+rules_text: Scry 2, then draw two cards.
+Foretell {1}{U} => Scry 2, then draw two cards.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+
+Behold the Multiverse
+rules_text: Scry 2, then draw two cards.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i] => Scry 2, then draw two cards.
+Foretell {1}{U}
+
+Clone
+
+Mulldrifter
+
+Westfield's Eidetic Memory
+
+Desecration Elemental
+
+Life of the Party
+
+Romantic Rendezvous
+
+Romantic Rendezvous
+
+War Elemental
+
+Supportive Parents
+
+Titan of Industry
+
+Wheel of Sun and Moon
+
+Colossus Hammer
+
+Crucible of Worlds
+
+Hero's Engine
+
+Thought Vessel
+
+Barkchannel Pathway
+
+Blazemire Verge
+
+Blightstep Pathway
+
+Branchloft Pathway
+
+Brightclimb Pathway
+
+Citadel of the Dread Bard
+
+Clearwater Pathway
+
+Cragcrown Pathway
+
+Darkbore Pathway
+
+Floodfarm Verge
+
+Gloomlake Verge
+
+Hengegate Pathway
+
+Hushwood Verge
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Needleverge Pathway
+
+Riverglide Pathway
+
+Thornspire Verge
+
+The Astral Worm
+
+Ally Army
+
+Mouse
+
+Copy
+
+Angel
+
+Angel
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Treasure
+
+Clue
+
+Food
+
+Star
+
+Pirate
+
+Watterson's Vision
+
+Survivor
+
+Rhino Warrior
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.
