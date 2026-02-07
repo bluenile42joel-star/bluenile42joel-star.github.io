@@ -1,4 +1,49 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+...Like Fire added.
+Grand Finale added.
+Liches Get Stiches added.
+Reven, the Showstopper added.
+Watterson, Prodigy added.
+Watterson, Wayward Fire added.
+Watterson's Ambition added.
+Building Heaven added.
+Davin Tixel added.
+Reika Tixel added.
+The Tixel Twins added.
+Andromeda, Atlas Hero added.
+Children of the Worm added.
+Clash of Immortals added.
+Limits Broken added.
+Love Thy Scars added.
+The Astral Worm added.
+The Multiverse Trembles added.
+The Worm That Eats the World added.
+Citizen added.
+Citizen added.
+Moving In added.
+The Wind, The Moon, And Us added.
+Alexander Wept added.
+Alexander, Strongest Mortal added.
+Clash of Immortals added.
+Fire and Fucking Brimstone added.
+Heracles, the Challenger added.
+Prelude to Invasion added.
+The Multiverse Trembles added.
+Abdicate added.
+Cosmic Coronation added.
+Happily Ever After added.
+Molly and Aarie, Newlywed added.
+Rebuild from Ruin added.
+Seven Months War added.
+Supportive Parents added.
+The War of Ideas added.
+Wedding Ring added.
+
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
