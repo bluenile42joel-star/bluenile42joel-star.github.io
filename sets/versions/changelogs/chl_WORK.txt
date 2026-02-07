@@ -1,4 +1,126 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+Behold the Multiverse removed.
+
+Behold the Multiverse
+rules_text: Scry 2, then draw two cards.
+Foretell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i] => Scry 2, then draw two cards.
+Foretell {1}{U}
+
+Clone
+
+Mulldrifter
+
+Westfield's Eidetic Memory
+
+Desecration Elemental
+
+Life of the Party
+
+Romantic Rendezvous
+
+Romantic Rendezvous
+
+War Elemental
+
+Supportive Parents
+
+Titan of Industry
+
+Wheel of Sun and Moon
+
+Colossus Hammer
+
+Crucible of Worlds
+
+Hero's Engine
+
+Thought Vessel
+
+Barkchannel Pathway
+
+Blazemire Verge
+
+Blightstep Pathway
+
+Branchloft Pathway
+
+Brightclimb Pathway
+
+Citadel of the Dread Bard
+
+Clearwater Pathway
+
+Cragcrown Pathway
+
+Darkbore Pathway
+
+Floodfarm Verge
+
+Gloomlake Verge
+
+Hengegate Pathway
+
+Hushwood Verge
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Needleverge Pathway
+
+Riverglide Pathway
+
+Thornspire Verge
+
+The Astral Worm
+
+Ally Army
+
+Mouse
+
+Copy
+
+Angel
+
+Angel
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Treasure
+
+Clue
+
+Food
+
+Star
+
+Pirate
+
+Watterson's Vision
+
+Survivor
+
+Rhino Warrior
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
