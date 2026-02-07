@@ -1,7 +1,7 @@
 ﻿{
     "name": "Interlude",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -970,6 +970,5 @@
             "position": "46",
             "notes": "Design-RW-Free-Slot\nTodo-Art\n\n!group interlude-98\n\nFlavour \u2014 Molly's final words to Reven."
         }
-    ],
-    "version": 2
+    ]
 }

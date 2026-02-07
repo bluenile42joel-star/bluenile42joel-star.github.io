@@ -1,4 +1,58 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Elise Joins the Band added.
+Elise, LGS added.
+Mortimer Joins the Band added.
+Mortimer, LGS added.
+Overwhelming Dread added.
+Sir Thomas, Unnamed added.
+Stitches Joins the Band added.
+Stitches, LGS added.
+Watterson, Innovator added.
+Watterson, Visionary added.
+Elise Strikes Out added.
+Elise, Deadman added.
+Mortimer Strikes Out added.
+Mortimer, Deadman added.
+Stitches Strikes Out added.
+Stitches, Deadman added.
+Aarie's Reading added.
+Fortune Teller Lady added.
+Molly's Reading added.
+Reven's Reading added.
+Birth of Metatron added.
+Guiding Voice added.
+Mad Harry, Chaos Queen added.
+Sparring Regimen added.
+The Demiurge added.
+Begin the Invasion added.
+Burn the World added.
+Disdainful Stroke added.
+Epic Confrontation added.
+Failed Fusion added.
+Hopeless Nightmare added.
+Ruinous Ultimatum added.
+Tormentous Nightmare added.
+Andromeda, God added.
+Ascension of Alexander added.
+Ascension of Mad Harry added.
+Ascension of Molly added.
+Ascension of Westfield added.
+Cosmic Rebirth added.
+Iris, God added.
+Piper, the Next Generation added.
+Plaza of Heroes added.
+Reshape the Multiverse added.
+True Love's Kiss added.
+Wedding Announcement added.
+Farewell added.
+
+
+Behold the Multiverse
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
