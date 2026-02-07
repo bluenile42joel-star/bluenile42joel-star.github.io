@@ -1,4 +1,567 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+Children of the Worm removed.
+Clash of Immortals removed.
+Clash of Immortals removed.
+The Multiverse Trembles removed.
+The Multiverse Trembles removed.
+Abdicate removed.
+Reika Tixel removed.
+R, rrr Rrrrrrrr removed.
+Davin Tixel removed.
+Grand Finale removed.
+Limits Broken removed.
+Prelude to Invasion removed.
+Watterson, Wayward Fire removed.
+Rebuild from Ruin removed.
+Watterson's Ambition removed.
+The Tixel Twins removed.
+Watterson, Prodigy removed.
+Cosmic Coronation removed.
+Heracles, the Challenger removed.
+Molly and Aarie, Newlywed removed.
+Reven, the Showstopper removed.
+Happily Ever After removed.
+Wedding Ring removed.
+Supportive Parents removed.
+The Astral Worm removed.
+
+Fusion Tutoring
+
+The Hero
+
+Homunculus Prototype
+
+Humble Heritage
+
+I Contain Infinite Worlds
+
+Leyline of Frost
+
+Absence Elemental
+
+Amass Allies
+
+Artemis, Scourge of Rodents
+
+Astral Incorporation
+
+Astral Severance
+
+Begin the Masquerade
+
+Clash of Immortals
+
+Down the Rabbit Hole
+
+Eternal Recall
+
+Evil's End
+
+Fold Up
+
+Form of Yourself
+
+Go Forth and Destroy
+
+Go Separate Ways
+
+Gods' Ire
+
+Harness Divinity
+
+Let Go
+
+Miracle Fusion
+
+The Multiverse Trembles
+
+Ontological Paradox
+
+Present the Ring
+
+Soul Sisters
+
+Sourdough Soldier
+
+Superhuman Reflexes
+
+Synthetic Life
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Aarie's Conjuration
+
+Archetypal Imagination
+
+Behold the New Worlds
+
+Case of the Living Mystery
+
+Circle of Transmutation
+
+Civilianize
+
+Cloning Vat
+
+Don't Be Ridiculous!
+
+Envision
+
+The Man With Many Masks
+
+Mass Memory Wipe
+
+Precognition Engine
+
+Run on Thin Air
+
+Saura Pemmin, Morphomancer
+
+Shape Change
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Death Elemental
+
+Demonic Blessing
+
+Evolved Manhunter
+
+Loose Ends
+
+The Nameless Rider
+
+Nilpotence
+
+Not Strong Enough
+
+Omnicide
+
+Pincing —
+
+Samael, the Reaper
+
+Sir Thomas, God-Eater
+
+Soul Tether
+
+Soul Toxin
+
+Step On
+
+Tempt With Ambition
+
+Tyrant of the Moors
+
+Vestige of Satanas
+
+R, the Gunsmith
+
+Become Omnipotent
+
+Dragon's Soul
+
+Puck, Fae Harlequin
+
+Traumatic Scar
+
+Tyrant of the Cliffs
+
+Unexpexted Reunion
+
+Worldbreaker's Oath
+
+Champion's Triumph
+
+Collector of Lost Things
+
+Commune with Dragons
+
+Dragon Migration
+
+Frost Channeler
+
+Gathmori Nomad
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Raiz, Curious Cultivator
+
+Tyrant of the Woods
+
+Volundr, Seeker of Mt. King
+
+The World Tree Sprouts
+
+Astra F., Pata-Stronomer
+
+Backdoor Access
+
+Cedric, Alfheim Archmage
+
+Dragon Flock Leader
+
+The Oracle
+
+Cunning Manipulation
+
+The Stitcher
+
+Scarmaker
+
+Rubber Annie, Ringmaster
+
+Supernatural Strength
+
+Angela, Doomed Storyteller
+
+Confession of Love
+
+Inspiring Survivor
+
+Ivar, Supernaturalist
+
+Jenny Everywhere
+
+Twilight Rebirth
+
+Destroying Angel
+
+Edwin Odd Edd Odwin
+
+Jenny Nowhere
+
+Frostfire Weird
+
+Game Knight
+
+Marauder's Dragonship
+
+Scarmender
+
+Macedonian Sarissa
+
+Molly, Astral Drifter
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+Aarie Cedricsdottir
+
+Adalinda, Dragonspeaker
+
+Alfheim Armed Forces
+
+Ariel Vivelia
+
+Ashley, Alter Ego
+
+Avatar of Metatron
+
+AXS Harper
+
+Castor and Pollux Dioscuri
+
+Detective Westfield
+
+Devourer of Hope
+
+Experiment 111, the Mimic
+
+Granny, Combat Sage
+
+High King Vidar
+
+J.P. Watterson
+
+Madam Universe, Mayor
+
+Magnus Arneson, Explorer
+
+Metapattern
+
+Metatron's Verdict
+
+Noah, Freelance Alchemist
+
+Old Man Loki
+
+Phalanx, Civil Militia
+
+President Leonidas
+
+Reven Novano
+
+Ronan, Head of Operations
+
+Spear of Destiny
+
+Ubu Roi
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Restoration Training
+
+Henry F., Pata-Matician
+
+Rematch
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Blood Lotus
+
+Gathraxi Astroformer
+
+Gathraxi Cosmoformer
+
+Gathraxi Terraformer
+
+Golden Apple
+
+Hero's Memorial
+
+Map of the Multiverse
+
+Molly's Eyepatch
+
+The Morphblade
+
+Mox Amethyst
+
+The Philosopher's Stone
+
+Satanas' Cellphone
+
+Sword of Hope and Destiny
+
+Three-Sided Coin
+
+Watterson's Panopticon
+
+Weapons of Mass Production
+
+Active Warzone
+
+Amber City
+
+Amethyst City
+
+Astral Nexus
+
+Basalt Ruins
+
+The Black Manor
+
+Chromatic Crossroads
+
+Emerald City
+
+Great Unknown
+
+Militia Headquarters
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Opal City
+
+Ordinary World
+
+Peaceful Domicile
+
+Refugee Camp
+
+Twilight Cavern
+
+Warp Stones
+
+Yggdrasil, Corrupted
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Faceless One
+
+Flickerwisp
+
+Aetherdynamics
+
+Behold the Multiverse
+
+Clone
+
+Mulldrifter
+
+Westfield's Eidetic Memory
+
+Desecration Elemental
+
+Life of the Party
+
+Romantic Rendezvous
+
+Romantic Rendezvous
+
+War Elemental
+
+Titan of Industry
+
+Wheel of Sun and Moon
+
+Colossus Hammer
+
+Crucible of Worlds
+
+Hero's Engine
+
+Thought Vessel
+
+Barkchannel Pathway
+
+Blazemire Verge
+
+Blightstep Pathway
+
+Branchloft Pathway
+
+Brightclimb Pathway
+
+Citadel of the Dread Bard
+
+Clearwater Pathway
+
+Cragcrown Pathway
+
+Darkbore Pathway
+
+Floodfarm Verge
+
+Gloomlake Verge
+
+Hengegate Pathway
+
+Hushwood Verge
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Needleverge Pathway
+
+Riverglide Pathway
+
+Thornspire Verge
+
+Ally Army
+
+Mouse
+
+Copy
+
+Angel
+
+Angel
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Treasure
+
+Clue
+
+Food
+
+Star
+
+Pirate
+
+Watterson's Vision
+
+Survivor
+
+Rhino Warrior
+
+
+VERSION 11 CHANGELOG
 ====================
 
 
