@@ -1,0 +1,32 @@
+﻿{
+    "name": "Interlude",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
+    "draft_structure": "cube",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
+    "cards": [
+        {
+            "card_name": "Behold the Multiverse",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Instant",
+            "number": 1,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "Scry 2, then draw two cards.\nForetell {1}{U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]",
+            "flavor_text": "[i]\u201cYou could get lost for days just looking at it.\u201d[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Sam Del Russi",
+            "alias": "",
+            "position": "0",
+            "notes": "Design-CU-Free-Slot\n\n!group interlude-00\n\nFlavour \u2014 Watterson musing about the Multiverse"
+        }
+    ]
+}

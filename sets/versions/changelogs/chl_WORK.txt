@@ -1,4 +1,38 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Grand Finale added.
+Reven, the Showstopper added.
+Watterson, Prodigy added.
+Watterson, Wayward Fire added.
+Watterson's Ambition added.
+Davin Tixel added.
+Reika Tixel added.
+The Tixel Twins added.
+Children of the Worm added.
+Clash of Immortals added.
+Limits Broken added.
+The Astral Worm added.
+The Multiverse Trembles added.
+Citizen added.
+Citizen added.
+Clash of Immortals added.
+Heracles, the Challenger added.
+Prelude to Invasion added.
+The Multiverse Trembles added.
+Abdicate added.
+Cosmic Coronation added.
+Happily Ever After added.
+Molly and Aarie, Newlywed added.
+Rebuild from Ruin added.
+Supportive Parents added.
+Wedding Ring added.
+
+
+Fusion Tutoring
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

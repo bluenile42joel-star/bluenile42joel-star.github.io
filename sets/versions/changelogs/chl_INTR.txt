@@ -1,4 +1,36 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+Grand Finale removed.
+Reven, the Showstopper removed.
+Watterson, Prodigy removed.
+Watterson, Wayward Fire removed.
+Watterson's Ambition removed.
+Davin Tixel removed.
+Reika Tixel removed.
+The Tixel Twins removed.
+Children of the Worm removed.
+Clash of Immortals removed.
+Limits Broken removed.
+The Astral Worm removed.
+The Multiverse Trembles removed.
+Citizen removed.
+Citizen removed.
+Clash of Immortals removed.
+Heracles, the Challenger removed.
+Prelude to Invasion removed.
+The Multiverse Trembles removed.
+Abdicate removed.
+Cosmic Coronation removed.
+Happily Ever After removed.
+Molly and Aarie, Newlywed removed.
+Rebuild from Ruin removed.
+Supportive Parents removed.
+Wedding Ring removed.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.
