@@ -1,4 +1,121 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Elise Joins the Band removed.
+Elise, LGS removed.
+Mortimer Joins the Band removed.
+Mortimer, LGS removed.
+Overwhelming Dread removed.
+Sir Thomas, Unnamed removed.
+Stitches Joins the Band removed.
+Stitches, LGS removed.
+Watterson, Innovator removed.
+Watterson, Visionary removed.
+Elise Strikes Out removed.
+Elise, Deadman removed.
+Mortimer Strikes Out removed.
+Mortimer, Deadman removed.
+Stitches Strikes Out removed.
+Stitches, Deadman removed.
+Aarie's Reading removed.
+Fortune Teller Lady removed.
+Molly's Reading removed.
+Reven's Reading removed.
+Birth of Metatron removed.
+Guiding Voice removed.
+Mad Harry, Chaos Queen removed.
+Sparring Regimen removed.
+The Demiurge removed.
+Begin the Invasion removed.
+Burn the World removed.
+Disdainful Stroke removed.
+Epic Confrontation removed.
+Failed Fusion removed.
+Hopeless Nightmare removed.
+Ruinous Ultimatum removed.
+Tormentous Nightmare removed.
+Andromeda, God removed.
+Ascension of Alexander removed.
+Ascension of Mad Harry removed.
+Ascension of Molly removed.
+Ascension of Westfield removed.
+Cosmic Rebirth removed.
+Iris, God removed.
+Piper, the Next Generation removed.
+Plaza of Heroes removed.
+Reshape the Multiverse removed.
+True Love's Kiss removed.
+Wedding Announcement removed.
+Farewell removed.
+...Like Fire removed.
+Liches Get Stiches removed.
+Building Heaven removed.
+Andromeda, Atlas Hero removed.
+Love Thy Scars removed.
+The Worm That Eats the World removed.
+Moving In removed.
+The Wind, The Moon, And Us removed.
+Alexander Wept removed.
+Alexander, Strongest Mortal removed.
+Fire and Fucking Brimstone removed.
+Seven Months War removed.
+The War of Ideas removed.
+
+Grand Finale
+
+Reven, the Showstopper
+
+Watterson, Prodigy
+
+Watterson, Wayward Fire
+
+Watterson's Ambition
+
+Davin Tixel
+
+Reika Tixel
+
+The Tixel Twins
+
+Children of the Worm
+
+Clash of Immortals
+
+Limits Broken
+
+The Astral Worm
+
+The Multiverse Trembles
+
+Citizen
+
+Citizen
+
+Clash of Immortals
+
+Heracles, the Challenger
+
+Prelude to Invasion
+
+The Multiverse Trembles
+
+Abdicate
+
+Cosmic Coronation
+
+Happily Ever After
+
+Molly and Aarie, Newlywed
+
+Rebuild from Ruin
+
+Supportive Parents
+
+Wedding Ring
+
+
+VERSION 5 CHANGELOG
 ====================
 
 ...Like Fire added.
