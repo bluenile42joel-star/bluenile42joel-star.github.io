@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Farewell
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
