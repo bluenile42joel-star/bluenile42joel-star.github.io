@@ -1,7 +1,7 @@
 ﻿{
     "name": "Interlude",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -548,6 +548,5 @@
             "position": "26",
             "notes": "Design-MW-Free-Slot\nLore-Faction-Phalanx\nMisc-Token-Self\nStyle-Watermark-Phalanx\n\n!group interlude-06"
         }
-    ],
-    "version": 11
+    ]
 }
