@@ -1,4 +1,11 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+The Man With Many Masks removed.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Stop the Fight added.
