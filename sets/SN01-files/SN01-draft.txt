@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Plains",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "1",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Island",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "2",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Swamp",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "3",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Mountain",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "4",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Forest",
-			"rarity": "common",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "5",
@@ -52,6 +52,4 @@
 		}
 	]
 
-[rare(1)]
-[uncommon(3)]
-[common(10)]
+[cube(15)]

@@ -1,4 +1,57 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+The Astral Worm removed.
+Citizen removed.
+Citizen removed.
+
+Children of the Worm
+
+Clash of Immortals
+
+Clash of Immortals
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Abdicate
+
+Davin Tixel
+
+Grand Finale
+
+Limits Broken
+
+Prelude to Invasion
+
+Watterson, Wayward Fire
+
+Rebuild from Ruin
+
+Watterson's Ambition
+
+The Tixel Twins
+
+Watterson, Prodigy
+
+Cosmic Coronation
+
+Heracles, the Challenger
+
+Molly and Aarie, Newlywed
+
+Reven, the Showstopper
+
+Happily Ever After
+
+Wedding Ring
+
+Supportive Parents
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Grand Finale added.

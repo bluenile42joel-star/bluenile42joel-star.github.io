@@ -1,4 +1,513 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Stop the Fight added.
+Recursive Room added.
+Abrupt End added.
+Callous Betrayal added.
+False Love's Kiss added.
+Gone Too Soon added.
+Falling Out added.
+Chased by Wolves added.
+Explore the House added.
+On the House added.
+Worlds within Worlds added.
+Tyler, Tavern Keeper added.
+Jukebox added.
+Backdoor added.
+Cathartic Reunion added.
+Once Upon A Time added.
+Bleachbone Verge added.
+Riverpyre Verge added.
+Sunbillow Verge added.
+Wastewood Verge added.
+Willowrush Verge added.
+The Man With Many Masks added.
+
+Ally Army removed.
+Mouse removed.
+Copy removed.
+Angel removed.
+Angel removed.
+Citizen removed.
+Citizen removed.
+Citizen removed.
+Citizen removed.
+Citizen removed.
+Citizen removed.
+Treasure removed.
+Clue removed.
+Food removed.
+Star removed.
+Pirate removed.
+Watterson's Vision removed.
+Survivor removed.
+Rhino Warrior removed.
+Grand Finale removed.
+Reven, the Showstopper removed.
+Watterson, Prodigy removed.
+Watterson, Wayward Fire removed.
+Watterson's Ambition removed.
+Davin Tixel removed.
+Reika Tixel removed.
+The Tixel Twins removed.
+Children of the Worm removed.
+Clash of Immortals removed.
+Limits Broken removed.
+The Astral Worm removed.
+The Multiverse Trembles removed.
+Citizen removed.
+Citizen removed.
+Clash of Immortals removed.
+Heracles, the Challenger removed.
+Prelude to Invasion removed.
+The Multiverse Trembles removed.
+Abdicate removed.
+Cosmic Coronation removed.
+Happily Ever After removed.
+Molly and Aarie, Newlywed removed.
+Rebuild from Ruin removed.
+Supportive Parents removed.
+Wedding Ring removed.
+
+Superhuman Reflexes
+
+Synthetic Life
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Aarie's Conjuration
+
+Archetypal Imagination
+
+Behold the New Worlds
+
+Case of the Living Mystery
+
+Circle of Transmutation
+
+Civilianize
+
+Cloning Vat
+
+Don't Be Ridiculous!
+
+Envision
+
+The Man With Many Masks
+
+Mass Memory Wipe
+
+Precognition Engine
+
+Run on Thin Air
+
+Saura Pemmin, Morphomancer
+
+Shape Change
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Death Elemental
+
+Demonic Blessing
+
+Evolved Manhunter
+
+Loose Ends
+
+The Nameless Rider
+
+Nilpotence
+
+Not Strong Enough
+
+Omnicide
+
+Pincing —
+
+Samael, the Reaper
+
+Sir Thomas, God-Eater
+
+Soul Tether
+
+Soul Toxin
+
+Step On
+
+Tempt With Ambition
+
+Tyrant of the Moors
+
+Vestige of Satanas
+
+R, the Gunsmith
+
+Become Omnipotent
+
+Dragon's Soul
+
+Puck, Fae Harlequin
+
+Traumatic Scar
+
+Tyrant of the Cliffs
+
+Unexpexted Reunion
+
+Worldbreaker's Oath
+
+Champion's Triumph
+
+Collector of Lost Things
+
+Commune with Dragons
+
+Dragon Migration
+
+Frost Channeler
+
+Gathmori Nomad
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Raiz, Curious Cultivator
+
+Tyrant of the Woods
+
+Volundr, Seeker of Mt. King
+
+The World Tree Sprouts
+
+Astra F., Pata-Stronomer
+
+Backdoor Access
+
+Cedric, Alfheim Archmage
+
+Dragon Flock Leader
+
+The Oracle
+
+Cunning Manipulation
+
+The Stitcher
+
+Scarmaker
+
+Rubber Annie, Ringmaster
+
+Supernatural Strength
+
+Angela, Doomed Storyteller
+
+Confession of Love
+
+Inspiring Survivor
+
+Ivar, Supernaturalist
+
+Jenny Everywhere
+
+Twilight Rebirth
+
+Destroying Angel
+
+Edwin Odd Edd Odwin
+
+Jenny Nowhere
+
+Frostfire Weird
+
+Game Knight
+
+Marauder's Dragonship
+
+Scarmender
+
+Macedonian Sarissa
+
+Molly, Astral Drifter
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+Aarie Cedricsdottir
+
+Adalinda, Dragonspeaker
+
+Alfheim Armed Forces
+
+Ariel Vivelia
+
+Ashley, Alter Ego
+
+Avatar of Metatron
+
+AXS Harper
+
+Castor and Pollux Dioscuri
+
+Detective Westfield
+
+Devourer of Hope
+
+Experiment 111, the Mimic
+
+Granny, Combat Sage
+
+High King Vidar
+
+J.P. Watterson
+
+Madam Universe, Mayor
+
+Magnus Arneson, Explorer
+
+Metapattern
+
+Metatron's Verdict
+
+Noah, Freelance Alchemist
+
+Old Man Loki
+
+Phalanx, Civil Militia
+
+President Leonidas
+
+Reven Novano
+
+Ronan, Head of Operations
+
+Spear of Destiny
+
+Ubu Roi
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Restoration Training
+
+Henry F., Pata-Matician
+
+Rematch
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Blood Lotus
+
+Gathraxi Astroformer
+
+Gathraxi Cosmoformer
+
+Gathraxi Terraformer
+
+Golden Apple
+
+Hero's Memorial
+
+Map of the Multiverse
+
+Molly's Eyepatch
+
+The Morphblade
+
+Mox Amethyst
+
+The Philosopher's Stone
+
+Satanas' Cellphone
+
+Sword of Hope and Destiny
+
+Three-Sided Coin
+
+Watterson's Panopticon
+
+Weapons of Mass Production
+
+Active Warzone
+
+Amber City
+
+Amethyst City
+
+Astral Nexus
+
+Basalt Ruins
+
+The Black Manor
+
+Chromatic Crossroads
+
+Emerald City
+
+Great Unknown
+
+Militia Headquarters
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Opal City
+
+Ordinary World
+
+Peaceful Domicile
+
+Refugee Camp
+
+Twilight Cavern
+
+Warp Stones
+
+Yggdrasil, Corrupted
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Faceless One
+
+Flickerwisp
+
+Aetherdynamics
+
+Behold the Multiverse
+
+Clone
+
+Mulldrifter
+
+Westfield's Eidetic Memory
+
+Desecration Elemental
+
+Life of the Party
+
+Romantic Rendezvous
+
+Romantic Rendezvous
+
+War Elemental
+
+Titan of Industry
+
+Wheel of Sun and Moon
+
+Colossus Hammer
+
+Crucible of Worlds
+
+Hero's Engine
+
+Thought Vessel
+
+Barkchannel Pathway
+
+Blazemire Verge
+
+Blightstep Pathway
+
+Branchloft Pathway
+
+Brightclimb Pathway
+
+Citadel of the Dread Bard
+
+Clearwater Pathway
+
+Cragcrown Pathway
+
+Darkbore Pathway
+
+Floodfarm Verge
+
+Gloomlake Verge
+
+Hengegate Pathway
+
+Hushwood Verge
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Needleverge Pathway
+
+Riverglide Pathway
+
+Thornspire Verge
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Grand Finale added.
