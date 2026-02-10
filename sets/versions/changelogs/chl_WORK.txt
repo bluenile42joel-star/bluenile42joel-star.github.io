@@ -1,4 +1,284 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Righteous Fury added.
+Archangel Apollyon added.
+Ally Army added.
+Mouse added.
+Angel added.
+Angel added.
+Citizen added.
+Citizen added.
+Citizen added.
+Citizen added.
+Citizen added.
+Citizen added.
+Wolf added.
+Star added.
+Pirate added.
+Watterson's Vision added.
+Survivor added.
+Rhino Warrior added.
+
+
+Chased by Wolves
+
+Collector of Lost Things
+
+Commune with Dragons
+
+Dragon Migration
+
+Explore the House
+
+Frost Channeler
+
+Gathmori Nomad
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+On the House
+
+Paradoxical Architecture
+
+Raiz, Curious Cultivator
+
+Tyrant of the Woods
+
+Volundr, Seeker of Mt. King
+
+The World Tree Sprouts
+
+Worlds within Worlds
+
+Astra F., Pata-Stronomer
+
+Backdoor Access
+
+Cedric, Alfheim Archmage
+
+Dragon Flock Leader
+
+The Oracle
+
+Cunning Manipulation
+
+The Stitcher
+
+Scarmaker
+
+Rubber Annie, Ringmaster
+
+Supernatural Strength
+
+Angela, Doomed Storyteller
+
+Confession of Love
+
+Inspiring Survivor
+
+Ivar, Supernaturalist
+
+Jenny Everywhere
+
+Twilight Rebirth
+
+Destroying Angel
+
+Edwin Odd Edd Odwin
+
+Jenny Nowhere
+
+Frostfire Weird
+
+Game Knight
+
+Marauder's Dragonship
+
+Scarmender
+
+Macedonian Sarissa
+
+Molly, Astral Drifter
+
+Ariel Vivelia
+
+Ashley, Alter Ego
+
+Avatar of Metatron
+
+AXS Harper
+
+Castor and Pollux Dioscuri
+
+Detective Westfield
+
+Devourer of Hope
+
+Experiment 111, the Mimic
+
+Slice of Life
+
+Slice of Life
+
+Henry F., Pata-Matician
+
+Astral Nexus
+
+Backdoor
+
+The Black Manor
+
+Chromatic Crossroads
+
+Great Unknown
+
+Militia Headquarters
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Ordinary World
+
+Peaceful Domicile
+
+Refugee Camp
+
+Twilight Cavern
+
+Warp Stones
+
+Yggdrasil, Corrupted
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Faceless One
+
+Flickerwisp
+
+Aetherdynamics
+
+Behold the Multiverse
+
+Clone
+
+Mulldrifter
+
+Westfield's Eidetic Memory
+
+Desecration Elemental
+
+Cathartic Reunion
+
+Life of the Party
+
+Romantic Rendezvous
+
+Romantic Rendezvous
+
+War Elemental
+
+Once Upon A Time
+
+Titan of Industry
+
+Wheel of Sun and Moon
+
+Colossus Hammer
+
+Crucible of Worlds
+
+Hero's Engine
+
+Thought Vessel
+
+Barkchannel Pathway
+
+Blazemire Verge
+
+Bleachbone Verge
+
+Blightstep Pathway
+
+Branchloft Pathway
+
+Brightclimb Pathway
+
+Citadel of the Dread Bard
+
+Clearwater Pathway
+
+Cragcrown Pathway
+
+Darkbore Pathway
+
+Floodfarm Verge
+
+Gloomlake Verge
+
+Hengegate Pathway
+
+Hushwood Verge
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Multiversal Passage
+
+Needleverge Pathway
+
+Riverglide Pathway
+
+Riverpyre Verge
+
+Sunbillow Verge
+
+Thornspire Verge
+
+Wastewood Verge
+
+Willowrush Verge
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Emerald City
+
+Opal City
+
+Champion's Triumph
+
+Granny, Combat Sage
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
