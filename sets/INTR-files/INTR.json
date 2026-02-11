@@ -26,7 +26,7 @@
             "artist": "Sam Del Russi",
             "alias": "",
             "position": "0",
-            "notes": "Design-CU-Free-Slot\n\n!group interlude-00\n\nFlavour \u2014 Watterson musing about the Multiverse"
+            "notes": "Design-CU-Free-Slot\n\n!group interlude-00\n!tag canon\n\nFlavour \u2014 Watterson musing about the Multiverse"
         },
         {
             "card_name": "Grand Finale",
@@ -446,7 +446,7 @@
             "artist": "shouty-y",
             "alias": "",
             "position": "21",
-            "notes": "Design-RW-Free-Slot\nLore-Faction-Phalanx\nStyle-Watermark-Phalanx\n\n!group interlude-06\n!tag<image> yuri"
+            "notes": "Design-RW-Free-Slot\nLore-Faction-Phalanx\nStyle-Watermark-Phalanx\n\n!group interlude-06\n!tag canon\n!tag<image> yuri"
         },
         {
             "card_name": "Molly and Aarie, Newlywed",
@@ -486,7 +486,7 @@
             "artist": "Ilija Mandic",
             "alias": "Planewide Celebration",
             "position": "23",
-            "notes": "Design-RG-Free-Slot\nMisc-Token-Citizen\n\n!group interlude-06"
+            "notes": "Design-RG-Free-Slot\nMisc-Token-Citizen\n\n!group interlude-06\n!tag canon"
         },
         {
             "card_name": "Rebuild from Ruin",
@@ -526,7 +526,7 @@
             "artist": "Laya Rose",
             "alias": "",
             "position": "25",
-            "notes": "Design-UG-Free-Slot\nLore-Character-Aarie\nLore-Character-Molly\nLore-Faction-Phalanx\nStyle-Showcase-Phalanx\nStyle-Watermark-Phalanx\n\n!group interlude-06\n!tag<character> aarie\n!tag<character> molly\n!tag<image> yuri"
+            "notes": "Design-UG-Free-Slot\nLore-Character-Aarie\nLore-Character-Molly\nLore-Faction-Phalanx\nStyle-Showcase-Phalanx\nStyle-Watermark-Phalanx\n\n!group interlude-06\n!tag canon\n!tag<character> aarie\n!tag<character> molly\n!tag<image> yuri"
         },
         {
             "card_name": "Wedding Ring",
@@ -546,7 +546,7 @@
             "artist": "Inkary",
             "alias": "",
             "position": "26",
-            "notes": "Design-MW-Free-Slot\nLore-Faction-Phalanx\nMisc-Token-Self\nStyle-Watermark-Phalanx\n\n!group interlude-06"
+            "notes": "Design-MW-Free-Slot\nLore-Faction-Phalanx\nMisc-Token-Self\nStyle-Watermark-Phalanx\n\n!group interlude-06\n!tag canon"
         },
         {
             "card_name": "Citizen",
@@ -589,5 +589,5 @@
             "notes": "Lore-Character-Aarie\nLore-Faction-Phalanx\nMisc-Token-Citizen\n\n!group interlude-04\n!tag<character> aarie"
         }
     ],
-    "version": 14
+    "version": 15
 }
