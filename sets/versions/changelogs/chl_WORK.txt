@@ -1,4 +1,12 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+New Worlds Dragon Rider added.
+Wrath of the Dragon Queen added.
+
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Clue added.
