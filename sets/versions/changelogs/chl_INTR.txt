@@ -1,4 +1,64 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+Prelude to Invasion removed.
+Happily Ever After removed.
+Multiversewide Celebration removed.
+Supportive Parents removed.
+Wedding Ring removed.
+Citizen removed.
+
+Grand Finale
+
+Reven, the Showstopper
+
+Watterson, Prodigy
+
+Watterson, Wayward Fire
+
+Watterson's Ambition
+
+Davin Tixel
+
+Reika Tixel
+
+The Tixel Twins
+
+Children of the Worm
+
+Clash of Immortals
+
+Limits Broken
+
+The Astral Worm
+
+The Multiverse Trembles
+
+Clash of Immortals
+
+Heracles, the Challenger
+
+The Multiverse Trembles
+
+Abdicate
+
+Cosmic Coronation
+
+Molly and Aarie, Newlywed
+
+Rebuild from Ruin
+
+Citizen
+rules_text: This token is all colors. => 
+pt: 2/2 => 1/1
+
+Citizen
+
+Behold the Multiverse
+
+
+VERSION 16 CHANGELOG
 ====================
 
 No changes.

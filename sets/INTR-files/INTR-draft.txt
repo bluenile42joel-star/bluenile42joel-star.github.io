@@ -1,23 +1,13 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Behold the Multiverse",
-			"rarity": "special",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/0.jpg"
-			}
-		},
-		{
 			"name": "Grand Finale",
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/1.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/0.jpg"
 			}
 		},
 		{
@@ -25,9 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Zombie Elf Bard",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/2.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/1.jpg"
 			}
 		},
 		{
@@ -35,9 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Elemental Scientist",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/3.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/2.jpg"
 			}
 		},
 		{
@@ -45,9 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Creature — Elemental",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/4.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/3.jpg"
 			}
 		},
 		{
@@ -55,9 +45,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/5.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/4.jpg"
 			}
 		},
 		{
@@ -67,7 +57,7 @@
 			"type": "Legendary Creature — Gnome Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/6.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/5.jpg"
 			}
 		},
 		{
@@ -77,7 +67,7 @@
 			"type": "Legendary Creature — Gnome Artificer",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/7.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/6.jpg"
 			}
 		},
 		{
@@ -85,9 +75,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Gnome Artificer",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/8.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/7.jpg"
 			}
 		},
 		{
@@ -97,7 +87,7 @@
 			"type": "Creature — Warlock",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/9.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/8.jpg"
 			}
 		},
 		{
@@ -107,7 +97,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/10.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/9.jpg"
 			}
 		},
 		{
@@ -117,7 +107,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/11.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/10.jpg"
 			}
 		},
 		{
@@ -127,7 +117,7 @@
 			"type": "Token Legendary Creature — Worm Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/12.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/11.jpg"
 			}
 		},
 		{
@@ -137,7 +127,7 @@
 			"type": "Legendary Sorcery",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/13.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/12.jpg"
 			}
 		},
 		{
@@ -147,7 +137,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/14.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/13.jpg"
 			}
 		},
 		{
@@ -155,19 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}{G}{W}",
 			"type": "Legendary Creature — God Warrior",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/15.jpg"
-			}
-		},
-		{
-			"name": "Prelude to Invasion",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/16.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/14.jpg"
 			}
 		},
 		{
@@ -177,7 +157,7 @@
 			"type": "Legendary Sorcery",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/17.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/15.jpg"
 			}
 		},
 		{
@@ -187,7 +167,37 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/16.jpg"
+			}
+		},
+		{
+			"name": "Cosmic Coronation",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/17.jpg"
+			}
+		},
+		{
+			"name": "Molly and Aarie, Newlywed",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Legendary Creature — Human Gnome",
+			"collector_number": "18",
+			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "Rebuild from Ruin",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/19.jpg"
 			}
 		},
 		{
@@ -197,77 +207,7 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/19.jpg"
-			}
-		},
-		{
-			"name": "Cosmic Coronation",
-			"rarity": "special",
-			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Enchantment",
-			"collector_number": "17",
-			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/20.jpg"
-			}
-		},
-		{
-			"name": "Happily Ever After",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/21.jpg"
-			}
-		},
-		{
-			"name": "Molly and Aarie, Newlywed",
-			"rarity": "special",
-			"mana_cost": "{R}{G}{W}{U}",
-			"type": "Legendary Creature — Human Gnome",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/22.jpg"
-			}
-		},
-		{
-			"name": "Multiversewide Celebration",
-			"rarity": "special",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/23.jpg"
-			}
-		},
-		{
-			"name": "Rebuild from Ruin",
-			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/24.jpg"
-			}
-		},
-		{
-			"name": "Supportive Parents",
-			"rarity": "special",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Citizen",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/25.jpg"
-			}
-		},
-		{
-			"name": "Wedding Ring",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/26.jpg"
 			}
 		},
 		{
@@ -277,23 +217,22 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/27.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/21.jpg"
 			}
 		},
 		{
-			"name": "Citizen",
+			"name": "Behold the Multiverse",
 			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Creature — Citizen",
-			"collector_number": "4",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/28.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/22.jpg"
 			}
 		}
 	]
 
 [cube(15)]
-	1 Behold the Multiverse
 	1 Grand Finale
 	1 Reven, the Showstopper
 	1 Watterson, Prodigy
@@ -308,13 +247,9 @@
 	1 The Multiverse Trembles
 	1 Clash of Immortals
 	1 Heracles, the Challenger
-	1 Prelude to Invasion
 	1 The Multiverse Trembles
 	1 Abdicate
 	1 Cosmic Coronation
-	1 Happily Ever After
 	1 Molly and Aarie, Newlywed
-	1 Multiversewide Celebration
 	1 Rebuild from Ruin
-	1 Supportive Parents
-	1 Wedding Ring
+	1 Behold the Multiverse

@@ -1,4 +1,135 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Shadowmind Invocaiton added.
+Prelude to Invasion added.
+
+Faceless One removed.
+Flickerwisp removed.
+Aetherdynamics removed.
+Behold the Multiverse removed.
+Clone removed.
+Mulldrifter removed.
+Westfield's Eidetic Memory removed.
+Desecration Elemental removed.
+Cathartic Reunion removed.
+Life of the Party removed.
+Romantic Rendezvous removed.
+Romantic Rendezvous removed.
+War Elemental removed.
+Once Upon A Time removed.
+Titan of Industry removed.
+Wheel of Sun and Moon removed.
+Colossus Hammer removed.
+Crucible of Worlds removed.
+Hero's Engine removed.
+Thought Vessel removed.
+Barkchannel Pathway removed.
+Blazemire Verge removed.
+Bleachbone Verge removed.
+Blightstep Pathway removed.
+Branchloft Pathway removed.
+Brightclimb Pathway removed.
+Citadel of the Dread Bard removed.
+Clearwater Pathway removed.
+Cragcrown Pathway removed.
+Darkbore Pathway removed.
+Floodfarm Verge removed.
+Gloomlake Verge removed.
+Hengegate Pathway removed.
+Hushwood Verge removed.
+Multiversal Passage removed.
+Multiversal Passage removed.
+Multiversal Passage removed.
+Multiversal Passage removed.
+Needleverge Pathway removed.
+Riverglide Pathway removed.
+Riverpyre Verge removed.
+Sunbillow Verge removed.
+Thornspire Verge removed.
+Wastewood Verge removed.
+Willowrush Verge removed.
+Rhino Warrior removed.
+Glimmervoid removed.
+
+Astral Incorporation
+
+Molly, Astral Drifter
+
+Adalinda, Dragonspeaker
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Emerald City
+
+Opal City
+
+Granny, Combat Sage
+
+Ally Army
+
+Mouse
+
+Angel
+
+Angel
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Wolf
+
+Star
+
+Pirate
+
+Watterson's Vision
+
+Survivor
+
+Present the Ring
+
+Case of the Living Mystery
+
+Champion's Triumph
+
+Collector of Lost Things
+
+On the House
+
+Ariel Vivelia
+
+Detective Westfield
+
+Tyler, Tavern Keeper
+
+Clue
+
+Food
+
+Treasure
+
+Copy
+
+New Worlds Dragon Rider
+
+Wrath of the Dragon Queen
+
+
+VERSION 18 CHANGELOG
 ====================
 
 New Worlds Dragon Rider added.
