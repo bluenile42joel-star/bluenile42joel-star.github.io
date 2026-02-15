@@ -1,4 +1,17 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Unexpected Reunion added.
+Go Kill a Jabberwock! added.
+The Jabberwock added.
+
+Unexpexted Reunion removed.
+
+Satanas' Cellphone
+cost: {3} => {2}{B}
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Shadowmind Invocaiton added.
