@@ -1,4 +1,535 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+I Contain Infinite Worlds removed.
+Form of Yourself removed.
+Synthetic Life removed.
+Circle of Transmutation removed.
+Cloning Vat removed.
+Don't Be Ridiculous! removed.
+Evolved Manhunter removed.
+Astra F., Pata-Stronomer removed.
+Madam Universe, Mayor removed.
+Noah, Freelance Alchemist removed.
+Ubu Roi removed.
+Henry F., Pata-Matician removed.
+The Philosopher's Stone removed.
+Great Unknown removed.
+Star removed.
+
+Fusion Tutoring
+
+The Hero
+
+Homunculus Prototype
+
+Humble Heritage
+
+Leyline of Frost
+
+Absence Elemental
+
+Amass Allies
+
+Artemis, Scourge of Rodents
+
+Astral Incorporation
+
+Astral Severance
+
+Begin the Masquerade
+
+Clash of Immortals
+
+Down the Rabbit Hole
+
+Eternal Recall
+
+Evil's End
+
+Fold Up
+
+Go Forth and Destroy
+
+Go Separate Ways
+
+Gods' Ire
+
+Harness Divinity
+
+Let Go
+
+Miracle Fusion
+
+The Multiverse Trembles
+
+Ontological Paradox
+
+Soul Sisters
+
+Sourdough Soldier
+
+Stop the Fight
+
+Superhuman Reflexes
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Aarie's Conjuration
+
+Archetypal Imagination
+
+Behold the New Worlds
+
+Civilianize
+
+Envision
+
+The Man With Many Masks
+
+Mass Memory Wipe
+
+Precognition Engine
+
+Run on Thin Air
+
+Saura Pemmin, Morphomancer
+
+Shape Change
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Recursive Room
+
+Abrupt End
+
+Callous Betrayal
+
+Death Elemental
+
+Demonic Blessing
+
+False Love's Kiss
+
+Gone Too Soon
+
+Loose Ends
+
+The Nameless Rider
+
+Nilpotence
+
+Not Strong Enough
+
+Omnicide
+
+Pincing —
+
+Samael, the Reaper
+
+Sir Thomas, God-Eater
+
+Soul Tether
+
+Soul Toxin
+
+Step On
+
+Tempt With Ambition
+
+Tyrant of the Moors
+
+Vestige of Satanas
+
+R, the Gunsmith
+
+Become Omnipotent
+
+Dragon's Soul
+
+Falling Out
+
+Puck, Fae Harlequin
+
+Traumatic Scar
+
+Tyrant of the Cliffs
+
+Unexpected Reunion
+
+Worldbreaker's Oath
+
+Chased by Wolves
+
+Commune with Dragons
+
+Dragon Migration
+
+Explore the House
+
+Frost Channeler
+
+Gathmori Nomad
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Raiz, Curious Cultivator
+
+Tyrant of the Woods
+
+Volundr, Seeker of Mt. King
+
+The World Tree Sprouts
+
+Worlds within Worlds
+
+Backdoor Access
+
+Cedric, Alfheim Archmage
+
+Dragon Flock Leader
+
+The Oracle
+
+Cunning Manipulation
+
+The Stitcher
+
+Scarmaker
+
+Rubber Annie, Ringmaster
+
+Supernatural Strength
+
+Angela, Doomed Storyteller
+
+Confession of Love
+
+Inspiring Survivor
+
+Ivar, Supernaturalist
+
+Jenny Everywhere
+
+Twilight Rebirth
+
+Destroying Angel
+
+Edwin Odd Edd Odwin
+
+Jenny Nowhere
+
+Frostfire Weird
+
+Game Knight
+
+Marauder's Dragonship
+
+Scarmender
+
+Macedonian Sarissa
+
+Molly, Astral Drifter
+
+Righteous Fury
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+Aarie Cedricsdottir
+
+Adalinda, Dragonspeaker
+
+Alfheim Armed Forces
+
+Archangel Apollyon
+
+Ashley, Alter Ego
+
+Avatar of Metatron
+
+AXS Harper
+
+Castor and Pollux Dioscuri
+
+Devourer of Hope
+
+Experiment 111, the Mimic
+
+High King Vidar
+
+J.P. Watterson
+
+Magnus Arneson, Explorer
+
+Metapattern
+
+Metatron's Verdict
+
+Old Man Loki
+
+Phalanx, Civil Militia
+
+President Leonidas
+
+Reven Novano
+
+Ronan, Head of Operations
+
+Spear of Destiny
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Restoration Training
+
+Rematch
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Blood Lotus
+
+Gathraxi Astroformer
+
+Gathraxi Cosmoformer
+
+Gathraxi Terraformer
+
+Golden Apple
+
+Hero's Memorial
+
+Jukebox
+
+Map of the Multiverse
+
+Molly's Eyepatch
+
+The Morphblade
+
+Mox Amethyst
+
+Satanas' Cellphone
+
+Sword of Hope and Destiny
+
+Three-Sided Coin
+
+Watterson's Panopticon
+
+Weapons of Mass Production
+
+Active Warzone
+
+Astral Nexus
+
+Backdoor
+
+The Black Manor
+
+Chromatic Crossroads
+
+Militia Headquarters
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Ordinary World
+
+Peaceful Domicile
+
+Refugee Camp
+
+Twilight Cavern
+
+Warp Stones
+
+Yggdrasil, Corrupted
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Emerald City
+
+Opal City
+
+Granny, Combat Sage
+
+Ally Army
+
+Mouse
+
+Angel
+
+Angel
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Citizen
+
+Wolf
+
+Pirate
+
+Watterson's Vision
+
+Survivor
+
+Present the Ring
+
+Case of the Living Mystery
+
+Champion's Triumph
+
+Collector of Lost Things
+
+On the House
+
+Ariel Vivelia
+
+Detective Westfield
+
+Tyler, Tavern Keeper
+
+Clue
+
+Food
+
+Treasure
+
+Copy
+
+New Worlds Dragon Rider
+
+Wrath of the Dragon Queen
+
+Shadowmind Invocaiton
+
+Prelude to Invasion
+
+Go Kill a Jabberwock!
+
+The Jabberwock
+
+Clash of Immortals
+
+Clash of Immortals
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Abdicate
+
+Reika Tixel
+
+Davin Tixel
+
+Grand Finale
+
+Limits Broken
+
+Watterson, Wayward Fire
+
+Rebuild from Ruin
+
+Watterson's Ambition
+
+The Tixel Twins
+
+Watterson, Prodigy
+
+Cosmic Coronation
+
+Heracles, the Challenger
+
+Molly and Aarie, Newlywed
+
+Reven, the Showstopper
+
+Children of the Worm
+
+The Astral Worm
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Clash of Immortals added.
