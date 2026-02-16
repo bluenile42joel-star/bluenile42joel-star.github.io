@@ -46,6 +46,38 @@
     {
         "card_name": "er"
     },
+    "a->Alchemy",
+    {
+        "card_name": ".Placeholder: Ouroboros (Alchemy)",
+        "number": 1,
+        "shape": "normal",
+        "set": "OURO-A",
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }
