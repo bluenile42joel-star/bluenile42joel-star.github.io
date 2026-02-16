@@ -1,38 +1,16 @@
 [
-    {
-        "title": "White Cards",
-        "cards":  ["W"]
-    },
-    {
-        "title": "Blue Cards",
-        "cards":  ["U"]
-    },
-    {
-        "title": "Black Cards",
-        "cards":  ["B"]
-    },
-    {
-        "title": "Red Cards",
-        "cards":  ["R"]
-    },
-    {
-        "title": "Green Cards",
-        "cards":  ["G"]
-    },
-    {
-        "title": "Ally Colored",
-        "cards":  ["M"]
-    },
-    {
-        "title": "Colorless Cards",
-        "cards":  ["C"]
-    },
-    {
-        "title": "Land Cards",
-        "cards":  ["L"]
-    },
-    {
-        "title": "Basics",
-        "cards":  ["basic"]
-    }
+    {"cards": ["W"]},
+    {"cards": ["U"]},
+    {"cards": ["B"]},
+    {"cards": ["R"]},
+    {"cards": ["G"]},
+    {"cards": ["WU","UB","BR","RG","GW"]},
+    {"cards": ["WB","UR","BG","RW","GU"]},
+    {"cards": ["WUB","UBR","BRG","RGW","GWU"]},
+    {"cards": ["WBG","URW","BGU","RWB","GUR"]},
+    {"cards": ["gold"]},
+    {"cards": ["C"]},
+    {"cards": ["L"]},
+    {"cards": ["basic"]},
+    {"cards": ["token"]}
 ]
