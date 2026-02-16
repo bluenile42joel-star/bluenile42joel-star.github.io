@@ -1,4 +1,13 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Limits Broken
+cost: {2}{R} => {3}{R}{R}
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.

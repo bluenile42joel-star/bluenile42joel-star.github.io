@@ -103,7 +103,7 @@
 		{
 			"name": "Limits Broken",
 			"rarity": "special",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
@@ -228,6 +228,76 @@
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/22.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude 0",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/23.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude III",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/24.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude II",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/25.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude I",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/26.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude VI",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/27.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude V",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/28.jpg"
+			}
+		},
+		{
+			"name": ".Placeholder: Interlude IV",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/29.jpg"
 			}
 		}
 	]

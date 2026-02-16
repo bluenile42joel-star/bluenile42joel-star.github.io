@@ -7,7 +7,11 @@
         "position": "22"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude 0",
+        "number": 21,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "23"
     },
     {
         "card_name": "e"
@@ -67,6 +71,25 @@
         "position": "1"
     },
     {
+        "card_name": ".Placeholder: Interlude I",
+        "number": 22,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -101,7 +124,11 @@
         "position": "7"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude II",
+        "number": 23,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "25"
     },
     {
         "card_name": "e"
@@ -141,7 +168,11 @@
         "position": "10"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude III",
+        "number": 24,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "24"
     },
     {
         "card_name": "e"
@@ -167,7 +198,11 @@
         "position": "21"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude IV",
+        "number": 25,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "29"
     },
     {
         "card_name": "e"
@@ -213,7 +248,11 @@
         "position": "14"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude V",
+        "number": 26,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "28"
     },
     {
         "card_name": "e"
@@ -260,7 +299,11 @@
         "position": "18"
     },
     {
-        "card_name": "e"
+        "card_name": ".Placeholder: Interlude VI",
+        "number": 27,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "27"
     },
     {
         "card_name": "er"
