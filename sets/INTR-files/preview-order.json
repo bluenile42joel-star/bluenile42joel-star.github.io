@@ -1,8 +1,7 @@
 [
     {
         "cards": ["!group interlude-00"],
-        "title": "Prologue",
-        "logo": true
+        "title": "Prologue"
     },
     {
         "cards": ["!group interlude-01"],
