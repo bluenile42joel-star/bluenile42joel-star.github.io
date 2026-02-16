@@ -26,5 +26,9 @@
     {
         "title": "5 Colored",
         "cards":  ["WUBRG"]
+    },
+    {
+        "title": "Colorless",
+        "cards":  ["C"]
     }
 ]

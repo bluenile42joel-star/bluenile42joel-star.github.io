@@ -1427,6 +1427,190 @@
     {
         "card_name": "er"
     },
+    "a->Colorless",
+    {
+        "card_name": "The Morphblade",
+        "number": 203,
+        "shape": "planeswalker",
+        "set": "WORK",
+        "position": "168"
+    },
+    {
+        "card_name": "Sword of Hope and Destiny",
+        "number": 205,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "171"
+    },
+    {
+        "card_name": "Grandmaster Clock",
+        "number": 255,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "216"
+    },
+    {
+        "card_name": "Fusion Tutoring",
+        "number": 2,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "0"
+    },
+    {
+        "card_name": "Leyline of Frost",
+        "number": 6,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "4"
+    },
+    {
+        "card_name": "Blood Lotus",
+        "number": 194,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "159"
+    },
+    {
+        "card_name": "Gathraxi Astroformer",
+        "number": 195,
+        "shape": "leveler",
+        "set": "WORK",
+        "position": "160"
+    },
+    {
+        "card_name": "Gathraxi Cosmoformer",
+        "number": 196,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "161"
+    },
+    {
+        "card_name": "Gathraxi Terraformer",
+        "number": 197,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "162"
+    },
+    {
+        "card_name": "Hero's Memorial",
+        "number": 199,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "164"
+    },
+    {
+        "card_name": "Mox Amethyst",
+        "number": 204,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "169"
+    },
+    {
+        "card_name": "Weapons of Mass Production",
+        "number": 208,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "174"
+    },
+    {
+        "card_name": "Power Lines",
+        "number": 256,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "217"
+    },
+    {
+        "card_name": "Aetheric Resonator",
+        "number": 192,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "157"
+    },
+    {
+        "card_name": "Artist's Palette",
+        "number": 193,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "158"
+    },
+    {
+        "card_name": "Golden Apple",
+        "number": 198,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "163"
+    },
+    {
+        "card_name": "Jukebox",
+        "number": 200,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "165"
+    },
+    {
+        "card_name": "Map of the Multiverse",
+        "number": 201,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "166"
+    },
+    {
+        "card_name": "Molly's Eyepatch",
+        "number": 202,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "167"
+    },
+    {
+        "card_name": "Three-Sided Coin",
+        "number": 206,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "172"
+    },
+    {
+        "card_name": "Watterson's Panopticon",
+        "number": 207,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "173"
+    },
+    {
+        "card_name": "The Hero",
+        "number": 3,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "1"
+    },
+    {
+        "card_name": "Homunculus Prototype",
+        "number": 4,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "2"
+    },
+    {
+        "card_name": "Humble Heritage",
+        "number": 5,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }
