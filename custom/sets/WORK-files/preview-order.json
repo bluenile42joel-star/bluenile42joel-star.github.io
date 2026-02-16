@@ -30,5 +30,13 @@
     {
         "title": "Colorless",
         "cards":  ["C"]
+    },
+    {
+        "title": "Lands",
+        "cards":  ["L"]
+    },
+    {
+        "title": "Basics",
+        "cards":  ["basic"]
     }
 ]

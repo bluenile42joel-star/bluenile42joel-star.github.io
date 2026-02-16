@@ -1611,6 +1611,358 @@
     {
         "card_name": "er"
     },
+    "a->Lands",
+    {
+        "card_name": "Amber City",
+        "number": 210,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "224"
+    },
+    {
+        "card_name": "Amethyst City",
+        "number": 211,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "225"
+    },
+    {
+        "card_name": "Basalt Ruins",
+        "number": 214,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "226"
+    },
+    {
+        "card_name": "Emerald City",
+        "number": 217,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "227"
+    },
+    {
+        "card_name": "Opal City",
+        "number": 221,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "228"
+    },
+    {
+        "card_name": "Yggdrasil, Corrupted",
+        "number": 227,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "188"
+    },
+    {
+        "card_name": "Astral Nexus",
+        "number": 212,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "176"
+    },
+    {
+        "card_name": "Militia Headquarters",
+        "number": 218,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "180"
+    },
+    {
+        "card_name": "Peaceful Domicile",
+        "number": 223,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "184"
+    },
+    {
+        "card_name": "Warp Stones",
+        "number": 226,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "187"
+    },
+    {
+        "card_name": "Active Warzone",
+        "number": 209,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "175"
+    },
+    {
+        "card_name": "Backdoor",
+        "number": 213,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "177"
+    },
+    {
+        "card_name": "Chromatic Crossroads",
+        "number": 216,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "179"
+    },
+    {
+        "card_name": "Oddwyld Expanse",
+        "number": 220,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "182"
+    },
+    {
+        "card_name": "Ordinary World",
+        "number": 222,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "183"
+    },
+    {
+        "card_name": "Refugee Camp",
+        "number": 224,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "185"
+    },
+    {
+        "card_name": "Twilight Cavern",
+        "number": 225,
+        "shape": "transform double faced",
+        "set": "WORK",
+        "position": "186"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Basics",
+    {
+        "card_name": "Snow-Covered Wastes",
+        "number": 228,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "189"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 229,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "190"
+    },
+    {
+        "card_name": "Plains",
+        "number": 230,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "191"
+    },
+    {
+        "card_name": "Plains",
+        "number": 231,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "192"
+    },
+    {
+        "card_name": "Plains",
+        "number": 232,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "193"
+    },
+    {
+        "card_name": "Plains",
+        "number": 233,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "194"
+    },
+    {
+        "card_name": "Snow-Covered Plains",
+        "number": 234,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "195"
+    },
+    {
+        "card_name": "Island",
+        "number": 237,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "196"
+    },
+    {
+        "card_name": "Island",
+        "number": 235,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "197"
+    },
+    {
+        "card_name": "Island",
+        "number": 236,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "198"
+    },
+    {
+        "card_name": "Island",
+        "number": 238,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "199"
+    },
+    {
+        "card_name": "Snow-Covered Island",
+        "number": 239,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "200"
+    },
+    {
+        "card_name": "Snow-Covered Swamp",
+        "number": 240,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "201"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 244,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "202"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 243,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "203"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 242,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "204"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 241,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "205"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 245,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "206"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 246,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "207"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 247,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "208"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 248,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "209"
+    },
+    {
+        "card_name": "Snow-Covered Mountain",
+        "number": 249,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "210"
+    },
+    {
+        "card_name": "Forest",
+        "number": 253,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "211"
+    },
+    {
+        "card_name": "Forest",
+        "number": 252,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "212"
+    },
+    {
+        "card_name": "Forest",
+        "number": 250,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "213"
+    },
+    {
+        "card_name": "Forest",
+        "number": 251,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "214"
+    },
+    {
+        "card_name": "Snow-Covered Forest",
+        "number": 254,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "215"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }
