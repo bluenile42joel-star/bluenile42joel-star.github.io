@@ -20,7 +20,23 @@
         "cards":  ["G"]
     },
     {
-        "title": "Gold Cards",
+        "title": "Ally Colored",
+        "cards":  ["WU","UB","BR","RG","GW"]
+    },
+    {
+        "title": "Enemy Colored",
+        "cards":  ["WB","UR","BG","RW","GU"]
+    },
+    {
+        "title": "Shard Colored",
+        "cards":  ["WUB","UBR","BRG","RGW","GWU"]
+    },
+    {
+        "title": "Wedge Colored",
+        "cards":  ["WBG","URW","BGU","RWB","GUR"]
+    },
+    {
+        "title": "Gold cards",
         "cards":  ["gold"]
     },
     {
