@@ -1,12 +1,12 @@
 [
     {
-        "title": "basucs",
+        "title": "basics",
         "cards":  [ "basic" ]
     },
     {
         "title": "Alchemy",
         "set": "OURO-A",
         "logo": false,
-        "cards": ["W","R"]
+        "cards": ["G"]
     }
 ]
