@@ -7,6 +7,210 @@
         "position": "6"
     },
     {
+        "card_name": "Artemis, Scourge of Rodents",
+        "number": 9,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "7"
+    },
+    {
+        "card_name": "Astral Incorporation",
+        "number": 10,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "8"
+    },
+    {
+        "card_name": "Astral Severance",
+        "number": 11,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "9"
+    },
+    {
+        "card_name": "Begin the Masquerade",
+        "number": 12,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "10"
+    },
+    {
+        "card_name": "Down the Rabbit Hole",
+        "number": 16,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "12"
+    },
+    {
+        "card_name": "Eternal Recall",
+        "number": 17,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "13"
+    },
+    {
+        "card_name": "Fold Up",
+        "number": 19,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "15"
+    },
+    {
+        "card_name": "Go Forth and Destroy",
+        "number": 20,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "16"
+    },
+    {
+        "card_name": "Gods' Ire",
+        "number": 22,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "18"
+    },
+    {
+        "card_name": "Miracle Fusion",
+        "number": 25,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "21"
+    },
+    {
+        "card_name": "Ontological Paradox",
+        "number": 29,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "23"
+    },
+    {
+        "card_name": "Wrath of the Dragon Queen",
+        "number": 37,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "257"
+    },
+    {
+        "card_name": "Absence Elemental",
+        "number": 7,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "5"
+    },
+    {
+        "card_name": "Evil's End",
+        "number": 18,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "14"
+    },
+    {
+        "card_name": "Go Separate Ways",
+        "number": 21,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "17"
+    },
+    {
+        "card_name": "Let Go",
+        "number": 24,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "20"
+    },
+    {
+        "card_name": "Present the Ring",
+        "number": 30,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "244"
+    },
+    {
+        "card_name": "Soul Sisters",
+        "number": 31,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "24"
+    },
+    {
+        "card_name": "Sourdough Soldier",
+        "number": 32,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "25"
+    },
+    {
+        "card_name": "Stop the Fight",
+        "number": 33,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "26"
+    },
+    {
+        "card_name": "Superhuman Reflexes",
+        "number": 34,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "27"
+    },
+    {
+        "card_name": "Vanishing Point",
+        "number": 36,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "29"
+    },
+    {
+        "card_name": "Welcoming Entrance",
+        "number": 38,
+        "shape": "fuse split",
+        "set": "WORK",
+        "position": "30"
+    },
+    {
+        "card_name": "Pearl Masque",
+        "number": 258,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "219"
+    },
+    {
+        "card_name": "Harness Divinity",
+        "number": 23,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "19"
+    },
+    {
+        "card_name": "Tyrant of the Meadows",
+        "number": 35,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Monocolored",
+    {
         "card_name": "Ten Thousand Years",
         "number": 55,
         "shape": "normal",
@@ -33,13 +237,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "246"
-    },
-    {
-        "card_name": "Artemis, Scourge of Rodents",
-        "number": 9,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "7"
     },
     {
         "card_name": "Aarie's Conjuration",
@@ -70,13 +267,6 @@
         "position": "247"
     },
     {
-        "card_name": "Astral Incorporation",
-        "number": 10,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "8"
-    },
-    {
         "card_name": "The Man With Many Masks",
         "number": 46,
         "shape": "normal",
@@ -103,13 +293,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "82"
-    },
-    {
-        "card_name": "Astral Severance",
-        "number": 11,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "9"
     },
     {
         "card_name": "Mass Memory Wipe",
@@ -140,13 +323,6 @@
         "position": "85"
     },
     {
-        "card_name": "Begin the Masquerade",
-        "number": 12,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "10"
-    },
-    {
         "card_name": "Saura Pemmin, Morphomancer",
         "number": 52,
         "shape": "normal",
@@ -173,13 +349,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "248"
-    },
-    {
-        "card_name": "Down the Rabbit Hole",
-        "number": 16,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "12"
     },
     {
         "card_name": "Recursive Room",
@@ -210,13 +379,6 @@
         "position": "87"
     },
     {
-        "card_name": "Eternal Recall",
-        "number": 17,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "13"
-    },
-    {
         "card_name": "Archetypal Imagination",
         "number": 41,
         "shape": "normal",
@@ -243,13 +405,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "88"
-    },
-    {
-        "card_name": "Fold Up",
-        "number": 19,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "15"
     },
     {
         "card_name": "Behold the New Worlds",
@@ -280,13 +435,6 @@
         "position": "90"
     },
     {
-        "card_name": "Go Forth and Destroy",
-        "number": 20,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "16"
-    },
-    {
         "card_name": "Case of the Living Mystery",
         "number": 43,
         "shape": "saga",
@@ -313,13 +461,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "91"
-    },
-    {
-        "card_name": "Gods' Ire",
-        "number": 22,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "18"
     },
     {
         "card_name": "Precognition Engine",
@@ -350,13 +491,6 @@
         "position": "77"
     },
     {
-        "card_name": "Miracle Fusion",
-        "number": 25,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "21"
-    },
-    {
         "card_name": "Run on Thin Air",
         "number": 51,
         "shape": "normal",
@@ -385,13 +519,6 @@
         "position": "79"
     },
     {
-        "card_name": "Ontological Paradox",
-        "number": 29,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "23"
-    },
-    {
         "card_name": "Shadowmind Invocaiton",
         "number": 53,
         "shape": "normal",
@@ -414,13 +541,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "81"
-    },
-    {
-        "card_name": "Wrath of the Dragon Queen",
-        "number": 37,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "257"
     },
     {
         "card_name": "Thirst for Adventure",
@@ -447,13 +567,6 @@
         "position": "84"
     },
     {
-        "card_name": "Absence Elemental",
-        "number": 7,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "5"
-    },
-    {
         "card_name": "Thirst for Greatness",
         "number": 57,
         "shape": "normal",
@@ -476,13 +589,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "86"
-    },
-    {
-        "card_name": "Evil's End",
-        "number": 18,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "14"
     },
     {
         "card_name": "Void Rabbit",
@@ -509,13 +615,6 @@
         "position": "92"
     },
     {
-        "card_name": "Go Separate Ways",
-        "number": 21,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "17"
-    },
-    {
         "card_name": "Sapphire Masque",
         "number": 259,
         "shape": "normal",
@@ -538,13 +637,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "223"
-    },
-    {
-        "card_name": "Let Go",
-        "number": 24,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "20"
     },
     {
         "card_name": "Civilianize",
@@ -571,13 +663,6 @@
         "position": "78"
     },
     {
-        "card_name": "Present the Ring",
-        "number": 30,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "244"
-    },
-    {
         "card_name": "Envision",
         "number": 45,
         "shape": "normal",
@@ -600,13 +685,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "80"
-    },
-    {
-        "card_name": "Soul Sisters",
-        "number": 31,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "24"
     },
     {
         "card_name": "New Worlds Dragon Rider",
@@ -633,13 +711,6 @@
         "position": "83"
     },
     {
-        "card_name": "Sourdough Soldier",
-        "number": 32,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "25"
-    },
-    {
         "card_name": "Shape Change",
         "number": 54,
         "shape": "normal",
@@ -664,13 +735,6 @@
         "position": "89"
     },
     {
-        "card_name": "Stop the Fight",
-        "number": 33,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "26"
-    },
-    {
         "card_name": "Tyrant of the Lakes",
         "number": 58,
         "shape": "normal",
@@ -691,13 +755,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "Superhuman Reflexes",
-        "number": 34,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "27"
-    },
-    {
         "card_name": "e"
     },
     {
@@ -706,101 +763,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "66"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vanishing Point",
-        "number": 36,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "29"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Welcoming Entrance",
-        "number": 38,
-        "shape": "fuse split",
-        "set": "WORK",
-        "position": "30"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Pearl Masque",
-        "number": 258,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "219"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Harness Divinity",
-        "number": 23,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "19"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Tyrant of the Meadows",
-        "number": 35,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "28"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
