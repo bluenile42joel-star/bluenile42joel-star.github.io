@@ -1,0 +1,12 @@
+[
+    {
+        "title": "basucs",
+        "cards":  [ "basic" ]
+    },
+    {
+        "title": "Alchemy",
+        "set": "OURO-A",
+        "logo": false,
+        "cards": ["W","R"]
+    }
+]

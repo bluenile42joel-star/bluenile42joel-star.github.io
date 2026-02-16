@@ -46,6 +46,33 @@
     {
         "card_name": "er"
     },
+    "a->Alchemy",
+    {
+        "card_name": "Crude Abattoir",
+        "number": 2,
+        "shape": "fuse split",
+        "set": "OURO-A",
+        "position": "0"
+    },
+    {
+        "card_name": "Solitary Study",
+        "number": 1,
+        "shape": "fuse split",
+        "set": "OURO-A",
+        "position": "1"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }
