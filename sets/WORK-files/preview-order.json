@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Monocolored",
+        "cards":  ["W","U","B","R","G"]
+    },
+    {
+        "title": "Ally Colored",
+        "cards":  ["WU","UB","BR","RG","GW"]
+    },
+    {
+        "title": "Enemy Colored",
+        "cards":  ["WB","UR","BG","RW","GU"]
+    },
+    {
+        "title": "Shard Colored",
+        "cards":  ["WUB","UBR","BRG","RGW","GWU"]
+    },
+    {
+        "title": "Wedge Colored",
+        "cards":  ["WBG","URW","BGU","RWB","GUR"]
+    },
+    {
+        "title": "4 Colored",
+        "cards":  ["WUBR","UBRG","BRGW","RGWU","GWUB"]
+    },
+    {
+        "title": "5 Colored",
+        "cards":  ["WUBRG"]
+    }
+]
