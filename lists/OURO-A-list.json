@@ -1,23 +1,19 @@
 ﻿[
     {
-        "card_name": "Solitary Study",
+        "card_name": ".Placeholder: Interlude VI",
         "number": 1,
-        "shape": "fuse split",
-        "set": "OURO-A",
-        "position": "1"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Crude Abattoir",
-        "number": 2,
-        "shape": "fuse split",
+        "shape": "normal",
         "set": "OURO-A",
         "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

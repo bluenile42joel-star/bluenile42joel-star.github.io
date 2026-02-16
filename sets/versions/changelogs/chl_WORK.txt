@@ -1,4 +1,55 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Clash of Immortals added.
+Clash of Immortals added.
+The Multiverse Trembles added.
+The Multiverse Trembles added.
+Abdicate added.
+Reika Tixel added.
+Davin Tixel added.
+Grand Finale added.
+Limits Broken added.
+Watterson, Wayward Fire added.
+Rebuild from Ruin added.
+Watterson's Ambition added.
+The Tixel Twins added.
+Watterson, Prodigy added.
+Cosmic Coronation added.
+Heracles, the Challenger added.
+Molly and Aarie, Newlywed added.
+Reven, the Showstopper added.
+Children of the Worm added.
+The Astral Worm added.
+
+
+Satanas' Cellphone
+type: Artifact => Legendary Artifact
+cost: {2}{B} => {1}{B}
+rules_text: {T}: Add {B}.
+[i]Dial 666[/i] — {T}, Pay 6 life: Put a dial counter on this artifact. Then if there are three or more dial counters on it, sacrifice it. When you do, search your library for a Satanas planeswalker card, put it onto the battlefield, then shuffle. => Whenever you cast a black spell, each opponent loses 1 life and you gain 1 life.
+[i]Dial 666[/i] — Pay 6 life: Put a dial counter on this artifact. Then if there are three or more dial counters on it, sacrifice it. When you do, search your library for a Satanas planeswalker card, put him onto the battlefield, then shuffle.
+
+Three-Sided Coin
+rules_text: {T}: Add {U} or {R}.
+{2}, {T}: Choose one at random —
+• [i]Tragedy[/i] — Discard a card.
+• [i]Irony[/i] — Discard a card, then draw two cards.
+• [i]Comedy[/i] — Draw two cards. => {T}: Add one mana of any color.
+{2}, {T}: Choose one at random —
+• [i]Tragedy[/i] — Discard a card.
+• [i]Irony[/i] — Discard a card, then draw two cards.
+• [i]Comedy[/i] — Draw two cards.
+
+Peaceful Domicile
+rules_text: This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{4}, {T}: Create a 1/1 green and white Citizen creature token. => This land enters tapped. As it enters, choose a color.
+{T}: Add one mana of the chosen color.
+{5}, {T}: Create a 1/1 green and white Citizen creature token.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Unexpected Reunion added.

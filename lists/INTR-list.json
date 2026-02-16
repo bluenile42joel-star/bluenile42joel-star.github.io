@@ -1,17 +1,17 @@
 ﻿[
     {
         "card_name": "Behold the Multiverse",
-        "number": 20,
+        "number": 1,
         "shape": "normal",
         "set": "INTR",
-        "position": "22"
+        "position": "0"
     },
     {
         "card_name": ".Placeholder: Interlude 0",
-        "number": 21,
+        "number": 2,
         "shape": "normal",
         "set": "INTR",
-        "position": "23"
+        "position": "1"
     },
     {
         "card_name": "e"
@@ -36,46 +36,11 @@
     },
     "a->Interlude 01",
     {
-        "card_name": "Grand Finale",
-        "number": 9,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "0"
-    },
-    {
-        "card_name": "Watterson, Wayward Fire",
-        "number": 11,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "3"
-    },
-    {
-        "card_name": "Watterson's Ambition",
-        "number": 13,
+        "card_name": ".Placeholder: Interlude I",
+        "number": 3,
         "shape": "normal",
         "set": "INTR",
         "position": "4"
-    },
-    {
-        "card_name": "Watterson, Prodigy",
-        "number": 15,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "2"
-    },
-    {
-        "card_name": "Reven, the Showstopper",
-        "number": 19,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "1"
-    },
-    {
-        "card_name": ".Placeholder: Interlude I",
-        "number": 22,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "26"
     },
     {
         "card_name": "e"
@@ -103,32 +68,20 @@
     },
     "a->Interlude 02",
     {
-        "card_name": "Reika Tixel",
-        "number": 7,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "6"
-    },
-    {
-        "card_name": "Davin Tixel",
-        "number": 8,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "5"
-    },
-    {
-        "card_name": "The Tixel Twins",
-        "number": 14,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "7"
-    },
-    {
         "card_name": ".Placeholder: Interlude II",
-        "number": 23,
+        "number": 4,
         "shape": "normal",
         "set": "INTR",
-        "position": "25"
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -147,32 +100,20 @@
     },
     "a->Interlude 03",
     {
-        "card_name": "Children of the Worm",
-        "number": 1,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "8"
-    },
-    {
-        "card_name": "The Astral Worm",
-        "number": 1,
-        "shape": "token",
-        "set": "INTR",
-        "position": "11"
-    },
-    {
-        "card_name": "Limits Broken",
-        "number": 10,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "10"
-    },
-    {
         "card_name": ".Placeholder: Interlude III",
-        "number": 24,
+        "number": 5,
         "shape": "normal",
         "set": "INTR",
-        "position": "24"
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -191,18 +132,14 @@
     },
     "a->Interlude 04",
     {
-        "card_name": "Citizen",
-        "number": 3,
-        "shape": "token",
-        "set": "INTR",
-        "position": "21"
-    },
-    {
         "card_name": ".Placeholder: Interlude IV",
-        "number": 25,
+        "number": 6,
         "shape": "normal",
         "set": "INTR",
-        "position": "29"
+        "position": "7"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -227,32 +164,20 @@
     },
     "a->Interlude 05",
     {
-        "card_name": "Clash of Immortals",
-        "number": 3,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "13"
-    },
-    {
-        "card_name": "The Multiverse Trembles",
-        "number": 5,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "15"
-    },
-    {
-        "card_name": "Heracles, the Challenger",
-        "number": 17,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "14"
-    },
-    {
         "card_name": ".Placeholder: Interlude V",
-        "number": 26,
+        "number": 7,
         "shape": "normal",
         "set": "INTR",
-        "position": "28"
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -271,39 +196,23 @@
     },
     "a->Interlude 06",
     {
-        "card_name": "Abdicate",
-        "number": 6,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "16"
-    },
-    {
-        "card_name": "Rebuild from Ruin",
-        "number": 12,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "19"
-    },
-    {
-        "card_name": "Cosmic Coronation",
-        "number": 16,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "17"
-    },
-    {
-        "card_name": "Molly and Aarie, Newlywed",
-        "number": 18,
-        "shape": "normal",
-        "set": "INTR",
-        "position": "18"
-    },
-    {
         "card_name": ".Placeholder: Interlude VI",
-        "number": 27,
+        "number": 8,
         "shape": "normal",
         "set": "INTR",
-        "position": "27"
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

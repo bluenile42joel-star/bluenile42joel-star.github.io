@@ -1,4 +1,12 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+Crude Abattoir removed.
+Solitary Study removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.
