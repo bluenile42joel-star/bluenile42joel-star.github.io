@@ -3,28 +3,7 @@
         "cards": ["!group interlude-00"],
         "title": "Prologue"
     },
-    {
-        "cards": ["!group interlude-01"],
-        "title": "Interlude 01"
-    },
-    {
-        "cards": ["!group interlude-02"],
-        "title": "Interlude 02"
-    },
-    {
-        "cards": ["!group interlude-03"],
-        "title": "Interlude 03"
-    },
-    {
-        "cards": ["!group interlude-04"],
-        "title": "Interlude 04"
-    },
-    {
-        "cards": ["!group interlude-05"],
-        "title": "Interlude 05"
-    },
-    {
-        "cards": ["!group interlude-06"],
-        "title": "Interlude 06"
+    { 
+        "cards": ["W","U","B","R","G"]
     }
 ]
