@@ -1,42 +1,34 @@
 [
     {
-        "title": "White",
+        "title": "White Cards",
         "cards":  ["W"]
     },
     {
-        "title": "Monocolored",
-        "cards":  ["U","B","R","G"]
+        "title": "Blue Cards",
+        "cards":  ["U"]
     },
     {
-        "title": "Ally Colored",
-        "cards":  ["WU","UB","BR","RG","GW"]
+        "title": "Black Cards",
+        "cards":  ["B"]
     },
     {
-        "title": "Enemy Colored",
-        "cards":  ["WB","UR","BG","RW","GU"]
+        "title": "Red Cards",
+        "cards":  ["R"]
     },
     {
-        "title": "Shard Colored",
-        "cards":  ["WUB","UBR","BRG","RGW","GWU"]
+        "title": "Green Cards",
+        "cards":  ["G"]
     },
     {
-        "title": "Wedge Colored",
-        "cards":  ["WBG","URW","BGU","RWB","GUR"]
+        "title": "Gold Cards",
+        "cards":  ["gold"]
     },
     {
-        "title": "4 Colored",
-        "cards":  ["WUBR","UBRG","BRGW","RGWU","GWUB"]
-    },
-    {
-        "title": "5 Colored",
-        "cards":  ["WUBRG"]
-    },
-    {
-        "title": "Colorless",
+        "title": "Colorless Cards",
         "cards":  ["C"]
     },
     {
-        "title": "Lands",
+        "title": "Land Cards",
         "cards":  ["L"]
     },
     {
