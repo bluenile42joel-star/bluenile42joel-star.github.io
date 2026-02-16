@@ -1,7 +1,7 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": ".Placeholder: Interlude VI",
+			"name": ".Placeholder: Ouroboros (Alchemy)",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",

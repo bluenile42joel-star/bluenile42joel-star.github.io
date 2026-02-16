@@ -9,7 +9,7 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": ".Placeholder: Interlude VI",
+            "card_name": ".Placeholder: Ouroboros (Alchemy)",
             "color": "",
             "rarity": "cube",
             "type": "Basic Land",
@@ -29,5 +29,5 @@
             "notes": "Design-XX-Placeholder\nFormat-Alchemy\nLore-World-Ouroboros\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
     ],
-    "version": 5
+    "version": 7
 }
