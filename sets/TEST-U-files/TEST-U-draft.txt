@@ -1,0 +1,40 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "TEST-U RA01",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Skeleton",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/TEST-U-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "TEST-U UA01",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Skeleton",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/TEST-U-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "TEST-U CA01",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Skeleton",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/TEST-U-files/img/2.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 TEST-U RA01
+[uncommon(3)]
+	5 TEST-U UA01
+[common(10)]
+	5 TEST-U CA01

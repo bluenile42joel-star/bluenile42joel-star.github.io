@@ -21,6 +21,21 @@
             "formats": ""
         },
         {
+            "set_code": "TEST",
+            "set_name": "Draft Test",
+            "formats": ""
+        },
+        {
+            "set_code": "TEST-A",
+            "set_name": "Draft Test (Alchemy)",
+            "formats": ""
+        },
+        {
+            "set_code": "TEST-U",
+            "set_name": "Draft Test (Acorn)",
+            "formats": ""
+        },
+        {
             "set_code": "WORK",
             "set_name": "Workspace",
             "formats": ""
