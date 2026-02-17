@@ -18,7 +18,6 @@
         "cards":["!tag<stamp> alchemy"]
     },
     {
-        "title": "Acorn",
         "set": "WORK-U",
         "logo": false,
         "cards": ["!tag<stamp> acorn"]
