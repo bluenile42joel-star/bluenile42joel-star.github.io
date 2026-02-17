@@ -1,0 +1,95 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "I Contain Infinite Worlds",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Synthetic Life",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/1.jpg"
+			}
+		},
+		{
+			"name": "Circle of Transmutation",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/2.jpg"
+			}
+		},
+		{
+			"name": "Cloning Vat",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/3.jpg"
+			}
+		},
+		{
+			"name": "Evolved Manhunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Homunculus Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/4.jpg"
+			}
+		},
+		{
+			"name": "Noah, Freelance Alchemist",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/5.jpg"
+			}
+		},
+		{
+			"name": "The Philosopher's Stone",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/6.jpg"
+			}
+		},
+		{
+			"name": "Great Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-A-files/img/7.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+	5 I Contain Infinite Worlds
+	5 Synthetic Life
+	5 Cloning Vat
+	5 Evolved Manhunter
+	5 Noah, Freelance Alchemist
+	5 The Philosopher's Stone
+[uncommon(3)]
+	5 Circle of Transmutation
+	5 Great Unknown
+[common(10)]

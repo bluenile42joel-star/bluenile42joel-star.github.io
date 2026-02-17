@@ -1,4 +1,9 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+No changes.
+
+VERSION 22 CHANGELOG
 ====================
 
 
