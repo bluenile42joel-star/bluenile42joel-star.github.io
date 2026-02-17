@@ -2251,6 +2251,68 @@
     {
         "card_name": "er"
     },
+    "a->Acorn",
+    {
+        "card_name": "Form of Yourself",
+        "number": 1,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "0"
+    },
+    {
+        "card_name": "Don't Be Ridiculous!",
+        "number": 2,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "1"
+    },
+    {
+        "card_name": "Star",
+        "number": 1,
+        "shape": "token",
+        "set": "WORK-U",
+        "position": "6"
+    },
+    {
+        "card_name": "Henry F., Pata-Matician",
+        "number": 6,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "5"
+    },
+    {
+        "card_name": "Astra F., Pata-Stronomer",
+        "number": 3,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "2"
+    },
+    {
+        "card_name": "Madam Universe, Mayor",
+        "number": 4,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "3"
+    },
+    {
+        "card_name": "Ubu Roi",
+        "number": 5,
+        "shape": "normal",
+        "set": "WORK-U",
+        "position": "4"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }

@@ -1,4 +1,24 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Form of Yourself
+
+Don't Be Ridiculous!
+
+Astra F., Pata-Stronomer
+
+Madam Universe, Mayor
+
+Ubu Roi
+
+Henry F., Pata-Matician
+
+Star
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

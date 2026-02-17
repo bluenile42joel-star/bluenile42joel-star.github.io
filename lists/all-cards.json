@@ -6739,7 +6739,7 @@
             "artist": "Seungmin lee",
             "alias": "",
             "position": "0",
-            "notes": "Design-RC-Free-Slot\nFormat-Alchemy",
+            "notes": "Design-RC-Free-Slot\nFormat-Alchemy\n\n!tag>stamp> alchemy",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6761,7 +6761,7 @@
             "artist": "Andrew Baptist",
             "alias": "",
             "position": "1",
-            "notes": "Design-RW-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-RW-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6783,7 +6783,7 @@
             "artist": "Gargi Roy",
             "alias": "",
             "position": "2",
-            "notes": "Design-UU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-UU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6805,7 +6805,7 @@
             "artist": "Yujin Choo",
             "alias": "",
             "position": "3",
-            "notes": "Design-RU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-RU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6827,7 +6827,7 @@
             "artist": "Max Elmberg Sj\u00f6holm",
             "alias": "",
             "position": "4",
-            "notes": "Design-RB-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-RB-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6849,7 +6849,7 @@
             "artist": "Consuelo Pecchenino",
             "alias": "",
             "position": "5",
-            "notes": "Design-RM-Free-Slot\nFormat-Alchemy\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<character> noah\n!tag<world> khumeia",
+            "notes": "Design-RM-Free-Slot\nFormat-Alchemy\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<character> noah\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6871,7 +6871,7 @@
             "artist": "VidaQla",
             "alias": "",
             "position": "6",
-            "notes": "Design-RA-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-RA-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6893,7 +6893,7 @@
             "artist": "liang shao",
             "alias": "",
             "position": "7",
-            "notes": "Design-UL-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<world> khumeia",
+            "notes": "Design-UL-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6915,7 +6915,7 @@
             "artist": "Leonardo da Vinci",
             "alias": "",
             "position": "0",
-            "notes": "Design-RW-Free-Slot\nFormat-Acorn\nLore-Faction-You\nStyle-Watermark-You",
+            "notes": "Design-RW-Free-Slot\nFormat-Acorn\nLore-Faction-You\nStyle-Watermark-You\n\n!tag<stamp> acorn",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6937,7 +6937,7 @@
             "artist": "Skiorh",
             "alias": "",
             "position": "1",
-            "notes": "Design-UU-Free-Slot\nFormat-Acorn\nLore-World-Phora\n\n!tag<world> phora",
+            "notes": "Design-UU-Free-Slot\nFormat-Acorn\nLore-World-Phora\n\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6959,7 +6959,7 @@
             "artist": "Gennova",
             "alias": "",
             "position": "2",
-            "notes": "Design-UM-Free-Slot\nFormat-Acorn\nLore-Character-Astra-F\nLore-World-Phora\nMisc-Token-Star\nStyle-Showcase-Phora\nStyle-Watermark-Phora-Faustroll\n\n!tag<character> astra-f\n!tag<world> phora",
+            "notes": "Design-UM-Free-Slot\nFormat-Acorn\nLore-Character-Astra-F\nLore-World-Phora\nMisc-Token-Star\nStyle-Showcase-Phora\nStyle-Watermark-Phora-Faustroll\n\n!tag<character> astra-f\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6981,7 +6981,7 @@
             "artist": "Julie Dillon",
             "alias": "",
             "position": "3",
-            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Universe\nLore-World-Phora\nStyle-Showcase-Phora\n\n!tag<character> universe\n!tag<world> phora",
+            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Universe\nLore-World-Phora\nStyle-Showcase-Phora\n\n!tag<character> universe\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -7003,7 +7003,7 @@
             "artist": "Lenny Ibizarre",
             "alias": "",
             "position": "4",
-            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Ubu\nLore-World-Phora\nStyle-Showcase-Phora\n\n!tag<character> ubu\n!tag<world> phora",
+            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Ubu\nLore-World-Phora\nStyle-Showcase-Phora\n\n!tag<character> ubu\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -7025,7 +7025,7 @@
             "artist": "Naxer",
             "alias": "",
             "position": "5",
-            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Henry-F\nLore-World-Phora\nStyle-Showcase-Phora\nStyle-Watermark-Phora-Faustroll\n\n!tag<character> henry-f\n!tag<world> phora",
+            "notes": "Design-RM-Free-Slot\nFormat-Acorn\nLore-Character-Henry-F\nLore-World-Phora\nStyle-Showcase-Phora\nStyle-Watermark-Phora-Faustroll\n\n!tag<character> henry-f\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -7047,7 +7047,7 @@
             "artist": "Starkiteckt Designs",
             "alias": "",
             "position": "6",
-            "notes": "Format-Acorn\nLore-World-Phora\nMisc-Token-Star\n\n!tag<world> phora",
+            "notes": "Format-Acorn\nLore-World-Phora\nMisc-Token-Star\n\n!tag<stamp> acorn\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         }
