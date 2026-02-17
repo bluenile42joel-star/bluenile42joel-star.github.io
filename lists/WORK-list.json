@@ -2046,7 +2046,9 @@
     {
         "card_name": "er"
     },
-    "a->Alchemy",
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "The Philosopher's Stone",
         "number": 7,
@@ -2121,7 +2123,9 @@
     {
         "card_name": "er"
     },
-    "a->Acorn",
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "Form of Yourself",
         "number": 1,

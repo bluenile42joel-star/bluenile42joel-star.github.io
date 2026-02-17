@@ -13,28 +13,14 @@
     {"cards": ["L"]},
     {"cards": ["basic"]},
     {
-        "title": "Alchemy",
         "set": "WORK-A",
         "logo": false,
         "cards":["!tag<stamp> alchemy"]
     },
     {
-        "title": "Acorn",
         "set": "WORK-U",
         "logo": false,
         "cards": ["!tag<stamp> acorn"]
     },
-    {"cards": ["token"]},
-    {
-        "title": "Alchemy Tokens",
-        "set": "WORK-A",
-        "logo": false,
-        "cards": ["token"]
-    },
-    {
-        "title": "Acorn Tokens",
-        "set": "WORK-U",
-        "logo": false,
-        "cards": ["token"]
-    }
+    {"cards": ["token"]}
 ]
