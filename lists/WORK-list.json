@@ -2205,13 +2205,6 @@
         "position": "1"
     },
     {
-        "card_name": "Star",
-        "number": 1,
-        "shape": "token",
-        "set": "WORK-U",
-        "position": "6"
-    },
-    {
         "card_name": "Henry F., Pata-Matician",
         "number": 6,
         "shape": "normal",
@@ -2238,6 +2231,9 @@
         "shape": "normal",
         "set": "WORK-U",
         "position": "4"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

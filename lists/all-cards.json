@@ -7047,7 +7047,7 @@
             "artist": "Starkiteckt Designs",
             "alias": "",
             "position": "6",
-            "notes": "Format-Acorn\nLore-World-Phora\nMisc-Token-Star\n\n!tag<stamp> acorn\n!tag<world> phora",
+            "notes": "Format-Acorn\nLore-World-Phora\nMisc-Token-Star\n\n!tag<world> phora",
             "image_type": "jpg",
             "v_mana": ""
         }
