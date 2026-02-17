@@ -13,11 +13,13 @@
     {"cards": ["L"]},
     {"cards": ["basic"]},
     {
+        "title": "Alchemy",
         "set": "WORK-A",
         "logo": false,
         "cards":["!tag<stamp> alchemy"]
     },
     {
+        "title": "Acorn",
         "set": "WORK-U",
         "logo": false,
         "cards": ["!tag<stamp> acorn"]
