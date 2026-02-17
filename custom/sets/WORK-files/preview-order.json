@@ -4,13 +4,27 @@
     {"cards": ["B"]},
     {"cards": ["R"]},
     {"cards": ["G"]},
-    {"cards": ["WU","UB","BR","RG","GW","WB"]},
-    {"cards": ["UR","BG","RW","GU"]},
+    {"cards": ["WU","UB","BR","RG","GW"]},
+    {"cards": ["WB","UR","BG","RW","GU"]},
     {"cards": ["WUB","UBR","BRG","RGW","GWU"]},
     {"cards": ["WBG","URW","BGU","RWB","GUR"]},
     {"cards": ["gold"]},
     {"cards": ["C"]},
     {"cards": ["L"]},
     {"cards": ["basic"]},
-    {"cards": ["token"]}
+    {"cards": ["token"]},
+    {
+        "title": "Alchemy",
+        "set": "WORK-A",
+        "logo": false,
+        "cards":
+            [
+                "W","U","B","R","G",
+                "WU","UB","BR","RG","GW",
+                "WB","UR","BG","RW","GU",
+                "WUB","UBR","BRG","RGW","GWU",
+                "WBG","URW","BGU","RWB","GUR",
+                "gold","C","L"
+            ]
+    }
 ]

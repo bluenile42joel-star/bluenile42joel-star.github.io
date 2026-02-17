@@ -859,13 +859,6 @@
         "position": "104"
     },
     {
-        "card_name": "Destroying Angel",
-        "number": 133,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "108"
-    },
-    {
         "card_name": "Cedric, Alfheim Archmage",
         "number": 118,
         "shape": "normal",
@@ -901,13 +894,6 @@
         "position": "102"
     },
     {
-        "card_name": "Edwin Odd Edd Odwin",
-        "number": 134,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "109"
-    },
-    {
         "card_name": "The Oracle",
         "number": 120,
         "shape": "normal",
@@ -935,13 +921,6 @@
         "position": "105"
     },
     {
-        "card_name": "Jenny Nowhere",
-        "number": 135,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "110"
-    },
-    {
         "card_name": "Dragon Flock Leader",
         "number": 119,
         "shape": "normal",
@@ -965,13 +944,6 @@
         "position": "106"
     },
     {
-        "card_name": "Restoration Training",
-        "number": 185,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "150"
-    },
-    {
         "card_name": "Flight Training",
         "number": 178,
         "shape": "normal",
@@ -993,9 +965,6 @@
         "shape": "normal",
         "set": "WORK",
         "position": "107"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Winged \u2014",
@@ -1033,17 +1002,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Confession of Love",
         "number": 128,
         "shape": "normal",
         "set": "WORK",
         "position": "103"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1065,9 +1028,6 @@
         "position": "146"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -1081,6 +1041,13 @@
     },
     {
         "card_name": "er"
+    },
+    {
+        "card_name": "Destroying Angel",
+        "number": 133,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "108"
     },
     {
         "card_name": "Rematch",
@@ -1111,6 +1078,13 @@
         "position": "119"
     },
     {
+        "card_name": "Edwin Odd Edd Odwin",
+        "number": 134,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "109"
+    },
+    {
         "card_name": "Frostfire Weird",
         "number": 136,
         "shape": "normal",
@@ -1139,6 +1113,13 @@
         "position": "120"
     },
     {
+        "card_name": "Jenny Nowhere",
+        "number": 135,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "110"
+    },
+    {
         "card_name": "Game Knight",
         "number": 137,
         "shape": "normal",
@@ -1163,6 +1144,13 @@
         "position": "154"
     },
     {
+        "card_name": "Restoration Training",
+        "number": 185,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "150"
+    },
+    {
         "card_name": "Marauder's Dragonship",
         "number": 138,
         "shape": "normal",
@@ -1185,6 +1173,9 @@
         "shape": "modal double faced",
         "set": "WORK",
         "position": "155"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2185,6 +2176,68 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Alchemy",
+    {
+        "card_name": "The Philosopher's Stone",
+        "number": 7,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "6"
+    },
+    {
+        "card_name": "Great Unknown",
+        "number": 8,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "7"
+    },
+    {
+        "card_name": "Evolved Manhunter",
+        "number": 5,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "4"
+    },
+    {
+        "card_name": "Cloning Vat",
+        "number": 4,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "3"
+    },
+    {
+        "card_name": "Synthetic Life",
+        "number": 2,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "1"
+    },
+    {
+        "card_name": "Circle of Transmutation",
+        "number": 3,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "2"
+    },
+    {
+        "card_name": "Noah, Freelance Alchemist",
+        "number": 6,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "5"
     },
     {
         "card_name": "er"
