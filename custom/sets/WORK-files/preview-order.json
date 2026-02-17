@@ -13,7 +13,6 @@
     {"cards": ["L"]},
     {"cards": ["basic"]},
     {
-        "title": "Alchemy",
         "set": "WORK-A",
         "logo": false,
         "cards":["!tag<stamp> alchemy"]

@@ -2046,7 +2046,9 @@
     {
         "card_name": "er"
     },
-    "a->Alchemy",
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "The Philosopher's Stone",
         "number": 7,
