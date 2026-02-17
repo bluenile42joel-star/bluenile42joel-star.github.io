@@ -1,0 +1,16 @@
+[
+    {"cards": ["W"]},
+    {"cards": ["U"]},
+    {"cards": ["B"]},
+    {"cards": ["R"]},
+    {"cards": ["G"]},
+    {"cards": ["WU","UB","BR","RG","GW"]},
+    {"cards": ["WB","UR","BG","RW","GU"]},
+    {"cards": ["WUB","UBR","BRG","RGW","GWU"]},
+    {"cards": ["WBG","URW","BGU","RWB","GUR"]},
+    {"cards": ["gold"]},
+    {"cards": ["C"]},
+    {"cards": ["L"]},
+    {"cards": ["basic"]},
+    {"cards": ["token"]}
+]

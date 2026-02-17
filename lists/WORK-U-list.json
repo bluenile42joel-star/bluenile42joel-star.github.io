@@ -7,6 +7,33 @@
         "position": "0"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
         "card_name": "Don't Be Ridiculous!",
         "number": 2,
         "shape": "normal",
@@ -23,7 +50,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -34,7 +61,12 @@
     {
         "card_name": "er"
     },
-    "a->gold",
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "Astra F., Pata-Stronomer",
         "number": 3,
@@ -138,7 +170,9 @@
     {
         "card_name": "er"
     },
-    "a->token",
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "Star",
         "number": 1,
