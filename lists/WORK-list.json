@@ -2198,6 +2198,13 @@
         "position": "6"
     },
     {
+        "card_name": "I Contain Infinite Worlds",
+        "number": 1,
+        "shape": "normal",
+        "set": "WORK-A",
+        "position": "0"
+    },
+    {
         "card_name": "Great Unknown",
         "number": 8,
         "shape": "normal",
@@ -2238,6 +2245,12 @@
         "shape": "normal",
         "set": "WORK-A",
         "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
