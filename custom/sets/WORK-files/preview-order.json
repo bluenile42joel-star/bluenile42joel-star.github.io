@@ -19,7 +19,12 @@
         "logo": false,
         "cards":
             [
-                "!tag<stamp> alchemy"
+                "W","U","B","R","G",
+                "WU","UB","BR","RG","GW",
+                "WB","UR","BG","RW","GU",
+                "WUB","UBR","BRG","RGW","GWU",
+                "WBG","URW","BGU","RWB","GUR",
+                "gold","C","L"
             ]
     },
     {
