@@ -1,4 +1,26 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+I Contain Infinite Worlds
+
+Synthetic Life
+
+Circle of Transmutation
+
+Cloning Vat
+
+Evolved Manhunter
+
+Noah, Freelance Alchemist
+
+The Philosopher's Stone
+
+Great Unknown
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

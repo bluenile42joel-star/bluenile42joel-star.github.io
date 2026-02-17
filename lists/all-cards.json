@@ -6739,7 +6739,7 @@
             "artist": "Seungmin lee",
             "alias": "",
             "position": "0",
-            "notes": "Design-RC-Free-Slot\nFormat-Alchemy\n\n!tag>stamp> alchemy",
+            "notes": "Design-RC-Free-Slot\nFormat-Alchemy\n\n!tag<stamp> alchemy",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6761,7 +6761,7 @@
             "artist": "Andrew Baptist",
             "alias": "",
             "position": "1",
-            "notes": "Design-RW-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-RW-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6783,7 +6783,7 @@
             "artist": "Gargi Roy",
             "alias": "",
             "position": "2",
-            "notes": "Design-UU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-UU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6805,7 +6805,7 @@
             "artist": "Yujin Choo",
             "alias": "",
             "position": "3",
-            "notes": "Design-RU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-RU-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6827,7 +6827,7 @@
             "artist": "Max Elmberg Sj\u00f6holm",
             "alias": "",
             "position": "4",
-            "notes": "Design-RB-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-RB-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6849,7 +6849,7 @@
             "artist": "Consuelo Pecchenino",
             "alias": "",
             "position": "5",
-            "notes": "Design-RM-Free-Slot\nFormat-Alchemy\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<character> noah\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-RM-Free-Slot\nFormat-Alchemy\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<character> noah\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6871,7 +6871,7 @@
             "artist": "VidaQla",
             "alias": "",
             "position": "6",
-            "notes": "Design-RA-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-RA-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\nStyle-Showcase-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -6893,7 +6893,7 @@
             "artist": "liang shao",
             "alias": "",
             "position": "7",
-            "notes": "Design-UL-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag>stamp> alchemy\n!tag<world> khumeia",
+            "notes": "Design-UL-Free-Slot\nFormat-Alchemy\nLore-World-Khumeia\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
             "image_type": "jpg",
             "v_mana": ""
         },
