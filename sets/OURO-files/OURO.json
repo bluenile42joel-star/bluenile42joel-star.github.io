@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "jpg",
-    "draft_structure": "cube",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -11,7 +11,7 @@
         {
             "card_name": "Plains",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Plains",
             "number": 1,
             "color_identity": "W",
@@ -31,7 +31,7 @@
         {
             "card_name": "Island",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Island",
             "number": 2,
             "color_identity": "U",
@@ -51,7 +51,7 @@
         {
             "card_name": "Swamp",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
             "number": 3,
             "color_identity": "B",
@@ -71,7 +71,7 @@
         {
             "card_name": "Mountain",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
             "number": 4,
             "color_identity": "R",
@@ -91,7 +91,7 @@
         {
             "card_name": "Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Forest",
             "number": 5,
             "color_identity": "G",
@@ -109,5 +109,5 @@
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         }
     ],
-    "version": 17
+    "version": 18
 }

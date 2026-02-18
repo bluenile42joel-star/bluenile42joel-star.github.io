@@ -1,4 +1,18 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+I Contain Infinite Worlds removed.
+Synthetic Life removed.
+Circle of Transmutation removed.
+Cloning Vat removed.
+Evolved Manhunter removed.
+Noah, Freelance Alchemist removed.
+The Philosopher's Stone removed.
+Great Unknown removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

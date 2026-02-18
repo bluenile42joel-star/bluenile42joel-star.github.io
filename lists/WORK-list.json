@@ -1,198 +1,206 @@
 ﻿[
     {
         "card_name": "Amass Allies",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "WORK",
         "position": "6"
     },
     {
         "card_name": "Artemis, Scourge of Rodents",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "WORK",
         "position": "7"
     },
     {
         "card_name": "Astral Incorporation",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "WORK",
         "position": "8"
     },
     {
         "card_name": "Astral Severance",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "WORK",
         "position": "9"
     },
     {
         "card_name": "Begin the Masquerade",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "WORK",
         "position": "10"
     },
     {
         "card_name": "Down the Rabbit Hole",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "WORK",
         "position": "12"
     },
     {
         "card_name": "Eternal Recall",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "WORK",
         "position": "13"
     },
     {
         "card_name": "Fold Up",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "WORK",
         "position": "15"
     },
     {
+        "card_name": "Form of Yourself",
+        "number": 21,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "293"
+    },
+    {
         "card_name": "Go Forth and Destroy",
-        "number": 20,
+        "number": 22,
         "shape": "normal",
         "set": "WORK",
         "position": "16"
     },
     {
         "card_name": "Gods' Ire",
-        "number": 22,
+        "number": 24,
         "shape": "normal",
         "set": "WORK",
         "position": "18"
     },
     {
         "card_name": "Miracle Fusion",
-        "number": 25,
+        "number": 27,
         "shape": "normal",
         "set": "WORK",
         "position": "21"
     },
     {
         "card_name": "Ontological Paradox",
-        "number": 29,
+        "number": 31,
         "shape": "normal",
         "set": "WORK",
         "position": "23"
     },
     {
-        "card_name": "Wrath of the Dragon Queen",
+        "card_name": "Synthetic Life",
         "number": 37,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "285"
+    },
+    {
+        "card_name": "Wrath of the Dragon Queen",
+        "number": 40,
         "shape": "normal",
         "set": "WORK",
         "position": "257"
     },
     {
         "card_name": "Absence Elemental",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "WORK",
         "position": "5"
     },
     {
         "card_name": "Evil's End",
-        "number": 18,
+        "number": 19,
         "shape": "normal",
         "set": "WORK",
         "position": "14"
     },
     {
         "card_name": "Go Separate Ways",
-        "number": 21,
+        "number": 23,
         "shape": "normal",
         "set": "WORK",
         "position": "17"
     },
     {
         "card_name": "Let Go",
-        "number": 24,
+        "number": 26,
         "shape": "normal",
         "set": "WORK",
         "position": "20"
     },
     {
         "card_name": "Present the Ring",
-        "number": 30,
+        "number": 32,
         "shape": "normal",
         "set": "WORK",
         "position": "244"
     },
     {
         "card_name": "Soul Sisters",
-        "number": 31,
+        "number": 33,
         "shape": "normal",
         "set": "WORK",
         "position": "24"
     },
     {
         "card_name": "Sourdough Soldier",
-        "number": 32,
+        "number": 34,
         "shape": "normal",
         "set": "WORK",
         "position": "25"
     },
     {
         "card_name": "Stop the Fight",
-        "number": 33,
+        "number": 35,
         "shape": "normal",
         "set": "WORK",
         "position": "26"
     },
     {
         "card_name": "Superhuman Reflexes",
-        "number": 34,
+        "number": 36,
         "shape": "normal",
         "set": "WORK",
         "position": "27"
     },
     {
         "card_name": "Vanishing Point",
-        "number": 36,
+        "number": 39,
         "shape": "normal",
         "set": "WORK",
         "position": "29"
     },
     {
         "card_name": "Welcoming Entrance",
-        "number": 38,
+        "number": 41,
         "shape": "fuse split",
         "set": "WORK",
         "position": "30"
     },
     {
         "card_name": "Pearl Masque",
-        "number": 258,
+        "number": 274,
         "shape": "normal",
         "set": "WORK",
         "position": "219"
     },
     {
         "card_name": "Harness Divinity",
-        "number": 23,
+        "number": 25,
         "shape": "normal",
         "set": "WORK",
         "position": "19"
     },
     {
         "card_name": "Tyrant of the Meadows",
-        "number": 35,
+        "number": 38,
         "shape": "normal",
         "set": "WORK",
         "position": "28"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -214,159 +222,171 @@
     },
     {
         "card_name": "Ten Thousand Years",
-        "number": 55,
+        "number": 61,
         "shape": "normal",
         "set": "WORK",
         "position": "42"
     },
     {
         "card_name": "Aarie's Conjuration",
-        "number": 39,
+        "number": 42,
         "shape": "normal",
         "set": "WORK",
         "position": "31"
     },
     {
+        "card_name": "Cloning Vat",
+        "number": 49,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "287"
+    },
+    {
         "card_name": "The Man With Many Masks",
-        "number": 46,
+        "number": 52,
         "shape": "normal",
         "set": "WORK",
         "position": "36"
     },
     {
         "card_name": "Mass Memory Wipe",
-        "number": 47,
+        "number": 53,
         "shape": "normal",
         "set": "WORK",
         "position": "37"
     },
     {
         "card_name": "Saura Pemmin, Morphomancer",
-        "number": 52,
+        "number": 58,
         "shape": "normal",
         "set": "WORK",
         "position": "40"
     },
     {
         "card_name": "Recursive Room",
-        "number": 60,
+        "number": 66,
         "shape": "fuse split",
         "set": "WORK",
         "position": "47"
     },
     {
         "card_name": "Archetypal Imagination",
-        "number": 41,
+        "number": 44,
         "shape": "normal",
         "set": "WORK",
         "position": "32"
     },
     {
         "card_name": "Behold the New Worlds",
-        "number": 42,
+        "number": 45,
         "shape": "normal",
         "set": "WORK",
         "position": "33"
     },
     {
         "card_name": "Case of the Living Mystery",
-        "number": 43,
+        "number": 46,
         "shape": "saga",
         "set": "WORK",
         "position": "245"
     },
     {
+        "card_name": "Circle of Transmutation",
+        "number": 47,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "286"
+    },
+    {
+        "card_name": "Don't Be Ridiculous!",
+        "number": 50,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "294"
+    },
+    {
         "card_name": "Precognition Engine",
-        "number": 49,
+        "number": 55,
         "shape": "normal",
         "set": "WORK",
         "position": "38"
     },
     {
         "card_name": "Run on Thin Air",
-        "number": 51,
+        "number": 57,
         "shape": "normal",
         "set": "WORK",
         "position": "39"
     },
     {
         "card_name": "Shadowmind Invocaiton",
-        "number": 53,
+        "number": 59,
         "shape": "normal",
         "set": "WORK",
         "position": "258"
     },
     {
         "card_name": "Thirst for Adventure",
-        "number": 56,
+        "number": 62,
         "shape": "normal",
         "set": "WORK",
         "position": "43"
     },
     {
         "card_name": "Thirst for Greatness",
-        "number": 57,
+        "number": 63,
         "shape": "normal",
         "set": "WORK",
         "position": "44"
     },
     {
         "card_name": "Void Rabbit",
-        "number": 59,
+        "number": 65,
         "shape": "normal",
         "set": "WORK",
         "position": "46"
     },
     {
         "card_name": "Sapphire Masque",
-        "number": 259,
+        "number": 275,
         "shape": "normal",
         "set": "WORK",
         "position": "220"
     },
     {
         "card_name": "Civilianize",
-        "number": 44,
+        "number": 48,
         "shape": "normal",
         "set": "WORK",
         "position": "34"
     },
     {
         "card_name": "Envision",
-        "number": 45,
+        "number": 51,
         "shape": "normal",
         "set": "WORK",
         "position": "35"
     },
     {
         "card_name": "New Worlds Dragon Rider",
-        "number": 48,
+        "number": 54,
         "shape": "normal",
         "set": "WORK",
         "position": "256"
     },
     {
         "card_name": "Shape Change",
-        "number": 54,
+        "number": 60,
         "shape": "normal",
         "set": "WORK",
         "position": "41"
     },
     {
         "card_name": "Tyrant of the Lakes",
-        "number": 58,
+        "number": 64,
         "shape": "normal",
         "set": "WORK",
         "position": "45"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -388,160 +408,164 @@
     },
     {
         "card_name": "Sir Thomas, God-Eater",
-        "number": 75,
+        "number": 82,
         "shape": "planeswalker",
         "set": "WORK",
         "position": "61"
     },
     {
         "card_name": "Tempt With Ambition",
-        "number": 79,
+        "number": 86,
         "shape": "normal",
         "set": "WORK",
         "position": "65"
     },
     {
         "card_name": "Vestige of Satanas",
-        "number": 81,
+        "number": 88,
         "shape": "normal",
         "set": "WORK",
         "position": "67"
     },
     {
         "card_name": "Callous Betrayal",
-        "number": 62,
+        "number": 68,
         "shape": "normal",
         "set": "WORK",
         "position": "49"
     },
     {
         "card_name": "Death Elemental",
-        "number": 63,
+        "number": 69,
         "shape": "normal",
         "set": "WORK",
         "position": "50"
     },
     {
+        "card_name": "Evolved Manhunter",
+        "number": 71,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "288"
+    },
+    {
         "card_name": "The Nameless Rider",
-        "number": 68,
+        "number": 75,
         "shape": "normal",
         "set": "WORK",
         "position": "55"
     },
     {
         "card_name": "Nilpotence",
-        "number": 69,
+        "number": 76,
         "shape": "normal",
         "set": "WORK",
         "position": "56"
     },
     {
         "card_name": "Omnicide",
-        "number": 71,
+        "number": 78,
         "shape": "normal",
         "set": "WORK",
         "position": "58"
     },
     {
         "card_name": "Samael, the Reaper",
-        "number": 73,
+        "number": 80,
         "shape": "normal",
         "set": "WORK",
         "position": "60"
     },
     {
         "card_name": "Satanas' Cellphone",
-        "number": 74,
+        "number": 81,
         "shape": "normal",
         "set": "WORK",
         "position": "170"
     },
     {
         "card_name": "Demonic Blessing",
-        "number": 64,
+        "number": 70,
         "shape": "normal",
         "set": "WORK",
         "position": "51"
     },
     {
         "card_name": "Gone Too Soon",
-        "number": 66,
+        "number": 73,
         "shape": "normal",
         "set": "WORK",
         "position": "53"
     },
     {
         "card_name": "Loose Ends",
-        "number": 67,
+        "number": 74,
         "shape": "normal",
         "set": "WORK",
         "position": "54"
     },
     {
         "card_name": "Not Strong Enough",
-        "number": 70,
+        "number": 77,
         "shape": "normal",
         "set": "WORK",
         "position": "57"
     },
     {
         "card_name": "Pincing \u2014",
-        "number": 72,
+        "number": 79,
         "shape": "modal double faced",
         "set": "WORK",
         "position": "59"
     },
     {
         "card_name": "Soul Tether",
-        "number": 76,
+        "number": 83,
         "shape": "normal",
         "set": "WORK",
         "position": "62"
     },
     {
         "card_name": "Soul Toxin",
-        "number": 77,
+        "number": 84,
         "shape": "normal",
         "set": "WORK",
         "position": "63"
     },
     {
         "card_name": "Jet Masque",
-        "number": 260,
+        "number": 276,
         "shape": "normal",
         "set": "WORK",
         "position": "221"
     },
     {
         "card_name": "Abrupt End",
-        "number": 61,
+        "number": 67,
         "shape": "normal",
         "set": "WORK",
         "position": "48"
     },
     {
         "card_name": "False Love's Kiss",
-        "number": 65,
+        "number": 72,
         "shape": "normal",
         "set": "WORK",
         "position": "52"
     },
     {
         "card_name": "Step On",
-        "number": 78,
+        "number": 85,
         "shape": "normal",
         "set": "WORK",
         "position": "64"
     },
     {
         "card_name": "Tyrant of the Moors",
-        "number": 80,
+        "number": 87,
         "shape": "normal",
         "set": "WORK",
         "position": "66"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -566,77 +590,77 @@
     },
     {
         "card_name": "Go Kill a Jabberwock!",
-        "number": 87,
+        "number": 94,
         "shape": "transform double faced",
         "set": "WORK",
         "position": "260"
     },
     {
         "card_name": "R, the Gunsmith",
-        "number": 82,
+        "number": 89,
         "shape": "normal",
         "set": "WORK",
         "position": "68"
     },
     {
         "card_name": "Become Omnipotent",
-        "number": 83,
+        "number": 90,
         "shape": "normal",
         "set": "WORK",
         "position": "69"
     },
     {
         "card_name": "Puck, Fae Harlequin",
-        "number": 91,
+        "number": 98,
         "shape": "normal",
         "set": "WORK",
         "position": "72"
     },
     {
         "card_name": "Worldbreaker's Oath",
-        "number": 96,
+        "number": 103,
         "shape": "normal",
         "set": "WORK",
         "position": "76"
     },
     {
         "card_name": "Dragon's Soul",
-        "number": 85,
+        "number": 92,
         "shape": "normal",
         "set": "WORK",
         "position": "70"
     },
     {
         "card_name": "Falling Out",
-        "number": 86,
+        "number": 93,
         "shape": "normal",
         "set": "WORK",
         "position": "71"
     },
     {
         "card_name": "Unexpected Reunion",
-        "number": 94,
+        "number": 101,
         "shape": "normal",
         "set": "WORK",
         "position": "75"
     },
     {
         "card_name": "Ruby Masque",
-        "number": 261,
+        "number": 277,
         "shape": "normal",
         "set": "WORK",
         "position": "222"
     },
     {
         "card_name": "Traumatic Scar",
-        "number": 92,
+        "number": 99,
         "shape": "normal",
         "set": "WORK",
         "position": "73"
     },
     {
         "card_name": "Tyrant of the Cliffs",
-        "number": 93,
+        "number": 100,
         "shape": "normal",
         "set": "WORK",
         "position": "74"
@@ -669,144 +693,163 @@
         "card_name": "er"
     },
     {
+        "card_name": "Worldbuidling",
+        "number": 124,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "283"
+    },
+    {
         "card_name": "Champion's Triumph",
-        "number": 97,
+        "number": 104,
         "shape": "normal",
         "set": "WORK",
         "position": "246"
     },
     {
         "card_name": "Collector of Lost Things",
-        "number": 99,
+        "number": 106,
         "shape": "normal",
         "set": "WORK",
         "position": "247"
     },
     {
         "card_name": "Gathmori Nomad",
-        "number": 104,
+        "number": 111,
         "shape": "normal",
         "set": "WORK",
         "position": "82"
     },
     {
         "card_name": "Ivar's Bestiary",
-        "number": 107,
+        "number": 114,
         "shape": "normal",
         "set": "WORK",
         "position": "85"
     },
     {
         "card_name": "On the House",
-        "number": 109,
+        "number": 116,
         "shape": "normal",
         "set": "WORK",
         "position": "248"
     },
     {
         "card_name": "Paradoxical Architecture",
-        "number": 110,
+        "number": 117,
         "shape": "normal",
         "set": "WORK",
         "position": "87"
     },
     {
         "card_name": "Raiz, Curious Cultivator",
-        "number": 111,
+        "number": 118,
         "shape": "normal",
         "set": "WORK",
         "position": "88"
     },
     {
         "card_name": "Volundr, Seeker of Mt. King",
-        "number": 114,
+        "number": 121,
         "shape": "normal",
         "set": "WORK",
         "position": "90"
     },
     {
         "card_name": "The World Tree Sprouts",
-        "number": 115,
+        "number": 122,
         "shape": "normal",
         "set": "WORK",
         "position": "91"
     },
     {
         "card_name": "Chased by Wolves",
-        "number": 98,
+        "number": 105,
         "shape": "normal",
         "set": "WORK",
         "position": "77"
     },
     {
         "card_name": "Dragon Migration",
-        "number": 101,
+        "number": 108,
         "shape": "normal",
         "set": "WORK",
         "position": "79"
     },
     {
         "card_name": "Frost Channeler",
-        "number": 103,
+        "number": 110,
         "shape": "normal",
         "set": "WORK",
         "position": "81"
     },
     {
         "card_name": "Grasping \u2014",
-        "number": 106,
+        "number": 113,
         "shape": "modal double faced",
         "set": "WORK",
         "position": "84"
     },
     {
         "card_name": "Living Equation",
-        "number": 108,
+        "number": 115,
         "shape": "normal",
         "set": "WORK",
         "position": "86"
     },
     {
         "card_name": "Worlds within Worlds",
-        "number": 116,
+        "number": 125,
         "shape": "normal",
         "set": "WORK",
         "position": "92"
     },
     {
         "card_name": "Emerald Masque",
-        "number": 262,
+        "number": 278,
         "shape": "normal",
         "set": "WORK",
         "position": "223"
     },
     {
         "card_name": "Commune with Dragons",
-        "number": 100,
+        "number": 107,
         "shape": "normal",
         "set": "WORK",
         "position": "78"
     },
     {
         "card_name": "Explore the House",
-        "number": 102,
+        "number": 109,
         "shape": "normal",
         "set": "WORK",
         "position": "80"
     },
     {
         "card_name": "Go Feral",
-        "number": 105,
+        "number": 112,
         "shape": "normal",
         "set": "WORK",
         "position": "83"
     },
     {
         "card_name": "Tyrant of the Woods",
-        "number": 113,
+        "number": 120,
         "shape": "normal",
         "set": "WORK",
         "position": "89"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -825,77 +868,77 @@
     },
     {
         "card_name": "Backdoor Access",
-        "number": 117,
+        "number": 127,
         "shape": "normal",
         "set": "WORK",
         "position": "93"
     },
     {
         "card_name": "Cunning Manipulation",
-        "number": 121,
+        "number": 131,
         "shape": "normal",
         "set": "WORK",
         "position": "97"
     },
     {
         "card_name": "Scarmaker",
-        "number": 123,
+        "number": 133,
         "shape": "normal",
         "set": "WORK",
         "position": "99"
     },
     {
         "card_name": "Rubber Annie, Ringmaster",
-        "number": 125,
+        "number": 135,
         "shape": "normal",
         "set": "WORK",
         "position": "100"
     },
     {
         "card_name": "Inspiring Survivor",
-        "number": 129,
+        "number": 139,
         "shape": "normal",
         "set": "WORK",
         "position": "104"
     },
     {
         "card_name": "Cedric, Alfheim Archmage",
-        "number": 118,
+        "number": 128,
         "shape": "normal",
         "set": "WORK",
         "position": "94"
     },
     {
         "card_name": "The Stitcher",
-        "number": 122,
+        "number": 132,
         "shape": "normal",
         "set": "WORK",
         "position": "98"
     },
     {
         "card_name": "Intimidation Training",
-        "number": 179,
+        "number": 192,
         "shape": "normal",
         "set": "WORK",
         "position": "144"
     },
     {
         "card_name": "Supernatural Strength",
-        "number": 126,
+        "number": 136,
         "shape": "normal",
         "set": "WORK",
         "position": "101"
     },
     {
         "card_name": "Angela, Doomed Storyteller",
-        "number": 127,
+        "number": 137,
         "shape": "transform double faced",
         "set": "WORK",
         "position": "102"
     },
     {
         "card_name": "The Oracle",
-        "number": 120,
+        "number": 130,
         "shape": "normal",
         "set": "WORK",
         "position": "96"
@@ -908,21 +951,44 @@
     },
     {
         "card_name": "Strength Training",
-        "number": 180,
+        "number": 193,
         "shape": "normal",
         "set": "WORK",
         "position": "145"
     },
     {
         "card_name": "Ivar, Supernaturalist",
-        "number": 130,
+        "number": 140,
         "shape": "normal",
         "set": "WORK",
         "position": "105"
     },
     {
+        "card_name": "Astra F., Pata-Stronomer",
+        "number": 126,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "295"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jenny Everywhere",
+        "number": 141,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "106"
+    },
+    {
         "card_name": "Dragon Flock Leader",
-        "number": 119,
+        "number": 129,
         "shape": "normal",
         "set": "WORK",
         "position": "95"
@@ -937,15 +1003,15 @@
         "card_name": "e"
     },
     {
-        "card_name": "Jenny Everywhere",
-        "number": 131,
+        "card_name": "Twilight Rebirth",
+        "number": 142,
         "shape": "normal",
         "set": "WORK",
-        "position": "106"
+        "position": "107"
     },
     {
         "card_name": "Flight Training",
-        "number": 178,
+        "number": 191,
         "shape": "normal",
         "set": "WORK",
         "position": "143"
@@ -960,15 +1026,15 @@
         "card_name": "e"
     },
     {
-        "card_name": "Twilight Rebirth",
-        "number": 132,
+        "card_name": "Slice of Life",
+        "number": 197,
         "shape": "normal",
         "set": "WORK",
-        "position": "107"
+        "position": "149"
     },
     {
         "card_name": "Winged \u2014",
-        "number": 191,
+        "number": 205,
         "shape": "modal double faced",
         "set": "WORK",
         "position": "156"
@@ -983,27 +1049,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Slice of Life",
-        "number": 184,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "149"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Confession of Love",
-        "number": 128,
+        "number": 138,
         "shape": "normal",
         "set": "WORK",
         "position": "103"
@@ -1022,7 +1069,7 @@
     },
     {
         "card_name": "Endurance Training",
-        "number": 181,
+        "number": 194,
         "shape": "normal",
         "set": "WORK",
         "position": "146"
@@ -1044,84 +1091,115 @@
     },
     {
         "card_name": "Destroying Angel",
-        "number": 133,
+        "number": 143,
         "shape": "normal",
         "set": "WORK",
         "position": "108"
     },
     {
         "card_name": "Rematch",
-        "number": 186,
+        "number": 200,
         "shape": "normal",
         "set": "WORK",
         "position": "151"
     },
     {
         "card_name": "Scarmender",
-        "number": 141,
+        "number": 151,
         "shape": "normal",
         "set": "WORK",
         "position": "114"
     },
     {
         "card_name": "Righteous Fury",
-        "number": 144,
+        "number": 154,
         "shape": "normal",
         "set": "WORK",
         "position": "117"
     },
     {
         "card_name": "Attune to Reality",
-        "number": 146,
+        "number": 156,
         "shape": "normal",
         "set": "WORK",
         "position": "119"
     },
     {
         "card_name": "Edwin Odd Edd Odwin",
-        "number": 134,
+        "number": 144,
         "shape": "normal",
         "set": "WORK",
         "position": "109"
     },
     {
-        "card_name": "Frostfire Weird",
-        "number": 136,
+        "card_name": "Henry F., Pata-Matician",
+        "number": 199,
         "shape": "normal",
         "set": "WORK",
-        "position": "111"
+        "position": "298"
     },
     {
         "card_name": "Poison Training",
-        "number": 187,
+        "number": 201,
         "shape": "normal",
         "set": "WORK",
         "position": "152"
     },
     {
         "card_name": "Macedonian Sarissa",
-        "number": 142,
+        "number": 152,
         "shape": "normal",
         "set": "WORK",
         "position": "115"
     },
     {
         "card_name": "Mask of Illusions",
-        "number": 147,
+        "number": 157,
         "shape": "normal",
         "set": "WORK",
         "position": "120"
     },
     {
         "card_name": "Jenny Nowhere",
-        "number": 135,
+        "number": 145,
         "shape": "normal",
         "set": "WORK",
         "position": "110"
     },
     {
+        "card_name": "Frostfire Weird",
+        "number": 146,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "111"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Molly, Astral Drifter",
+        "number": 153,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "116"
+    },
+    {
+        "card_name": "Teleportation Training",
+        "number": 203,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "154"
+    },
+    {
+        "card_name": "Restoration Training",
+        "number": 198,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "150"
+    },
+    {
         "card_name": "Game Knight",
-        "number": 137,
+        "number": 147,
         "shape": "normal",
         "set": "WORK",
         "position": "112"
@@ -1130,46 +1208,15 @@
         "card_name": "e"
     },
     {
-        "card_name": "Molly, Astral Drifter",
-        "number": 143,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "116"
-    },
-    {
-        "card_name": "Teleportation Training",
-        "number": 189,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "154"
-    },
-    {
-        "card_name": "Restoration Training",
-        "number": 185,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "150"
-    },
-    {
-        "card_name": "Marauder's Dragonship",
-        "number": 138,
-        "shape": "normal",
-        "set": "WORK",
-        "position": "113"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Sunfire Dragon",
-        "number": 145,
+        "number": 155,
         "shape": "normal",
         "set": "WORK",
         "position": "118"
     },
     {
         "card_name": "Tentacled \u2014",
-        "number": 190,
+        "number": 204,
         "shape": "modal double faced",
         "set": "WORK",
         "position": "155"
@@ -1178,14 +1225,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Marauder's Dragonship",
+        "number": 148,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "113"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Reflex Training",
-        "number": 188,
+        "number": 202,
         "shape": "normal",
         "set": "WORK",
         "position": "153"
@@ -1210,14 +1261,14 @@
     },
     {
         "card_name": "Detective Westfield",
-        "number": 158,
+        "number": 168,
         "shape": "normal",
         "set": "WORK",
         "position": "250"
     },
     {
         "card_name": "Reven Novano",
-        "number": 172,
+        "number": 184,
         "shape": "normal",
         "set": "WORK",
         "position": "139"
@@ -1227,28 +1278,28 @@
     },
     {
         "card_name": "Granny, Combat Sage",
-        "number": 161,
+        "number": 171,
         "shape": "normal",
         "set": "WORK",
         "position": "229"
     },
     {
         "card_name": "Aarie Cedricsdottir",
-        "number": 148,
+        "number": 158,
         "shape": "normal",
         "set": "WORK",
         "position": "121"
     },
     {
         "card_name": "Devourer of Hope",
-        "number": 159,
+        "number": 169,
         "shape": "normal",
         "set": "WORK",
         "position": "129"
     },
     {
         "card_name": "Ariel Vivelia",
-        "number": 152,
+        "number": 162,
         "shape": "normal",
         "set": "WORK",
         "position": "249"
@@ -1258,21 +1309,21 @@
     },
     {
         "card_name": "Tyler, Tavern Keeper",
-        "number": 176,
+        "number": 188,
         "shape": "normal",
         "set": "WORK",
         "position": "251"
     },
     {
         "card_name": "High King Vidar",
-        "number": 163,
+        "number": 173,
         "shape": "normal",
         "set": "WORK",
         "position": "131"
     },
     {
         "card_name": "Old Man Loki",
-        "number": 169,
+        "number": 181,
         "shape": "normal",
         "set": "WORK",
         "position": "136"
@@ -1288,14 +1339,14 @@
     },
     {
         "card_name": "Alfheim Armed Forces",
-        "number": 150,
+        "number": 160,
         "shape": "normal",
         "set": "WORK",
         "position": "123"
     },
     {
         "card_name": "Ronan, Head of Operations",
-        "number": 174,
+        "number": 186,
         "shape": "normal",
         "set": "WORK",
         "position": "140"
@@ -1310,8 +1361,27 @@
         "card_name": "e"
     },
     {
+        "card_name": "Madam Universe, Mayor",
+        "number": 175,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "296"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Vignette",
-        "number": 177,
+        "number": 190,
         "shape": "normal",
         "set": "WORK",
         "position": "142"
@@ -1336,7 +1406,7 @@
     },
     {
         "card_name": "Adalinda, Dragonspeaker",
-        "number": 149,
+        "number": 159,
         "shape": "normal",
         "set": "WORK",
         "position": "122"
@@ -1346,14 +1416,14 @@
     },
     {
         "card_name": "Archangel Apollyon",
-        "number": 151,
+        "number": 161,
         "shape": "normal",
         "set": "WORK",
         "position": "124"
     },
     {
         "card_name": "Experiment 111, the Mimic",
-        "number": 160,
+        "number": 170,
         "shape": "normal",
         "set": "WORK",
         "position": "130"
@@ -1363,7 +1433,7 @@
     },
     {
         "card_name": "Castor and Pollux Dioscuri",
-        "number": 156,
+        "number": 166,
         "shape": "normal",
         "set": "WORK",
         "position": "128"
@@ -1373,14 +1443,14 @@
     },
     {
         "card_name": "Ashley, Alter Ego",
-        "number": 153,
+        "number": 163,
         "shape": "normal",
         "set": "WORK",
         "position": "125"
     },
     {
         "card_name": "Magnus Arneson, Explorer",
-        "number": 165,
+        "number": 176,
         "shape": "normal",
         "set": "WORK",
         "position": "133"
@@ -1396,7 +1466,7 @@
     },
     {
         "card_name": "President Leonidas",
-        "number": 171,
+        "number": 183,
         "shape": "normal",
         "set": "WORK",
         "position": "138"
@@ -1415,7 +1485,7 @@
     },
     {
         "card_name": "AXS Harper",
-        "number": 155,
+        "number": 165,
         "shape": "normal",
         "set": "WORK",
         "position": "127"
@@ -1440,51 +1510,59 @@
     },
     {
         "card_name": "J.P. Watterson",
-        "number": 164,
+        "number": 174,
         "shape": "normal",
         "set": "WORK",
         "position": "132"
     },
     {
         "card_name": "Avatar of Metatron",
-        "number": 154,
+        "number": 164,
         "shape": "normal",
         "set": "WORK",
         "position": "126"
     },
     {
         "card_name": "Metatron's Verdict",
-        "number": 167,
+        "number": 178,
         "shape": "normal",
         "set": "WORK",
         "position": "135"
     },
     {
+        "card_name": "Noah, Freelance Alchemist",
+        "number": 180,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "289"
+    },
+    {
         "card_name": "Metapattern",
-        "number": 166,
+        "number": 177,
         "shape": "normal",
         "set": "WORK",
         "position": "134"
     },
     {
         "card_name": "Phalanx, Civil Militia",
-        "number": 170,
+        "number": 182,
         "shape": "normal",
         "set": "WORK",
         "position": "137"
     },
     {
         "card_name": "Spear of Destiny",
-        "number": 175,
+        "number": 187,
         "shape": "normal",
         "set": "WORK",
         "position": "141"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Ubu Roi",
+        "number": 189,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "297"
     },
     {
         "card_name": "e"
@@ -1509,21 +1587,21 @@
     },
     {
         "card_name": "The Morphblade",
-        "number": 203,
+        "number": 217,
         "shape": "planeswalker",
         "set": "WORK",
         "position": "168"
     },
     {
         "card_name": "Sword of Hope and Destiny",
-        "number": 205,
+        "number": 220,
         "shape": "normal",
         "set": "WORK",
         "position": "171"
     },
     {
         "card_name": "Grandmaster Clock",
-        "number": 255,
+        "number": 271,
         "shape": "normal",
         "set": "WORK",
         "position": "216"
@@ -1536,120 +1614,134 @@
         "position": "0"
     },
     {
-        "card_name": "Leyline of Frost",
+        "card_name": "I Contain Infinite Worlds",
         "number": 6,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "284"
+    },
+    {
+        "card_name": "Leyline of Frost",
+        "number": 7,
         "shape": "normal",
         "set": "WORK",
         "position": "4"
     },
     {
         "card_name": "Blood Lotus",
-        "number": 194,
+        "number": 208,
         "shape": "normal",
         "set": "WORK",
         "position": "159"
     },
     {
         "card_name": "Gathraxi Astroformer",
-        "number": 195,
+        "number": 209,
         "shape": "leveler",
         "set": "WORK",
         "position": "160"
     },
     {
         "card_name": "Gathraxi Cosmoformer",
-        "number": 196,
+        "number": 210,
         "shape": "normal",
         "set": "WORK",
         "position": "161"
     },
     {
         "card_name": "Gathraxi Terraformer",
-        "number": 197,
+        "number": 211,
         "shape": "normal",
         "set": "WORK",
         "position": "162"
     },
     {
         "card_name": "Hero's Memorial",
-        "number": 199,
+        "number": 213,
         "shape": "normal",
         "set": "WORK",
         "position": "164"
     },
     {
         "card_name": "Mox Amethyst",
-        "number": 204,
+        "number": 218,
         "shape": "normal",
         "set": "WORK",
         "position": "169"
     },
     {
+        "card_name": "The Philosopher's Stone",
+        "number": 219,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "290"
+    },
+    {
         "card_name": "Weapons of Mass Production",
-        "number": 208,
+        "number": 223,
         "shape": "normal",
         "set": "WORK",
         "position": "174"
     },
     {
         "card_name": "Power Lines",
-        "number": 256,
+        "number": 272,
         "shape": "normal",
         "set": "WORK",
         "position": "217"
     },
     {
         "card_name": "Aetheric Resonator",
-        "number": 192,
+        "number": 206,
         "shape": "normal",
         "set": "WORK",
         "position": "157"
     },
     {
         "card_name": "Artist's Palette",
-        "number": 193,
+        "number": 207,
         "shape": "normal",
         "set": "WORK",
         "position": "158"
     },
     {
         "card_name": "Golden Apple",
-        "number": 198,
+        "number": 212,
         "shape": "normal",
         "set": "WORK",
         "position": "163"
     },
     {
         "card_name": "Jukebox",
-        "number": 200,
+        "number": 214,
         "shape": "normal",
         "set": "WORK",
         "position": "165"
     },
     {
         "card_name": "Map of the Multiverse",
-        "number": 201,
+        "number": 215,
         "shape": "normal",
         "set": "WORK",
         "position": "166"
     },
     {
         "card_name": "Molly's Eyepatch",
-        "number": 202,
+        "number": 216,
         "shape": "normal",
         "set": "WORK",
         "position": "167"
     },
     {
         "card_name": "Three-Sided Coin",
-        "number": 206,
+        "number": 221,
         "shape": "normal",
         "set": "WORK",
         "position": "172"
     },
     {
         "card_name": "Watterson's Panopticon",
-        "number": 207,
+        "number": 222,
         "shape": "normal",
         "set": "WORK",
         "position": "173"
@@ -1679,6 +1771,15 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -1695,125 +1796,129 @@
     },
     {
         "card_name": "Amber City",
-        "number": 210,
+        "number": 225,
         "shape": "normal",
         "set": "WORK",
         "position": "224"
     },
     {
         "card_name": "Amethyst City",
-        "number": 211,
+        "number": 226,
         "shape": "normal",
         "set": "WORK",
         "position": "225"
     },
     {
         "card_name": "Basalt Ruins",
-        "number": 214,
+        "number": 229,
         "shape": "normal",
         "set": "WORK",
         "position": "226"
     },
     {
         "card_name": "Emerald City",
-        "number": 217,
+        "number": 232,
         "shape": "normal",
         "set": "WORK",
         "position": "227"
     },
     {
         "card_name": "Opal City",
-        "number": 221,
+        "number": 237,
         "shape": "normal",
         "set": "WORK",
         "position": "228"
     },
     {
         "card_name": "Yggdrasil, Corrupted",
-        "number": 227,
+        "number": 243,
         "shape": "normal",
         "set": "WORK",
         "position": "188"
     },
     {
         "card_name": "Astral Nexus",
-        "number": 212,
+        "number": 227,
         "shape": "normal",
         "set": "WORK",
         "position": "176"
     },
     {
         "card_name": "Militia Headquarters",
-        "number": 218,
+        "number": 234,
         "shape": "normal",
         "set": "WORK",
         "position": "180"
     },
     {
         "card_name": "Peaceful Domicile",
-        "number": 223,
+        "number": 239,
         "shape": "normal",
         "set": "WORK",
         "position": "184"
     },
     {
         "card_name": "Warp Stones",
-        "number": 226,
+        "number": 242,
         "shape": "normal",
         "set": "WORK",
         "position": "187"
     },
     {
         "card_name": "Active Warzone",
-        "number": 209,
+        "number": 224,
         "shape": "normal",
         "set": "WORK",
         "position": "175"
     },
     {
         "card_name": "Backdoor",
-        "number": 213,
+        "number": 228,
         "shape": "normal",
         "set": "WORK",
         "position": "177"
     },
     {
         "card_name": "Chromatic Crossroads",
-        "number": 216,
+        "number": 231,
         "shape": "normal",
         "set": "WORK",
         "position": "179"
     },
     {
+        "card_name": "Great Unknown",
+        "number": 233,
+        "shape": "normal",
+        "set": "WORK",
+        "position": "291"
+    },
+    {
         "card_name": "Oddwyld Expanse",
-        "number": 220,
+        "number": 236,
         "shape": "normal",
         "set": "WORK",
         "position": "182"
     },
     {
         "card_name": "Ordinary World",
-        "number": 222,
+        "number": 238,
         "shape": "normal",
         "set": "WORK",
         "position": "183"
     },
     {
         "card_name": "Refugee Camp",
-        "number": 224,
+        "number": 240,
         "shape": "normal",
         "set": "WORK",
         "position": "185"
     },
     {
         "card_name": "Twilight Cavern",
-        "number": 225,
+        "number": 241,
         "shape": "transform double faced",
         "set": "WORK",
         "position": "186"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1838,189 +1943,189 @@
     },
     {
         "card_name": "Snow-Covered Wastes",
-        "number": 228,
+        "number": 244,
         "shape": "normal",
         "set": "WORK",
         "position": "189"
     },
     {
         "card_name": "Wastes",
-        "number": 229,
+        "number": 245,
         "shape": "normal",
         "set": "WORK",
         "position": "190"
     },
     {
         "card_name": "Plains",
-        "number": 230,
+        "number": 249,
         "shape": "normal",
         "set": "WORK",
         "position": "191"
     },
     {
         "card_name": "Plains",
-        "number": 231,
+        "number": 248,
         "shape": "normal",
         "set": "WORK",
         "position": "192"
     },
     {
         "card_name": "Plains",
-        "number": 232,
+        "number": 247,
         "shape": "normal",
         "set": "WORK",
         "position": "193"
     },
     {
         "card_name": "Plains",
-        "number": 233,
+        "number": 246,
         "shape": "normal",
         "set": "WORK",
         "position": "194"
     },
     {
         "card_name": "Snow-Covered Plains",
-        "number": 234,
+        "number": 250,
         "shape": "normal",
         "set": "WORK",
         "position": "195"
     },
     {
         "card_name": "Island",
-        "number": 237,
+        "number": 253,
         "shape": "normal",
         "set": "WORK",
         "position": "196"
     },
     {
         "card_name": "Island",
-        "number": 235,
+        "number": 252,
         "shape": "normal",
         "set": "WORK",
         "position": "197"
     },
     {
         "card_name": "Island",
-        "number": 236,
+        "number": 251,
         "shape": "normal",
         "set": "WORK",
         "position": "198"
     },
     {
         "card_name": "Island",
-        "number": 238,
+        "number": 254,
         "shape": "normal",
         "set": "WORK",
         "position": "199"
     },
     {
         "card_name": "Snow-Covered Island",
-        "number": 239,
+        "number": 255,
         "shape": "normal",
         "set": "WORK",
         "position": "200"
     },
     {
         "card_name": "Snow-Covered Swamp",
-        "number": 240,
+        "number": 256,
         "shape": "normal",
         "set": "WORK",
         "position": "201"
     },
     {
         "card_name": "Swamp",
-        "number": 244,
+        "number": 259,
         "shape": "normal",
         "set": "WORK",
         "position": "202"
     },
     {
         "card_name": "Swamp",
-        "number": 243,
+        "number": 258,
         "shape": "normal",
         "set": "WORK",
         "position": "203"
     },
     {
         "card_name": "Swamp",
-        "number": 242,
+        "number": 257,
         "shape": "normal",
         "set": "WORK",
         "position": "204"
     },
     {
         "card_name": "Swamp",
-        "number": 241,
+        "number": 260,
         "shape": "normal",
         "set": "WORK",
         "position": "205"
     },
     {
         "card_name": "Mountain",
-        "number": 245,
+        "number": 261,
         "shape": "normal",
         "set": "WORK",
         "position": "206"
     },
     {
         "card_name": "Mountain",
-        "number": 246,
+        "number": 262,
         "shape": "normal",
         "set": "WORK",
         "position": "207"
     },
     {
         "card_name": "Mountain",
-        "number": 247,
+        "number": 263,
         "shape": "normal",
         "set": "WORK",
         "position": "208"
     },
     {
         "card_name": "Mountain",
-        "number": 248,
+        "number": 264,
         "shape": "normal",
         "set": "WORK",
         "position": "209"
     },
     {
         "card_name": "Snow-Covered Mountain",
-        "number": 249,
+        "number": 265,
         "shape": "normal",
         "set": "WORK",
         "position": "210"
     },
     {
         "card_name": "Forest",
-        "number": 253,
+        "number": 267,
         "shape": "normal",
         "set": "WORK",
         "position": "211"
     },
     {
         "card_name": "Forest",
-        "number": 252,
+        "number": 266,
         "shape": "normal",
         "set": "WORK",
         "position": "212"
     },
     {
         "card_name": "Forest",
-        "number": 250,
+        "number": 268,
         "shape": "normal",
         "set": "WORK",
         "position": "213"
     },
     {
         "card_name": "Forest",
-        "number": 251,
+        "number": 269,
         "shape": "normal",
         "set": "WORK",
         "position": "214"
     },
     {
         "card_name": "Snow-Covered Forest",
-        "number": 254,
+        "number": 270,
         "shape": "normal",
         "set": "WORK",
         "position": "215"
@@ -2050,60 +2155,17 @@
         "card_name": "er"
     },
     {
-        "card_name": "The Philosopher's Stone",
-        "number": 7,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "6"
-    },
-    {
-        "card_name": "I Contain Infinite Worlds",
+        "card_name": ".Placeholder: WORK-A",
         "number": 1,
         "shape": "normal",
         "set": "WORK-A",
         "position": "0"
     },
     {
-        "card_name": "Great Unknown",
-        "number": 8,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "7"
+        "card_name": "e"
     },
     {
-        "card_name": "Evolved Manhunter",
-        "number": 5,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "4"
-    },
-    {
-        "card_name": "Cloning Vat",
-        "number": 4,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "3"
-    },
-    {
-        "card_name": "Synthetic Life",
-        "number": 2,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "1"
-    },
-    {
-        "card_name": "Circle of Transmutation",
-        "number": 3,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "2"
-    },
-    {
-        "card_name": "Noah, Freelance Alchemist",
-        "number": 6,
-        "shape": "normal",
-        "set": "WORK-A",
-        "position": "5"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2127,46 +2189,11 @@
         "card_name": "er"
     },
     {
-        "card_name": "Form of Yourself",
+        "card_name": ".Placeholder: WORK-U",
         "number": 1,
         "shape": "normal",
         "set": "WORK-U",
         "position": "0"
-    },
-    {
-        "card_name": "Don't Be Ridiculous!",
-        "number": 2,
-        "shape": "normal",
-        "set": "WORK-U",
-        "position": "1"
-    },
-    {
-        "card_name": "Henry F., Pata-Matician",
-        "number": 6,
-        "shape": "normal",
-        "set": "WORK-U",
-        "position": "5"
-    },
-    {
-        "card_name": "Astra F., Pata-Stronomer",
-        "number": 3,
-        "shape": "normal",
-        "set": "WORK-U",
-        "position": "2"
-    },
-    {
-        "card_name": "Madam Universe, Mayor",
-        "number": 4,
-        "shape": "normal",
-        "set": "WORK-U",
-        "position": "3"
-    },
-    {
-        "card_name": "Ubu Roi",
-        "number": 5,
-        "shape": "normal",
-        "set": "WORK-U",
-        "position": "4"
     },
     {
         "card_name": "e"
@@ -2204,42 +2231,35 @@
     },
     {
         "card_name": "Angel",
-        "number": 15,
-        "shape": "token",
-        "set": "WORK",
-        "position": "232"
-    },
-    {
-        "card_name": "Angel",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "WORK",
         "position": "233"
     },
     {
         "card_name": "Clue",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "WORK",
         "position": "252"
     },
     {
         "card_name": "Food",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "WORK",
         "position": "253"
     },
     {
         "card_name": "Treasure",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "WORK",
         "position": "254"
     },
     {
         "card_name": "Watterson's Vision",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "WORK",
         "position": "242"
@@ -2315,7 +2335,18 @@
         "position": "239"
     },
     {
-        "card_name": "e"
+        "card_name": "The Jabberwock",
+        "number": 13,
+        "shape": "token",
+        "set": "WORK",
+        "position": "261"
+    },
+    {
+        "card_name": "Star",
+        "number": 15,
+        "shape": "token",
+        "set": "WORK",
+        "position": "292"
     },
     {
         "card_name": "e"

@@ -1,17 +1,17 @@
 ﻿{
-    "name": "Ouroboros: Inside (Alchemy)",
+    "name": "Workspace (Alchemy)",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
-    "draft_structure": "cube",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
     "cards": [
         {
-            "card_name": ".Placeholder: Ouroboros (Alchemy)",
+            "card_name": ".Placeholder: WORK-A",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 1,
             "color_identity": "C",
@@ -21,13 +21,12 @@
             "pt": "",
             "special_text": "",
             "shape": "normal",
-            "set": "OURO-A",
+            "set": "WORK-A",
             "loyalty": "",
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "0",
-            "notes": "Design-XX-Placeholder\nFormat-Alchemy\nLore-World-Ouroboros\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
+            "notes": "Design-XX-Placeholder\nFormat-Alchemy\n\n!tag<stamp> alchemy\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
-    ],
-    "version": 9
+    ]
 }

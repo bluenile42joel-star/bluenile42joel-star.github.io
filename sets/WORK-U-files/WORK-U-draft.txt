@@ -1,83 +1,17 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Form of Yourself",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Enchantment",
+			"name": ".Placeholder: WORK-U",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/0.jpg"
-			}
-		},
-		{
-			"name": "Don't Be Ridiculous!",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/1.jpg"
-			}
-		},
-		{
-			"name": "Astra F., Pata-Stronomer",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Legendary Creature — Human Pataphysician",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/2.jpg"
-			}
-		},
-		{
-			"name": "Madam Universe, Mayor",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Creature — Incarnation God Advisor",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/3.jpg"
-			}
-		},
-		{
-			"name": "Ubu Roi",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Elder God",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/4.jpg"
-			}
-		},
-		{
-			"name": "Henry F., Pata-Matician",
-			"rarity": "rare",
-			"mana_cost": "{X}{U/R}",
-			"type": "Legendary Creature — Human Pataphysician",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/5.jpg"
-			}
-		},
-		{
-			"name": "Star",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment Creature — Star",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/6.jpg"
 			}
 		}
 	]
 
 [rare(1)]
-	5 Form of Yourself
-	5 Madam Universe, Mayor
-	5 Ubu Roi
-	5 Henry F., Pata-Matician
 [uncommon(3)]
-	5 Don't Be Ridiculous!
-	5 Astra F., Pata-Stronomer
 [common(10)]

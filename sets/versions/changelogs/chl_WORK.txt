@@ -1,4 +1,27 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Worldbuidling added.
+Worldbuidling added.
+I Contain Infinite Worlds added.
+Synthetic Life added.
+Circle of Transmutation added.
+Cloning Vat added.
+Evolved Manhunter added.
+Noah, Freelance Alchemist added.
+The Philosopher's Stone added.
+Great Unknown added.
+Star added.
+Form of Yourself added.
+Don't Be Ridiculous! added.
+Astra F., Pata-Stronomer added.
+Madam Universe, Mayor added.
+Ubu Roi added.
+Henry F., Pata-Matician added.
+
+
+
+VERSION 23 CHANGELOG
 ====================
 
 No changes.

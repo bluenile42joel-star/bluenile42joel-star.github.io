@@ -1,4 +1,17 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+Form of Yourself removed.
+Don't Be Ridiculous! removed.
+Astra F., Pata-Stronomer removed.
+Madam Universe, Mayor removed.
+Ubu Roi removed.
+Henry F., Pata-Matician removed.
+Star removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
