@@ -1,4 +1,9 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+No changes.
+
+VERSION 27 CHANGELOG
 ====================
 
 

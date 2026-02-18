@@ -1,7 +1,7 @@
 ﻿{
     "name": "Interlude",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -48,6 +48,5 @@
             "position": "1",
             "notes": "Design-XX-Placeholder\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
-    ],
-    "version": 28
+    ]
 }
