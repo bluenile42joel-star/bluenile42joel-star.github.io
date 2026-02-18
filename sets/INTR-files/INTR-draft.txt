@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Behold the Multiverse",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "1",
@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude 0",
+			"name": ".Placeholder: INTR 0",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude III",
+			"name": ".Placeholder: INTR III",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude II",
+			"name": ".Placeholder: INTR II",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude I",
+			"name": ".Placeholder: INTR I",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -51,7 +51,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude VI",
+			"name": ".Placeholder: INTR VI",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude V",
+			"name": ".Placeholder: INTR V",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: Interlude IV",
+			"name": ".Placeholder: INTR IV",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -82,5 +82,7 @@
 		}
 	]
 
-[cube(15)]
-	1 Behold the Multiverse
+[rare(1)]
+[uncommon(3)]
+[common(10)]
+	5 Behold the Multiverse

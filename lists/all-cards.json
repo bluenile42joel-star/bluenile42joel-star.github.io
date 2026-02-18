@@ -3,7 +3,7 @@
         {
             "card_name": "Behold the Multiverse",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 1,
             "color_identity": "U",
@@ -23,9 +23,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude 0",
+            "card_name": ".Placeholder: INTR 0",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 2,
             "color_identity": "C",
@@ -45,9 +45,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude III",
+            "card_name": ".Placeholder: INTR III",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 5,
             "color_identity": "C",
@@ -67,9 +67,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude II",
+            "card_name": ".Placeholder: INTR II",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 4,
             "color_identity": "C",
@@ -89,9 +89,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude I",
+            "card_name": ".Placeholder: INTR I",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 3,
             "color_identity": "C",
@@ -111,9 +111,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude VI",
+            "card_name": ".Placeholder: INTR VI",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 8,
             "color_identity": "C",
@@ -133,9 +133,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude V",
+            "card_name": ".Placeholder: INTR V",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 7,
             "color_identity": "C",
@@ -155,9 +155,9 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: Interlude IV",
+            "card_name": ".Placeholder: INTR IV",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Basic Land",
             "number": 6,
             "color_identity": "C",

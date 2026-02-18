@@ -7,7 +7,7 @@
         "position": "0"
     },
     {
-        "card_name": ".Placeholder: Interlude 0",
+        "card_name": ".Placeholder: INTR 0",
         "number": 2,
         "shape": "normal",
         "set": "INTR",
@@ -36,7 +36,7 @@
     },
     "a->Interlude 01",
     {
-        "card_name": ".Placeholder: Interlude I",
+        "card_name": ".Placeholder: INTR I",
         "number": 3,
         "shape": "normal",
         "set": "INTR",
@@ -68,7 +68,7 @@
     },
     "a->Interlude 02",
     {
-        "card_name": ".Placeholder: Interlude II",
+        "card_name": ".Placeholder: INTR II",
         "number": 4,
         "shape": "normal",
         "set": "INTR",
@@ -100,7 +100,7 @@
     },
     "a->Interlude 03",
     {
-        "card_name": ".Placeholder: Interlude III",
+        "card_name": ".Placeholder: INTR III",
         "number": 5,
         "shape": "normal",
         "set": "INTR",
@@ -132,7 +132,7 @@
     },
     "a->Interlude 04",
     {
-        "card_name": ".Placeholder: Interlude IV",
+        "card_name": ".Placeholder: INTR IV",
         "number": 6,
         "shape": "normal",
         "set": "INTR",
@@ -164,7 +164,7 @@
     },
     "a->Interlude 05",
     {
-        "card_name": ".Placeholder: Interlude V",
+        "card_name": ".Placeholder: INTR V",
         "number": 7,
         "shape": "normal",
         "set": "INTR",
@@ -196,7 +196,7 @@
     },
     "a->Interlude 06",
     {
-        "card_name": ".Placeholder: Interlude VI",
+        "card_name": ".Placeholder: INTR VI",
         "number": 8,
         "shape": "normal",
         "set": "INTR",
