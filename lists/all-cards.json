@@ -23,7 +23,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR 0",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -45,11 +45,11 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR III",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
-            "number": 5,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -62,12 +62,12 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "2",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-03\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!group interlude-01\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR II",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -89,11 +89,11 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR I",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
-            "number": 3,
+            "number": 5,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -106,16 +106,16 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "4",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-01\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!group interlude-03\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR VI",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
-            "number": 8,
+            "number": 6,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -128,12 +128,12 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "5",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-06\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!group interlude-04\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR V",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -155,11 +155,11 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR IV",
+            "card_name": ".Placeholder: INTR",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
-            "number": 6,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -172,7 +172,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "7",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-04\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!group interlude-06\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },

@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR 0",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -21,17 +21,17 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR III",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "5",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/2.jpg"
 			}
 		},
 		{
-			"name": ".Placeholder: INTR II",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -41,27 +41,27 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR I",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/4.jpg"
 			}
 		},
 		{
-			"name": ".Placeholder: INTR VI",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "8",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/5.jpg"
 			}
 		},
 		{
-			"name": ".Placeholder: INTR V",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -71,11 +71,11 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR IV",
+			"name": ".Placeholder: INTR",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/7.jpg"
 			}
