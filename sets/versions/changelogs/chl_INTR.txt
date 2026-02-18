@@ -1,4 +1,12 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Behold the Multiverse
+
+
+VERSION 25 CHANGELOG
 ====================
 
 No changes.

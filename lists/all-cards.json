@@ -18,7 +18,7 @@
             "artist": "Sam Del Russi",
             "alias": "",
             "position": "0",
-            "notes": "Design-CU-Free-Slot\n\n!group interlude-00\n!tag canon\n\nFlavour \u2014 Watterson musing about the Multiverse",
+            "notes": "Design-CU-Free-Slot\n\n!tag<story> interlude-00\n!tag canon\n\nFlavour \u2014 Watterson musing about the Multiverse",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -40,7 +40,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "1",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-00\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-00\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -62,7 +62,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "2",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-01\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-01\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -84,7 +84,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "3",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-02\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-02\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -106,7 +106,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "4",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-03\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-03\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -128,7 +128,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "5",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-04\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-04\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -150,7 +150,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "6",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-05\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-05\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
@@ -172,7 +172,7 @@
             "artist": "PLACEHOLDER",
             "alias": "",
             "position": "7",
-            "notes": "Design-XX-Placeholder\n\n!group interlude-06\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
+            "notes": "Design-XX-Placeholder\n\n!tag<story> interlude-06\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting.",
             "image_type": "jpg",
             "v_mana": ""
         },
