@@ -1,4 +1,12 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Behold the Multiverse
+
+
+VERSION 26 CHANGELOG
 ====================
 
 
