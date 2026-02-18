@@ -29,7 +29,7 @@
             "notes": "Design-CU-Free-Slot\n\n!group interlude-00\n!tag canon\n\nFlavour \u2014 Watterson musing about the Multiverse"
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -49,7 +49,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-00\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -69,7 +69,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-01\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -89,7 +89,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-02\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -109,7 +109,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-03\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -129,7 +129,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-04\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -149,7 +149,7 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-05\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -169,5 +169,5 @@
             "notes": "Design-XX-Placeholder\n\n!group interlude-06\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
     ],
-    "version": 22
+    "version": 23
 }

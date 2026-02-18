@@ -23,7 +23,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -45,7 +45,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -67,7 +67,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -89,7 +89,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -111,7 +111,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -133,7 +133,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -155,7 +155,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: INTR",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -7074,7 +7074,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: WORK-A",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -7096,7 +7096,7 @@
             "v_mana": ""
         },
         {
-            "card_name": ".Placeholder: WORK-U",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",

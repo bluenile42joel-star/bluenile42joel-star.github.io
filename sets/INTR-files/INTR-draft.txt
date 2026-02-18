@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -51,7 +51,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"name": ".Placeholder: INTR",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",

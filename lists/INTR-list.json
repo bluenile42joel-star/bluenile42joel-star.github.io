@@ -7,7 +7,7 @@
         "position": "0"
     },
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 2,
         "shape": "normal",
         "set": "INTR",
@@ -36,7 +36,7 @@
     },
     "a->Interlude 01",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 3,
         "shape": "normal",
         "set": "INTR",
@@ -68,7 +68,7 @@
     },
     "a->Interlude 02",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 4,
         "shape": "normal",
         "set": "INTR",
@@ -100,7 +100,7 @@
     },
     "a->Interlude 03",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 5,
         "shape": "normal",
         "set": "INTR",
@@ -132,7 +132,7 @@
     },
     "a->Interlude 04",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 6,
         "shape": "normal",
         "set": "INTR",
@@ -164,7 +164,7 @@
     },
     "a->Interlude 05",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 7,
         "shape": "normal",
         "set": "INTR",
@@ -196,7 +196,7 @@
     },
     "a->Interlude 06",
     {
-        "card_name": ".Placeholder: INTR",
+        "card_name": ".Placeholder",
         "number": 8,
         "shape": "normal",
         "set": "INTR",

@@ -1,7 +1,7 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": ".Placeholder: WORK-A",
+			"name": ".Placeholder",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",

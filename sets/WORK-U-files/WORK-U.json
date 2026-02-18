@@ -9,7 +9,7 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": ".Placeholder: WORK-U",
+            "card_name": ".Placeholder",
             "color": "",
             "rarity": "special",
             "type": "Basic Land",
@@ -29,5 +29,5 @@
             "notes": "Design-XX-Placeholder\nFormat-Acorn\n\n!tag<stamp> acorn\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
     ],
-    "version": 4
+    "version": 5
 }
