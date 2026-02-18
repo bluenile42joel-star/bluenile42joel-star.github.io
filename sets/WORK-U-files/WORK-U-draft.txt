@@ -1,0 +1,17 @@
+﻿[CustomCards]
+	[
+		{
+			"name": ".Placeholder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-U-files/img/0.jpg"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(10)]

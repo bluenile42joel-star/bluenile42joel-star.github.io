@@ -1,0 +1,33 @@
+﻿{
+    "name": "Workspace (Acorn)",
+    "formats": "",
+    "trimmed": "y",
+    "image_type": "jpg",
+    "draft_structure": "draft booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
+    "cards": [
+        {
+            "card_name": ".Placeholder",
+            "color": "",
+            "rarity": "special",
+            "type": "Basic Land",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WORK-U",
+            "loyalty": "",
+            "artist": "PLACEHOLDER",
+            "alias": "",
+            "position": "0",
+            "notes": "Design-XX-Placeholder\nFormat-Acorn\n\n!tag<stamp> acorn\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
+        }
+    ],
+    "version": 6
+}
