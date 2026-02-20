@@ -1,4 +1,85 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Mug of Ale added.
+Molly & Aarie, Newlywed added.
+
+Molly and Aarie, Newlywed removed.
+
+Worldbuidling
+
+Worldbuidling
+
+I Contain Infinite Worlds
+
+Synthetic Life
+
+Circle of Transmutation
+
+Cloning Vat
+
+Evolved Manhunter
+
+Noah, Freelance Alchemist
+
+The Philosopher's Stone
+
+Great Unknown
+
+Star
+
+Form of Yourself
+
+Don't Be Ridiculous!
+
+Astra F., Pata-Stronomer
+
+Madam Universe, Mayor
+
+Ubu Roi
+
+Henry F., Pata-Matician
+
+Grand Finale
+
+Reven, the Showstopper
+
+Watterson, Prodigy
+
+Watterson, Wayward Fire
+
+Watterson's Ambition
+
+Davin Tixel
+
+Reika Tixel
+
+The Tixel Twins
+
+Children of the Worm
+
+Clash of Immortals
+
+Limits Broken
+
+The Astral Worm
+
+The Multiverse Trembles
+
+Clash of Immortals
+
+Heracles, the Challenger
+
+The Multiverse Trembles
+
+Abdicate
+
+Cosmic Coronation
+
+Rebuild from Ruin
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Worldbuidling added.
