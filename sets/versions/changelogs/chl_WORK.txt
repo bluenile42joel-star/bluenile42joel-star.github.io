@@ -1,4 +1,21 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Miracle Fusion
+type: Instant => Sorcery
+cost: {2}{W} => {5}{W}{W}
+rules_text: Exile up to two target permanents you own. If any cards exiled this way are in a meld pair, you may meld them. Then put any cards that weren't melded this way onto the battlefield under your control.
+Miracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i] => Exile up to two target permanent cards from your graveyard. If those cards are a meld pair, you may meld them. If you don't meld them, put them onto the battlefield.
+Miracle {2}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]
+
+Scarmaker
+
+Scarmender
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Mug of Ale added.

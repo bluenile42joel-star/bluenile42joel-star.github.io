@@ -432,11 +432,11 @@
             "card_name": "Miracle Fusion",
             "color": "W",
             "rarity": "rare",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 27,
             "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Exile up to two target permanents you own. If any cards exiled this way are in a meld pair, you may meld them. Then put any cards that weren't melded this way onto the battlefield under your control.\nMiracle {W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
+            "cost": "{5}{W}{W}",
+            "rules_text": "Exile up to two target permanent cards from your graveyard. If those cards are a meld pair, you may meld them. If you don't meld them, put them onto the battlefield.\nMiracle {2}{W} [i](You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -446,7 +446,7 @@
             "artist": "\u91ce\u683c",
             "alias": "",
             "position": "21",
-            "notes": "Design-RW-Free-Slot\n\nFlavour \u2014 Molly and Aarie's miraculous Fusion.\n\nNote \u2014 It would be funny to give the card miracle, but it doesn't really add much."
+            "notes": "Design-RW-Free-Slot\n\nFlavour \u2014 Molly and Aarie's miraculous Fusion."
         },
         {
             "card_name": "The Multiverse Trembles",
@@ -2050,7 +2050,7 @@
             "artist": "Tuomas Korpi",
             "alias": "",
             "position": "99",
-            "notes": "Design-RM-Free-Slot"
+            "notes": "Design-RM-Pair-Scars"
         },
         {
             "card_name": "Rubber Annie, Ringmaster",
@@ -2361,7 +2361,7 @@
             "artist": "Hobby World",
             "alias": "",
             "position": "114",
-            "notes": "Design-RM-Free-Slot"
+            "notes": "Design-RM-Pair-Scars"
         },
         {
             "card_name": "Macedonian Sarissa",
