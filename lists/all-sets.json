@@ -1,0 +1,34 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "INTR",
+            "set_name": "Interlude",
+            "formats": ""
+        },
+        {
+            "set_code": "OURO",
+            "set_name": "Ouroboros: Inside",
+            "formats": ""
+        },
+        {
+            "set_code": "SN01",
+            "set_name": "Tales from the Imaginary Tavern",
+            "formats": ""
+        },
+        {
+            "set_code": "WORK",
+            "set_name": "Workspace",
+            "formats": ""
+        },
+        {
+            "set_code": "WORK-A",
+            "set_name": "Workspace (Alchemy)",
+            "formats": ""
+        },
+        {
+            "set_code": "WORK-U",
+            "set_name": "Workspace (Acorn)",
+            "formats": ""
+        }
+    ]
+}

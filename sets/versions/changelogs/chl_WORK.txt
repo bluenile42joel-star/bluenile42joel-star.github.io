@@ -1,4 +1,9 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+No changes.
+
+VERSION 32 CHANGELOG
 ====================
 
 S-Go Kill a Jabberwock! added.
