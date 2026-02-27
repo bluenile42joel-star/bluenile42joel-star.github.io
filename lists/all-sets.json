@@ -16,11 +16,6 @@
             "formats": ""
         },
         {
-            "set_code": "WORK",
-            "set_name": "Workspace",
-            "formats": ""
-        },
-        {
             "set_code": "WORK-A",
             "set_name": "Workspace (Alchemy)",
             "formats": ""
