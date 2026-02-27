@@ -1667,7 +1667,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/162.jpg"
 			}
@@ -1687,7 +1687,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/164.jpg"
 			}
@@ -1727,7 +1727,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/168.jpg"
 			}
@@ -1737,7 +1737,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/169.jpg"
 			}
@@ -1807,7 +1807,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "262",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/176.jpg"
 			}
@@ -1817,7 +1817,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/177.jpg"
 			}
@@ -1827,7 +1827,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/178.jpg"
 			}
@@ -1837,7 +1837,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "265",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/179.jpg"
 			}
@@ -1857,7 +1857,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/181.jpg"
 			}
@@ -1867,7 +1867,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "270",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/182.jpg"
 			}
@@ -1877,7 +1877,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/183.jpg"
 			}
@@ -1887,7 +1887,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/184.jpg"
 			}
@@ -2287,7 +2287,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "2",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/224.jpg"
 			}
@@ -2297,7 +2297,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse",
-			"collector_number": "3",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/225.jpg"
 			}
@@ -2307,7 +2307,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ally Army",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/226.jpg"
 			}
@@ -2317,7 +2317,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Survivor",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/227.jpg"
 			}
@@ -2327,7 +2327,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/228.jpg"
 			}
@@ -2337,7 +2337,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/229.jpg"
 			}
@@ -2347,7 +2347,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/230.jpg"
 			}
@@ -2357,7 +2357,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/231.jpg"
 			}
@@ -2367,7 +2367,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/232.jpg"
 			}
@@ -2377,7 +2377,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/233.jpg"
 			}
@@ -2387,7 +2387,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/234.jpg"
 			}
@@ -2397,7 +2397,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Drake Beast",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/235.jpg"
 			}
@@ -2407,7 +2407,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pirate",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/236.jpg"
 			}
@@ -2417,7 +2417,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Star",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/237.jpg"
 			}
@@ -2427,7 +2427,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Angel",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/238.jpg"
 			}
@@ -2437,7 +2437,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Angel",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/239.jpg"
 			}
@@ -2447,7 +2447,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/240.jpg"
 			}
@@ -2457,7 +2457,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/241.jpg"
 			}
@@ -2467,7 +2467,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/242.jpg"
 			}
@@ -2477,7 +2477,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/243.jpg"
 			}
@@ -2487,7 +2487,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Worm Horror",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/244.jpg"
 			}
@@ -2884,7 +2884,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Sorcery",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/283.jpg"
 			}
@@ -2894,7 +2894,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Sorcery",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/284.jpg"
 			}
@@ -2904,7 +2904,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Sorcery",
-			"collector_number": "30",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/285.jpg"
 			}
@@ -3054,9 +3054,39 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "4",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/300.jpg"
+			}
+		},
+		{
+			"name": "Duplicate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Card",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/301.jpg"
+			}
+		},
+		{
+			"name": "Planewide Celebration",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/302.jpg"
+			}
+		},
+		{
+			"name": "A-Once Upon A Time",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/303.jpg"
 			}
 		}
 	]
@@ -3208,6 +3238,8 @@
 	5 Slice of Life
 	5 Slice of Life
 	5 Warp Stones
+	5 Planewide Celebration
+	5 A-Once Upon A Time
 [uncommon(3)]
 	5 Absence Elemental
 	5 Evil's End

@@ -1,4 +1,23 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Duplicate added.
+Planewide Celebration added.
+A-Once Upon A Time added.
+
+
+False Love's Kiss
+
+Not Strong Enough
+
+Commune with Dragons
+
+Macedonian Sarissa
+
+Hero's Memorial
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Gathmori Archdruid added.
