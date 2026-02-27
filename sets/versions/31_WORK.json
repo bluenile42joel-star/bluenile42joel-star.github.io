@@ -564,7 +564,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Shapeshifter",
-            "number": 52,
+            "number": 53,
             "color_identity": "U",
             "cost": "",
             "rules_text": "Morph {X}{U}\nAs this creature is turned face up, you may have it become a copy of a creature on the battlefield of a creature card in a graveyard with mana value X or less.",
@@ -584,7 +584,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 53,
+            "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Each opponent mills cards equal to the number of they own in exile and in their graveyard. Then exile all graveyards.",
@@ -604,7 +604,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 55,
+            "number": 56,
             "color_identity": "UR",
             "cost": "{U}",
             "rules_text": "You may look at the top card of your library any time.\n{2}{R}: Exile the top card of your library. You may play that card this turn.",
@@ -624,7 +624,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 57,
+            "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Enchant creature\nEnchanted creature has flying and rubberhose. [i](If damage would be dealt to this creature, prevent that damage and return it to your hand.)[/i]\nWhen enchanted creature is put into its owner's hand from the battlefield, return this Aura to its owner's hand",
@@ -644,7 +644,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Wizard",
-            "number": 58,
+            "number": 59,
             "color_identity": "U",
             "cost": "{U}{U}",
             "rules_text": "{U}, {T}: Untap target creature.\n{U}, {T}: Target creature gains flying until end of turn.\n{U}, {T}: Target creature gains shroud until end of turn.\n{1}, {T}: Target creature gets +1/-1 or -1/+1 until end of turn.",
@@ -664,7 +664,7 @@
             "color": "U",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 61,
+            "number": 62,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
             "rules_text": "Time travel ten thousand times. [i](For each suspended card you own and each permanent you control with a time counter on it, you may add or remove a time counter. Then do this 9999 more times.)[/i]\nExile Ten Thousand Years.",
@@ -684,7 +684,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 62,
+            "number": 63,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Draw three cards. Then discard two cards unless you discard a Cleric, Rogue, Warrior, or Wizard card.",
@@ -704,7 +704,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 63,
+            "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Draw three cards. Then discard two cards unless you discard a legendary card.",
@@ -724,7 +724,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Dragon",
-            "number": 64,
+            "number": 65,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "Flying\nIslandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -744,7 +744,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Rabbit",
-            "number": 65,
+            "number": 66,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]\nThis creature and creatures paired with it can't be blocked.",
@@ -764,7 +764,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment \u2014 Room",
-            "number": 66,
+            "number": 67,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Each nonland permanent card in your hand has embed. The embed cost is equal to its mana cost reduced by {2}.",
@@ -795,7 +795,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Instant",
-            "number": 68,
+            "number": 69,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, then shuffle and put that card on top.",
@@ -815,7 +815,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 70,
+            "number": 71,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Enchant creature\nWhen Demonic Blessing enters, you draw two cards and you lose 2 life.\nEnchanted creature gets +1/+1.",
@@ -835,7 +835,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 72,
+            "number": 73,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature.\nExile target creature.\nDraw a card.",
@@ -855,7 +855,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 73,
+            "number": 74,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Exile target creature. You lose life equal to its toughness.",
@@ -875,7 +875,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 74,
+            "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Target creature gets -2/-2 until end of turn. If that creature is legendary, it gets -4/-4 until end of turn instead.",
@@ -895,7 +895,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Skeleton Horror",
-            "number": 75,
+            "number": 76,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
             "rules_text": "Menace, deathtouch\nWhenever The Nameless Rider deals combat damage to a player, if that player has the Rider's Mark, that player loses the game. Otherwise, that player gets the Rider's Mark.",
@@ -915,7 +915,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 76,
+            "number": 77,
             "color_identity": "B",
             "cost": "{X}{X}{B}",
             "rules_text": "Each of X target creatures have base power and toughness 0/0 until end of turn.",
@@ -935,7 +935,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant \u2014 Lesson",
-            "number": 77,
+            "number": 78,
             "color_identity": "B",
             "cost": "{X}{B}",
             "rules_text": "Destroy target creature with power X or less.",
@@ -955,7 +955,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 78,
+            "number": 79,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "Creatures lose all abilities until end of turn.\nDestroy all creatures.",
@@ -975,7 +975,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Scorpion",
-            "number": 79,
+            "number": 80,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Augment {2}{B} [i]({2}{B}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nMenace\nWhenever this creature becomes blocked, \u2014",
@@ -1006,7 +1006,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Rogue",
-            "number": 80,
+            "number": 81,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "If a creature dealt damage by Samael this turn would die, exile it with a victim counter on it instead.\n[i]Power Absorption[/i] \u2014 {0}: Choose a creature card in exile with a victim counter on it. Samael gains all abilities of that card until the next time this ability resolves.",
@@ -1026,7 +1026,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 83,
+            "number": 84,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Choose one \u2014\n\u2022 Return target creature card from your graveyard to your hand.\n\u2022 Put target creature card you own in exile into your graveyard.",
@@ -1046,7 +1046,7 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 84,
+            "number": 85,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Put a finality counter on target creature. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]\nDraw a card.",
@@ -1066,7 +1066,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 85,
+            "number": 86,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Creatures your opponents control get -1/-1 until end of turn. You lose 2 life.",
@@ -1086,7 +1086,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 86,
+            "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
             "rules_text": "[i]Tempting offer[/i] \u2014 Search your library for a card and put it into your hand. Each opponent may search their library for a card and put it into their hand. For each opponent who does, search your library for a card and put it into your hand. Then each player who searched a library this way shuffles.",
@@ -1106,7 +1106,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Dragon",
-            "number": 87,
+            "number": 88,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Flying\nSwampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1126,7 +1126,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Elder God Avatar",
-            "number": 88,
+            "number": 89,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Vestige of Satanas's power and toughness are each qual to your life total minus your starting life total.\nWhen Vestige of Satanas dies, if you own it and you own and control a creature named Alexander, Ascendant, exile them, then meld them.",
@@ -1146,7 +1146,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 90,
+            "number": 91,
             "color_identity": "R",
             "cost": "{3}{R}{R}{R}",
             "rules_text": "Until end of turn, you may cast spells from your hand without paying their mana costs. At the beginning of the next end step, you lose the game.",
@@ -1166,7 +1166,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Kindred Enchantment \u2014 Dragon Aura",
-            "number": 92,
+            "number": 93,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Enchant creature\nEnchanted creature is a Dragon in addition to its other types and has flying and \u201c{R}: This creature gets +1/+0 until end of turn.\u201d",
@@ -1186,7 +1186,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 93,
+            "number": 94,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Choose two target creatures controlled by the same player. Those creatures fight each other. [i](Each deals damage equal to its power to the other.)[/i]",
@@ -3010,7 +3010,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Legendary Artifact",
-            "number": 81,
+            "number": 82,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever you cast a black spell, each opponent loses 1 life and you gain 1 life.\n[i]Dial 666[/i] \u2014 Pay 6 life: Put a dial counter on this artifact. Then if there are three or more dial counters on it, sacrifice it. When you do, search your library for a Satanas planeswalker card, put him onto the battlefield, then shuffle.",
@@ -3341,7 +3341,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 247,
+            "number": 249,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -3381,7 +3381,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 249,
+            "number": 247,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -3421,7 +3421,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 252,
+            "number": 253,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -3441,7 +3441,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 253,
+            "number": 252,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -3541,7 +3541,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 260,
+            "number": 261,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3561,7 +3561,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 259,
+            "number": 260,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3581,7 +3581,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 258,
+            "number": 259,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3601,7 +3601,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 261,
+            "number": 258,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3621,7 +3621,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 265,
+            "number": 262,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3641,7 +3641,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 264,
+            "number": 263,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3661,7 +3661,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 263,
+            "number": 264,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3681,7 +3681,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 262,
+            "number": 265,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3721,7 +3721,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 270,
+            "number": 267,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3741,7 +3741,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 267,
+            "number": 268,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3781,7 +3781,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 268,
+            "number": 270,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3941,7 +3941,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Pirate",
-            "number": 54,
+            "number": 55,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "As long as you control a Dragon, this creature has flying.",
@@ -3981,7 +3981,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 59,
+            "number": 60,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "Enchant tapped creature\nYou control enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
@@ -4101,7 +4101,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Homunculus Horror",
-            "number": 71,
+            "number": 72,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Whenever another creature dies, if it had flying, this creature perpetually gains flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",
@@ -4401,7 +4401,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Gnome Artificer",
-            "number": 91,
+            "number": 92,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Haste\n{2}{R}, {T}: You may put an artifact card from your hand onto the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.\nPartner with Reika Tixel [i](When this creature enters, target player may put Reika Tixel into their hand from their library, then shuffle.)[/i]",
@@ -4421,7 +4421,7 @@
             "color": "U",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Gnome Artificer",
-            "number": 56,
+            "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Vigilance\n{2}{U}, {T}, Sacrifice an artifact: Search your library for an artifact card with mana value less than or equal the sacrificed artifact's mana value. Put that card onto the battlefield, then shuffle.\nPartner with Davin Tixel [i](When this creature enters, target player may put Davin Tixel into their hand from their library, then shuffle.)[/i]",
@@ -5201,7 +5201,7 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Satanas",
-            "number": 82,
+            "number": 83,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
             "rules_text": "[+2]: Exile target creature card from a graveyard.\n[-3]: Exile target creature.\n[-X]: Create a token that's a copy of a create exiled with Sir Thomas with mana value X or less.",
@@ -5215,37 +5215,6 @@
             "alias": "",
             "position": "255",
             "notes": "Design-MB-Free-Slot\nLore-Character-Satanas\nLore-Faction-Satanas\nMisc-Token-Copy\nStyle-Showcase-Planeswalker\n\n!tag<character> satanas\n\nFlavour \u2014 Satanas in Season 06."
-        },
-        {
-            "card_name": "Go Kill a Jabberwock!",
-            "color": "R",
-            "rarity": "mythic",
-            "type": "Enchantment \u2014 Saga",
-            "number": 94,
-            "color_identity": "WBR",
-            "cost": "{4}{R}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI \u2014 Create The Jabberwock, a legendary 4/4 red and green Drake Beast creature token with flying and trample.\nII \u2014 You may sacrifice an artifact, enchantment, or token. If you do, this Saga deals 4 damage to any target.\nIII \u2014 Exile this Saga, then return it to the battlefield transformed.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI \u2014 Create The Jabberwock, a legendary 4/4 red and green Drake Beast creature token with flying and trample.\nII \u2014 You may sacrifice an artifact, enchantment, or token. If you do, this Saga deals 4 damage to any target.\nIII \u2014 Exile this Saga, then return it to the battlefield transformed.",
-            "shape": "transform double faced",
-            "set": "WORK",
-            "loyalty": "",
-            "artist": "Anato Finnstark",
-            "alias": "",
-            "position": "256",
-            "card_name2": "Alexander, Dragonslayer",
-            "color2": "",
-            "type2": "Legendary Creature \u2014 Demigod Soldier Noble",
-            "cost2": "",
-            "rules_text2": "First strike, menace\n[i]Morphblade's Chosen[/i] \u2014 When Alexander enters, search your library an Equipment card, reveal it, put it into your hand, then shuffle.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "3/3",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "V\u00edctor Dom\u00ednguez",
-            "alias2": "",
-            "notes": "Design-MR-Megacycle-Storyline-Main\nLore-Character-Alexander\nLore-Faction-Macedon\nMisc-Token-The-Jabberwock\nStyle-Showcase-Macedon\nStyle-Watermark-Macedon"
         },
         {
             "card_name": "Champion's Triumph",
@@ -5264,7 +5233,7 @@
             "loyalty": "",
             "artist": "Capcom",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "Design-RG-Free-Slot\nLore-World-Varya\nMisc-Token-Treasure\nStyle-Watermark-Varya\n\n!tag<world> varya\n\nFlavour \u2014 The Reward for winning the tournament"
         },
         {
@@ -5284,7 +5253,7 @@
             "loyalty": "",
             "artist": "Anna Podedworna",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "Design-UG-Free-Slot\nMisc-Token-Wolf"
         },
         {
@@ -5304,7 +5273,7 @@
             "loyalty": "",
             "artist": "reaper78",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "Design-RG-Free-Slot\nLore-World-Andiheim\nMisc-Token-Clue\nMisc-Token-Food\nMisc-Token-Treasure\n\n!tag<world> andiheim"
         },
         {
@@ -5324,7 +5293,7 @@
             "loyalty": "",
             "artist": "CONCEPTOPOLIS",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "Design-RG-Free-Slot\nLore-Faction-Tavern\nMisc-Token-Food\nStyle-Watermark-Tavern"
         },
         {
@@ -5344,7 +5313,7 @@
             "loyalty": "",
             "artist": "Gennova",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "Design-UM-Free-Slot\nFormat-Acorn\nLore-Character-Astra-F\nLore-World-Phora\nMisc-Token-Star\nStyle-Showcase-Phora\nStyle-Watermark-Phora-Faustroll\n\n!tag<character> astra-f\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
@@ -5364,7 +5333,7 @@
             "loyalty": "",
             "artist": "CadNav",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "Design-UM-Signpost-Dragon\nMisc-Token-Pirate\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -5384,7 +5353,7 @@
             "loyalty": "",
             "artist": "Tommy Suhartono",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "Design-MM-Free-Slot\nLore-Character-Apollyon\nLore-Faction-Metatron\nMIsc-Token-Angel\nStyle-Showcase-Metatron\nStyle-Watermark-Metatron\n\nFlavour \u2014 Apollyon, General of Metatron's Army"
         },
         {
@@ -5404,7 +5373,7 @@
             "loyalty": "",
             "artist": "Tallia Lockhart",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "Design-RM-Free-Slot\nLore-Character-Ariel\nLore-World-Ermina\nMisc-Token-Treasure\nStyle-Showcase-Ermina\n\n!tag<character> ariel\n!tag<world> ermina"
         },
         {
@@ -5424,7 +5393,7 @@
             "loyalty": "",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "Design-RM-Free-Slot\nLore-Character-Dioscuri\nLore-World-Gemini\nMisc-Token-Self\nStyle-Showcase-Gemini\n\n!tag<character> dioscuri\n!tag<world> gemini"
         },
         {
@@ -5444,7 +5413,7 @@
             "loyalty": "",
             "artist": "Leif Heanzo",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "Design-MM-Megacycle-Commander-Enigma\nLore-Character-Westfield\nLore-Faction-Enigma\nMisc-Token-Clue\nStyle-Showcase-Enigma\nStyle-Watermark-Enigma\n\n!tag<character> westfield"
         },
         {
@@ -5464,7 +5433,7 @@
             "loyalty": "",
             "artist": "HIIDRAstudio",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "Design-MM-Free-Slot\nLore-Character-Watterson\nLore-Faction-Industrial\nMisc-Token-Watterson's-Vision\nStyle-Showcase-Industrial\nStyle-Watermark-Industrial\n\n!tag<character> watterson"
         },
         {
@@ -5484,7 +5453,7 @@
             "loyalty": "",
             "artist": "Nicola Saviori",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "Design-RM-Free-Slot\nLore-Character-Tyler\nLore-Faction-Tavern\nMisc-Token-Food\nStyle-Showcase-Tavern\nStyle-Watermark-Tavern\n\n!tag<character> tyler\n\nFlavour \u2014 Tyler in Season 01."
         },
         {
@@ -5504,7 +5473,7 @@
             "loyalty": "",
             "artist": "Ameen Naksewee",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": "Design-RA-Free-Slot\nLore-Faction-Industrial\nMisc-Token-Angel\nStyle-Watermark-Industrial"
         },
         {
@@ -5524,7 +5493,7 @@
             "loyalty": "",
             "artist": "FranzowaR",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": "Design-RL-Free-Slot\nMisc-Token-Ally-Army"
         },
         {
@@ -5544,7 +5513,7 @@
             "loyalty": "",
             "artist": "Ole Kristian Halstensen",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "Design-RL-Free-Slot\nMisc-Token-Citizen"
         },
         {
@@ -5564,7 +5533,7 @@
             "loyalty": "",
             "artist": "Nathan Chen",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "Design-MA-Free-Slot\nLore-World-Orrery\nMisc-Extra-Deck-1\n\n!tag<world> orrery"
         },
         {
@@ -5584,7 +5553,7 @@
             "loyalty": "",
             "artist": "PAN PING",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "Design-RA-Free-Slot\nLore-World-Factotum\nMisc-Extra-Deck-2\n\n!tag<world> factotum"
         },
         {
@@ -5604,7 +5573,7 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": "Design-UL-Free-Slot\nLore-World-Krokrvegr\nMisc-Extra-Deck-2\n\n!tag<world> krokrvegr"
         },
         {
@@ -5624,7 +5593,7 @@
             "loyalty": "",
             "artist": "Ivan Dedov",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "Design-UW-Cycle-Conspiracy-Masque\nFormat-Commander\nFormat-Draft\nLore-World-Thespia\nMisc-Outside\nStyle-Showcase-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -5644,7 +5613,7 @@
             "loyalty": "",
             "artist": "Anastasia Heublein",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "Design-UU-Cycle-Conspiracy-Masque\nFormat-Commander\nFormat-Draft\nLore-World-Thespia\nMisc-Outside\nStyle-Showcase-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -5664,7 +5633,7 @@
             "loyalty": "",
             "artist": "Roman Ankenbrandt",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": "Design-UB-Cycle-Conspiracy-Masque\nFormat-Commander\nFormat-Draft\nLore-World-Thespia\nMisc-Outside\nStyle-Showcase-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -5684,7 +5653,7 @@
             "loyalty": "",
             "artist": "Hedgenok",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": "Design-UR-Cycle-Conspiracy-Masque\nFormat-Commander\nFormat-Draft\nLore-World-Thespia\nMisc-Outside\nStyle-Showcase-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -5704,7 +5673,7 @@
             "loyalty": "",
             "artist": "ninovecia",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": "Design-UG-Cycle-Conspiracy-Masque\nFormat-Commander\nFormat-Draft\nLore-World-Thespia\nMisc-Outside\nStyle-Showcase-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -5712,7 +5681,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 16,
+            "number": 14,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
             "rules_text": "This spell costs {2} less to cast if you control a God, planeswalker, or permanent with indestructible.\nTarget nonland permanent loses indestructible until end of turn. Destroy it.",
@@ -5724,7 +5693,7 @@
             "loyalty": "",
             "artist": "Santa Monica Studio",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": "Design-UW-Free-Slot\nMeta-Reprint\n\nFlavour \u2014 Only a God can kill a God. (Molly vs. Apollyon)."
         },
         {
@@ -5744,7 +5713,7 @@
             "loyalty": "",
             "artist": "Santa Monica Studio",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": "Design-UW-Free-Slot\nMeta-Reprint\n\n!group interlude-03\n\nFlavour \u2014 Only a God can kill a God. (Andromeda vs. Astral Worm)."
         },
         {
@@ -5752,7 +5721,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 14,
+            "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
             "rules_text": "This spell costs {2} less to cast if you control a God, planeswalker, or permanent with indestructible.\nTarget nonland permanent loses indestructible until end of turn. Destroy it.",
@@ -5764,7 +5733,7 @@
             "loyalty": "",
             "artist": "Santa Monica Studio",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": "Design-UW-Free-Slot\nMeta-Reprint\n\n!group interlude-05\n\nFlavour \u2014 Only a God can kill a God. (Alexander vs. Heracles)."
         },
         {
@@ -5772,7 +5741,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Sorcery",
-            "number": 30,
+            "number": 28,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Tap all creatures your opponents control and put a stun counter on each of them.\nYour opponents can't cast noncreature spells until your next turn.",
@@ -5784,7 +5753,7 @@
             "loyalty": "",
             "artist": "Star Trek",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": "Design-RW-Free-Slot\nMeta-Reprint\n\nFlavour \u2014 Molly sends shock waves across the Multiverse"
         },
         {
@@ -5804,7 +5773,7 @@
             "loyalty": "",
             "artist": "Star Trek",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "Design-RW-Free-Slot\nMeta-Reprint\n\n!group interlude-03\n\nFlavour \u2014 Andromeda sends shock waves across the Multiverse"
         },
         {
@@ -5812,7 +5781,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Sorcery",
-            "number": 28,
+            "number": 30,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Tap all creatures your opponents control and put a stun counter on each of them.\nYour opponents can't cast noncreature spells until your next turn.",
@@ -5824,7 +5793,7 @@
             "loyalty": "",
             "artist": "Star Trek",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": "Design-RW-Free-Slot\nMeta-Reprint\n\n!group interlude-05\n\nFlavour \u2014 Alexander sends shock waves across the Multiverse"
         },
         {
@@ -5832,7 +5801,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant \u2014 Lesson",
-            "number": 60,
+            "number": 61,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Until end of turn, target creature you control is all creature types and has base power and toughness 4/4.\nDraw a card.",
@@ -5844,7 +5813,7 @@
             "loyalty": "",
             "artist": "Simon Eckert",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": "Design-CU-Free-Slot\nMeta-Reprint\n\nFlavour \u2014 Aarie learns to shapeshift."
         },
         {
@@ -5852,7 +5821,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 67,
+            "number": 68,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Exile target creature or Saga.",
@@ -5864,7 +5833,7 @@
             "loyalty": "",
             "artist": "Viktor Titov",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": "Design-CB-Free-Slot\nMeta-Reprint\n\nNote \u2014 Originally designed for Long Live Phyrexia"
         },
         {
@@ -5872,7 +5841,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature \u2014 Elemental Skeleton",
-            "number": 69,
+            "number": 70,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "Deathtouch\nDeath Elemental can't attack unless an opponent lost life this turn.",
@@ -5884,7 +5853,7 @@
             "loyalty": "",
             "artist": "Samize",
             "alias": "Element \u2014 Death",
-            "position": "288",
+            "position": "287",
             "notes": "Design-RB-Free-Slot\nLore-World-Heartlands\nMeta-Reprint\n\n!tag<world> heartlands\n\nNote \u2014 Reprinted from RogueVerse."
         },
         {
@@ -5892,7 +5861,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dwarf Artificer",
-            "number": 89,
+            "number": 90,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
             "rules_text": "Equipped creatures you control get +2/+0.\nIf a source you control would deal noncombat damage to an opponent, it deals that much damage plus 2 instead.",
@@ -5904,7 +5873,7 @@
             "loyalty": "",
             "artist": "jlewenhagen",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nMeta-Reprint\nStyle-Showcase-Frontier\n\n!tag<character> r\n!tag<world> frontier"
         },
         {
@@ -5924,7 +5893,7 @@
             "loyalty": "",
             "artist": "James Fenner",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": "Design-CG-Free-Slot\nLore-World-Ouroboros\nMeta-Reprint\n\n!tag<world> ouroboros"
         },
         {
@@ -5944,7 +5913,7 @@
             "loyalty": "",
             "artist": "Carly Milligan",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": "Design-MG-Free-Slot\nLore-Faction-Gathraxi\nMeta-Reprint\nStyle-Watermark-Gathraxi\n\nFlavour \u2014 The Gathraxi \"building\" worlds."
         },
         {
@@ -5964,7 +5933,7 @@
             "loyalty": "",
             "artist": "Carly Milligan",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": "Design-MG-Free-Slot\nLore-Faction-You\nMeta-Reprint\nStyle-Watermark-You\n\nFlavour \u2014 Worldbuilding for a TTRPG Campaign."
         },
         {
@@ -5984,7 +5953,7 @@
             "loyalty": "",
             "artist": "Aleksander Karcz",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": "Design-RM-Free-Slot\nMeta-Reprint\n\nNote \u2014 Reprinted from LLP"
         },
         {
@@ -5992,7 +5961,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 195,
+            "number": 197,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
             "rules_text": "At the beginning of your upkeep, create a 1/1 green and white Citizen creature token and you gain 1 life.\nWhen a Citizen token you control attacks or blocks, sacrifice this enchantment.",
@@ -6004,7 +5973,7 @@
             "loyalty": "",
             "artist": "SancosityJA",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": "Design-RM-Free-Slot\nLore-World-Xenos\nMeta-Reprint\nMisc-Token-Citizen\n\n!tag<world> xenos\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
@@ -6024,7 +5993,7 @@
             "loyalty": "",
             "artist": "lesly-oh",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": "Design-RM-Free-Slot\nLore-Faction-Phalanx\nMeta-Reprint\nMisc-Token-Citizen\nStyle-Watermark-Phalanx\n\ntag<image> yuri\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
@@ -6032,7 +6001,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 197,
+            "number": 195,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
             "rules_text": "At the beginning of your upkeep, create a 1/1 green and white Citizen creature token and you gain 1 life.\nWhen a Citizen token you control attacks or blocks, sacrifice this enchantment.",
@@ -6044,7 +6013,7 @@
             "loyalty": "",
             "artist": "Vacuum Chan",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": "Design-RM-Free-Slot\nLore-World-Sygil\nMeta-Reprint\nMisc-Token-Citizen\n\n!tag<world> sygil\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
@@ -6064,7 +6033,7 @@
             "loyalty": "",
             "artist": "\u5bd2\u653e hanfang",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": "Design-UL-Free-Slot\nLore-World-Faegrland\nMeta-Reprint\n\n!tag<world> faegrland\n\nNote \u2014 Originally Designed for the Outer Planes."
         },
         {
@@ -6084,7 +6053,7 @@
             "loyalty": "",
             "artist": "Felix Tisch",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": "Design-UL-Free-Slot\nMeta-Reprint\nMisc-Token-Survivor\n\nNote \u2014 Reprinted From Long Live Phyrexia. I already cleaned up the backside."
         },
         {
@@ -6104,7 +6073,7 @@
             "loyalty": "",
             "artist": "Alex Stone",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": "Design-RL-Free-Slot\nLore-Faction-Gathraxi\nMeta-Reprint\nStyle-Watermark-Gathraxi\n\nFlavour \u2014 Gathraxi Waystones.\n\nNote \u2014 Reprinted from the RogueVerse"
         },
         {
@@ -6124,7 +6093,7 @@
             "loyalty": "",
             "artist": "Brad Rigney",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": "Lore-World-Khumeia\nMisc-Conjure-Clone\n\n!tag<world> khumeia"
         },
         {
@@ -6144,7 +6113,7 @@
             "loyalty": "",
             "artist": "Sandara",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": "Misc-Conjure-Duplicate"
         },
         {
@@ -6164,7 +6133,7 @@
             "loyalty": "",
             "artist": "Ilija Mandic",
             "alias": "Planewide Celebration",
-            "position": "302",
+            "position": "301",
             "notes": "Design-RG-Free-Slot\nMisc-Token-Citizen\n\n!exportname Planewide Celebration\n!group interlude-06\n!tag canon"
         },
         {
@@ -6184,8 +6153,39 @@
             "loyalty": "",
             "artist": "Annika Maar",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": "Design-MG-Free-Slot\nMeta-Spikey\n\n!exportname A-Once Upon A Time\n!tag canon\n\nRebalanced \u2014 Instead of being free, it now only costs one less."
+        },
+        {
+            "card_name": "S-Life, the Multiverse, and Everything",
+            "color": "U",
+            "rarity": "rare",
+            "type": "Enchantment \u2014 Saga Case",
+            "number": 52,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nThis enchantment isn't sacrificed after its final chapter.\nI \u2014 CHAPTER 1.\nII \u2014 CHAPTER 2.\nIII \u2014 CHAPTER 3.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nThis enchantment isn't sacrificed after its final chapter.\nI \u2014 CHAPTER 1.\nII \u2014 CHAPTER 2.\nIII \u2014 CHAPTER 3.",
+            "shape": "transform double faced",
+            "set": "WORK",
+            "loyalty": "",
+            "artist": "N/A",
+            "alias": "",
+            "position": "303",
+            "card_name2": "Everything",
+            "color2": "U",
+            "type2": "Enchantment \u2014 Saga Case",
+            "cost2": "{U}",
+            "rules_text2": "PASSIVE EFFECT.\nTo Solve \u2014 This enchantment has three or more lore coutners on it. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 COOL ABILITY.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "PASSIVE EFFECT.\nTo Solve \u2014 This enchantment has three or more lore coutners on it. [i](If unsolved, solve at the beginning of your end step.)[/i]\nSolved \u2014 COOL ABILITY.",
+            "loyalty2": "",
+            "artist2": "N/A",
+            "alias2": "",
+            "notes": "Design-RU-Megacycle-Storyline-Main\nFormat-Acorn\nTodo-Finish\n\n!exportname S-Life, the Multiverse, and Everything\n!exportname2 S-Life, the Multiverse, and Everything\n\nNote \u2014 This isn't meant to be a double faced card. It;s meant to be a single faced card."
         }
     ]
 }

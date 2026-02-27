@@ -1,4 +1,106 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+S-Life, the Multiverse, and Everything added.
+
+Go Kill a Jabberwock! removed.
+
+Champion's Triumph
+
+Chased by Wolves
+
+Collector of Lost Things
+
+On the House
+
+Astra F., Pata-Stronomer
+
+Marauder's Dragonship
+
+Archangel Apollyon
+
+Ariel Vivelia
+
+Castor and Pollux Dioscuri
+
+Detective Westfield
+
+J.P. Watterson
+
+Tyler, Tavern Keeper
+
+Weapons of Mass Production
+
+Militia Headquarters
+
+Peaceful Domicile
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Clash of Immortals
+
+Clash of Immortals
+
+Clash of Immortals
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Shape Change
+
+Abrupt End
+
+Death Elemental
+
+R, the Gunsmith
+
+Explore the House
+
+Worldbuidling
+
+Worldbuidling
+
+Righteous Fury
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Chromatic Crossroads
+
+Refugee Camp
+
+Warp Stones
+
+Clone
+
+Duplicate
+
+Planewide Celebration
+
+A-Once Upon A Time
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Duplicate added.
