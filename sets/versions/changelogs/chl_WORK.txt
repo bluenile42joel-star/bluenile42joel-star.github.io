@@ -1,4 +1,37 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+S-Go Kill a Jabberwock! added.
+S-The Worm That Eats the World added.
+S-The Hero's Bride added.
+S-The Hero's Bride added.
+S-A Day at the Beach added.
+S-A Day at the Beach added.
+S-Moving In added.
+S-Xenos Arc added.
+S-Tales from the Imaginary Tavern added.
+
+
+S-Life, the Multiverse, and Everything
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+This enchantment isn't sacrificed after its final chapter.
+I — CHAPTER 1.
+II — CHAPTER 2.
+III — CHAPTER 3. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — CHAPTER 1.
+II — CHAPTER 2.
+III — CHAPTER 3.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+This enchantment isn't sacrificed after its final chapter.
+I — CHAPTER 1.
+II — CHAPTER 2.
+III — CHAPTER 3. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I — CHAPTER 1.
+II — CHAPTER 2.
+III — CHAPTER 3.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 S-Life, the Multiverse, and Everything added.
