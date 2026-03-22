@@ -9,26 +9,6 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": ".Placeholder",
-            "color": "",
-            "rarity": "special",
-            "type": "Basic Land",
-            "number": 54,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "PLACEHOLDER",
-            "alias": "",
-            "position": "0",
-            "notes": "Design-XX-Placeholder\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
-        },
-        {
             "card_name": "Behold the Multiverse",
             "color": "U",
             "rarity": "common",
@@ -45,88 +25,8 @@
             "loyalty": "",
             "artist": "Sam Del Russi",
             "alias": "",
-            "position": "1",
+            "position": "0",
             "notes": "Design-CU-Free-Slot\nTag-Canon-Reprint\n\n!group interlude-00\n!tag canon\n\nFlavour \u2014 Watterson musing about the Multiverse"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 3,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "Ilari Gr\u00f6hn",
-            "alias": "",
-            "position": "2",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Lusteria\nStyle-Showcase-Lusteria\nStyle-Watermark-Lusteria\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> lusteria"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 4,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "Kelliann Galabinski",
-            "alias": "",
-            "position": "3",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Palata\nStyle-Showcase-Palata\nStyle-Watermark-Palata\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> palata"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 5,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "UzU Shin",
-            "alias": "",
-            "position": "4",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Bragrjord\nStyle-Showcase-Bragrjord\nStyle-Watermark-Bragrjord\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> bragrjord"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 6,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "Cheryl Chen",
-            "alias": "",
-            "position": "5",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Choros\nStyle-Showcase-Choros\nStyle-Watermark-Choros\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> choros"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -143,17 +43,17 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Ancharia",
+            "artist": "Jeremie Fleury",
             "alias": "",
-            "position": "6",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Vastara\nStyle-Showcase-Vastara\nStyle-Watermark-Vastara\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> vastara"
+            "position": "1",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Aphrodasia\nStyle-Showcase-Aphrodasia\nStyle-Watermark-Aphrodasia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> aphrodasia"
         },
         {
             "card_name": "Aarie, Worldwalker",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 8,
+            "number": 3,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
@@ -163,17 +63,17 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Hailey Suits",
+            "artist": "PixelArtM",
             "alias": "",
-            "position": "7",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Proteus\nStyle-Showcase-Proteus\nStyle-Watermark-Proteus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> proteus"
+            "position": "2",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Arcadia\nStyle-Showcase-Arcadia\nStyle-Watermark-Arcadia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> arcadia"
         },
         {
             "card_name": "Aarie, Worldwalker",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 9,
+            "number": 4,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
@@ -183,17 +83,17 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "UzU Shin",
             "alias": "",
-            "position": "8",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Nymphaion\nStyle-Showcase-Nymphaion\nStyle-Watermark-Nymphaion\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> nymphaion"
+            "position": "3",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Bragrjord\nStyle-Showcase-Bragrjord\nStyle-Watermark-Bragrjord\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> bragrjord"
         },
         {
             "card_name": "Aarie, Worldwalker",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 10,
+            "number": 5,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
@@ -203,17 +103,17 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Karlima",
+            "artist": "Cheryl Chen",
             "alias": "",
-            "position": "9",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Oddulus\nStyle-Showcase-Oddulus\nStyle-Watermark-Oddulus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> oddulus"
+            "position": "4",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Choros\nStyle-Showcase-Choros\nStyle-Watermark-Choros\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> choros"
         },
         {
             "card_name": "Aarie, Worldwalker",
             "color": "WUG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 11,
+            "number": 6,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
             "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
@@ -223,30 +123,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Thomas Lafont-Djalloul",
+            "artist": "Josephine Wall",
             "alias": "",
-            "position": "10",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Latera\nStyle-Showcase-Latera\nStyle-Watermark-Latera\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> latera"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 12,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "nyctoinc",
-            "alias": "",
-            "position": "11",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Palaestra\nStyle-Showcase-Palaestra\nStyle-Watermark-Palaestra\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> palaestra"
+            "position": "5",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Fabricia\nStyle-Showcase-Fabricia\nStyle-Watermark-Fabricia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> fabricia"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -263,10 +143,130 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Josephine Wall",
+            "artist": "AlbaBG",
+            "alias": "",
+            "position": "6",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Faegrland\nStyle-Showcase-Faegrland\nStyle-Watermark-Faegrland\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> faegrland"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 8,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Koti Komori",
+            "alias": "",
+            "position": "7",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Feylan\nStyle-Showcase-Feylan\nStyle-Watermark-Feylan\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> feylan"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 9,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Panithan Paramatikul",
+            "alias": "",
+            "position": "8",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Hyphainos\nStyle-Showcase-Hyphainos\nStyle-Watermark-Hyphainos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> hyphainos"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 10,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Jeremie Fleury",
+            "alias": "",
+            "position": "9",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Ikos\nStyle-Showcase-Ikos\nStyle-Watermark-Ikos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> ikos"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 11,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Aestium Dawn of Hope",
+            "alias": "",
+            "position": "10",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Krokrvegr\nStyle-Showcase-Krokrvegr\nStyle-Watermark-Krokrvegr\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> krokrvegr"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 12,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Thomas Lafont-Djalloul",
+            "alias": "",
+            "position": "11",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Latera\nStyle-Showcase-Latera\nStyle-Watermark-Latera\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> latera"
+        },
+        {
+            "card_name": "Aarie, Worldwalker",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Gnome Wizard",
+            "number": 13,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "Ilari Gr\u00f6hn",
             "alias": "",
             "position": "12",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Fabricia\nStyle-Showcase-Fabricia\nStyle-Watermark-Fabricia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> fabricia"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Lusteria\nStyle-Showcase-Lusteria\nStyle-Watermark-Lusteria\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> lusteria"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -283,10 +283,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "PixelArtM",
+            "artist": "Anato Finnstark",
             "alias": "",
             "position": "13",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Arcadia\nStyle-Showcase-Arcadia\nStyle-Watermark-Arcadia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> arcadia"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Nymphaion\nStyle-Showcase-Nymphaion\nStyle-Watermark-Nymphaion\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> nymphaion"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -303,10 +303,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Jeremie Fleury",
+            "artist": "Karlima",
             "alias": "",
             "position": "14",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Aphrodasia\nStyle-Showcase-Aphrodasia\nStyle-Watermark-Aphrodasia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> aphrodasia"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Oddulus\nStyle-Showcase-Oddulus\nStyle-Watermark-Oddulus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> oddulus"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -323,10 +323,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Vir Pavia",
+            "artist": "James Fenner",
             "alias": "",
             "position": "15",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Triton\nStyle-Showcase-Triton\nStyle-Watermark-Triton\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> triton"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Ouroboros\nStyle-Showcase-Ouroboros\nStyle-Watermark-Ouroboros\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> ouroboros"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -343,10 +343,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "isosileBusher",
+            "artist": "nyctoinc",
             "alias": "",
             "position": "16",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Xenos\nStyle-Showcase-Xenos\nStyle-Watermark-Xenos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> xenos"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Palaestra\nStyle-Showcase-Palaestra\nStyle-Watermark-Palaestra\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> palaestra"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -363,10 +363,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Jeremie Fleury",
+            "artist": "Kelliann Galabinski",
             "alias": "",
             "position": "17",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Ikos\nStyle-Showcase-Ikos\nStyle-Watermark-Ikos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> ikos"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Palata\nStyle-Showcase-Palata\nStyle-Watermark-Palata\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> palata"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -383,10 +383,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Aestium Dawn of Hope",
+            "artist": "Hailey Suits",
             "alias": "",
             "position": "18",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Krokrvegr\nStyle-Showcase-Krokrvegr\nStyle-Watermark-Krokrvegr\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> krokrvegr"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Proteus\nStyle-Showcase-Proteus\nStyle-Watermark-Proteus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> proteus"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -400,13 +400,24 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Panithan Paramatikul",
+            "artist": "keyvei_art",
             "alias": "",
             "position": "19",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Hyphainos\nStyle-Showcase-Hyphainos\nStyle-Watermark-Hyphainos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> hyphainos"
+            "card_name2": "Aarie, Worldwalker",
+            "color2": "WUG",
+            "type2": "Legendary Creature \u2014 Gnome Wizard",
+            "cost2": "{G}{W}{U}",
+            "rules_text2": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "2/2",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "keyvei_art",
+            "alias2": "",
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Solus-and-Noctus\nStyle-Showcase-Solus-and-Noctus\nStyle-Watermark-Solus-and-Noctus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> solus-and-noctus"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -443,10 +454,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Koti Komori",
+            "artist": "Vir Pavia",
             "alias": "",
             "position": "21",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Feylan\nStyle-Showcase-Feylan\nStyle-Watermark-Feylan\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> feylan"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Triton\nStyle-Showcase-Triton\nStyle-Watermark-Triton\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> triton"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -463,10 +474,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Cheryl Chen",
+            "artist": "Leav Caf\u00e9",
             "alias": "",
             "position": "22",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Wildcard\nStyle-Showcase-Wildcard\nStyle-Watermark-Wildcard\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> wildcard"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Tunia\nStyle-Showcase-Tunia\nStyle-Watermark-Tunia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> tunia"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -483,10 +494,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "James Fenner",
+            "artist": "Ancharia",
             "alias": "",
             "position": "23",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Ouroboros\nStyle-Showcase-Ouroboros\nStyle-Watermark-Ouroboros\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> ouroboros"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Vastara\nStyle-Showcase-Vastara\nStyle-Watermark-Vastara\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> vastara"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -503,10 +514,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "AlbaBG",
+            "artist": "mirrormaize",
             "alias": "",
             "position": "24",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Faegrland\nStyle-Showcase-Faegrland\nStyle-Watermark-Faegrland\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> faegrland"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Voxel\nStyle-Showcase-Voxel\nStyle-Watermark-Voxel\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> voxel"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -523,10 +534,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Leav Caf\u00e9",
+            "artist": "Cheryl Chen",
             "alias": "",
             "position": "25",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Tunia\nStyle-Showcase-Tunia\nStyle-Watermark-Tunia\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> tunia"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Wildcard\nStyle-Showcase-Wildcard\nStyle-Watermark-Wildcard\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> wildcard"
         },
         {
             "card_name": "Aarie, Worldwalker",
@@ -543,10 +554,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "mirrormaize",
+            "artist": "isosileBusher",
             "alias": "",
             "position": "26",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Voxel\nStyle-Showcase-Voxel\nStyle-Watermark-Voxel\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> voxel"
+            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Xenos\nStyle-Showcase-Xenos\nStyle-Watermark-Xenos\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> xenos"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -563,10 +574,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "kkinsey94",
+            "artist": "Jeremie Fleury",
             "alias": "",
             "position": "27",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Palaestra\nStyle-Showcase-Palaestra\nStyle-Watermark-Palaestra\n\n!group worldwalker\n!tag<character> molly\n!tag<world> palaestra"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Aphrodasia\nStyle-Showcase-Aphrodasia\nStyle-Watermark-Aphrodasia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> aphrodasia"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -583,10 +594,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Harumi Namba",
+            "artist": "omegachainoboy",
             "alias": "",
             "position": "28",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Palata\nStyle-Showcase-Palata\nStyle-Watermark-Palata\n\n!group worldwalker\n!tag<character> molly\n!tag<world> palata"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Arcadia\nStyle-Showcase-Arcadia\nStyle-Watermark-Arcadia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> arcadia"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -603,10 +614,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Emberwind",
+            "artist": "Kii Weatherton",
             "alias": "",
             "position": "29",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Krokrvegr\nStyle-Showcase-Krokrvegr\nStyle-Watermark-Krokrvegr\n\n!group worldwalker\n!tag<character> molly\n!tag<world> krokrvegr"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Bragrjord\nStyle-Showcase-Bragrjord\nStyle-Watermark-Bragrjord\n\n!group worldwalker\n!tag<character> molly\n!tag<world> bragrjord"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -623,10 +634,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Bekarys Zhabagin",
+            "artist": "Mooncolony",
             "alias": "",
             "position": "30",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Ikos\nStyle-Showcase-Ikos\nStyle-Watermark-Ikos\n\n!group worldwalker\n!tag<character> molly\n!tag<world> ikos"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Choros\nStyle-Showcase-Choros\nStyle-Watermark-Choros\n\n!group worldwalker\n!tag<character> molly\n!tag<world> choros"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -643,10 +654,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Jeremie Fleury",
+            "artist": "Josephine Wall",
             "alias": "",
             "position": "31",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Aphrodasia\nStyle-Showcase-Aphrodasia\nStyle-Watermark-Aphrodasia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> aphrodasia"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Fabricia\nStyle-Showcase-Fabricia\nStyle-Watermark-Fabricia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> fabricia"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -663,10 +674,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Shahir Shakir",
+            "artist": "AlbaBG",
             "alias": "",
             "position": "32",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Lusteria\nStyle-Showcase-Lusteria\nStyle-Watermark-Lusteria\n\n!group worldwalker\n!tag<character> molly\n!tag<world> lusteria"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Faegrland\nStyle-Showcase-Faegrland\nStyle-Watermark-Faegrland\n\n!group worldwalker\n!tag<character> molly\n!tag<world> faegrland"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -683,10 +694,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Judash 137",
+            "artist": "sampetersonart",
             "alias": "",
             "position": "33",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Nymphaion\nStyle-Showcase-Nymphaion\nStyle-Watermark-Nymphaion\n\n!group worldwalker\n!tag<character> molly\n!tag<world> nymphaion"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Feylan\nStyle-Showcase-Feylan\nStyle-Watermark-Feylan\n\n!group worldwalker\n!tag<character> molly\n!tag<world> feylan"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -703,10 +714,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Jim Burns",
+            "artist": "skepticarcher",
             "alias": "",
             "position": "34",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Vastara\nStyle-Showcase-Vastara\nStyle-Watermark-Vastara\n\n!group worldwalker\n!tag<character> molly\n!tag<world> vastara"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Hyphainos\nStyle-Showcase-Hyphainos\nStyle-Watermark-Hyphainos\n\n!group worldwalker\n!tag<character> molly\n!tag<world> hyphainos"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -723,10 +734,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Mooncolony",
+            "artist": "Bekarys Zhabagin",
             "alias": "",
             "position": "35",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Choros\nStyle-Showcase-Choros\nStyle-Watermark-Choros\n\n!group worldwalker\n!tag<character> molly\n!tag<world> choros"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Ikos\nStyle-Showcase-Ikos\nStyle-Watermark-Ikos\n\n!group worldwalker\n!tag<character> molly\n!tag<world> ikos"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -743,10 +754,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Kii Weatherton",
+            "artist": "Emberwind",
             "alias": "",
             "position": "36",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Bragrjord\nStyle-Showcase-Bragrjord\nStyle-Watermark-Bragrjord\n\n!group worldwalker\n!tag<character> molly\n!tag<world> bragrjord"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Krokrvegr\nStyle-Showcase-Krokrvegr\nStyle-Watermark-Krokrvegr\n\n!group worldwalker\n!tag<character> molly\n!tag<world> krokrvegr"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -763,10 +774,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "drianBuenoart",
+            "artist": "Epic Games",
             "alias": "",
             "position": "37",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Xenos\nStyle-Showcase-Xenos\nStyle-Watermark-Xenos\n\n!group worldwalker\n!tag<character> molly\n!tag<world> xenos"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Latera\nStyle-Showcase-Latera\nStyle-Watermark-Latera\n\n!group worldwalker\n!tag<character> molly\n!tag<world> latera"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -783,10 +794,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "mirrormaize",
+            "artist": "Shahir Shakir",
             "alias": "",
             "position": "38",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Voxel\nStyle-Showcase-Voxel\nStyle-Watermark-Voxel\n\n!group worldwalker\n!tag<character> molly\n!tag<world> voxel"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Lusteria\nStyle-Showcase-Lusteria\nStyle-Watermark-Lusteria\n\n!group worldwalker\n!tag<character> molly\n!tag<world> lusteria"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -803,10 +814,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Jennette Brown",
+            "artist": "Judash 137",
             "alias": "",
             "position": "39",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Oddulus\nStyle-Showcase-Oddulus\nStyle-Watermark-Oddulus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> oddulus"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Nymphaion\nStyle-Showcase-Nymphaion\nStyle-Watermark-Nymphaion\n\n!group worldwalker\n!tag<character> molly\n!tag<world> nymphaion"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -823,10 +834,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "omegachainoboy",
+            "artist": "Jennette Brown",
             "alias": "",
             "position": "40",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Arcadia\nStyle-Showcase-Arcadia\nStyle-Watermark-Arcadia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> arcadia"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Oddulus\nStyle-Showcase-Oddulus\nStyle-Watermark-Oddulus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> oddulus"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -843,10 +854,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Kati StarSoulArt",
+            "artist": "James Fenner",
             "alias": "",
             "position": "41",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Tunia\nStyle-Showcase-Tunia\nStyle-Watermark-Tunia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> tunia"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Ouroboros\nStyle-Showcase-Ouroboros\nStyle-Watermark-Ouroboros\n\n!group worldwalker\n!tag<character> molly\n!tag<world> ouroboros"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -863,10 +874,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Epic Games",
+            "artist": "kkinsey94",
             "alias": "",
             "position": "42",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Latera\nStyle-Showcase-Latera\nStyle-Watermark-Latera\n\n!group worldwalker\n!tag<character> molly\n!tag<world> latera"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Palaestra\nStyle-Showcase-Palaestra\nStyle-Watermark-Palaestra\n\n!group worldwalker\n!tag<character> molly\n!tag<world> palaestra"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -883,10 +894,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "theomegaridley",
+            "artist": "Harumi Namba",
             "alias": "",
             "position": "43",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Svellheim\nStyle-Showcase-Svellheim\nStyle-Watermark-Svellheim\n\n!group worldwalker\n!tag<character> molly\n!tag<world> svellheim"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Palata\nStyle-Showcase-Palata\nStyle-Watermark-Palata\n\n!group worldwalker\n!tag<character> molly\n!tag<world> palata"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -903,10 +914,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "James Fenner",
+            "artist": "nodens.art",
             "alias": "",
             "position": "44",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Ouroboros\nStyle-Showcase-Ouroboros\nStyle-Watermark-Ouroboros\n\n!group worldwalker\n!tag<character> molly\n!tag<world> ouroboros"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Proteus\nStyle-Showcase-Proteus\nStyle-Watermark-Proteus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> proteus"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -920,13 +931,24 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "transform double faced",
             "set": "INTR",
             "loyalty": "",
-            "artist": "AlbaBG",
+            "artist": "keyvei_art",
             "alias": "",
             "position": "45",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Faegrland\nStyle-Showcase-Faegrland\nStyle-Watermark-Faegrland\n\n!group worldwalker\n!tag<character> molly\n!tag<world> faegrland"
+            "card_name2": "Molly, Worldwalker",
+            "color2": "WRG",
+            "type2": "Legendary Creature \u2014 Human Warrior",
+            "cost2": "{R}{G}{W}",
+            "rules_text2": "[i]Landfall[/i] \u2014 Whenever a land you control enters, Molly deals 1 damage to each opponent. Put a +1/+1 counter on her.\nAs long as you control seven or more lands with different names, double all damage that sources you control would deal to your opponents and permanents your opponents control.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "2/2",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "keyvei_art",
+            "alias2": "",
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Solus-and-Noctus\nStyle-Showcase-Solus-and-Noctus\nStyle-Watermark-Solus-and-Noctus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> solus-and-noctus"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -943,10 +965,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "Josephine Wall",
+            "artist": "theomegaridley",
             "alias": "",
             "position": "46",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Fabricia\nStyle-Showcase-Fabricia\nStyle-Watermark-Fabricia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> fabricia"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Svellheim\nStyle-Showcase-Svellheim\nStyle-Watermark-Svellheim\n\n!group worldwalker\n!tag<character> molly\n!tag<world> svellheim"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -983,10 +1005,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "nodens.art",
+            "artist": "Kati StarSoulArt",
             "alias": "",
             "position": "48",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Proteus\nStyle-Showcase-Proteus\nStyle-Watermark-Proteus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> proteus"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Tunia\nStyle-Showcase-Tunia\nStyle-Watermark-Tunia\n\n!group worldwalker\n!tag<character> molly\n!tag<world> tunia"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -1003,10 +1025,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "skepticarcher",
+            "artist": "Jim Burns",
             "alias": "",
             "position": "49",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Hyphainos\nStyle-Showcase-Hyphainos\nStyle-Watermark-Hyphainos\n\n!group worldwalker\n!tag<character> molly\n!tag<world> hyphainos"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Vastara\nStyle-Showcase-Vastara\nStyle-Watermark-Vastara\n\n!group worldwalker\n!tag<character> molly\n!tag<world> vastara"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -1023,10 +1045,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "AvocaDraw",
+            "artist": "mirrormaize",
             "alias": "",
             "position": "50",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Wildcard\nStyle-Showcase-Wildcard\nStyle-Watermark-Wildcard\n\n!group worldwalker\n!tag<character> molly\n!tag<world> wildcard"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Voxel\nStyle-Showcase-Voxel\nStyle-Watermark-Voxel\n\n!group worldwalker\n!tag<character> molly\n!tag<world> voxel"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -1043,41 +1065,10 @@
             "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "sampetersonart",
+            "artist": "AvocaDraw",
             "alias": "",
             "position": "51",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Feylan\nStyle-Showcase-Feylan\nStyle-Watermark-Feylan\n\n!group worldwalker\n!tag<character> molly\n!tag<world> feylan"
-        },
-        {
-            "card_name": "Aarie, Worldwalker",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Gnome Wizard",
-            "number": 13,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text": "[i][/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "INTR",
-            "loyalty": "",
-            "artist": "keyvei_art",
-            "alias": "",
-            "position": "52",
-            "card_name2": "Aarie, Worldwalker",
-            "color2": "WUG",
-            "type2": "Legendary Creature \u2014 Gnome Wizard",
-            "cost2": "{G}{W}{U}",
-            "rules_text2": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.\nAs long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "2/2",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "keyvei_art",
-            "alias2": "",
-            "notes": "Design-MM-Worldwalker-Aarie\nLore-Character-Aarie\nLore-World-Solus-and-Noctus\nStyle-Showcase-Solus-and-Noctus\nStyle-Watermark-Solus-and-Noctus\n\n!group worldwalker\n!tag<character> aarie\n!tag<world> solus-and-noctus"
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Wildcard\nStyle-Showcase-Wildcard\nStyle-Watermark-Wildcard\n\n!group worldwalker-wildcard\n!tag<character> molly\n!tag<world> wildcard"
         },
         {
             "card_name": "Molly, Worldwalker",
@@ -1091,25 +1082,34 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "normal",
             "set": "INTR",
             "loyalty": "",
-            "artist": "keyvei_art",
+            "artist": "drianBuenoart",
+            "alias": "",
+            "position": "52",
+            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Xenos\nStyle-Showcase-Xenos\nStyle-Watermark-Xenos\n\n!group worldwalker-xenos\n!tag<character> molly\n!tag<world> xenos"
+        },
+        {
+            "card_name": ".Placeholder",
+            "color": "",
+            "rarity": "special",
+            "type": "Basic Land",
+            "number": 54,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "INTR",
+            "loyalty": "",
+            "artist": "PLACEHOLDER",
             "alias": "",
             "position": "53",
-            "card_name2": "Molly, Worldwalker",
-            "color2": "WRG",
-            "type2": "Legendary Creature \u2014 Human Warrior",
-            "cost2": "{R}{G}{W}",
-            "rules_text2": "[i]Landfall[/i] \u2014 Whenever a land you control enters, Molly deals 1 damage to each opponent. Put a +1/+1 counter on her.\nAs long as you control seven or more lands with different names, double all damage that sources you control would deal to your opponents and permanents your opponents control.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "2/2",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "keyvei_art",
-            "alias2": "",
-            "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Solus-and-Noctus\nStyle-Showcase-Solus-and-Noctus\nStyle-Watermark-Solus-and-Noctus\n\n!group worldwalker\n!tag<character> molly\n!tag<world> solus-and-noctus"
+            "notes": "Design-XX-Placeholder\n\nNote \u2014 Placeholder cards exist so that the set file always has at least one card while exporting."
         }
     ],
-    "version": 30
+    "version": 31
 }

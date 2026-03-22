@@ -4,7 +4,7 @@
         "number": 1,
         "shape": "normal",
         "set": "INTR",
-        "position": "1"
+        "position": "0"
     },
     {
         "card_name": "e"
@@ -33,17 +33,45 @@
     "a->Worldwalkers",
     {
         "card_name": "Aarie, Worldwalker",
-        "number": 13,
-        "shape": "transform double faced",
+        "number": 27,
+        "shape": "normal",
+        "set": "INTR",
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->Worldwalkers",
+    {
+        "card_name": "Molly, Worldwalker",
+        "number": 53,
+        "shape": "normal",
         "set": "INTR",
         "position": "52"
     },
     {
-        "card_name": "Molly, Worldwalker",
-        "number": 53,
-        "shape": "transform double faced",
-        "set": "INTR",
-        "position": "53"
+        "card_name": "e"
     },
     {
         "card_name": "e"

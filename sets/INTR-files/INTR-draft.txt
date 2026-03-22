@@ -1,21 +1,21 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": ".Placeholder",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/0.jpg"
-			}
-		},
-		{
 			"name": "Behold the Multiverse",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "1",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/0.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/1.jpg"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "2",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/6.jpg"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "7",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/12.jpg"
 			}
@@ -196,8 +196,15 @@
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Gnome Wizard",
 			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/19_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/19.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/19_front.jpg"
 			}
 		},
 		{
@@ -456,8 +463,15 @@
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/45_back.jpg"
+				}
+			},
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/45.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/45_front.jpg"
 			}
 		},
 		{
@@ -521,39 +535,25 @@
 			}
 		},
 		{
-			"name": "Aarie, Worldwalker",
-			"rarity": "mythic",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "13",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/52_back.jpg"
-				}
-			},
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/52_front.jpg"
-			}
-		},
-		{
 			"name": "Molly, Worldwalker",
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "53",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/53_back.jpg"
-				}
-			},
 			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/53_front.jpg"
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/52.jpg"
 			}
 		},
+		{
+			"name": ".Placeholder",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/INTR-files/img/53.jpg"
+			}
+		}
 	]
 
 [rare(1)]
@@ -582,32 +582,32 @@
 	5 Aarie, Worldwalker
 	5 Aarie, Worldwalker
 	5 Aarie, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
-	5 Molly, Worldwalker
 	5 Aarie, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
+	5 Molly, Worldwalker
 	5 Molly, Worldwalker
 [uncommon(3)]
 [common(10)]
