@@ -1,4 +1,100 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+Auspicious Mentor added.
+Protean Shapeshifting added.
+Stealth Training added.
+Evocation Training added.
+
+Shape Change removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+Gathmori Archdruid
+cost: {2}{G} => {1}{G}{G}
+rules_text: You may look at the top card of your library any time.
+You may play lands from the top of your library.
+[i]Domain[/i] — As long as there are five or more basic land types among lands you control, you may cast creature spells from your library. => You may look at the top card of your library any time.
+You may play lands from the top of your library.
+As long as you control four or more lands with different names, you may cast creature spells from the top of your library.
+
+Reflex Training
+rules_text: Put a +1/+1 counter and a first stike counter on target creature you control. => Put a +1/+1 counter and a first strike counter on target creature you control.
+
+The Morphblade
+rules_text: As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on Equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature. => As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature.
+special_text: As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on Equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature. => As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature.
+
+Abrupt End
+
+Death Elemental
+
+R, the Gunsmith
+
+Explore the House
+
+Worldbuidling
+
+Worldbuidling
+
+Righteous Fury
+
+Slice of Life
+
+Slice of Life
+
+Slice of Life
+
+Chromatic Crossroads
+
+Refugee Camp
+
+Warp Stones
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Aarie, Worldwalker added.
