@@ -30,13 +30,5 @@
     {
         "cards": ["!group worldwalker"],
         "title": "Worldwalkers"
-    },
-    {
-        "cards": ["!group worldwalker-wildcard"],
-        "title": "Worldwalkers"
-    },
-    {
-        "cards": ["!group worldwalker-xenos"],
-        "title": "Worldwalkers"
     }
 ]
