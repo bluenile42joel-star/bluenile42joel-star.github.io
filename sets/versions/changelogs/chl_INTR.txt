@@ -1,4 +1,9 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+No changes.
+
+VERSION 33 CHANGELOG
 ====================
 
 Aarie, Worldwalker added.
