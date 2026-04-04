@@ -1,4 +1,20 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+
+VERSION 34 CHANGELOG
 ====================
 
 No changes.
