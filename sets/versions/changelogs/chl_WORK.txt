@@ -1,4 +1,759 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Memorial to Legend added.
+Wizard's Hat added.
+Fall Upwards added.
+Fine, I'll Play added.
+Unnatural Roar added.
+Tower over Trees added.
+Gate Town added.
+Obnoxious Catcaller added.
+Throw Out added.
+Sword of Horizons added.
+Pursuits of the Mind added.
+Multiversal Traveler added.
+Watterson's Mastery added.
+Public Area added.
+Bar Room added.
+S-The Hero's Bride added.
+S-The Hero's Bride added.
+Busy Kitchen added.
+S-A Day at the Beach added.
+S-A Day at the Beach added.
+S-Moving In added.
+The Imaginary Tavern added.
+Mother Holly added.
+Angela, Aspiring Storyteller added.
+Reven, Wandering Bard added.
+The Forever Man added.
+R, rrr Rrrrrrrr added.
+Maven Brown, Raven Witch added.
+Moxie Brown, Mouse Witch added.
+Raye Sunlight, Flower Witch added.
+Vex Wilson, Death Witch added.
+Kind Lee, Protection Witch added.
+Pure Joyce, Helpful Witch added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Chaos Magic added.
+Miss Fortune, the Wheel added.
+Reshape the Multiverse added.
+Rite of Consultation added.
+Evil's End added.
+Satanas, God-Eater added.
+Miss Fortune, the Wheel added.
+Molly, Astral Drifter added.
+Reshape the Multiverse added.
+The Black Manor added.
+S-Tales from the Imaginary Tavern added.
+Astral Aperture added.
+Worlds Tour added.
+Enthralling Chorus added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Aarie, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Molly, Worldwalker added.
+Happy Birthday! added.
+Bliss added.
+Doubt added.
+
+Become Omnipotent removed.
+Hero's Memorial removed.
+
+Run on Thin Air
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Recursive Room
+
+Nilpotence
+
+Pincing —
+
+Step On
+
+Tyrant of the Moors
+
+Dragon's Soul
+
+Tyrant of the Cliffs
+
+Worldbreaker's Oath
+
+Commune with Dragons
+
+Dragon Migration
+
+Frost Channeler
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Tyrant of the Woods
+
+The World Tree Sprouts
+
+Worlds within Worlds
+
+Dragon Flock Leader
+
+Scarmaker
+
+Supernatural Strength
+
+Frostfire Weird
+
+Game Knight
+
+Scarmender
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+AXS Harper
+
+Devourer of Hope
+
+Metapattern
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Restoration Training
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Golden Apple
+
+Jukebox
+
+Map of the Multiverse
+
+Three-Sided Coin
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Ordinary World
+
+Twilight Cavern
+rules_text: Diurnal [i](At the beginning of each upkeep, if no spells were cast last turn, transform this.)[/i]
+{T}: Add {C}. => Diurnal
+{T}: Add {C}.
+
+New Worlds Dragon Rider
+
+Wrath of the Dragon Queen
+
+Mug of Ale
+
+Grand Finale
+rules_text: Spectacle {1}{R}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Grand Finale deals 4 damage to each creature. => Spectacle {1}{R}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+This spell deals 4 damage to each creature.
+
+Watterson's Ambition
+
+Limits Broken
+
+Rebuild from Ruin
+
+Humble Heritage
+
+Synthetic Life
+
+Abdicate
+
+Circle of Transmutation
+
+Don't Be Ridiculous!
+
+Evolved Manhunter
+
+The Philosopher's Stone
+
+Great Unknown
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Children of the Worm
+
+Fold Up
+
+Soul Sisters
+
+Aarie's Conjuration
+
+Case of the Living Mystery
+
+Cloning Vat
+
+Collector of Lost Things
+
+On the House
+
+Marauder's Dragonship
+
+Weapons of Mass Production
+
+Peaceful Domicile
+
+Clash of Immortals
+
+Clash of Immortals
+
+Death Elemental
+
+Explore the House
+
+Worldbuidling
+
+Slice of Life
+
+Slice of Life
+
+Chromatic Crossroads
+
+Auspicious Mentor
+type: Creature — Human Wizard => Creature — Human Wizard Advisor
+
+Protean Shapeshifting
+
+Stealth Training
+
+Evocation Training
+
+Amass Allies
+
+Go Forth and Destroy
+cost: {X}{X}{4}{W}{W} => {X}{X}{3}{W}{W}
+rules_text: Create X 4/4 colorless Angel artifact creature tokens with flying. Destroy all nonartifact creatures. => Create X 4/4 colorless Angel artifact creature tokens with flying. Destroy all other creatures.
+
+Omnicide
+
+Inspiring Survivor
+
+Destroying Angel
+
+Righteous Fury
+
+Alfheim Armed Forces
+
+Avatar of Metatron
+
+Metatron's Verdict
+
+Active Warzone
+
+Militia Headquarters
+
+Refugee Camp
+
+Phalanx, Civil Militia
+
+Slice of Life
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Emerald City
+
+Opal City
+
+Blood Lotus
+
+Mox Amethyst
+
+Angela, Doomed Storyteller
+
+Artemis, Scourge of Rodents
+
+I Contain Infinite Worlds
+
+J.P. Watterson
+
+The Oracle
+
+The Stitcher
+
+Detective Westfield
+
+The Hero
+
+Watterson, Prodigy
+
+Watterson, Wayward Fire
+
+The Tixel Twins
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Cosmic Coronation
+
+S-Go Kill a Jabberwock!
+
+Tyler, Tavern Keeper
+
+Archangel Apollyon
+
+Vestige of Satanas
+cost: {2}{B} => {1}{B}{B}
+rules_text: Vestige of Satanas's power and toughness are each qual to your life total minus your starting life total.
+When Vestige of Satanas dies, if you own it and you own and control a creature named Alexander, Ascendant, exile them, then meld them. => As long as your life total is less than your starting life total, Vestige of Satanas gets +X/+X, where X is the difference.
+When Vestige of Satanas dies, if you own it and you own and control a creature named Alexander, Ascendant, exile them, then meld them.
+pt: */* => 0/0
+
+Yggdrasil, Corrupted
+
+Ariel Vivelia
+
+R, the Gunsmith
+
+The Nameless Rider
+
+Castor and Pollux Dioscuri
+
+Noah, Freelance Alchemist
+
+Volundr, Seeker of Mt. King
+
+Astra F., Pata-Stronomer
+
+Henry F., Pata-Matician
+
+Madam Universe, Mayor
+
+Ubu Roi
+
+Raiz, Curious Cultivator
+
+The Man With Many Masks
+
+Edwin Odd Edd Odwin
+
+Cedric, Alfheim Archmage
+
+Ivar, Supernaturalist
+
+Ronan, Head of Operations
+
+Reven Novano
+
+Aarie Cedricsdottir
+
+President Leonidas
+
+High King Vidar
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Other snow permanents you control have exalted. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Other Elves and snow permanents you control have exalted.
+
+Molly, Worldwalker
+
+Reven, the Showstopper
+
+Davin Tixel
+
+Reika Tixel
+
+Heracles, the Challenger
+
+Molly & Aarie, Newlywed
+
+The Morphblade
+rules_text: As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature. => As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature.
+special_text: As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature. => As long as The Morphblade is attached to a creature, The Morphblade can't be attacked.
+Whenever The Morphblade or a creature you control enters, you may attach The Morphblade to a creature you control.
+[+1]: Put a +1/+1 counter on equipped creature. It gains double strike until end of turn.
+[-3]: Search your library for an Equipment card, reveal it, put it into your hand, then shuffle. If The Morphblade is attached to a creature, you may put that card onto the battlefield attached to that creature.
+
+Experiment 111, the Mimic
+
+Granny, Combat Sage
+
+Ashley, Alter Ego
+
+Sword of Hope and Destiny
+
+Old Man Loki
+
+Lord Maxwell
+
+Puck, Fae Harlequin
+
+Samael, the Reaper
+
+Jenny Everywhere
+
+Jenny Nowhere
+
+Adalinda, Dragonspeaker
+
+Magnus Arneson, Explorer
+
+Melody, the House Itself
+
+Saura Pemmin, Morphomancer
+
+Rubber Annie, Ringmaster
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Aarie, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Molly, Worldwalker
+
+Fusion Tutoring
+
+Astral Incorporation
+
+Astral Severance
+
+Clash of Immortals
+
+Evil's End
+rules_text: Evil's End deals X damage to target creature or planeswalker, where X is the number of creatures you control. If that permanent would die this turn, exile it instead. => This spell deals X damage to target creature or planeswalker, where X is the number of creatures you control. If that permanent would die this turn, exile it instead.
+
+Go Separate Ways
+
+Harness Divinity
+
+Let Go
+
+Miracle Fusion
+
+The Multiverse Trembles
+
+Present the Ring
+
+Stop the Fight
+
+Mass Memory Wipe
+
+Shadowmind Invocaiton
+
+Abrupt End
+
+Callous Betrayal
+
+False Love's Kiss
+
+Gone Too Soon
+
+Loose Ends
+
+Not Strong Enough
+
+Satanas, God-Eater
+
+Satanas's Cellphone
+
+Falling Out
+
+Prelude to Invasion
+
+Traumatic Scar
+rules_text: Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Traumatic Scar deals 3 damage to target creature. => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+This spell deals 3 damage to target creature.
+
+Unexpected Reunion
+
+Champion's Triumph
+
+Chased by Wolves
+
+Confession of Love
+
+Molly, Astral Drifter
+
+Spear of Destiny
+
+Rematch
+
+Molly's Eyepatch
+
+Backdoor
+
+The Black Manor
+
+Form of Yourself
+
+Precognition Engine
+
+Demonic Blessing
+
+Soul Tether
+
+Soul Toxin
+
+Tempt With Ambition
+
+Gathmori Archdruid
+
+Worldbuidling
+
+Backdoor Access
+
+Cunning Manipulation
+
+Twilight Rebirth
+
+Macedonian Sarissa
+
+Watterson's Panopticon
+
+Astral Nexus
+
+Warp Stones
+
+
+VERSION 37 CHANGELOG
 ====================
 
 Aarie, Worldwalker added.
