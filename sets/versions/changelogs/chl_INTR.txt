@@ -1,4 +1,12 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 No changes.
