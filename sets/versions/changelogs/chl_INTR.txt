@@ -1,4 +1,12 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+
+VERSION 37 CHANGELOG
 ====================
 
 No changes.
