@@ -1,4 +1,9 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+No changes.
+
+VERSION 39 CHANGELOG
 ====================
 
 Aarie, Worldwalker added.
