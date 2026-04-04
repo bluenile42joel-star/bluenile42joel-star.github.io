@@ -1,7 +1,7 @@
 ﻿{
     "name": "Interlude (EARTH)",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "jpg",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -108,5 +108,6 @@
             "position": "4",
             "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-World-Earth\nStyle-Spotlight-Legendary\n\n!group worldwalker\n!tag<character> molly\n!tag<world> earth"
         }
-    ]
+    ],
+    "version": 4
 }
