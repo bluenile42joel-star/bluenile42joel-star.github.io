@@ -1,4 +1,755 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Subvert Axioms added.
+
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+Molly, Worldwalker removed.
+
+Homunculus Prototype
+
+Leyline of Frost
+
+Absence Elemental
+
+Begin the Masquerade
+
+Down the Rabbit Hole
+
+Eternal Recall
+
+Gods' Ire
+
+Ontological Paradox
+
+Sourdough Soldier
+
+Superhuman Reflexes
+
+Tyrant of the Meadows
+
+Vanishing Point
+
+Welcoming Entrance
+
+Archetypal Imagination
+
+Behold the New Worlds
+
+Civilianize
+
+Envision
+
+Run on Thin Air
+
+Ten Thousand Years
+
+Thirst for Adventure
+
+Thirst for Greatness
+
+Tyrant of the Lakes
+
+Void Rabbit
+
+Recursive Room
+
+Nilpotence
+
+Pincing —
+
+Step On
+
+Tyrant of the Moors
+
+Dragon's Soul
+
+Tyrant of the Cliffs
+
+Worldbreaker's Oath
+
+Commune with Dragons
+
+Dragon Migration
+
+Frost Channeler
+
+Go Feral
+
+Grasping —
+
+Ivar's Bestiary
+
+Living Equation
+
+Paradoxical Architecture
+
+Tyrant of the Woods
+
+The World Tree Sprouts
+
+Worlds within Worlds
+
+Dragon Flock Leader
+
+Scarmaker
+
+Supernatural Strength
+
+Frostfire Weird
+
+Game Knight
+
+Scarmender
+
+Sunfire Dragon
+
+Attune to Reality
+
+Mask of Illusions
+
+AXS Harper
+
+Devourer of Hope
+
+Metapattern
+
+Vignette
+
+Flight Training
+
+Intimidation Training
+
+Strength Training
+
+Endurance Training
+
+Restoration Training
+
+Poison Training
+
+Reflex Training
+
+Teleportation Training
+
+Tentacled —
+
+Winged —
+
+Aetheric Resonator
+
+Artist's Palette
+
+Golden Apple
+
+Memorial to Legend
+
+Jukebox
+
+Map of the Multiverse
+
+Three-Sided Coin
+
+Mt. Apollyon
+
+Oddwyld Expanse
+
+Ordinary World
+
+Twilight Cavern
+
+New Worlds Dragon Rider
+
+Wrath of the Dragon Queen
+
+Mug of Ale
+
+Grand Finale
+
+Watterson's Ambition
+
+Limits Broken
+
+Rebuild from Ruin
+
+Humble Heritage
+
+Synthetic Life
+
+Abdicate
+
+Circle of Transmutation
+
+Don't Be Ridiculous!
+
+Evolved Manhunter
+
+The Philosopher's Stone
+
+Great Unknown
+
+Grandmaster Clock
+
+Power Lines
+
+Impassable Forest
+
+Pearl Masque
+
+Sapphire Masque
+
+Jet Masque
+
+Ruby Masque
+
+Emerald Masque
+
+Children of the Worm
+
+Fold Up
+
+Soul Sisters
+
+Aarie's Conjuration
+
+Case of the Living Mystery
+
+Cloning Vat
+
+Collector of Lost Things
+
+On the House
+
+Marauder's Dragonship
+
+Weapons of Mass Production
+
+Peaceful Domicile
+
+Clash of Immortals
+
+Clash of Immortals
+
+Death Elemental
+
+Explore the House
+
+Worldbuidling
+
+Slice of Life
+
+Slice of Life
+
+Chromatic Crossroads
+
+Auspicious Mentor
+
+Protean Shapeshifting
+
+Stealth Training
+
+Evocation Training
+
+Amass Allies
+
+Go Forth and Destroy
+
+Omnicide
+
+Inspiring Survivor
+
+Destroying Angel
+
+Righteous Fury
+
+Alfheim Armed Forces
+
+Avatar of Metatron
+
+Metatron's Verdict
+
+Wizard's Hat
+
+Active Warzone
+
+Militia Headquarters
+
+Refugee Camp
+
+Phalanx, Civil Militia
+
+Slice of Life
+
+Fall Upwards
+
+Fine, I'll Play
+
+Unnatural Roar
+
+Tower over Trees
+
+Gate Town
+
+Obnoxious Catcaller
+
+Throw Out
+
+Sword of Horizons
+
+Pursuits of the Mind
+
+Multiversal Traveler
+
+Watterson's Mastery
+
+Public Area
+
+Bar Room
+
+S-The Hero's Bride
+
+S-The Hero's Bride
+
+Busy Kitchen
+
+S-A Day at the Beach
+
+S-A Day at the Beach
+
+S-Moving In
+
+The Imaginary Tavern
+
+Amber City
+
+Amethyst City
+
+Basalt Ruins
+
+Emerald City
+
+Opal City
+
+Blood Lotus
+
+Mox Amethyst
+
+Mother Holly
+
+Angela, Aspiring Storyteller
+
+Reven, Wandering Bard
+
+The Forever Man
+
+Angela, Doomed Storyteller
+
+Artemis, Scourge of Rodents
+
+I Contain Infinite Worlds
+
+J.P. Watterson
+
+The Oracle
+
+The Stitcher
+
+Detective Westfield
+
+The Hero
+
+Watterson, Prodigy
+
+Watterson, Wayward Fire
+
+The Tixel Twins
+
+The Multiverse Trembles
+
+The Multiverse Trembles
+
+Cosmic Coronation
+
+S-Go Kill a Jabberwock!
+
+Tyler, Tavern Keeper
+
+Archangel Apollyon
+
+Vestige of Satanas
+
+Yggdrasil, Corrupted
+
+Ariel Vivelia
+
+R, rrr Rrrrrrrr
+
+R, the Gunsmith
+
+The Nameless Rider
+
+Castor and Pollux Dioscuri
+
+Noah, Freelance Alchemist
+
+Volundr, Seeker of Mt. King
+
+Astra F., Pata-Stronomer
+
+Henry F., Pata-Matician
+
+Madam Universe, Mayor
+
+Ubu Roi
+
+Maven Brown, Raven Witch
+
+Moxie Brown, Mouse Witch
+
+Raye Sunlight, Flower Witch
+
+Vex Wilson, Death Witch
+
+Raiz, Curious Cultivator
+
+The Man With Many Masks
+
+Edwin Odd Edd Odwin
+
+Cedric, Alfheim Archmage
+
+Ivar, Supernaturalist
+
+Ronan, Head of Operations
+
+Reven Novano
+
+Aarie Cedricsdottir
+
+President Leonidas
+
+High King Vidar
+
+Reven, the Showstopper
+
+Davin Tixel
+
+Reika Tixel
+
+Heracles, the Challenger
+
+Molly & Aarie, Newlywed
+
+The Morphblade
+
+Experiment 111, the Mimic
+
+Granny, Combat Sage
+
+Ashley, Alter Ego
+
+Sword of Hope and Destiny
+
+Old Man Loki
+
+Lord Maxwell
+
+Puck, Fae Harlequin
+
+Samael, the Reaper
+
+Jenny Everywhere
+
+Jenny Nowhere
+
+Adalinda, Dragonspeaker
+
+Magnus Arneson, Explorer
+
+Melody, the House Itself
+
+Saura Pemmin, Morphomancer
+
+Kind Lee, Protection Witch
+
+Pure Joyce, Helpful Witch
+
+Rubber Annie, Ringmaster
+
+Fusion Tutoring
+
+Astral Incorporation
+
+Astral Severance
+
+Clash of Immortals
+
+Evil's End
+
+Go Separate Ways
+
+Harness Divinity
+
+Let Go
+
+Miracle Fusion
+
+The Multiverse Trembles
+
+Present the Ring
+
+Stop the Fight
+
+Mass Memory Wipe
+
+Shadowmind Invocaiton
+
+Abrupt End
+
+Callous Betrayal
+
+False Love's Kiss
+
+Gone Too Soon
+
+Loose Ends
+
+Not Strong Enough
+
+Satanas, God-Eater
+
+Satanas's Cellphone
+
+Chaos Magic
+
+Falling Out
+
+Prelude to Invasion
+
+Traumatic Scar
+
+Unexpected Reunion
+
+Champion's Triumph
+
+Chased by Wolves
+
+Confession of Love
+
+Miss Fortune, the Wheel
+
+Molly, Astral Drifter
+
+Reshape the Multiverse
+
+Spear of Destiny
+
+Rematch
+
+Rite of Consultation
+
+Molly's Eyepatch
+
+Backdoor
+
+The Black Manor
+
+Evil's End
+
+Satanas, God-Eater
+
+Miss Fortune, the Wheel
+
+Molly, Astral Drifter
+
+Reshape the Multiverse
+
+The Black Manor
+
+S-Tales from the Imaginary Tavern
+
+Astral Aperture
+
+Form of Yourself
+
+Precognition Engine
+
+Demonic Blessing
+
+Soul Tether
+
+Soul Toxin
+
+Tempt With Ambition
+
+Gathmori Archdruid
+
+Worldbuidling
+
+Worlds Tour
+
+Backdoor Access
+
+Cunning Manipulation
+
+Twilight Rebirth
+
+Macedonian Sarissa
+
+Watterson's Panopticon
+
+Astral Nexus
+
+Warp Stones
+
+Enthralling Chorus
+
+Happy Birthday!
+
+Bliss
+
+Doubt
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Memorial to Legend added.
