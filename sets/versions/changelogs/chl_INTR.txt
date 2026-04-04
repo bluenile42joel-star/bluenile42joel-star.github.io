@@ -1,4 +1,9 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+No changes.
+
+VERSION 42 CHANGELOG
 ====================
 
 
