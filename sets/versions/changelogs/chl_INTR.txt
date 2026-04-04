@@ -1,4 +1,12 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Aarie, Worldwalker added.
+Molly, Worldwalker added.
+
+
+
+VERSION 38 CHANGELOG
 ====================
 
 
