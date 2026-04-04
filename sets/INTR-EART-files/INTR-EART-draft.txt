@@ -5,55 +5,11 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "3",
+			"collector_number": "1",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/INTR-EART-files/img/0.jpg"
-			}
-		},
-		{
-			"name": "Aarie, Worldwalker",
-			"rarity": "special",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-EART-files/img/1.jpg"
-			}
-		},
-		{
-			"name": "Molly, Worldwalker",
-			"rarity": "special",
-			"mana_cost": "{R}{G}{W}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-EART-files/img/2.jpg"
-			}
-		},
-		{
-			"name": "Aarie, Worldwalker",
-			"rarity": "special",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Gnome Wizard",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-EART-files/img/3.jpg"
-			}
-		},
-		{
-			"name": "Molly, Worldwalker",
-			"rarity": "special",
-			"mana_cost": "{R}{G}{W}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://bluenile42joel-star.github.io/sets/INTR-EART-files/img/4.jpg"
 			}
 		}
 	]
 
 [cube(15)]
-	1 Aarie, Worldwalker
-	1 Molly, Worldwalker
-	1 Aarie, Worldwalker
-	1 Molly, Worldwalker

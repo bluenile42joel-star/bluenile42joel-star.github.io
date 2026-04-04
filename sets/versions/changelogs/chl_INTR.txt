@@ -1,4 +1,12 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Behold the Multiverse added.

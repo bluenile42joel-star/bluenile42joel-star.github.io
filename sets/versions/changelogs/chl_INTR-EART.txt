@@ -1,4 +1,14 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.

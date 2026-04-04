@@ -529,7 +529,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "195",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/51.jpg"
 			}
@@ -539,7 +539,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{U}{B}",
 			"type": "Enchantment Creature — Nightmare Horror",
-			"collector_number": "199",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/52.jpg"
 			}
@@ -549,7 +549,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/53.jpg"
 			}
@@ -559,7 +559,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "222",
+			"collector_number": "312",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/54.jpg"
 			}
@@ -569,7 +569,7 @@
 			"rarity": "special",
 			"mana_cost": "{W/U}",
 			"type": "Instant — Lesson",
-			"collector_number": "223",
+			"collector_number": "313",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/55.jpg"
 			}
@@ -579,7 +579,7 @@
 			"rarity": "special",
 			"mana_cost": "{B/R}",
 			"type": "Instant — Lesson",
-			"collector_number": "227",
+			"collector_number": "317",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/56.jpg"
 			}
@@ -589,7 +589,7 @@
 			"rarity": "special",
 			"mana_cost": "{R/G}",
 			"type": "Instant — Lesson",
-			"collector_number": "230",
+			"collector_number": "320",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/57.jpg"
 			}
@@ -599,7 +599,7 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}",
 			"type": "Instant — Lesson",
-			"collector_number": "231",
+			"collector_number": "321",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/58.jpg"
 			}
@@ -609,7 +609,7 @@
 			"rarity": "special",
 			"mana_cost": "{W/B}",
 			"type": "Instant — Lesson",
-			"collector_number": "237",
+			"collector_number": "327",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/59.jpg"
 			}
@@ -619,7 +619,7 @@
 			"rarity": "special",
 			"mana_cost": "{B/G}",
 			"type": "Instant — Lesson",
-			"collector_number": "241",
+			"collector_number": "331",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/60.jpg"
 			}
@@ -629,7 +629,7 @@
 			"rarity": "special",
 			"mana_cost": "{R/W}",
 			"type": "Instant — Lesson",
-			"collector_number": "243",
+			"collector_number": "333",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/61.jpg"
 			}
@@ -639,7 +639,7 @@
 			"rarity": "special",
 			"mana_cost": "{G/U}",
 			"type": "Instant — Lesson",
-			"collector_number": "244",
+			"collector_number": "334",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/62.jpg"
 			}
@@ -649,7 +649,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Creature — Octopus Ooze",
-			"collector_number": "245",
+			"collector_number": "335",
 			"back": {
 				"name": "",
 				"type": "",
@@ -666,7 +666,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Creature — Bird",
-			"collector_number": "246",
+			"collector_number": "336",
 			"back": {
 				"name": "",
 				"type": "",
@@ -683,7 +683,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "337",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/65.jpg"
 			}
@@ -693,7 +693,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "248",
+			"collector_number": "338",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/66.jpg"
 			}
@@ -703,7 +703,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Treasure Food",
-			"collector_number": "250",
+			"collector_number": "340",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/67.jpg"
 			}
@@ -713,7 +713,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "253",
+			"collector_number": "343",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/68.jpg"
 			}
@@ -723,7 +723,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "341",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/69.jpg"
 			}
@@ -733,7 +733,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/70.jpg"
 			}
@@ -743,7 +743,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "261",
+			"collector_number": "351",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/71.jpg"
 			}
@@ -753,7 +753,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "278",
+			"collector_number": "368",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/72.jpg"
 			}
@@ -763,7 +763,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "369",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/73.jpg"
 			}
@@ -773,7 +773,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "371",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/74.jpg"
 			}
@@ -783,7 +783,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "375",
 			"back": {
 				"name": "",
 				"type": "",
@@ -800,7 +800,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "291",
+			"collector_number": "382",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/76.jpg"
 			}
@@ -810,7 +810,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "292",
+			"collector_number": "383",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/77.jpg"
 			}
@@ -820,7 +820,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "293",
+			"collector_number": "380",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/78.jpg"
 			}
@@ -830,7 +830,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Plains",
-			"collector_number": "294",
+			"collector_number": "384",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/79.jpg"
 			}
@@ -840,7 +840,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "298",
+			"collector_number": "387",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/80.jpg"
 			}
@@ -850,7 +850,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "297",
+			"collector_number": "386",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/81.jpg"
 			}
@@ -860,7 +860,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "295",
+			"collector_number": "385",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/82.jpg"
 			}
@@ -870,7 +870,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Island",
-			"collector_number": "299",
+			"collector_number": "389",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/83.jpg"
 			}
@@ -880,7 +880,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Swamp",
-			"collector_number": "300",
+			"collector_number": "390",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/84.jpg"
 			}
@@ -890,7 +890,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "302",
+			"collector_number": "391",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/85.jpg"
 			}
@@ -900,7 +900,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "303",
+			"collector_number": "392",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/86.jpg"
 			}
@@ -910,7 +910,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "304",
+			"collector_number": "393",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/87.jpg"
 			}
@@ -920,7 +920,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "308",
+			"collector_number": "398",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/88.jpg"
 			}
@@ -930,7 +930,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "306",
+			"collector_number": "397",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/89.jpg"
 			}
@@ -940,7 +940,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "305",
+			"collector_number": "396",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/90.jpg"
 			}
@@ -950,7 +950,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Mountain",
-			"collector_number": "309",
+			"collector_number": "399",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/91.jpg"
 			}
@@ -960,7 +960,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "312",
+			"collector_number": "403",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/92.jpg"
 			}
@@ -970,7 +970,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "311",
+			"collector_number": "402",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/93.jpg"
 			}
@@ -980,7 +980,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "310",
+			"collector_number": "401",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/94.jpg"
 			}
@@ -990,7 +990,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Forest",
-			"collector_number": "314",
+			"collector_number": "404",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/95.jpg"
 			}
@@ -1020,7 +1020,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "257",
+			"collector_number": "347",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/98.jpg"
 			}
@@ -1130,7 +1130,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "258",
+			"collector_number": "348",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/109.jpg"
 			}
@@ -1140,7 +1140,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "365",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/110.jpg"
 			}
@@ -1150,7 +1150,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Artifact — Contraption",
-			"collector_number": "322",
+			"collector_number": "412",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/111.jpg"
 			}
@@ -1160,7 +1160,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Device Artifact",
-			"collector_number": "323",
+			"collector_number": "413",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/112.jpg"
 			}
@@ -1170,7 +1170,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Atlas Land",
-			"collector_number": "324",
+			"collector_number": "414",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/113.jpg"
 			}
@@ -1180,7 +1180,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Conspiracy",
-			"collector_number": "317",
+			"collector_number": "407",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/114.jpg"
 			}
@@ -1190,7 +1190,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Conspiracy",
-			"collector_number": "318",
+			"collector_number": "408",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/115.jpg"
 			}
@@ -1200,7 +1200,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Conspiracy",
-			"collector_number": "319",
+			"collector_number": "409",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/116.jpg"
 			}
@@ -1210,7 +1210,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Conspiracy",
-			"collector_number": "320",
+			"collector_number": "410",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/117.jpg"
 			}
@@ -1220,7 +1220,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Conspiracy",
-			"collector_number": "321",
+			"collector_number": "411",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/118.jpg"
 			}
@@ -1320,7 +1320,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "263",
+			"collector_number": "353",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/128.jpg"
 			}
@@ -1330,7 +1330,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "372",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/129.jpg"
 			}
@@ -1340,7 +1340,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/130.jpg"
 			}
@@ -1350,7 +1350,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "18",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/131.jpg"
 			}
@@ -1390,7 +1390,7 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "235",
+			"collector_number": "325",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/135.jpg"
 			}
@@ -1400,7 +1400,7 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "233",
+			"collector_number": "324",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/136.jpg"
 			}
@@ -1410,7 +1410,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "362",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/137.jpg"
 			}
@@ -1440,7 +1440,7 @@
 			"rarity": "special",
 			"mana_cost": "{U/B}",
 			"type": "Instant — Lesson",
-			"collector_number": "226",
+			"collector_number": "316",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/140.jpg"
 			}
@@ -1450,7 +1450,7 @@
 			"rarity": "special",
 			"mana_cost": "{U/R}",
 			"type": "Instant — Lesson",
-			"collector_number": "238",
+			"collector_number": "328",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/141.jpg"
 			}
@@ -1520,7 +1520,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Elf Ally Army",
-			"collector_number": "191",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/148.jpg"
 			}
@@ -1530,7 +1530,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Artifact Creature — Avatar",
-			"collector_number": "194",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/149.jpg"
 			}
@@ -1540,7 +1540,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "209",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/150.jpg"
 			}
@@ -1550,7 +1550,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "264",
+			"collector_number": "354",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/151.jpg"
 			}
@@ -1560,7 +1560,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "355",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/152.jpg"
 			}
@@ -1570,7 +1570,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "367",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/153.jpg"
 			}
@@ -1580,7 +1580,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "373",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/154.jpg"
 			}
@@ -1590,7 +1590,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "290",
+			"collector_number": "381",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/155.jpg"
 			}
@@ -1600,7 +1600,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "296",
+			"collector_number": "388",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/156.jpg"
 			}
@@ -1610,7 +1610,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "301",
+			"collector_number": "394",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/157.jpg"
 			}
@@ -1620,7 +1620,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "307",
+			"collector_number": "395",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/158.jpg"
 			}
@@ -1630,7 +1630,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "313",
+			"collector_number": "400",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/159.jpg"
 			}
@@ -1640,7 +1640,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Ally Army",
-			"collector_number": "214",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/160.jpg"
 			}
@@ -1650,7 +1650,7 @@
 			"rarity": "special",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment",
-			"collector_number": "234",
+			"collector_number": "323",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/161.jpg"
 			}
@@ -1721,7 +1721,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Gate Town",
-			"collector_number": "274",
+			"collector_number": "364",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/166.jpg"
 			}
@@ -1751,7 +1751,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "260",
+			"collector_number": "350",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/169.jpg"
 			}
@@ -1811,7 +1811,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/175.jpg"
 			}
@@ -1821,7 +1821,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/176.jpg"
 			}
@@ -1841,7 +1841,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/178.jpg"
 			}
@@ -1851,7 +1851,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/179.jpg"
 			}
@@ -1871,7 +1871,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "276",
+			"collector_number": "366",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/181.jpg"
 			}
@@ -1881,7 +1881,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "356",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/182.jpg"
 			}
@@ -1891,7 +1891,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "357",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/183.jpg"
 			}
@@ -1901,7 +1901,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "360",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/184.jpg"
 			}
@@ -1911,7 +1911,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "363",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/185.jpg"
 			}
@@ -1921,7 +1921,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "370",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/186.jpg"
 			}
@@ -1931,7 +1931,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "249",
+			"collector_number": "339",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/187.jpg"
 			}
@@ -1941,7 +1941,7 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact",
-			"collector_number": "256",
+			"collector_number": "346",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/188.jpg"
 			}
@@ -1951,7 +1951,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Gnome Warlock",
-			"collector_number": "211",
+			"collector_number": "301",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/189.jpg"
 			}
@@ -2028,7 +2028,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Creature — Elemental Scientist",
-			"collector_number": "204",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/196.jpg"
 			}
@@ -2058,7 +2058,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Human Detective",
-			"collector_number": "198",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/199.jpg"
 			}
@@ -2118,7 +2118,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Sorcery",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/205.jpg"
 			}
@@ -2128,7 +2128,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "197",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/206.jpg"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "220",
+			"collector_number": "310",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/208.jpg"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{W}{W}{B}",
 			"type": "Legendary Artifact Creature — Angel",
-			"collector_number": "192",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/209.jpg"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "287",
+			"collector_number": "377",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/211.jpg"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "193",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/212.jpg"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "196",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/216.jpg"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "212",
+			"collector_number": "302",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/217.jpg"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U/R}",
 			"type": "Legendary Creature — Human Pataphysician",
-			"collector_number": "239",
+			"collector_number": "329",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/220.jpg"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Incarnation God Advisor",
-			"collector_number": "205",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/221.jpg"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "221",
+			"collector_number": "311",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/222.jpg"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U/B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "225",
+			"collector_number": "315",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/223.jpg"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G/W}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "232",
+			"collector_number": "322",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/224.jpg"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R/G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "229",
+			"collector_number": "319",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/225.jpg"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B/R}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "228",
+			"collector_number": "318",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/226.jpg"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Dwarf Advisor",
-			"collector_number": "218",
+			"collector_number": "308",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/232.jpg"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Zombie Elf Bard",
-			"collector_number": "216",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/233.jpg"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "215",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/235.jpg"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Snow Creature — Elf Noble",
-			"collector_number": "203",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/236.jpg"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Creature — Zombie Elf Bard",
-			"collector_number": "217",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/237.jpg"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}{G}{W}",
 			"type": "Legendary Creature — God Warrior",
-			"collector_number": "202",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/240.jpg"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Creature — Demigod Gnome",
-			"collector_number": "210",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/241.jpg"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Planeswalker — Equipment",
-			"collector_number": "255",
+			"collector_number": "345",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/242.jpg"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Legendary Creature — Mutant Warrior",
-			"collector_number": "200",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/243.jpg"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "201",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/244.jpg"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "259",
+			"collector_number": "349",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/246.jpg"
 			}
@@ -2545,7 +2545,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Creature — Elder Zombie Elf",
-			"collector_number": "213",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/247.jpg"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Human Sorcerer",
-			"collector_number": "190",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/253.jpg"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Legendary Creature — Elf Scout",
-			"collector_number": "206",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/254.jpg"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Human Citizen",
-			"collector_number": "207",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/255.jpg"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W/U}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "224",
+			"collector_number": "314",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/257.jpg"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W/B}",
 			"type": "Legendary Creature — Vampire Warlock",
-			"collector_number": "236",
+			"collector_number": "326",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/258.jpg"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/263.jpg"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Sorcery",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/269.jpg"
 			}
@@ -3005,7 +3005,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{X}{W}{U}{B}{R}{G}",
 			"type": "Legendary Sorcery",
-			"collector_number": "219",
+			"collector_number": "309",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/293.jpg"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U/R}{U/R}",
 			"type": "Sorcery",
-			"collector_number": "240",
+			"collector_number": "330",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/294.jpg"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Sorcery — Lesson",
-			"collector_number": "242",
+			"collector_number": "332",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/295.jpg"
 			}
@@ -3035,7 +3035,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "254",
+			"collector_number": "344",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/296.jpg"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "359",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/297.jpg"
 			}
@@ -3055,7 +3055,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Enchantment Land",
-			"collector_number": "271",
+			"collector_number": "361",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/298.jpg"
 			}
@@ -3115,7 +3115,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Enchantment Land",
-			"collector_number": "6",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/304.jpg"
 			}
@@ -3125,7 +3125,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Enchantment Land — Saga",
-			"collector_number": "284",
+			"collector_number": "374",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/305.jpg"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "262",
+			"collector_number": "352",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/320.jpg"
 			}
@@ -3285,7 +3285,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "358",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/321.jpg"
 			}
@@ -3295,7 +3295,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "376",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/322.jpg"
 			}
@@ -3305,7 +3305,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land",
-			"collector_number": "288",
+			"collector_number": "378",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/323.jpg"
 			}
@@ -3315,7 +3315,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land",
-			"collector_number": "289",
+			"collector_number": "379",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/324.jpg"
 			}
@@ -3345,7 +3345,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Enchantment — Framework",
-			"collector_number": "315",
+			"collector_number": "405",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/327.jpg"
 			}
@@ -3355,7 +3355,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Enchantment — Framework",
-			"collector_number": "316",
+			"collector_number": "406",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/328.jpg"
 			}
@@ -3368,6 +3368,1460 @@
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/329.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/330.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/331.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "211",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/332_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/332_front.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/333.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/334.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/335.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/336.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/337.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/338.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/339.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/340.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/341.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/342.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/343.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/344.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/345.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/346.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/347.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/348.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/349.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/350.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/351.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/352.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/353.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/354.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/355.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/356.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/357.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/358.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/359.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/360.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/361.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/362.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/363.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/364.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/365.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/366.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/367.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/368.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/369.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/370.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/371.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/372.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/373.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/374.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/375.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/376.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/377.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/378.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/379.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/380.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "286",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/381_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/381_front.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/382.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/383.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/384.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/385.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/386.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/387.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/388.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/389.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/390.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/391.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/392.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/393.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/394.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/395.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/396.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/397.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/398.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/399.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/400.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/401.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/402.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/403.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/404.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/405.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/406.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/407.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/408.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/409.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/410.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/411.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/412.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/413.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/414.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/415.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/416.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/417.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/418.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/419.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/420.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/421.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/422.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/423.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/424.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/425.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/426.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/427.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/428.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/429.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/430.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/431.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/432.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/433.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/434.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/435.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/436.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/437.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/438.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/439.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/440.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/441.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/442.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/443.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/444.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/445.jpg"
+			}
+		},
+		{
+			"name": "Aarie, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/446.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/447.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/448.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/449.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/450.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/451.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/452.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/453.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/454.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/455.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/456.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/457.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/458.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/459.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/460.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/461.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/462.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/463.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/464.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/465.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/466.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/467.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/468.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/469.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/470.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/471.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/472.jpg"
+			}
+		},
+		{
+			"name": "Molly, Worldwalker",
+			"rarity": "special",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://bluenile42joel-star.github.io/sets/WORK-files/img/473.jpg"
 			}
 		}
 	]
@@ -3676,3 +5130,147 @@
 	1 Bliss
 	1 Doubt
 	1 Subvert Axioms
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Aarie, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
+	1 Molly, Worldwalker
