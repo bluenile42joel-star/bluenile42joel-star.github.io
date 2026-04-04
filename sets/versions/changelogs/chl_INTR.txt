@@ -1,4 +1,30 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Behold the Multiverse added.
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+Aarie, Worldwalker
+
+Molly, Worldwalker
+
+
+VERSION 4 CHANGELOG
+====================
+
+Behold the Multiverse added.
+
+Aarie, Worldwalker removed.
+Molly, Worldwalker removed.
+
+Aarie, Worldwalker
+
+Molly, Worldwalker
+
+
+VERSION 41 CHANGELOG
 ====================
 
 

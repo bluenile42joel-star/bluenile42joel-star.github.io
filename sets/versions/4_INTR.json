@@ -1,7 +1,7 @@
 ﻿{
     "name": "Interlude",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -88,6 +88,5 @@
             "position": "3",
             "notes": "Design-MM-Worldwalker-Molly\nLore-Character-Molly\nLore-Faction-Tavern\nStyle-Spotlight-Legendary\n\n!group interlude-02\n!tag<character> molly"
         }
-    ],
-    "version": 41
+    ]
 }
