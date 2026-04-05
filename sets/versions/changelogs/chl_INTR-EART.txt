@@ -1,4 +1,18 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Aarie, Worldwalker
+rules_text: As long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life. Then you may draw a card. If you do, discard a card.
+As long as you control seven or more lands with different names, if you would draw a card except the first one you draw in each of your draw steps, draw two cards instead.
+
+Molly, Worldwalker
+rules_text: As long as you control seven or more lands with different names, double all damage that sources you control would deal to your opponents and permanents your opponents control. => [i]Landfall[/i] — Whenever a land you control enters, Molly deals 1 damage to each opponent. Put a +1/+1 counter on her.
+As long as you control seven or more lands with different names, double all damage that sources you control would deal to your opponents and permanents your opponents control.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
