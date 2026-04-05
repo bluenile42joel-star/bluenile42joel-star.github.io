@@ -1,4 +1,12 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Aarie, Worldwalker added.
+Molly, Worldwalker added.
+
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Behold the Multiverse added.
