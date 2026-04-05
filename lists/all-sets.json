@@ -1,16 +1,6 @@
 ﻿{
     "sets": [
         {
-            "set_code": "INTR",
-            "set_name": "Interlude",
-            "formats": ""
-        },
-        {
-            "set_code": "INTR-EART",
-            "set_name": "Interlude (EARTH)",
-            "formats": ""
-        },
-        {
             "set_code": "OURO",
             "set_name": "Ouroboros: Inside",
             "formats": ""
