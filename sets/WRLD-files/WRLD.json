@@ -116,7 +116,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "Multiple 2 [i](When this enters, if it's not a token, create a token copies.)[/i]\nWhenever another creature you control not named Soul Sisters enters, you gain 1 life.",
+            "rules_text": "Multiple 2 [i](When this enters, if it's not a token, create two token copies.)[/i]\nWhenever another creature you control not named Soul Sisters enters, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -793,35 +793,15 @@
             "notes": "Design-UB-Free-Slot\nLore-World-Ikos"
         },
         {
-            "card_name": "R, rrr Rrrrrrrr",
-            "color": "R",
-            "rarity": "cube",
-            "type": "Rrrrrrrrr Rrrrrrrr \u2014 Rrrrr Rrrrrrrrr",
-            "number": 42,
-            "color_identity": "R",
-            "cost": "{R}{R}{R}",
-            "rules_text": "Rrrrrrrr rrrrrrrrr rrr rrrrrrr rrr +R/+R.\nRr r rrrrrr rrr rrrrrrr rrrrr rrrr rrrrrrrrr rrrrrr rr rr rrrrrrrr, rr rrrrr rrrr rrrr rrrrrr rrrr R rrrrrrr.",
-            "flavor_text": "[i]\u201cRrr.\u201d[/i]",
-            "pt": "R/R",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "jlewenhagen",
-            "alias": "",
-            "position": "37",
-            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\nTemplate-Other-Font\n\n!tag<character> r\n!tag<world> frontier"
-        },
-        {
             "card_name": "R, the Gunsmith",
             "color": "R",
             "rarity": "cube",
             "type": "Legendary Creature \u2014 Dwarf Artificer",
-            "number": 43,
+            "number": 42,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
             "rules_text": "Equipped creatures you control get +2/+0.\nIf a source you control would deal noncombat damage to an opponent, it deals that much damage plus 2 instead.",
-            "flavor_text": "[i]\u201cRrr.\u201d[/i]",
+            "flavor_text": "[i]\u201cRRRR rrr!\u201d[/i]",
             "pt": "4/3",
             "special_text": "",
             "shape": "normal",
@@ -829,7 +809,7 @@
             "loyalty": "",
             "artist": "jlewenhagen",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier"
         },
         {
@@ -849,7 +829,7 @@
             "loyalty": "",
             "artist": "ae-rie",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "notes": "Design-UR-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -869,7 +849,7 @@
             "loyalty": "",
             "artist": "umbrafox",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": "Design-RM-Free-Slot\nLore-Character-Puck\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<character> puck\n!tag<world> faerie"
         },
         {
@@ -889,7 +869,7 @@
             "loyalty": "",
             "artist": "Andrea Piparo",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "notes": "Design-CR-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -909,7 +889,7 @@
             "loyalty": "",
             "artist": "reaper78",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": "Design-RG-Free-Slot\nLore-World-Andiheim\nTag-Token-Clue\nTag-Token-Food\nTag-Token-Treasure\n\n!tag<world> andiheim"
         },
         {
@@ -929,7 +909,7 @@
             "loyalty": "",
             "artist": "Laura Sava",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": "Design-CG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -949,7 +929,7 @@
             "loyalty": "",
             "artist": "Jan Patrik Krasny",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": "Design-UG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -969,7 +949,7 @@
             "loyalty": "",
             "artist": "Mircea Nicula",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "Design-CG-Free-Slot\nLore-World-Xenos\n\n!tag<world> xenos\n\nFlavour \u2014 The Wild Zones of Xenos."
         },
         {
@@ -989,7 +969,7 @@
             "loyalty": "",
             "artist": "John Stanko",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "card_name2": "Grip \u2014 Vines",
             "color2": "G",
             "type2": "Host Creature \u2014 Plant",
@@ -1020,7 +1000,7 @@
             "loyalty": "",
             "artist": "ekoputeh",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "notes": "Design-UG-Free-Slot\nLore-World-Quantus\n\n!tag<world> quantus"
         },
         {
@@ -1040,7 +1020,7 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "Design-RG-Free-Slot\nLore-Faction-Gathraxi\nLore-World-Belvedere\nStyle-Spotlight-Faction\n\n!tag<world> belvedere"
         },
         {
@@ -1060,7 +1040,7 @@
             "loyalty": "",
             "artist": "1oshuart",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": "Design-RG-Free-Slot\nLore-Character-Raiz\nLore-World-Sylvia\nStyle-Spotlight-Legendary\n\n!tag<character> raiz\n!tag<world> sylvia"
         },
         {
@@ -1080,7 +1060,7 @@
             "loyalty": "",
             "artist": "Geoff Trebs",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "card_name2": "Jungle of Giants",
             "color2": "",
             "type2": "Land",
@@ -1111,7 +1091,7 @@
             "loyalty": "",
             "artist": "x-Celebril-x",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "notes": "Design-CG-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -1131,7 +1111,7 @@
             "loyalty": "",
             "artist": "merillizaART",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": "Design-RG-Free-Slot\nLore-Character-Volundr\nLore-World-Krokrvegr\nStyle-Spotlight-Legendary\n\n!tag<character> volundr\n!tag<world> krokrvegr"
         },
         {
@@ -1151,7 +1131,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": "Design-RG-Free-Slot\nLore-Faction-Amaranth\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<world> faerie"
         },
         {
@@ -1171,7 +1151,7 @@
             "loyalty": "",
             "artist": "Gennova",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": "Design-UM-Free-Slot\nLore-Character-Astra-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\nTag-Token-Star\n\n!tag<character> astra-f\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
@@ -1191,7 +1171,7 @@
             "loyalty": "",
             "artist": "Dragolisco",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -1211,7 +1191,7 @@
             "loyalty": "",
             "artist": "Aldair Apango",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": "Design-RM-Free-Slot\nLore-Character-Annie\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> annie\n!tag<world> tunia"
         },
         {
@@ -1231,7 +1211,7 @@
             "loyalty": "",
             "artist": "Nelson Evergreen",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra"
         },
         {
@@ -1251,7 +1231,7 @@
             "loyalty": "",
             "artist": "Percy McMurphy",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "Design-RM-Free-Slot\nLore-Character-Edwin\nLore-Faction-Satanas\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> edwin\n!tag<world> tunia"
         },
         {
@@ -1271,7 +1251,7 @@
             "loyalty": "",
             "artist": "Matt Forsyth",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra"
         },
         {
@@ -1291,7 +1271,7 @@
             "loyalty": "",
             "artist": "Janos Csernik",
             "alias": "Element \u2014 Ice / Fire",
-            "position": "60",
+            "position": "59",
             "notes": "Design-UM-Free-Slot\nLore-World-Heartlands\n\n!tag<world> heartlands"
         },
         {
@@ -1311,7 +1291,7 @@
             "loyalty": "",
             "artist": "BrotherOstavia",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": "Design-UM-Free-Slot\nLore-World-Leikrvold\n\n!tag<world> leikrvold"
         },
         {
@@ -1331,7 +1311,7 @@
             "loyalty": "",
             "artist": "CadNav",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\nTag-Token-Pirate\n\n!tag<world> new-worlds"
         },
         {
@@ -1351,7 +1331,7 @@
             "loyalty": "",
             "artist": "Carla Morrow",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
@@ -1371,7 +1351,7 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "Design-UM-Free-Slot\nLore-World-Thespia\n\n!tag<world> thespia"
         },
         {
@@ -1391,7 +1371,7 @@
             "loyalty": "",
             "artist": "Andrey Shiskin",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "card_name2": "Forest of Knowledge",
             "color2": "",
             "type2": "Land",
@@ -1422,7 +1402,7 @@
             "loyalty": "",
             "artist": "Laura Sava",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Adalinda\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> adalinda\n!tag<world> new-worlds"
         },
         {
@@ -1442,7 +1422,7 @@
             "loyalty": "",
             "artist": "Tallia Lockhart",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "Design-RM-Free-Slot\nLore-Character-Ariel\nLore-World-Ermina\nStyle-Spotlight-Legendary\nTag-Token-Treasure\n\n!tag<character> ariel\n!tag<world> ermina"
         },
         {
@@ -1453,7 +1433,7 @@
             "number": 77,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
-            "rules_text": "Multiple 2 [i](When this enters, if it's not a token, create a token copies. You can have up to two that are legendary.)[/i]\nAs long as this creature is tapped, tapped creatures you control get +1/+0.\nAs long this creature is untapped, untapped creatures you control get +0/+1.",
+            "rules_text": "Multiple 2 [i](When this enters, if it's not a token, create two token copies. The tokens aren't legendary.)[/i]\nAs long as this creature is tapped, tapped creatures you control get +1/+0.\nAs long this creature is untapped, untapped creatures you control get +0/+1.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1462,7 +1442,7 @@
             "loyalty": "",
             "artist": "Allen Morris",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "Design-RM-Free-Slot\nLore-Character-Dioscuri\nLore-World-Gemini\nStyle-Spotlight-Legendary\nTag-Token-Self\n\n!tag<character> dioscuri\n!tag<world> gemini"
         },
         {
@@ -1482,7 +1462,7 @@
             "loyalty": "",
             "artist": "Pedro Sena",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "Design-RM-Free-Slot\nLore-World-Andiheim\n\n!tag<world> andiheim"
         },
         {
@@ -1502,7 +1482,7 @@
             "loyalty": "",
             "artist": "Julie Dillon",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "Design-RM-Free-Slot\nLore-Character-Universe\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> universe\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
@@ -1522,7 +1502,7 @@
             "loyalty": "",
             "artist": "Bob Kehl",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Magnus\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> magnus\n!tag<world> new-worlds"
         },
         {
@@ -1542,7 +1522,7 @@
             "loyalty": "",
             "artist": "Consuelo Pecchenino",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": "Design-RM-Free-Slot\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<character> noah\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
@@ -1562,7 +1542,7 @@
             "loyalty": "",
             "artist": "Lenny Ibizarre",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "Design-RM-Free-Slot\nLore-Character-Ubu\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> ubu\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
@@ -1582,7 +1562,7 @@
             "loyalty": "",
             "artist": "ecto_cute_",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "card_name2": "Marked: Protect",
             "color2": "W",
             "type2": "Instant \u2014 Innate",
@@ -1613,7 +1593,7 @@
             "loyalty": "",
             "artist": "Morry Evans",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "card_name2": "Marked: Raven",
             "color2": "U",
             "type2": "Sorcery \u2014 Innate",
@@ -1644,7 +1624,7 @@
             "loyalty": "",
             "artist": "Andrey Kazakov",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "card_name2": "Marked: Kill",
             "color2": "B",
             "type2": "Sorcery \u2014 Innate",
@@ -1675,7 +1655,7 @@
             "loyalty": "",
             "artist": "Gretel Lusky",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "card_name2": "Marked: Grow",
             "color2": "G",
             "type2": "Sorcery \u2014 Innate",
@@ -1706,7 +1686,7 @@
             "loyalty": "",
             "artist": "simz.art",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "card_name2": "Marked: Mouse",
             "color2": "W",
             "type2": "Sorcery \u2014 Innate",
@@ -1737,7 +1717,7 @@
             "loyalty": "",
             "artist": "Vacuum Chan",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "Design-RM-Free-Slot\nLore-World-Sygil\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> sygil\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
@@ -1757,7 +1737,7 @@
             "loyalty": "",
             "artist": "SancosityJA",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "Design-RM-Free-Slot\nLore-World-Xenos\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> xenos\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
@@ -1777,7 +1757,7 @@
             "loyalty": "",
             "artist": "Stefan Kostic",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "card_name2": "Marked: Help",
             "color2": "W",
             "type2": "Sorcery \u2014 Innate",
@@ -1808,7 +1788,7 @@
             "loyalty": "",
             "artist": "Naxer",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "Design-RM-Free-Slot\nLore-Character-Henry-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\n\n!tag<character> henry-f\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
@@ -1828,7 +1808,7 @@
             "loyalty": "",
             "artist": "PReilly",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "card_name2": "Clingy \u2014 Polypus",
             "color2": "UG",
             "type2": "Host Creature \u2014 Octopus Ooze",
@@ -1859,7 +1839,7 @@
             "loyalty": "",
             "artist": "Morkney",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "card_name2": "Wingstorm \u2014 Raptor",
             "color2": "WU",
             "type2": "Host Creature \u2014 Bird",
@@ -1890,7 +1870,7 @@
             "loyalty": "",
             "artist": "Kaye Yeo",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "Design-UA-Free-Slot\nLore-World-New-Eden\n\n!tag<world> new-eden"
         },
         {
@@ -1910,7 +1890,7 @@
             "loyalty": "",
             "artist": "feefal",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "Design-UA-Free-Slot\nLore-World-Faegrland\n\n!tag<world> faegrland"
         },
         {
@@ -1930,7 +1910,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "Design-RA-Free-Slot\nLore-Faction-Macedon\nLore-World-Voxel\nStyle-Spotlight-Legendary\n\n!tag<world> voxel\n\nFlavour \u2014 A tribute to the minecraft youtuber Technoblade."
         },
         {
@@ -1950,68 +1930,8 @@
             "loyalty": "",
             "artist": "VidaQla",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "Design-RA-Free-Slot\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
-        },
-        {
-            "card_name": "Amber City",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 99,
-            "color_identity": "WBRG",
-            "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, you lose 2 life.\n{T}: Add {B}, {R}, {G}, or {W}.",
-            "flavor_text": "[i]Where Summer reigns absolutely.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "TDSpiral",
-            "alias": "",
-            "position": "89",
-            "notes": "Design-ML-Cycle-4C-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Summer\n\n!tag<world> faerie"
-        },
-        {
-            "card_name": "Amethyst City",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 100,
-            "color_identity": "WUBR",
-            "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, you lose 2 life.\n{T}: Add {W}, {U}, {B}, or {R}.",
-            "flavor_text": "[i]Where Autumn falls softly.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "li shuxing",
-            "alias": "",
-            "position": "90",
-            "notes": "Design-ML-Cycle-4C-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Autumn\n\n!tag<world> faerie"
-        },
-        {
-            "card_name": "Basalt Ruins",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 101,
-            "color_identity": "UBRG",
-            "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, you lose 2 life.\n{T}: Add {U}, {B}, {R}, or {G}.",
-            "flavor_text": "[i]Where Chaos consumes all.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "Terraform Studios",
-            "alias": "",
-            "position": "91",
-            "notes": "Design-ML-Cycle-4C-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Chaos\n\n!tag<world> faerie"
         },
         {
             "card_name": "Chromatic Crossroads",
@@ -2030,28 +1950,8 @@
             "loyalty": "",
             "artist": "\u5bd2\u653e hanfang",
             "alias": "",
-            "position": "92",
+            "position": "88",
             "notes": "Design-UL-Free-Slot\nLore-World-Faegrland\nTag-Custom-Reprint\n\n!tag<world> faegrland\n\nNote \u2014 Originally Designed for the Outer Planes."
-        },
-        {
-            "card_name": "Emerald City",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 103,
-            "color_identity": "WURG",
-            "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, you lose 2 life.\n{T}: Add {R}, {G}, {W}, or {U}.",
-            "flavor_text": "[i]Where Spring blooms eternally.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "lathander1987",
-            "alias": "",
-            "position": "93",
-            "notes": "Design-ML-Cycle-4C-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Spring\n\n!tag<world> faerie"
         },
         {
             "card_name": "Gate Town",
@@ -2070,7 +1970,7 @@
             "loyalty": "",
             "artist": "Artifex Mundi",
             "alias": "",
-            "position": "94",
+            "position": "89",
             "notes": "Design-CL-Free-Slot\nLore-World-Frontier\n\nFlavour \u2014 A town built around a dimensional portal."
         },
         {
@@ -2090,7 +1990,7 @@
             "loyalty": "",
             "artist": "liang shao",
             "alias": "",
-            "position": "95",
+            "position": "90",
             "notes": "Design-UL-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
@@ -2110,7 +2010,7 @@
             "loyalty": "",
             "artist": "34bigthings",
             "alias": "",
-            "position": "96",
+            "position": "91",
             "notes": "Design-RL-Free-Slot\nLore-World-New-Eden\nStyle-Spotlight-Legendary\n\n!tag<world> new-eden\n\nNote \u2014 Design Mirrors Phyrexian Tower"
         },
         {
@@ -2130,28 +2030,8 @@
             "loyalty": "",
             "artist": "Dmitry Grishaev",
             "alias": "",
-            "position": "97",
+            "position": "92",
             "notes": "Design-UL-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus"
-        },
-        {
-            "card_name": "Opal City",
-            "color": "",
-            "rarity": "cube",
-            "type": "Land",
-            "number": 108,
-            "color_identity": "WUBG",
-            "cost": "",
-            "rules_text": "This land enters tapped.\nWhen this land enters, you lose 2 life.\n{T}: Add {G}, {W}, {U}, or {B}.",
-            "flavor_text": "[i]Where Winter waits patiently.[/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "WRLD",
-            "loyalty": "",
-            "artist": "molybdenumgp03",
-            "alias": "",
-            "position": "98",
-            "notes": "Design-ML-Cycle-4C-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Winter\n\n!tag<world> faerie"
         },
         {
             "card_name": "Twilight Cavern",
@@ -2170,7 +2050,7 @@
             "loyalty": "",
             "artist": "HeeWann Kim",
             "alias": "",
-            "position": "99",
+            "position": "93",
             "card_name2": "Twilight Grotto",
             "color2": "",
             "type2": "Land",
@@ -2201,7 +2081,7 @@
             "loyalty": "",
             "artist": "Olga Tupikina",
             "alias": "",
-            "position": "100",
+            "position": "94",
             "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside"
         },
         {
@@ -2221,7 +2101,7 @@
             "loyalty": "",
             "artist": "Olga Tupikina",
             "alias": "",
-            "position": "101",
+            "position": "95",
             "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside"
         },
         {
@@ -2241,7 +2121,7 @@
             "loyalty": "",
             "artist": "Ivan Dedov",
             "alias": "",
-            "position": "102",
+            "position": "96",
             "notes": "Design-UW-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
@@ -2261,7 +2141,7 @@
             "loyalty": "",
             "artist": "Anastasia Heublein",
             "alias": "",
-            "position": "103",
+            "position": "97",
             "notes": "Design-UU-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
@@ -2281,7 +2161,7 @@
             "loyalty": "",
             "artist": "Roman Ankenbrandt",
             "alias": "",
-            "position": "104",
+            "position": "98",
             "notes": "Design-UB-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
@@ -2301,7 +2181,7 @@
             "loyalty": "",
             "artist": "Hedgenok",
             "alias": "",
-            "position": "105",
+            "position": "99",
             "notes": "Design-UR-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
@@ -2321,7 +2201,7 @@
             "loyalty": "",
             "artist": "ninovecia",
             "alias": "",
-            "position": "106",
+            "position": "100",
             "notes": "Design-UG-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
@@ -2341,7 +2221,7 @@
             "loyalty": "",
             "artist": "Nathan Chen",
             "alias": "",
-            "position": "107",
+            "position": "101",
             "notes": "Design-MA-Free-Slot\nLore-World-Orrery\nTag-Outside\n\n!tag<world> orrery"
         },
         {
@@ -2361,7 +2241,7 @@
             "loyalty": "",
             "artist": "PAN PING",
             "alias": "",
-            "position": "108",
+            "position": "102",
             "notes": "Design-RA-Free-Slot\nLore-World-Factotum\nTag-Outside\n\n!tag<world> factotum"
         },
         {
@@ -2381,7 +2261,7 @@
             "loyalty": "",
             "artist": "Acidify Art",
             "alias": "",
-            "position": "109",
+            "position": "103",
             "notes": "Design-UL-Free-Slot\nLore-World-Krokrvegr\nTag-Outside\n\n!tag<world> krokrvegr"
         },
         {
@@ -2389,7 +2269,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Plains",
-            "number": 111,
+            "number": 113,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2401,7 +2281,7 @@
             "loyalty": "",
             "artist": "Ulysses Pita",
             "alias": "",
-            "position": "110",
+            "position": "104",
             "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
@@ -2409,7 +2289,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Island",
-            "number": 116,
+            "number": 115,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -2421,7 +2301,7 @@
             "loyalty": "",
             "artist": "Tiberius Viris",
             "alias": "",
-            "position": "111",
+            "position": "105",
             "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
@@ -2441,7 +2321,7 @@
             "loyalty": "",
             "artist": "MiaStendal",
             "alias": "",
-            "position": "112",
+            "position": "106",
             "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
@@ -2449,7 +2329,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Mountain",
-            "number": 126,
+            "number": 128,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -2461,7 +2341,7 @@
             "loyalty": "",
             "artist": "Michiel Rensen",
             "alias": "",
-            "position": "113",
+            "position": "107",
             "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
@@ -2469,7 +2349,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Forest",
-            "number": 130,
+            "number": 133,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2481,7 +2361,7 @@
             "loyalty": "",
             "artist": "Ulysses Pita",
             "alias": "",
-            "position": "114",
+            "position": "108",
             "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
@@ -2501,7 +2381,7 @@
             "loyalty": "",
             "artist": "Fel-X",
             "alias": "",
-            "position": "115",
+            "position": "109",
             "notes": "Design-RC-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2521,7 +2401,7 @@
             "loyalty": "",
             "artist": "Raijin Art",
             "alias": "",
-            "position": "116",
+            "position": "110",
             "notes": "Design-UG-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2541,7 +2421,7 @@
             "loyalty": "",
             "artist": "Fabrice ROS PATURAUX",
             "alias": "",
-            "position": "117",
+            "position": "111",
             "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2561,7 +2441,7 @@
             "loyalty": "",
             "artist": "Klaus Pillon",
             "alias": "",
-            "position": "118",
+            "position": "112",
             "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2581,7 +2461,7 @@
             "loyalty": "",
             "artist": "Czepeku",
             "alias": "",
-            "position": "119",
+            "position": "113",
             "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2601,7 +2481,7 @@
             "loyalty": "",
             "artist": "GlobulArt",
             "alias": "",
-            "position": "120",
+            "position": "114",
             "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2621,7 +2501,7 @@
             "loyalty": "",
             "artist": "Henrik Evensen",
             "alias": "",
-            "position": "121",
+            "position": "115",
             "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
@@ -2641,7 +2521,7 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
-            "position": "122",
+            "position": "116",
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
@@ -2649,7 +2529,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Island",
-            "number": 115,
+            "number": 116,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -2661,7 +2541,7 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
-            "position": "123",
+            "position": "117",
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
@@ -2681,7 +2561,7 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
-            "position": "124",
+            "position": "118",
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
@@ -2701,7 +2581,7 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
-            "position": "125",
+            "position": "119",
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
@@ -2709,7 +2589,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Forest",
-            "number": 132,
+            "number": 130,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2721,7 +2601,7 @@
             "loyalty": "",
             "artist": "Hato Tsuki",
             "alias": "",
-            "position": "126",
+            "position": "120",
             "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
@@ -2741,7 +2621,7 @@
             "loyalty": "",
             "artist": "James Fenner",
             "alias": "",
-            "position": "127",
+            "position": "121",
             "notes": "Design-CG-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint\n\n!tag<world> ouroboros"
         },
         {
@@ -2761,7 +2641,7 @@
             "loyalty": "",
             "artist": "James Fenner",
             "alias": "",
-            "position": "128",
+            "position": "122",
             "notes": "Design-RM-Free-Slot\nLore-Character-Melody\nLore-World-Ouroboros\nStyle-Spotlight-Legendary\n\n!tag<character> melody\n!tag<world> ouroboros"
         },
         {
@@ -2781,7 +2661,7 @@
             "loyalty": "",
             "artist": "shottythefirst",
             "alias": "",
-            "position": "129",
+            "position": "123",
             "card_name2": "Outer Void",
             "color2": "U",
             "type2": "",
@@ -2812,7 +2692,7 @@
             "loyalty": "",
             "artist": "James Fenner",
             "alias": "",
-            "position": "130",
+            "position": "124",
             "notes": "Design-UU-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint"
         },
         {
@@ -2832,7 +2712,7 @@
             "loyalty": "",
             "artist": "Vicky Brago-Mitchell",
             "alias": "",
-            "position": "131",
+            "position": "125",
             "notes": "Design-UG-Free-Slot\nLore-World-Ouroboros\n\n!tag<world> ouroboros"
         },
         {
@@ -2852,7 +2732,7 @@
             "loyalty": "",
             "artist": "Jim Plaxco",
             "alias": "",
-            "position": "132",
+            "position": "126",
             "notes": "Design-RW-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia"
         },
         {
@@ -2872,7 +2752,7 @@
             "loyalty": "",
             "artist": "Sittichai Dadas",
             "alias": "",
-            "position": "133",
+            "position": "127",
             "notes": "Design-UG-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia"
         },
         {
@@ -2892,7 +2772,7 @@
             "loyalty": "",
             "artist": "Olga Kurbatova",
             "alias": "",
-            "position": "134",
+            "position": "128",
             "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
@@ -2912,7 +2792,7 @@
             "loyalty": "",
             "artist": "Colourbox",
             "alias": "",
-            "position": "135",
+            "position": "129",
             "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
@@ -2932,7 +2812,7 @@
             "loyalty": "",
             "artist": "klyaksun",
             "alias": "",
-            "position": "136",
+            "position": "130",
             "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
@@ -2940,7 +2820,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Mountain",
-            "number": 127,
+            "number": 126,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -2952,7 +2832,7 @@
             "loyalty": "",
             "artist": "Alexandr Gusev",
             "alias": "",
-            "position": "137",
+            "position": "131",
             "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
@@ -2960,7 +2840,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Forest",
-            "number": 133,
+            "number": 131,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2972,7 +2852,7 @@
             "loyalty": "",
             "artist": "Picasa",
             "alias": "",
-            "position": "138",
+            "position": "132",
             "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
@@ -2980,7 +2860,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Plains",
-            "number": 113,
+            "number": 111,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2992,7 +2872,7 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "139",
+            "position": "133",
             "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
@@ -3012,7 +2892,7 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "140",
+            "position": "134",
             "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
@@ -3032,7 +2912,7 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "141",
+            "position": "135",
             "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
@@ -3040,7 +2920,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Mountain",
-            "number": 128,
+            "number": 127,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3052,7 +2932,7 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "142",
+            "position": "136",
             "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
@@ -3060,7 +2940,7 @@
             "color": "",
             "rarity": "cube",
             "type": "Basic Land \u2014 Forest",
-            "number": 131,
+            "number": 132,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3072,9 +2952,129 @@
             "loyalty": "",
             "artist": "Ustwo Games",
             "alias": "",
-            "position": "143",
+            "position": "137",
             "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
+        },
+        {
+            "card_name": "Amber City",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 99,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic Swamp, Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Where Summer reigns absolutely.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "TDSpiral",
+            "alias": "",
+            "position": "138",
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Summer\n\n!tag<world> faerie"
+        },
+        {
+            "card_name": "Amethyst City",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 100,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Where Autumn falls softly.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "li shuxing",
+            "alias": "",
+            "position": "139",
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Autumn\n\n!tag<world> faerie"
+        },
+        {
+            "card_name": "Basalt Ruins",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 101,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic Island, Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Where Chaos consumes all.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "Terraform Studios",
+            "alias": "",
+            "position": "140",
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Chaos\n\n!tag<world> faerie"
+        },
+        {
+            "card_name": "Emerald City",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 103,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic Mountain, Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Where Spring blooms eternally.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "lathander1987",
+            "alias": "",
+            "position": "141",
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Spring\n\n!tag<world> faerie"
+        },
+        {
+            "card_name": "Opal City",
+            "color": "",
+            "rarity": "cube",
+            "type": "Land",
+            "number": 108,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this land: Search your library for a basic Forest, Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.",
+            "flavor_text": "[i]Where Winter waits patiently.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "molybdenumgp03",
+            "alias": "",
+            "position": "142",
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Winter\n\n!tag<world> faerie"
+        },
+        {
+            "card_name": "R, the Gunsmith",
+            "color": "R",
+            "rarity": "cube",
+            "type": "Legendary Creature \u2014 Dwarf Artificer",
+            "number": 43,
+            "color_identity": "R",
+            "cost": "{R}{R}{R}",
+            "rules_text": "Equipped creatures you control get +2/+0.\nIf a source you control would deal noncombat damage to an opponent, it deals that much damage plus 2 instead.",
+            "flavor_text": "[i]\u201cFuck off!\u201d[/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "WRLD",
+            "loyalty": "",
+            "artist": "jlewenhagen",
+            "alias": "",
+            "position": "143",
+            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier"
         }
     ],
-    "version": 1
+    "version": 2
 }

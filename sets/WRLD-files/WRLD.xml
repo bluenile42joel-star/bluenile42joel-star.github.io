@@ -5,7 +5,7 @@
 			<name>WRLD</name>
 			<longname>Workspace: Imaginary Worlds</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-12</releasedate>
+			<releasedate>2026-04-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -91,7 +91,7 @@
 		</card>
 		<card>
 			<name>Soul Sisters</name>
-			<text>Multiple 2 (When this enters, if it&apos;s not a token, create a token copies.)
+			<text>Multiple 2 (When this enters, if it&apos;s not a token, create two token copies.)
 Whenever another creature you control not named Soul Sisters enters, you gain 1 life.</text>
 			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/5.jpg" num="8">WRLD</set>
 			<prop>
@@ -718,28 +718,10 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 			<related attach="transform">Unnatural Roar</related>
 		</card>
 		<card>
-			<name>R, rrr Rrrrrrrr</name>
-			<text>Rrrrrrrr rrrrrrrrr rrr rrrrrrr rrr +R/+R.
-Rr r rrrrrr rrr rrrrrrr rrrrr rrrr rrrrrrrrr rrrrrr rr rr rrrrrrrr, rr rrrrr rrrr rrrr rrrrrr rrrr R rrrrrrr.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/37.jpg" num="42">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Rrrrrrrrr Rrrrrrrr — Rrrrr Rrrrrrrrr</type>
-				<maintype>Rrrrrrrr</maintype>
-				<manacost>RRR</manacost>
-				<cmc>3</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>R/R</pt>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>R, the Gunsmith</name>
 			<text>Equipped creatures you control get +2/+0.
 If a source you control would deal noncombat damage to an opponent, it deals that much damage plus 2 instead.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/38.jpg" num="43">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/37.jpg" num="42">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -757,7 +739,7 @@ If a source you control would deal noncombat damage to an opponent, it deals tha
 			<name>Dragon&apos;s Soul</name>
 			<text>Enchant creature
 Enchanted creature is a Dragon in addition to its other types and has flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/39.jpg" num="44">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/38.jpg" num="44">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -775,7 +757,7 @@ Enchanted creature is a Dragon in addition to its other types and has flying and
 			<text>Flash
 When Puck enters, you may choose new targets for target spell or ability.
 {U}, Discard a card: Return Puck to his owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/40.jpg" num="45">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/39.jpg" num="45">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,7 +775,7 @@ When Puck enters, you may choose new targets for target spell or ability.
 			<name>Tyrant of the Cliffs</name>
 			<text>Flying
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/41.jpg" num="46">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/40.jpg" num="46">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -811,7 +793,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<name>Collector of Lost Things</name>
 			<text>{T}: Mill a card. Create a Food token if it was a creature card, a Treasure token if it was a land card, and a Clue token if it was a noncreature, nonland card.
 Sacrifice a Clue, a Food, and a Treasure: Return target card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/42.jpg" num="47">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/41.jpg" num="47">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -828,7 +810,7 @@ Sacrifice a Clue, a Food, and a Treasure: Return target card from your graveyard
 		<card>
 			<name>Commune with Dragons</name>
 			<text>Look at the top five cards of your library. You may reveal a Dragon or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/43.jpg" num="48">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/42.jpg" num="48">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -845,7 +827,7 @@ Sacrifice a Clue, a Food, and a Treasure: Return target card from your graveyard
 			<name>Dragon Migration</name>
 			<text>As an additional cost to cast this spell, you may behold a Dragon. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
 Search your library for a basic land card. If a Dragon was beheld, instead search your library for any land card. Put that card onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/44.jpg" num="49">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/43.jpg" num="49">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -861,7 +843,7 @@ Search your library for a basic land card. If a Dragon was beheld, instead searc
 		<card>
 			<name>Go Feral</name>
 			<text>Target creature gets +5/+5 and loses all abilities until end of turn.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/45.jpg" num="52">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/44.jpg" num="52">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -881,7 +863,7 @@ Reach
 Whenever this creature blocks, —
 ---
 (Back): Grip — Vines</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/46_front.jpg" num="53a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/45_front.jpg" num="53a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -902,7 +884,7 @@ Whenever this creature blocks, —
 Reach
 ---
 (Front): Grasping —</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/46_back.jpg" num="53b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/45_back.jpg" num="53b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -921,7 +903,7 @@ Reach
 			<name>Living Equation</name>
 			<text>Trample
 Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X/+X until end of turn.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/47.jpg" num="54">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/46.jpg" num="54">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -938,7 +920,7 @@ Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X
 		<card>
 			<name>Paradoxical Architecture</name>
 			<text>Whenever you draw your second card each turn, you may put a land card from your hand onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/48.jpg" num="55">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/47.jpg" num="55">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -956,7 +938,7 @@ Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X
 			<text>Raiz gets +1/+1 for each kind of counter among yourself and permanents you control.
 {T}: Add X mana in any combination of colors, where X is Raiz&apos;s power.
 {W}{U}{B}{R}{G}: Proliferate.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/49.jpg" num="56">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/48.jpg" num="56">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +957,7 @@ Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X
 			<text>Target creature gets +4/+4 and gains reach and trample until end of turn.
 ---
 (Back): Jungle of Giants</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/50_front.jpg" num="57a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/49_front.jpg" num="57a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -995,7 +977,7 @@ Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X
 {T}: Add {G}.
 ---
 (Front): Tower over Trees</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/50_back.jpg" num="57b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/49_back.jpg" num="57b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1012,7 +994,7 @@ Solve for X — Whenever you pay a cost that contains {X}, this creature gets +X
 			<name>Tyrant of the Woods</name>
 			<text>Flying
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/51.jpg" num="58">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/50.jpg" num="58">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1031,7 +1013,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<text>Whenever Volundr enters or attacks, choose one —
 • Draw a card from your atlas deck.
 • Volundr explores.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/52.jpg" num="59">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/51.jpg" num="59">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,7 +1030,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>The World Tree Sprouts</name>
 			<text>For each basic land type, search your library for a card of that type and put it onto the battlefield tapped. Then shuffle.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/53.jpg" num="60">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/52.jpg" num="60">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1064,7 +1046,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>Astra F., Pata-Stronomer</name>
 			<text>Starfall — Whenever a nontoken permanent you control enters, if the night sky is visible in its art, create a 1/1 white and blue Star enchantment creature token with flying.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/54.jpg" num="63">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/53.jpg" num="63">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1082,7 +1064,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Dragon Flock Leader</name>
 			<text>Flying, vigilance
 Other creatures you control with flying get +1/+1 and have vigilance.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/55.jpg" num="64">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/54.jpg" num="64">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1100,7 +1082,7 @@ Other creatures you control with flying get +1/+1 and have vigilance.</text>
 			<name>Rubber Annie, Ringmaster</name>
 			<text>Rubberhose (If damage would be dealt to this creature, prevent that damage and return it to your hand.)
 When Rubber Annie enters, you may put a creature card from your hand onto the battlefield. It gains rubberhose. (If damage would be dealt to this creature, prevent that damage and return it to your hand.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/56.jpg" num="65">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/55.jpg" num="65">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1119,7 +1101,7 @@ When Rubber Annie enters, you may put a creature card from your hand onto the ba
 			<text>The &quot;legend rule&quot; doesn&apos;t apply to Jenny Everywhere.
 Other legendary creatures you control get +1/+1.
 A deck can have any number of cards named Jenny Everywhere.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/57.jpg" num="66">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/56.jpg" num="66">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1138,7 +1120,7 @@ A deck can have any number of cards named Jenny Everywhere.</text>
 			<text>Flying, lifelink
 Rubberhose (If damage would be dealt to this creature, prevent that damage and return it to your hand.)
 When Edwin &quot;Odd Edd&quot; Odwin enters, return target creature card from your graveyard to the battlefield with a finalirt counter on it. You lose life equal to that creature&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/58.jpg" num="67">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/57.jpg" num="67">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1157,7 +1139,7 @@ When Edwin &quot;Odd Edd&quot; Odwin enters, return target creature card from yo
 			<text>The &quot;legend rule&quot; doesn&apos;t apply to Jenny Nowhere.
 Nonlegendary creatures get -1/-1.
 A deck can have any number of cards named Jenny Nowhere.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/59.jpg" num="68">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/58.jpg" num="68">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1176,7 +1158,7 @@ A deck can have any number of cards named Jenny Nowhere.</text>
 			<text>When this creature enters, tap target creature an opponent controls and put a stun counter on it.
 When this creature dies, it deals 3 damage to target player.
 Evoke {3}{U}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/60.jpg" num="69">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/59.jpg" num="69">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1194,7 +1176,7 @@ Evoke {3}{U}{R} (You may cast this spell for its evoke cost. If you do, it&apos;
 			<name>Game Knight</name>
 			<text>If you would roll one or more dice, instead roll that many dice plus one and ignore one of those results.
 {2}{U}{R}: Roll a six-sided die. Game Knight gets +X/+X until end of turn, where X is the result. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/61.jpg" num="70">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/60.jpg" num="70">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1213,7 +1195,7 @@ Evoke {3}{U}{R} (You may cast this spell for its evoke cost. If you do, it&apos;
 			<text>Flying
 When this Vehicle enters, create two 1/1 blue and red Pirate creature tokens.
 Crew 2</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/62.jpg" num="71">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/61.jpg" num="71">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1233,7 +1215,7 @@ Crew 2</text>
 Whenever you cycle another card, this creature deals 2 damage to each opponent.
 Cycling {R}{W} ({R}{W}, Discard this card: Draw a card.)
 When you cycle this card, it deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/63.jpg" num="72">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/62.jpg" num="72">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1252,7 +1234,7 @@ When you cycle this card, it deals 2 damage to any target.</text>
 			<text>Masquerade (When this enters, put the top card of your library onto the battlefield face down as a 2/2 creature, then attach this to it. Turn it face up any time for its mana cost if it&apos;s a creature card.)
 Whenever equipped creature deals combat damage to a player, if it&apos;s a creature card, you may turn it face up.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/64.jpg" num="73">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/63.jpg" num="73">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1270,7 +1252,7 @@ Equip {2}</text>
 			<text>Draw two cards. You may play an additional land this turn.
 ---
 (Back): Forest of Knowledge</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/65_front.jpg" num="74a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/64_front.jpg" num="74a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1290,7 +1272,7 @@ Equip {2}</text>
 {T}: Add {G} or {U}.
 ---
 (Front): Wisdom of the Woods</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/65_back.jpg" num="74b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/64_back.jpg" num="74b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1308,7 +1290,7 @@ Equip {2}</text>
 			<text>Flying
 Dragon spells you cast cost {1} less to cast.
 Whenever you cast a Dragon spell, draw a card.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/66.jpg" num="75">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/65.jpg" num="75">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1326,7 +1308,7 @@ Whenever you cast a Dragon spell, draw a card.</text>
 			<name>Ariel Vivelia</name>
 			<text>If a spell or ability you control would counter a spell, exile that spell instead. You may cast it for as long as it remains exiled, and mana of any type can be spent to cast it.
 Whenever you cast a spell you don&apos;t own, create a Treasure token.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/67.jpg" num="76">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/66.jpg" num="76">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1342,10 +1324,10 @@ Whenever you cast a spell you don&apos;t own, create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Castor and Pollux Dioscuri</name>
-			<text>Multiple 2 (When this enters, if it&apos;s not a token, create a token copies. You can have up to two that are legendary.)
+			<text>Multiple 2 (When this enters, if it&apos;s not a token, create two token copies. The tokens aren&apos;t legendary.)
 As long as this creature is tapped, tapped creatures you control get +1/+0.
 As long this creature is untapped, untapped creatures you control get +0/+1.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/68.jpg" num="77">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/67.jpg" num="77">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1365,7 +1347,7 @@ As long this creature is untapped, untapped creatures you control get +0/+1.</te
 As Devourer of Hope enters, each opponent chooses odd or even.
 Lifelink, deathtouch
 Your opponents can&apos;t cast spells with mana value of the quality they didn&apos;t choose.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/69.jpg" num="78">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/68.jpg" num="78">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1382,7 +1364,7 @@ Your opponents can&apos;t cast spells with mana value of the quality they didn&a
 		<card>
 			<name>Madam Universe, Mayor</name>
 			<text>Each nontoken, nonland, noncreature permanent you control is an Incarnation creature in addition to its other types and has base power and toughness equal to its mana value. The same is true for noncreature permanent spells you control and noncreature, nonland permanent cards you own that aren&apos;t on the battlefield.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/70.jpg" num="79">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/69.jpg" num="79">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1400,7 +1382,7 @@ Your opponents can&apos;t cast spells with mana value of the quality they didn&a
 			<name>Magnus Arneson, Explorer</name>
 			<text>Vigilance
 Whenever Magnus Arneson attacks, discover X, where X is the number of lands you control. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/71.jpg" num="80">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/70.jpg" num="80">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1418,7 +1400,7 @@ Whenever Magnus Arneson attacks, discover X, where X is the number of lands you 
 			<name>Noah, Freelance Alchemist</name>
 			<text>When Noah enters, a nonland card in your hand perpetually gains &quot;This spell costs {1} less to cast.&quot;
 Whenever you cast a spell with a perpetual modifier, draw a card.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/72.jpg" num="82">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/71.jpg" num="82">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1436,7 +1418,7 @@ Whenever you cast a spell with a perpetual modifier, draw a card.</text>
 			<name>Ubu Roi</name>
 			<text>Protection from non-Un
 Whenever you cast an Un-spell from your hand, exile cards from the top of your library until you exile a nonland Un-card with lesser mana value. You may cast that card without paying its mana cost. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/73.jpg" num="83">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/72.jpg" num="83">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1457,7 +1439,7 @@ Whenever you cast an Un-spell from your hand, exile cards from the top of your l
 ---
 
 Target creature gains protection from the color of your choice until end of turn. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/74.jpg" num="84">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/73.jpg" num="84">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1478,7 +1460,7 @@ Target creature gains protection from the color of your choice until end of turn
 ---
 
 Create a 1/1 blue Bird creature token with flying. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/75.jpg" num="85">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/74.jpg" num="85">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1499,7 +1481,7 @@ Create a 1/1 blue Bird creature token with flying. (You may cast this from the b
 ---
 
 Destroy target creature that was dealt damage this turn. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/76.jpg" num="86">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/75.jpg" num="86">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1520,7 +1502,7 @@ Destroy target creature that was dealt damage this turn. (You may cast this from
 ---
 
 Put a +1/+1 counter on target creature. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/77.jpg" num="87">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/76.jpg" num="87">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1541,7 +1523,7 @@ Put a +1/+1 counter on target creature. (You may cast this from the battlefield.
 ---
 
 Create a 1/1 white Mouse creature token. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/78.jpg" num="88">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/77.jpg" num="88">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1559,7 +1541,7 @@ Create a 1/1 white Mouse creature token. (You may cast this from the battlefield
 			<name>Slice of Life</name>
 			<text>At the beginning of your upkeep, create a 1/1 green and white Citizen creature token and you gain 1 life.
 When a Citizen token you control attacks or blocks, sacrifice this enchantment.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/79.jpg" num="90">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/78.jpg" num="90">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1576,7 +1558,7 @@ When a Citizen token you control attacks or blocks, sacrifice this enchantment.<
 			<name>Slice of Life</name>
 			<text>At the beginning of your upkeep, create a 1/1 green and white Citizen creature token and you gain 1 life.
 When a Citizen token you control attacks or blocks, sacrifice this enchantment.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/80.jpg" num="89">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/79.jpg" num="89">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1596,7 +1578,7 @@ When a Citizen token you control attacks or blocks, sacrifice this enchantment.<
 ---
 
 Target creature gets +2/+2 until end of turn. Untap it. (You may cast this from the battlefield. You can&apos;t cast it again until your next turn.)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/81.jpg" num="91">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/80.jpg" num="91">WRLD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1614,7 +1596,7 @@ Target creature gets +2/+2 until end of turn. Untap it. (You may cast this from 
 			<name>Henry F., Pata-Matician</name>
 			<text>As Henry F. enters, note the value of X.
 {T}: Choose target instant or sorcery spell you control. Exchange the value of a number or number word in that spell&apos;s text box with the noted value.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/82.jpg" num="92">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/81.jpg" num="92">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1634,7 +1616,7 @@ Target creature gets +2/+2 until end of turn. Untap it. (You may cast this from 
 {2}, {T}: —
 ---
 (Back): Clingy — Polypus</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/83_front.jpg" num="93a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/82_front.jpg" num="93a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1654,7 +1636,7 @@ Target creature gets +2/+2 until end of turn. Untap it. (You may cast this from 
 			<text>When this creature enters — You may tap or untap another target permanent.
 ---
 (Front): Tentacled —</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/83_back.jpg" num="93b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/82_back.jpg" num="93b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1676,7 +1658,7 @@ Flying
 Whenever this creature deals combat damage to a player, —
 ---
 (Back): Wingstorm — Raptor</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/84_front.jpg" num="94a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/83_front.jpg" num="94a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1697,7 +1679,7 @@ Whenever this creature deals combat damage to a player, —
 Flying
 ---
 (Front): Winged —</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/84_back.jpg" num="94b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/83_back.jpg" num="94b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1717,7 +1699,7 @@ Flying
 			<text>{T}: Add one mana of any color.
 {1}, {T}: You get {E}.
 {T}, Pay X {E}: Add X mana of any one color.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/85.jpg" num="95">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/84.jpg" num="95">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1731,7 +1713,7 @@ Flying
 		<card>
 			<name>Artist&apos;s Palette</name>
 			<text>{T}: Add one mana of any color among permanents you control.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/86.jpg" num="96">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/85.jpg" num="96">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1745,7 +1727,7 @@ Flying
 		<card>
 			<name>Memorial to Legend</name>
 			<text>Legendary creatures you control have undying.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/87.jpg" num="97">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/86.jpg" num="97">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1759,7 +1741,7 @@ Flying
 		<card>
 			<name>The Philosopher&apos;s Stone</name>
 			<text>If you would conjure a card, conjure two of that card instead.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/88.jpg" num="98">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/87.jpg" num="98">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1771,62 +1753,11 @@ Flying
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Amber City</name>
-			<text>This land enters tapped.
-When this land enters, you lose 2 life.
-{T}: Add {B}, {R}, {G}, or {W}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/89.jpg" num="99">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WBRG</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Amethyst City</name>
-			<text>This land enters tapped.
-When this land enters, you lose 2 life.
-{T}: Add {W}, {U}, {B}, or {R}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/90.jpg" num="100">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WUBR</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Basalt Ruins</name>
-			<text>This land enters tapped.
-When this land enters, you lose 2 life.
-{T}: Add {U}, {B}, {R}, or {G}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/91.jpg" num="101">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>UBRG</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
 			<name>Chromatic Crossroads</name>
 			<text>This land enters tapped. As it enters, choose a color.
 When this land enters, return a land you control to its owner&apos;s hand.
 {T}: Add two mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/92.jpg" num="102">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/88.jpg" num="102">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1834,23 +1765,6 @@ When this land enters, return a land you control to its owner&apos;s hand.
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Emerald City</name>
-			<text>This land enters tapped.
-When this land enters, you lose 2 life.
-{T}: Add {R}, {G}, {W}, or {U}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/93.jpg" num="103">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WURG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
@@ -1858,7 +1772,7 @@ When this land enters, you lose 2 life.
 			<name>Gate Town</name>
 			<text>You may have this land enter tapped. If you do, choose a color as it enters.
 {T}: Add {C} or one mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/94.jpg" num="104">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/89.jpg" num="104">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1872,7 +1786,7 @@ When this land enters, you lose 2 life.
 		<card>
 			<name>Great Unknown</name>
 			<text>{T}, Sacrifice Great Unknown: Seek a land card and put it onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/95.jpg" num="105">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/90.jpg" num="105">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1887,7 +1801,7 @@ When this land enters, you lose 2 life.
 			<name>Mt. Apollyon</name>
 			<text>{T}: Add {C}.
 {T}, Sacrifice an artifact: Add {U}{R}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/96.jpg" num="106">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/91.jpg" num="106">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1903,7 +1817,7 @@ When this land enters, you lose 2 life.
 			<name>Oddwyld Expanse</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a host creature spell or activate an augment ability.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/97.jpg" num="107">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/92.jpg" num="107">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1911,23 +1825,6 @@ When this land enters, you lose 2 life.
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Opal City</name>
-			<text>This land enters tapped.
-When this land enters, you lose 2 life.
-{T}: Add {G}, {W}, {U}, or {B}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/98.jpg" num="108">WRLD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Land</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>WUBG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
@@ -1937,7 +1834,7 @@ When this land enters, you lose 2 life.
 {T}: Add {C}.
 ---
 (Back): Twilight Grotto</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/99_front.jpg" num="109a">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/93_front.jpg" num="109a">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1955,7 +1852,7 @@ When this land enters, you lose 2 life.
 {T}: Add one mana of any color.
 ---
 (Front): Twilight Cavern</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/99_back.jpg" num="109b">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/93_back.jpg" num="109b">WRLD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1972,7 +1869,7 @@ When this land enters, you lose 2 life.
 			<text>You have no maximum hand size.
 Whenever you play a land or cast a spell, draw a card. Then if your have fourteen or more cards in hand, you lose the game.
 Discard your hand: Shift Frameworks. Activate only as a sorcery and only once each turn.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/100.jpg" num="135">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/94.jpg" num="135">WRLD</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -1987,7 +1884,7 @@ Discard your hand: Shift Frameworks. Activate only as a sorcery and only once ea
 			<name>Doubt</name>
 			<text>(If you control another Framework, put it on the bottom of your Framework deck.)
 Noncreature spells cost {1} more to cast.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/101.jpg" num="136">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/95.jpg" num="136">WRLD</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -2002,7 +1899,7 @@ Noncreature spells cost {1} more to cast.</text>
 			<name>Pearl Masque</name>
 			<text>(Start the game with up to one legendary conspiracy face up in the command zone.)
 White is in your commanders&apos; color identity.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/102.jpg" num="137">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/96.jpg" num="137">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2018,7 +1915,7 @@ White is in your commanders&apos; color identity.</text>
 			<name>Sapphire Masque</name>
 			<text>(Start the game with up to one legendary conspiracy face up in the command zone.)
 Blue is in your commanders&apos; color identity.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/103.jpg" num="138">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/97.jpg" num="138">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2034,7 +1931,7 @@ Blue is in your commanders&apos; color identity.</text>
 			<name>Jet Masque</name>
 			<text>(Start the game with up to one legendary conspiracy face up in the command zone.)
 Black is in your commanders&apos; color identity.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/104.jpg" num="139">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/98.jpg" num="139">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2050,7 +1947,7 @@ Black is in your commanders&apos; color identity.</text>
 			<name>Ruby Masque</name>
 			<text>(Start the game with up to one legendary conspiracy face up in the command zone.)
 Red is in your commanders&apos; color identity.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/105.jpg" num="140">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/99.jpg" num="140">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2066,7 +1963,7 @@ Red is in your commanders&apos; color identity.</text>
 			<name>Emerald Masque</name>
 			<text>(Start the game with up to one legendary conspiracy face up in the command zone.)
 Green is in your commanders&apos; color identity.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/106.jpg" num="141">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/100.jpg" num="141">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2081,7 +1978,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Grandmaster Clock</name>
 			<text>Whenever you crank this Contraption, put a toll counter on it. Then if there are two or more toll counters on this Contraption, remove them all and take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/107.jpg" num="142">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/101.jpg" num="142">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2095,7 +1992,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Power Lines</name>
 			<text>Device artifacts you control have &quot;{T}: Add {C}{C}. You can&apos;t spend this mana to cast non-device spells.&quot;</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/108.jpg" num="143">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/102.jpg" num="143">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2110,7 +2007,7 @@ Green is in your commanders&apos; color identity.</text>
 			<name>Impassable Forest</name>
 			<text>Creatures can&apos;t attack you unless their controller pays {2} for each creature they control that&apos;s attacking you.
 {T}: Add {G} or {U}.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/109.jpg" num="144">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/103.jpg" num="144">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2125,7 +2022,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/110.jpg" num="111">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/104.jpg" num="113">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2140,7 +2037,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/111.jpg" num="116">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/105.jpg" num="115">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2155,7 +2052,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/112.jpg" num="122">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/106.jpg" num="122">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2170,7 +2067,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/113.jpg" num="126">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/107.jpg" num="128">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2185,7 +2082,7 @@ Green is in your commanders&apos; color identity.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/114.jpg" num="130">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/108.jpg" num="133">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2201,7 +2098,7 @@ Green is in your commanders&apos; color identity.</text>
 			<name>Leyline of Frost</name>
 			<text>If this card is in your opening hand, you may begin the game with it on the battlefield.
 Permanents you control, spells you control, and cards you own that aren&apos;t on the battlefield are snow.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/115.jpg" num="2">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/109.jpg" num="2">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2215,7 +2112,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Frost Channeler</name>
 			<text>{2}: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/116.jpg" num="51">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/110.jpg" num="51">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2232,7 +2129,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Snow-Covered Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/117.jpg" num="114">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/111.jpg" num="114">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2247,7 +2144,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Snow-Covered Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/118.jpg" num="119">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/112.jpg" num="119">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2262,7 +2159,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Snow-Covered Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/119.jpg" num="120">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/113.jpg" num="120">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2277,7 +2174,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Snow-Covered Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/120.jpg" num="129">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/114.jpg" num="129">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2292,7 +2189,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Snow-Covered Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/121.jpg" num="134">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/115.jpg" num="134">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2307,7 +2204,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/122.jpg" num="110">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/116.jpg" num="110">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2322,7 +2219,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/123.jpg" num="115">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/117.jpg" num="116">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2337,7 +2234,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/124.jpg" num="121">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/118.jpg" num="121">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2352,7 +2249,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/125.jpg" num="125">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/119.jpg" num="125">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2367,7 +2264,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/126.jpg" num="132">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/120.jpg" num="130">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2382,7 +2279,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 		<card>
 			<name>Explore the House</name>
 			<text>Look at the top five cards of your library. You may reveal a land or Room card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/127.jpg" num="50">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/121.jpg" num="50">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2399,7 +2296,7 @@ Permanents you control, spells you control, and cards you own that aren&apos;t o
 			<name>Melody, the House Itself</name>
 			<text>When Melody enters, you may exile a nonland permanent card with mana value 3 or less embedded in her.
 Melody has all activated and triggered abilities of nonland permanent cards emedded in her.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/128.jpg" num="81">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/122.jpg" num="81">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2420,7 +2317,7 @@ Melody has all activated and triggered abilities of nonland permanent cards emed
 ---
 
 When you unlock this door, you may cast any number of embedded cards you own in exile without paying their mana costs.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/129.jpg" num="31">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/123.jpg" num="31">WRLD</set>
 			<prop>
 				<layout>split</layout>
 				<side>front</side>
@@ -2438,7 +2335,7 @@ When you unlock this door, you may cast any number of embedded cards you own in 
 			<text>Choose one —
 • Lock or unlock a door of target room you control.
 • Investigate twice. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/130.jpg" num="27">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/124.jpg" num="27">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2455,7 +2352,7 @@ When you unlock this door, you may cast any number of embedded cards you own in 
 			<name>Worlds within Worlds</name>
 			<text>Embed {G} (You may pay {G} to exile this card from your hand embedded in a nonland you control. Cast it for free when that permanent leaves. Embed only as a sorcery)
 {G}, Sacrifice this enchantment: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/131.jpg" num="62">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/125.jpg" num="62">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2472,7 +2369,7 @@ When you unlock this door, you may cast any number of embedded cards you own in 
 			<name>Fold Up</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls.
 When this enchantment leaves the battlefield, the owner of the exiled card creates a token that&apos;s a copy of it.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/132.jpg" num="6">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/126.jpg" num="6">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2488,7 +2385,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Worldmaking</name>
 			<text>Create a token thats a copy of each of up to two target lands you control.</text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/133.jpg" num="61">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/127.jpg" num="61">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2504,7 +2401,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/134.jpg" num="112">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/128.jpg" num="112">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2519,7 +2416,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/135.jpg" num="117">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/129.jpg" num="117">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2534,7 +2431,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/136.jpg" num="123">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/130.jpg" num="123">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2549,7 +2446,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/137.jpg" num="127">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/131.jpg" num="126">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2564,7 +2461,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/138.jpg" num="133">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/132.jpg" num="131">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2579,7 +2476,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/139.jpg" num="113">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/133.jpg" num="111">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2594,7 +2491,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/140.jpg" num="118">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/134.jpg" num="118">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2609,7 +2506,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/141.jpg" num="124">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/135.jpg" num="124">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2624,7 +2521,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/142.jpg" num="128">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/136.jpg" num="127">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2639,7 +2536,7 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/143.jpg" num="131">WRLD</set>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/137.jpg" num="132">WRLD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2650,6 +2547,99 @@ When this enchantment leaves the battlefield, the owner of the exiled card creat
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Amber City</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic Swamp, Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/138.jpg" num="99">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Amethyst City</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/139.jpg" num="100">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Basalt Ruins</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic Island, Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/140.jpg" num="101">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Emerald City</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic Mountain, Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/141.jpg" num="103">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Opal City</name>
+			<text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic Forest, Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/142.jpg" num="108">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>R, the Gunsmith</name>
+			<text>Equipped creatures you control get +2/+0.
+If a source you control would deal noncombat damage to an opponent, it deals that much damage plus 2 instead.</text>
+			<set rarity="rare" picurl="https://bluenile42joel-star.github.io/sets/WRLD-files/img/143.jpg" num="43">WRLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>RRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
