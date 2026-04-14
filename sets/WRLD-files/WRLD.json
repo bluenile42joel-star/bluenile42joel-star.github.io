@@ -1,10 +1,18 @@
 ﻿{
+    "name": "Workspace: Imaginary Worlds",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "jpg",
+    "draft_structure": "cube",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Homunculus Prototype",
             "color": "",
             "rarity": "cube",
-            "type": "Creature \u2013 Homunculus",
+            "type": "Creature \u2014 Homunculus",
             "number": 1,
             "color_identity": "C",
             "cost": "{3}",
@@ -18,15 +26,13 @@
             "artist": "Kristina Pavlovic",
             "alias": "",
             "position": "0",
-            "notes": "Design-CC-Free-Slot\nLore-World-Khumeia\n\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CC-Free-Slot\nLore-World-Khumeia\n\n!tag<world> khumeia"
         },
         {
             "card_name": "Absence Elemental",
             "color": "W",
             "rarity": "cube",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -40,9 +46,7 @@
             "artist": "Peter Mohrbacher",
             "alias": "Element \u2014 Absence",
             "position": "1",
-            "notes": "Design-UW-Free-Slot\nLore-World-Heartlands\n\n!tag<world> heartlands",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Free-Slot\nLore-World-Heartlands\n\n!tag<world> heartlands"
         },
         {
             "card_name": "Begin the Masquerade",
@@ -62,9 +66,7 @@
             "artist": "Gameover art",
             "alias": "",
             "position": "2",
-            "notes": "Design-RW-Free-Slot\nLore-World-Thespia\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-Thespia\n\n!tag<world> thespia"
         },
         {
             "card_name": "Down the Rabbit Hole",
@@ -84,9 +86,7 @@
             "artist": "Won Jun Tae",
             "alias": "",
             "position": "3",
-            "notes": "Design-RW-Free-Slot\nLore-World-Lagrbjod\n\n!tag<world> lagrbjod",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-Lagrbjod\n\n!tag<world> lagrbjod"
         },
         {
             "card_name": "Gods' Ire",
@@ -106,15 +106,13 @@
             "artist": "cosmicspark",
             "alias": "",
             "position": "4",
-            "notes": "Design-RW-Free-Slot\nLore-World-Halrheim\n\n!tag<world> halrheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-Halrheim\n\n!tag<world> halrheim"
         },
         {
             "card_name": "Soul Sisters",
             "color": "W",
             "rarity": "cube",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -128,15 +126,13 @@
             "artist": "Applibot",
             "alias": "",
             "position": "5",
-            "notes": "Design-UW-Free-Slot\nLore-World-Gemini\nTag-Token-Self\n\n!tag<world> gemini",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Free-Slot\nLore-World-Gemini\nTag-Token-Self\n\n!tag<world> gemini"
         },
         {
             "card_name": "Sourdough Soldier",
             "color": "W",
             "rarity": "cube",
-            "type": "Artifact Creature \u2013 Food Soldier",
+            "type": "Artifact Creature \u2014 Food Soldier",
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -150,9 +146,7 @@
             "artist": "bread man",
             "alias": "",
             "position": "6",
-            "notes": "Design-UW-Free-Slot\nLore-World-Palata\n\n!tag<world> palata",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Free-Slot\nLore-World-Palata\n\n!tag<world> palata"
         },
         {
             "card_name": "Synthetic Life",
@@ -162,7 +156,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "At the beginning of your upkeep, choose one \u2013\n\u2022 Conjure a card named Homunculus Prototype into your hand.\n\u2022 Homunculus cards in your hand perpetually get +1/+1.",
+            "rules_text": "At the beginning of your upkeep, choose one \u2014\n\u2022 Conjure a card named Homunculus Prototype into your hand.\n\u2022 Homunculus cards in your hand perpetually get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -172,15 +166,13 @@
             "artist": "Andrew Baptist",
             "alias": "",
             "position": "7",
-            "notes": "Design-RW-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Tyrant of the Meadows",
             "color": "W",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 11,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
@@ -194,9 +186,7 @@
             "artist": "Celine Ngai",
             "alias": "",
             "position": "8",
-            "notes": "Design-CW-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CW-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Vanishing Point",
@@ -206,7 +196,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flash\n[i]Perspective[/i] \u2013 This spell costs {2} less to cast if you've looked at or revealed a card in your library this turn.\nWhen this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
+            "rules_text": "Flash\n[i]Perspective[/i] \u2014 This spell costs {2} less to cast if you've looked at or revealed a card in your library this turn.\nWhen this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.",
             "flavor_text": "[i]Out of site, out of mind.[/i]",
             "pt": "",
             "special_text": "",
@@ -216,9 +206,7 @@
             "artist": "James Medcraft",
             "alias": "",
             "position": "9",
-            "notes": "Design-UW-Free-Slot\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Free-Slot\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Wrath of the Dragon Queen",
@@ -238,15 +226,13 @@
             "artist": "Christina Yen",
             "alias": "",
             "position": "10",
-            "notes": "Design-RW-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Welcoming Entrance",
             "color": "W",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Room",
+            "type": "Enchantment \u2014 Room",
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -271,9 +257,7 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-UW-Free-Slot\nLore-World-Anima\n\n!tag<world> anima",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Free-Slot\nLore-World-Anima\n\n!tag<world> anima"
         },
         {
             "card_name": "Behold the New Worlds",
@@ -293,31 +277,27 @@
             "artist": "liuzishan",
             "alias": "",
             "position": "12",
-            "notes": "Design-UU-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Case of the Living Mystery",
             "color": "U",
             "rarity": "cube",
-            "type": "Enchantment Creature \u2013 Case Detective",
+            "type": "Enchantment Creature \u2014 Case Detective",
             "number": 16,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Vigilance\nWhenever this Case attacks, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nTo Solve \u2013 You control five or more Clues. [i](If unsolved, solve at the beginning of your end step.)[/i]\nClue tokens you control are 1/1 Dective creatures in addition to their other types.",
+            "rules_text": "Vigilance\nWhenever this Case attacks, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nTo Solve \u2014 You control five or more Clues. [i](If unsolved, solve at the beginning of your end step.)[/i]\nClue tokens you control are 1/1 Dective creatures in addition to their other types.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "1/3",
-            "special_text": "Vigilance\nWhenever this Case attacks, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nTo Solve \u2013 You control five or more Clues. [i](If unsolved, solve at the beginning of your end step.)[/i]\nClue tokens you control are 1/1 Dective creatures in addition to their other types.",
+            "special_text": "Vigilance\nWhenever this Case attacks, investigate. [i](Create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]\nTo Solve \u2014 You control five or more Clues. [i](If unsolved, solve at the beginning of your end step.)[/i]\nClue tokens you control are 1/1 Dective creatures in addition to their other types.",
             "shape": "saga",
             "set": "WRLD",
             "loyalty": "",
             "artist": "Rosy Clockomaton",
             "alias": "",
             "position": "13",
-            "notes": "Design-UU-Free-Slot\nLore-World-Anima\nTag-Token-Clue\n\n!tag<world> anima",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Anima\nTag-Token-Clue\n\n!tag<world> anima"
         },
         {
             "card_name": "Circle of Transmutation",
@@ -337,15 +317,13 @@
             "artist": "Gargi Roy",
             "alias": "",
             "position": "14",
-            "notes": "Design-UU-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Civilianize",
             "color": "U",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 18,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -359,9 +337,7 @@
             "artist": "Art_GeeWolf",
             "alias": "",
             "position": "15",
-            "notes": "Design-CU-Free-Slot\nLore-World-Xenos\n\n!tag<world> xenos\n\nFlavour \u2014 The Domestic Zones of Xenos.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CU-Free-Slot\nLore-World-Xenos\n\n!tag<world> xenos\n\nFlavour \u2014 The Domestic Zones of Xenos."
         },
         {
             "card_name": "Cloning Vat",
@@ -381,9 +357,7 @@
             "artist": "Yujin Choo",
             "alias": "",
             "position": "16",
-            "notes": "Design-RU-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\nTag-Token-Conjure\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RU-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\nTag-Token-Conjure\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Don't Be Ridiculous!",
@@ -403,9 +377,7 @@
             "artist": "Skiorh",
             "alias": "",
             "position": "17",
-            "notes": "Design-UU-Free-Slot\nLore-World-Phora\nTag-Format-Acorn\n\n!tag<stamp> acorn\n!tag<world> phora",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Phora\nTag-Format-Acorn\n\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
             "card_name": "Envision",
@@ -415,7 +387,7 @@
             "number": 21,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Perspective[/i] \u2013 Draw two cards. If you've looked at or revealed a card in your library this turn, draw three cards instead.",
+            "rules_text": "[i]Perspective[/i] \u2014 Draw two cards. If you've looked at or revealed a card in your library this turn, draw three cards instead.",
             "flavor_text": "[i]\u201cThe Third Eye does more than just see. It shapes reality itself.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -425,9 +397,7 @@
             "artist": "Nexusplexus",
             "alias": "",
             "position": "18",
-            "notes": "Design-CU-Free-Slot\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CU-Free-Slot\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Fall Upwards",
@@ -458,15 +428,13 @@
             "loyalty2": "",
             "artist2": "Nathanael Mortensen",
             "alias2": "",
-            "notes": "Design-UU-Free-Slot\nLore-World-Ikos",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Ikos"
         },
         {
             "card_name": "The Man With Many Masks",
             "color": "U",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Shapeshifter",
+            "type": "Legendary Creature \u2014 Shapeshifter",
             "number": 23,
             "color_identity": "U",
             "cost": "",
@@ -480,15 +448,13 @@
             "artist": "Sam Flegal",
             "alias": "",
             "position": "20",
-            "notes": "Design-RU-Free-Slot\nLore-Character-Many-Masks\nLore-World-Thespia\nStyle-Spotlight-Legendary\n\n!tag<character> many-masks\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RU-Free-Slot\nLore-Character-Many-Masks\nLore-World-Thespia\nStyle-Spotlight-Legendary\n\n!tag<character> many-masks\n!tag<world> thespia"
         },
         {
             "card_name": "New Worlds Dragon Rider",
             "color": "U",
             "rarity": "cube",
-            "type": "Creature \u2013 Human Pirate",
+            "type": "Creature \u2014 Human Pirate",
             "number": 24,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -502,15 +468,13 @@
             "artist": "TimShepherdArt",
             "alias": "",
             "position": "21",
-            "notes": "Design-CU-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CU-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Run on Thin Air",
             "color": "U",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 25,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -524,15 +488,13 @@
             "artist": "Warner Bros",
             "alias": "",
             "position": "22",
-            "notes": "Design-UU-Free-Slot\nLore-World-Tunia\n\n!tag<world> tunia\n\nFlavour \u2014 Coyote Time",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Tunia\n\n!tag<world> tunia\n\nFlavour \u2014 Coyote Time"
         },
         {
             "card_name": "Saura Pemmin, Morphomancer",
             "color": "U",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 26,
             "color_identity": "U",
             "cost": "{U}{U}",
@@ -546,9 +508,7 @@
             "artist": "Sohee Kim",
             "alias": "",
             "position": "23",
-            "notes": "Design-RU-Free-Slot\nLore-Character-Pemmin\nLore-World-Seidrgard\nStyle-Spotlight-Legendary\n\n!tag<character> pemmin\n!tag<world> seidrgard",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RU-Free-Slot\nLore-Character-Pemmin\nLore-World-Seidrgard\nStyle-Spotlight-Legendary\n\n!tag<character> pemmin\n!tag<world> seidrgard"
         },
         {
             "card_name": "Subvert Axioms",
@@ -568,15 +528,13 @@
             "artist": "SillyJellie",
             "alias": "",
             "position": "24",
-            "notes": "Design-CU-Free-Slot\nLore-World-Doxasia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CU-Free-Slot\nLore-World-Doxasia"
         },
         {
             "card_name": "Tyrant of the Lakes",
             "color": "U",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 29,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -590,15 +548,13 @@
             "artist": "ajmanzanedo",
             "alias": "",
             "position": "25",
-            "notes": "Design-CU-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CU-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Void Rabbit",
             "color": "U",
             "rarity": "cube",
-            "type": "Creature \u2013 Rabbit",
+            "type": "Creature \u2014 Rabbit",
             "number": 30,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -612,15 +568,13 @@
             "artist": "ThreeLeaves",
             "alias": "",
             "position": "26",
-            "notes": "Design-UU-Free-Slot\nLore-World-Feylan\n\n!tag<world> feylan",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Feylan\n\n!tag<world> feylan"
         },
         {
             "card_name": "Death Elemental",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2013 Elemental Skeleton",
+            "type": "Creature \u2014 Elemental Skeleton",
             "number": 32,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -634,15 +588,13 @@
             "artist": "Samize",
             "alias": "Element \u2014 Death",
             "position": "27",
-            "notes": "Design-RB-Free-Slot\nLore-World-Heartlands\nTag-Custom-Reprint\n\n!tag<world> heartlands\n\nNote \u2014 Reprinted from RogueVerse.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RB-Free-Slot\nLore-World-Heartlands\nTag-Custom-Reprint\n\n!tag<world> heartlands\n\nNote \u2014 Reprinted from RogueVerse."
         },
         {
             "card_name": "Evolved Manhunter",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2013 Homunculus Horror",
+            "type": "Creature \u2014 Homunculus Horror",
             "number": 33,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -656,15 +608,13 @@
             "artist": "Max Elmberg Sj\u00f6holm",
             "alias": "",
             "position": "28",
-            "notes": "Design-RB-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RB-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Lord Maxwell",
             "color": "B",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 34,
             "color_identity": "B",
             "cost": "{B}",
@@ -678,15 +628,13 @@
             "artist": "Daria Rashev",
             "alias": "",
             "position": "29",
-            "notes": "Design-RB-Free-Slot\nLore-Character-Maxwell\nLore-Faction-Satanas\nLore-World-Echelon\nStyle-Spotlight-Legendary\n\n!tag<character> maxwell\n!tag<world> echelon",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RB-Free-Slot\nLore-Character-Maxwell\nLore-Faction-Satanas\nLore-World-Echelon\nStyle-Spotlight-Legendary\n\n!tag<character> maxwell\n!tag<world> echelon"
         },
         {
             "card_name": "The Nameless Rider",
             "color": "B",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Skeleton Horror",
+            "type": "Legendary Creature \u2014 Skeleton Horror",
             "number": 35,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -700,9 +648,7 @@
             "artist": "Carlos Fabian Villa",
             "alias": "",
             "position": "30",
-            "notes": "Design-RB-Free-Slot\nLore-Character-Revennant\nLore-Faction-Nameless\nLore-World-Frontier\nStyle-Spotlight-Legendary\n\n!tag<character> revennant\n!tag<world> frontier",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RB-Free-Slot\nLore-Character-Revennant\nLore-Faction-Nameless\nLore-World-Frontier\nStyle-Spotlight-Legendary\n\n!tag<character> revennant\n!tag<world> frontier"
         },
         {
             "card_name": "Nilpotence",
@@ -722,19 +668,17 @@
             "artist": "Nexumorphic",
             "alias": "",
             "position": "31",
-            "notes": "Design-UB-Free-Slot\nLore-World-Quantus\n\n!tag<world> quantus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UB-Free-Slot\nLore-World-Quantus\n\n!tag<world> quantus"
         },
         {
             "card_name": "Pincing \u2014",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2013 Scorpion",
+            "type": "Creature \u2014 Scorpion",
             "number": 37,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "Augment {2}{B} [i]({2}{B}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nMenace\nWhenever this creature becomes blocked, \u2013",
+            "rules_text": "Augment {2}{B} [i]({2}{B}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nMenace\nWhenever this creature becomes blocked, \u2014",
             "flavor_text": "[i][/i]",
             "pt": "+2/+1",
             "special_text": "",
@@ -746,28 +690,26 @@
             "position": "32",
             "card_name2": "Predatory \u2014 Stinger",
             "color2": "B",
-            "type2": "Host Creature \u2013 Scorpion",
+            "type2": "Host Creature \u2014 Scorpion",
             "cost2": "{2}{B}",
-            "rules_text2": "When this creature enters \u2013 Each opponent loses 2 life and you gain 2 life.\nDeathtouch",
+            "rules_text2": "When this creature enters \u2014 Each opponent loses 2 life and you gain 2 life.\nDeathtouch",
             "flavor_text2": "[i][/i]",
             "pt2": "1/2",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Dan Scott",
             "alias2": "",
-            "notes": "Design-UB-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UB-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus"
         },
         {
             "card_name": "Samael, the Reaper",
             "color": "B",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Rogue",
+            "type": "Legendary Creature \u2014 Human Rogue",
             "number": 38,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "If a creature dealt damage by Samael this turn would die, exile it with a victim counter on it instead.\n[i]Power Absorption[/i] \u2013 {0}: Choose a creature card in exile with a victim counter on it. Samael gains all abilities of that card until the next time this ability resolves.",
+            "rules_text": "If a creature dealt damage by Samael this turn would die, exile it with a victim counter on it instead.\n[i]Power Absorption[/i] \u2014 {0}: Choose a creature card in exile with a victim counter on it. Samael gains all abilities of that card until the next time this ability resolves.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -777,9 +719,7 @@
             "artist": "ChrisRawlins",
             "alias": "",
             "position": "33",
-            "notes": "Design-RB-Free-Slot\nLore-Character-Samael\nLore-Faction-Satanas\nLore-World-Iroas\nStyle-Spotlight-Legendary\n\n!tag<character> samael\n!tag<world> iroas",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RB-Free-Slot\nLore-Character-Samael\nLore-Faction-Satanas\nLore-World-Iroas\nStyle-Spotlight-Legendary\n\n!tag<character> samael\n!tag<world> iroas"
         },
         {
             "card_name": "Squash Underfoot",
@@ -799,15 +739,13 @@
             "artist": "KELLEPICS",
             "alias": "",
             "position": "34",
-            "notes": "Design-UB-Free-Slot\nLore-World-Lagrbjod\n\n!tag<world> lagrbjod",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UB-Free-Slot\nLore-World-Lagrbjod\n\n!tag<world> lagrbjod"
         },
         {
             "card_name": "Tyrant of the Moors",
             "color": "B",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 40,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -821,9 +759,7 @@
             "artist": "Seraphandreyl",
             "alias": "",
             "position": "35",
-            "notes": "Design-CB-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CB-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Unnatural Roar",
@@ -854,15 +790,13 @@
             "loyalty2": "",
             "artist2": "Raznkaz",
             "alias2": "",
-            "notes": "Design-UB-Free-Slot\nLore-World-Ikos",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UB-Free-Slot\nLore-World-Ikos"
         },
         {
             "card_name": "R, the Gunsmith",
             "color": "R",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Dwarf Artificer",
+            "type": "Legendary Creature \u2014 Dwarf Artificer",
             "number": 42,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
@@ -876,15 +810,13 @@
             "artist": "jlewenhagen",
             "alias": "",
             "position": "37",
-            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier"
         },
         {
             "card_name": "Dragon's Soul",
             "color": "R",
             "rarity": "cube",
-            "type": "Kindred Enchantment \u2013 Dragon Aura",
+            "type": "Kindred Enchantment \u2014 Dragon Aura",
             "number": 44,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -898,15 +830,13 @@
             "artist": "ae-rie",
             "alias": "",
             "position": "38",
-            "notes": "Design-UR-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UR-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Puck, Fae Harlequin",
             "color": "R",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Faerie Goblin Bard",
+            "type": "Legendary Creature \u2014 Faerie Goblin Bard",
             "number": 45,
             "color_identity": "UR",
             "cost": "{2}{R}",
@@ -920,15 +850,13 @@
             "artist": "umbrafox",
             "alias": "",
             "position": "39",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Puck\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<character> puck\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Puck\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<character> puck\n!tag<world> faerie"
         },
         {
             "card_name": "Tyrant of the Cliffs",
             "color": "R",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 46,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -942,15 +870,13 @@
             "artist": "Andrea Piparo",
             "alias": "",
             "position": "40",
-            "notes": "Design-CR-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CR-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Collector of Lost Things",
             "color": "G",
             "rarity": "cube",
-            "type": "Enchantment Creature \u2013 Ouphe",
+            "type": "Enchantment Creature \u2014 Ouphe",
             "number": 47,
             "color_identity": "G",
             "cost": "{G}{G}{G}",
@@ -964,9 +890,7 @@
             "artist": "reaper78",
             "alias": "",
             "position": "41",
-            "notes": "Design-RG-Free-Slot\nLore-World-Andiheim\nTag-Token-Clue\nTag-Token-Food\nTag-Token-Treasure\n\n!tag<world> andiheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RG-Free-Slot\nLore-World-Andiheim\nTag-Token-Clue\nTag-Token-Food\nTag-Token-Treasure\n\n!tag<world> andiheim"
         },
         {
             "card_name": "Commune with Dragons",
@@ -986,9 +910,7 @@
             "artist": "Laura Sava",
             "alias": "",
             "position": "42",
-            "notes": "Design-CG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Dragon Migration",
@@ -1008,9 +930,7 @@
             "artist": "Jan Patrik Krasny",
             "alias": "",
             "position": "43",
-            "notes": "Design-UG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Go Feral",
@@ -1030,19 +950,17 @@
             "artist": "Mircea Nicula",
             "alias": "",
             "position": "44",
-            "notes": "Design-CG-Free-Slot\nLore-World-Xenos\n\n!tag<world> xenos\n\nFlavour \u2014 The Wild Zones of Xenos.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CG-Free-Slot\nLore-World-Xenos\n\n!tag<world> xenos\n\nFlavour \u2014 The Wild Zones of Xenos."
         },
         {
             "card_name": "Grasping \u2014",
             "color": "G",
             "rarity": "cube",
-            "type": "Creature \u2013 Plant",
+            "type": "Creature \u2014 Plant",
             "number": 53,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "Augment {2}{G} [i]({2}{G}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nReach\nWhenever this creature blocks, \u2013",
+            "rules_text": "Augment {2}{G} [i]({2}{G}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nReach\nWhenever this creature blocks, \u2014",
             "flavor_text": "[i][/i]",
             "pt": "+1/+2",
             "special_text": "",
@@ -1054,28 +972,26 @@
             "position": "45",
             "card_name2": "Grip \u2014 Vines",
             "color2": "G",
-            "type2": "Host Creature \u2013 Plant",
+            "type2": "Host Creature \u2014 Plant",
             "cost2": "{1}{G}",
-            "rules_text2": "When this creature enters \u2013 Put a +1/+1 counter on this creature.\nReach",
+            "rules_text2": "When this creature enters \u2014 Put a +1/+1 counter on this creature.\nReach",
             "flavor_text2": "[i][/i]",
             "pt2": "0/1",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "John Stanko",
             "alias2": "",
-            "notes": "Design-UG-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus\n\nNote \u2014 I think this might be official MTG art.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus\n\nNote \u2014 I think this might be official MTG art."
         },
         {
             "card_name": "Living Equation",
             "color": "G",
             "rarity": "cube",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 54,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Trample\n[i]Solve for X[/i] \u2013 Whenever you pay a cost that contains {X}, this creature gets +X/+X until end of turn.",
+            "rules_text": "Trample\n[i]Solve for X[/i] \u2014 Whenever you pay a cost that contains {X}, this creature gets +X/+X until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1085,9 +1001,7 @@
             "artist": "ekoputeh",
             "alias": "",
             "position": "46",
-            "notes": "Design-UG-Free-Slot\nLore-World-Quantus\n\n!tag<world> quantus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Quantus\n\n!tag<world> quantus"
         },
         {
             "card_name": "Paradoxical Architecture",
@@ -1107,15 +1021,13 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "47",
-            "notes": "Design-RG-Free-Slot\nLore-Faction-Gathraxi\nLore-World-Belvedere\nStyle-Spotlight-Faction\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RG-Free-Slot\nLore-Faction-Gathraxi\nLore-World-Belvedere\nStyle-Spotlight-Faction\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Raiz, Curious Cultivator",
             "color": "G",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Elf Druid",
+            "type": "Legendary Creature \u2014 Elf Druid",
             "number": 56,
             "color_identity": "WUBRG",
             "cost": "{3}{G}",
@@ -1129,9 +1041,7 @@
             "artist": "1oshuart",
             "alias": "",
             "position": "48",
-            "notes": "Design-RG-Free-Slot\nLore-Character-Raiz\nLore-World-Sylvia\nStyle-Spotlight-Legendary\n\n!tag<character> raiz\n!tag<world> sylvia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RG-Free-Slot\nLore-Character-Raiz\nLore-World-Sylvia\nStyle-Spotlight-Legendary\n\n!tag<character> raiz\n!tag<world> sylvia"
         },
         {
             "card_name": "Tower over Trees",
@@ -1162,15 +1072,13 @@
             "loyalty2": "",
             "artist2": "Guillermo Mart\u00ednez",
             "alias2": "",
-            "notes": "Design-UG-Free-Slot\nLore-World-Ikos",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Ikos"
         },
         {
             "card_name": "Tyrant of the Woods",
             "color": "G",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 58,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -1184,19 +1092,17 @@
             "artist": "x-Celebril-x",
             "alias": "",
             "position": "50",
-            "notes": "Design-CG-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CG-Cycle-Dragon-Landcycling\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Volundr, Seeker of Mt. King",
             "color": "G",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Elf Scout",
+            "type": "Legendary Creature \u2014 Elf Scout",
             "number": 59,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever Volundr enters or attacks, choose one \u2013\n\u2022 Draw a card from your atlas deck.\n\u2022 Volundr explores.",
+            "rules_text": "Whenever Volundr enters or attacks, choose one \u2014\n\u2022 Draw a card from your atlas deck.\n\u2022 Volundr explores.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1206,9 +1112,7 @@
             "artist": "merillizaART",
             "alias": "",
             "position": "51",
-            "notes": "Design-RG-Free-Slot\nLore-Character-Volundr\nLore-World-Krokrvegr\nStyle-Spotlight-Legendary\n\n!tag<character> volundr\n!tag<world> krokrvegr",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RG-Free-Slot\nLore-Character-Volundr\nLore-World-Krokrvegr\nStyle-Spotlight-Legendary\n\n!tag<character> volundr\n!tag<world> krokrvegr"
         },
         {
             "card_name": "The World Tree Sprouts",
@@ -1228,19 +1132,17 @@
             "artist": "Peter Mohrbacher",
             "alias": "",
             "position": "52",
-            "notes": "Design-RG-Free-Slot\nLore-Faction-Amaranth\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RG-Free-Slot\nLore-Faction-Amaranth\nLore-World-Faerie\nStyle-Spotlight-Legendary\n\n!tag<world> faerie"
         },
         {
             "card_name": "Astra F., Pata-Stronomer",
             "color": "WU",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Pataphysician",
+            "type": "Legendary Creature \u2014 Human Pataphysician",
             "number": 63,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "[i]Starfall[/i] \u2013 Whenever a nontoken permanent you control enters, if the night sky is visible in its art, create a 1/1 white and blue Star enchantment creature token with flying.",
+            "rules_text": "[i]Starfall[/i] \u2014 Whenever a nontoken permanent you control enters, if the night sky is visible in its art, create a 1/1 white and blue Star enchantment creature token with flying.",
             "flavor_text": "[i]\u201cDo you like these constellations? I made them myself!\u201d[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1250,15 +1152,13 @@
             "artist": "Gennova",
             "alias": "",
             "position": "53",
-            "notes": "Design-UM-Free-Slot\nLore-Character-Astra-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\nTag-Token-Star\n\n!tag<character> astra-f\n!tag<stamp> acorn\n!tag<world> phora",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-Character-Astra-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\nTag-Token-Star\n\n!tag<character> astra-f\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
             "card_name": "Dragon Flock Leader",
             "color": "WU",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 64,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
@@ -1272,15 +1172,13 @@
             "artist": "Dragolisco",
             "alias": "",
             "position": "54",
-            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Rubber Annie, Ringmaster",
             "color": "RG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Clown",
+            "type": "Legendary Creature \u2014 Human Clown",
             "number": 65,
             "color_identity": "RG",
             "cost": "{5}{R}{G}",
@@ -1294,15 +1192,13 @@
             "artist": "Aldair Apango",
             "alias": "",
             "position": "55",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Annie\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> annie\n!tag<world> tunia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Annie\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> annie\n!tag<world> tunia"
         },
         {
             "card_name": "Jenny Everywhere",
             "color": "WG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Hero",
+            "type": "Legendary Creature \u2014 Human Hero",
             "number": 66,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -1316,15 +1212,13 @@
             "artist": "Nelson Evergreen",
             "alias": "",
             "position": "56",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra"
         },
         {
             "card_name": "Edwin Odd Edd Odwin",
             "color": "WB",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Advisor",
+            "type": "Legendary Creature \u2014 Advisor",
             "number": 67,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -1338,15 +1232,13 @@
             "artist": "Percy McMurphy",
             "alias": "",
             "position": "57",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Edwin\nLore-Faction-Satanas\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> edwin\n!tag<world> tunia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Edwin\nLore-Faction-Satanas\nLore-World-Tunia\nStyle-Spotlight-Legendary\n\n!tag<character> edwin\n!tag<world> tunia"
         },
         {
             "card_name": "Jenny Nowhere",
             "color": "WB",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Villain",
+            "type": "Legendary Creature \u2014 Human Villain",
             "number": 68,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
@@ -1360,15 +1252,13 @@
             "artist": "Matt Forsyth",
             "alias": "",
             "position": "58",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Jenny\nLore-World-Narra\nStyle-Spotlight-Legendary\n\n!tag<character> jenny\n!tag<world> narra"
         },
         {
             "card_name": "Frostfire Weird",
             "color": "UR",
             "rarity": "cube",
-            "type": "Creature \u2013 Elemental Weird",
+            "type": "Creature \u2014 Elemental Weird",
             "number": 69,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
@@ -1382,15 +1272,13 @@
             "artist": "Janos Csernik",
             "alias": "Element \u2014 Ice / Fire",
             "position": "59",
-            "notes": "Design-UM-Free-Slot\nLore-World-Heartlands\n\n!tag<world> heartlands",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-World-Heartlands\n\n!tag<world> heartlands"
         },
         {
             "card_name": "Game Knight",
             "color": "UR",
             "rarity": "cube",
-            "type": "Artifact Creature \u2013 Construct Knight",
+            "type": "Artifact Creature \u2014 Construct Knight",
             "number": 70,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -1404,15 +1292,13 @@
             "artist": "BrotherOstavia",
             "alias": "",
             "position": "60",
-            "notes": "Design-UM-Free-Slot\nLore-World-Leikrvold\n\n!tag<world> leikrvold",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-World-Leikrvold\n\n!tag<world> leikrvold"
         },
         {
             "card_name": "Marauder's Dragonship",
             "color": "UR",
             "rarity": "cube",
-            "type": "Kindred Artifact \u2013 Dragon Vehicle",
+            "type": "Kindred Artifact \u2014 Dragon Vehicle",
             "number": 71,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -1426,15 +1312,13 @@
             "artist": "CadNav",
             "alias": "",
             "position": "61",
-            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\nTag-Token-Pirate\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\nTag-Token-Pirate\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Sunfire Dragon",
             "color": "WR",
             "rarity": "cube",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 72,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -1448,15 +1332,13 @@
             "artist": "Carla Morrow",
             "alias": "",
             "position": "62",
-            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Signpost-Dragon\nLore-World-New-Worlds\n\n!tag<world> new-worlds"
         },
         {
             "card_name": "Mask of Illusions",
             "color": "UG",
             "rarity": "cube",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 73,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
@@ -1470,9 +1352,7 @@
             "artist": "Pavel Kolomeyets",
             "alias": "",
             "position": "63",
-            "notes": "Design-UM-Free-Slot\nLore-World-Thespia\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-World-Thespia\n\n!tag<world> thespia"
         },
         {
             "card_name": "Wisdom of the Woods",
@@ -1503,15 +1383,13 @@
             "loyalty2": "",
             "artist2": "Ana-Maria Radulea",
             "alias2": "",
-            "notes": "Design-UM-Signpost-Biome\nLore-World-Ikos",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Signpost-Biome\nLore-World-Ikos"
         },
         {
             "card_name": "Adalinda, Dragonspeaker",
             "color": "WUR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Sorcerer",
+            "type": "Legendary Creature \u2014 Human Sorcerer",
             "number": 75,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
@@ -1525,15 +1403,13 @@
             "artist": "Laura Sava",
             "alias": "",
             "position": "65",
-            "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Adalinda\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> adalinda\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Adalinda\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> adalinda\n!tag<world> new-worlds"
         },
         {
             "card_name": "Ariel Vivelia",
             "color": "UBR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Rogue",
+            "type": "Legendary Creature \u2014 Human Rogue",
             "number": 76,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
@@ -1547,15 +1423,13 @@
             "artist": "Tallia Lockhart",
             "alias": "",
             "position": "66",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Ariel\nLore-World-Ermina\nStyle-Spotlight-Legendary\nTag-Token-Treasure\n\n!tag<character> ariel\n!tag<world> ermina",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Ariel\nLore-World-Ermina\nStyle-Spotlight-Legendary\nTag-Token-Treasure\n\n!tag<character> ariel\n!tag<world> ermina"
         },
         {
             "card_name": "Castor and Pollux Dioscuri",
             "color": "WUR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human",
+            "type": "Legendary Creature \u2014 Human",
             "number": 77,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
@@ -1569,15 +1443,13 @@
             "artist": "Allen Morris",
             "alias": "",
             "position": "67",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Dioscuri\nLore-World-Gemini\nStyle-Spotlight-Legendary\nTag-Token-Self\n\n!tag<character> dioscuri\n!tag<world> gemini",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Dioscuri\nLore-World-Gemini\nStyle-Spotlight-Legendary\nTag-Token-Self\n\n!tag<character> dioscuri\n!tag<world> gemini"
         },
         {
             "card_name": "Devourer of Hope",
             "color": "WUB",
             "rarity": "cube",
-            "type": "Enchantment Creature \u2013 Nightmare Horror",
+            "type": "Enchantment Creature \u2014 Nightmare Horror",
             "number": 78,
             "color_identity": "WUB",
             "cost": "{4}{W}{U}{B}",
@@ -1591,15 +1463,13 @@
             "artist": "Pedro Sena",
             "alias": "",
             "position": "68",
-            "notes": "Design-RM-Free-Slot\nLore-World-Andiheim\n\n!tag<world> andiheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-World-Andiheim\n\n!tag<world> andiheim"
         },
         {
             "card_name": "Madam Universe, Mayor",
             "color": "WUG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Incarnation God Advisor",
+            "type": "Legendary Creature \u2014 Incarnation God Advisor",
             "number": 79,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -1613,15 +1483,13 @@
             "artist": "Julie Dillon",
             "alias": "",
             "position": "69",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Universe\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> universe\n!tag<stamp> acorn\n!tag<world> phora",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Universe\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> universe\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
             "card_name": "Magnus Arneson, Explorer",
             "color": "URG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Elf Scout",
+            "type": "Legendary Creature \u2014 Elf Scout",
             "number": 80,
             "color_identity": "URG",
             "cost": "{2}{G}{U}{R}",
@@ -1635,15 +1503,13 @@
             "artist": "Bob Kehl",
             "alias": "",
             "position": "70",
-            "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Magnus\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> magnus\n!tag<world> new-worlds",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Cycle-Legend-3C\nLore-Character-Magnus\nLore-World-New-Worlds\nStyle-Spotlight-Legendary\n\n!tag<character> magnus\n!tag<world> new-worlds"
         },
         {
             "card_name": "Noah, Freelance Alchemist",
             "color": "WUBR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Scientist",
+            "type": "Legendary Creature \u2014 Human Scientist",
             "number": 82,
             "color_identity": "WUBR",
             "cost": "{W}{U}{B}{R}",
@@ -1657,15 +1523,13 @@
             "artist": "Consuelo Pecchenino",
             "alias": "",
             "position": "71",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<character> noah\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Noah\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<character> noah\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Ubu Roi",
             "color": "WUBRG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Elder God",
+            "type": "Legendary Creature \u2014 Elder God",
             "number": 83,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
@@ -1679,15 +1543,13 @@
             "artist": "Lenny Ibizarre",
             "alias": "",
             "position": "72",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Ubu\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> ubu\n!tag<stamp> acorn\n!tag<world> phora",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Ubu\nLore-World-Phora\nStyle-Spotlight-Legendary\nTag-Format-Acorn\n\n!tag<character> ubu\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
             "card_name": "Kind Lee, Protection Witch",
             "color": "WU",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 84,
             "color_identity": "WU",
             "cost": "{2}{WU}",
@@ -1703,7 +1565,7 @@
             "position": "73",
             "card_name2": "Marked: Protect",
             "color2": "W",
-            "type2": "Instant \u2013 Innate",
+            "type2": "Instant \u2014 Innate",
             "cost2": "{2}{W}",
             "rules_text2": "Target creature gains protection from the color of your choice until end of turn. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1712,15 +1574,13 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Kind\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Kind\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil"
         },
         {
             "card_name": "Maven Brown, Raven Witch",
             "color": "UB",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 85,
             "color_identity": "UB",
             "cost": "{2}{UB}",
@@ -1736,7 +1596,7 @@
             "position": "74",
             "card_name2": "Marked: Raven",
             "color2": "U",
-            "type2": "Sorcery \u2013 Innate",
+            "type2": "Sorcery \u2014 Innate",
             "cost2": "{2}{U}",
             "rules_text2": "Create a 1/1 blue Bird creature token with flying. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1745,15 +1605,13 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Maven\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Bird\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Maven\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Bird\n\n!tag<world> sygil"
         },
         {
             "card_name": "Vex Wilson, Death Witch",
             "color": "BR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 86,
             "color_identity": "BR",
             "cost": "{2}{BR}",
@@ -1769,7 +1627,7 @@
             "position": "75",
             "card_name2": "Marked: Kill",
             "color2": "B",
-            "type2": "Sorcery \u2013 Innate",
+            "type2": "Sorcery \u2014 Innate",
             "cost2": "{2}{B}",
             "rules_text2": "Destroy target creature that was dealt damage this turn. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1778,15 +1636,13 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Vex\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Vex\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil"
         },
         {
             "card_name": "Raye Sunlight, Flower Witch",
             "color": "RG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 87,
             "color_identity": "RG",
             "cost": "{2}{RG}",
@@ -1802,7 +1658,7 @@
             "position": "76",
             "card_name2": "Marked: Grow",
             "color2": "G",
-            "type2": "Sorcery \u2013 Innate",
+            "type2": "Sorcery \u2014 Innate",
             "cost2": "{2}{G}",
             "rules_text2": "Put a +1/+1 counter on target creature. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1811,15 +1667,13 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Raye\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Plant\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Raye\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Plant\n\n!tag<world> sygil"
         },
         {
             "card_name": "Moxie Brown, Mouse Witch",
             "color": "WG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 88,
             "color_identity": "WG",
             "cost": "{2}{GW}",
@@ -1835,7 +1689,7 @@
             "position": "77",
             "card_name2": "Marked: Mouse",
             "color2": "W",
-            "type2": "Sorcery \u2013 Innate",
+            "type2": "Sorcery \u2014 Innate",
             "cost2": "{2}{W}",
             "rules_text2": "Create a 1/1 white Mouse creature token. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1844,9 +1698,7 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Moxie\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Mouse\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Moxie\nLore-World-Sygil\nStyle-Spotlight-Legendary\nTag-Token-Mouse\n\n!tag<world> sygil"
         },
         {
             "card_name": "Slice of Life",
@@ -1866,9 +1718,7 @@
             "artist": "Vacuum Chan",
             "alias": "",
             "position": "78",
-            "notes": "Design-RM-Free-Slot\nLore-World-Sygil\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> sygil\n\nFlavour \u2014 Storylines that aren't combat focused.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-World-Sygil\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> sygil\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
             "card_name": "Slice of Life",
@@ -1888,15 +1738,13 @@
             "artist": "SancosityJA",
             "alias": "",
             "position": "79",
-            "notes": "Design-RM-Free-Slot\nLore-World-Xenos\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> xenos\n\nFlavour \u2014 Storylines that aren't combat focused.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-World-Xenos\nTag-Custom-Reprint\nTag-Token-Citizen\n\n!tag<world> xenos\n\nFlavour \u2014 Storylines that aren't combat focused."
         },
         {
             "card_name": "Pure Joyce, Helpful Witch",
             "color": "WB",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Vampire Warlock",
+            "type": "Legendary Creature \u2014 Vampire Warlock",
             "number": 91,
             "color_identity": "WB",
             "cost": "{2}{WB}",
@@ -1912,7 +1760,7 @@
             "position": "80",
             "card_name2": "Marked: Help",
             "color2": "W",
-            "type2": "Sorcery \u2013 Innate",
+            "type2": "Sorcery \u2014 Innate",
             "cost2": "{2}{W}",
             "rules_text2": "Target creature gets +2/+2 until end of turn. Untap it. [i](You may cast this from the battlefield. You can't cast it again until your next turn.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -1921,15 +1769,13 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Pure\nLore-Faction-Satanas\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Pure\nLore-Faction-Satanas\nLore-World-Sygil\nStyle-Spotlight-Legendary\n\n!tag<world> sygil"
         },
         {
             "card_name": "Henry F., Pata-Matician",
             "color": "UR",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Pataphysician",
+            "type": "Legendary Creature \u2014 Human Pataphysician",
             "number": 92,
             "color_identity": "UR",
             "cost": "{X}{UR}",
@@ -1943,19 +1789,17 @@
             "artist": "Naxer",
             "alias": "",
             "position": "81",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Henry-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\n\n!tag<character> henry-f\n!tag<stamp> acorn\n!tag<world> phora",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Henry-F\nLore-World-Phora\nStyle-Spotlight-Legendary\nStyle-Watermark-Phora-Faustroll\nTag-Format-Acorn\n\n!tag<character> henry-f\n!tag<stamp> acorn\n!tag<world> phora"
         },
         {
             "card_name": "Tentacled \u2014",
             "color": "UG",
             "rarity": "cube",
-            "type": "Creature \u2013 Octopus Ooze",
+            "type": "Creature \u2014 Octopus Ooze",
             "number": 93,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Augment {2}{GU} [i]({2}{GU}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\n{2}, {T}: \u2013",
+            "rules_text": "Augment {2}{GU} [i]({2}{GU}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\n{2}, {T}: \u2014",
             "flavor_text": "[i][/i]",
             "pt": "+2/+1",
             "special_text": "",
@@ -1967,28 +1811,26 @@
             "position": "82",
             "card_name2": "Clingy \u2014 Polypus",
             "color2": "UG",
-            "type2": "Host Creature \u2013 Octopus Ooze",
+            "type2": "Host Creature \u2014 Octopus Ooze",
             "cost2": "{1}{G}{U}",
-            "rules_text2": "When this creature enters \u2013 You may tap or untap another target permanent.",
+            "rules_text2": "When this creature enters \u2014 You may tap or untap another target permanent.",
             "flavor_text2": "[i][/i]",
             "pt2": "2/3",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "PReilly",
             "alias2": "",
-            "notes": "Design-UM-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus"
         },
         {
             "card_name": "Winged \u2014",
             "color": "WU",
             "rarity": "cube",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 94,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "Augment {2}{WU} [i]({2}{WU}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nFlying\nWhenever this creature deals combat damage to a player, \u2013",
+            "rules_text": "Augment {2}{WU} [i]({2}{WU}, Reveal this card from your hand: Combine it with target host. Augment only as a sorcery.)[/i]\nFlying\nWhenever this creature deals combat damage to a player, \u2014",
             "flavor_text": "[i][/i]",
             "pt": "+1/+1",
             "special_text": "",
@@ -2000,18 +1842,16 @@
             "position": "83",
             "card_name2": "Wingstorm \u2014 Raptor",
             "color2": "WU",
-            "type2": "Host Creature \u2013 Bird",
+            "type2": "Host Creature \u2014 Bird",
             "cost2": "{2}{W}{U}",
-            "rules_text2": "When this creature enters \u2013 You may return target nonland permanent to its owner's hand.\nFlying",
+            "rules_text2": "When this creature enters \u2014 You may return target nonland permanent to its owner's hand.\nFlying",
             "flavor_text2": "[i][/i]",
             "pt2": "2/1",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Morkney",
             "alias2": "",
-            "notes": "Design-UM-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UM-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus"
         },
         {
             "card_name": "Aetheric Resonator",
@@ -2031,9 +1871,7 @@
             "artist": "Kaye Yeo",
             "alias": "",
             "position": "84",
-            "notes": "Design-UA-Free-Slot\nLore-World-New-Eden\n\n!tag<world> new-eden",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UA-Free-Slot\nLore-World-New-Eden\n\n!tag<world> new-eden"
         },
         {
             "card_name": "Artist's Palette",
@@ -2053,9 +1891,7 @@
             "artist": "feefal",
             "alias": "",
             "position": "85",
-            "notes": "Design-UA-Free-Slot\nLore-World-Faegrland\n\n!tag<world> faegrland",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UA-Free-Slot\nLore-World-Faegrland\n\n!tag<world> faegrland"
         },
         {
             "card_name": "Memorial to Legend",
@@ -2075,9 +1911,7 @@
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
             "position": "86",
-            "notes": "Design-RA-Free-Slot\nLore-Faction-Macedon\nLore-World-Voxel\nStyle-Spotlight-Legendary\n\n!tag<world> voxel\n\nFlavour \u2014 A tribute to the minecraft youtuber Technoblade.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RA-Free-Slot\nLore-Faction-Macedon\nLore-World-Voxel\nStyle-Spotlight-Legendary\n\n!tag<world> voxel\n\nFlavour \u2014 A tribute to the minecraft youtuber Technoblade."
         },
         {
             "card_name": "The Philosopher's Stone",
@@ -2097,9 +1931,7 @@
             "artist": "VidaQla",
             "alias": "",
             "position": "87",
-            "notes": "Design-RA-Free-Slot\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RA-Free-Slot\nLore-World-Khumeia\nStyle-Spotlight-Legendary\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Chromatic Crossroads",
@@ -2119,15 +1951,13 @@
             "artist": "\u5bd2\u653e hanfang",
             "alias": "",
             "position": "88",
-            "notes": "Design-UL-Free-Slot\nLore-World-Faegrland\nTag-Custom-Reprint\n\n!tag<world> faegrland\n\nNote \u2014 Originally Designed for the Outer Planes.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UL-Free-Slot\nLore-World-Faegrland\nTag-Custom-Reprint\n\n!tag<world> faegrland\n\nNote \u2014 Originally Designed for the Outer Planes."
         },
         {
             "card_name": "Gate Town",
             "color": "",
             "rarity": "cube",
-            "type": "Land \u2013 Gate Town",
+            "type": "Land \u2014 Gate Town",
             "number": 104,
             "color_identity": "C",
             "cost": "",
@@ -2141,9 +1971,7 @@
             "artist": "Artifex Mundi",
             "alias": "",
             "position": "89",
-            "notes": "Design-CL-Free-Slot\nLore-World-Frontier\n\nFlavour \u2014 A town built around a dimensional portal.",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Free-Slot\nLore-World-Frontier\n\nFlavour \u2014 A town built around a dimensional portal."
         },
         {
             "card_name": "Great Unknown",
@@ -2163,9 +1991,7 @@
             "artist": "liang shao",
             "alias": "",
             "position": "90",
-            "notes": "Design-UL-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UL-Free-Slot\nLore-World-Khumeia\nTag-Format-Alchemy\n\n!tag<stamp> alchemy\n!tag<world> khumeia"
         },
         {
             "card_name": "Mt. Apollyon",
@@ -2185,9 +2011,7 @@
             "artist": "34bigthings",
             "alias": "",
             "position": "91",
-            "notes": "Design-RL-Free-Slot\nLore-World-New-Eden\nStyle-Spotlight-Legendary\n\n!tag<world> new-eden\n\nNote \u2014 Design Mirrors Phyrexian Tower",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RL-Free-Slot\nLore-World-New-Eden\nStyle-Spotlight-Legendary\n\n!tag<world> new-eden\n\nNote \u2014 Design Mirrors Phyrexian Tower"
         },
         {
             "card_name": "Oddwyld Expanse",
@@ -2207,9 +2031,7 @@
             "artist": "Dmitry Grishaev",
             "alias": "",
             "position": "92",
-            "notes": "Design-UL-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UL-Free-Slot\nLore-World-Oddulus\n\n!tag<world> oddulus"
         },
         {
             "card_name": "Twilight Cavern",
@@ -2240,15 +2062,13 @@
             "loyalty2": "",
             "artist2": "Gell4",
             "alias2": "",
-            "notes": "Design-CL-Free-Slot\nLore-World-Solus-Noctus\n\n!tag<world> solus-noctus",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Free-Slot\nLore-World-Solus-Noctus\n\n!tag<world> solus-noctus"
         },
         {
             "card_name": "Bliss",
             "color": "",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Framework",
+            "type": "Enchantment \u2014 Framework",
             "number": 135,
             "color_identity": "C",
             "cost": "",
@@ -2262,15 +2082,13 @@
             "artist": "Olga Tupikina",
             "alias": "",
             "position": "94",
-            "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside"
         },
         {
             "card_name": "Doubt",
             "color": "",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Framework",
+            "type": "Enchantment \u2014 Framework",
             "number": 136,
             "color_identity": "C",
             "cost": "",
@@ -2284,9 +2102,7 @@
             "artist": "Olga Tupikina",
             "alias": "",
             "position": "95",
-            "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RC-Free-Slot\nLore-World-Doxasia\nTag-Outside"
         },
         {
             "card_name": "Pearl Masque",
@@ -2306,9 +2122,7 @@
             "artist": "Ivan Dedov",
             "alias": "",
             "position": "96",
-            "notes": "Design-UW-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UW-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
             "card_name": "Sapphire Masque",
@@ -2328,9 +2142,7 @@
             "artist": "Anastasia Heublein",
             "alias": "",
             "position": "97",
-            "notes": "Design-UU-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
             "card_name": "Jet Masque",
@@ -2350,9 +2162,7 @@
             "artist": "Roman Ankenbrandt",
             "alias": "",
             "position": "98",
-            "notes": "Design-UB-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UB-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
             "card_name": "Ruby Masque",
@@ -2372,9 +2182,7 @@
             "artist": "Hedgenok",
             "alias": "",
             "position": "99",
-            "notes": "Design-UR-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UR-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
             "card_name": "Emerald Masque",
@@ -2394,15 +2202,13 @@
             "artist": "ninovecia",
             "alias": "",
             "position": "100",
-            "notes": "Design-UG-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Cycle-Conspiracy-Masque\nLore-World-Thespia\nStyle-Spotlight-Legendary\nTag-Format-Commander\nTag-Format-Draft\nTag-Outside\n\n!tag<world> thespia"
         },
         {
             "card_name": "Grandmaster Clock",
             "color": "",
             "rarity": "cube",
-            "type": "Artifact \u2013 Contraption",
+            "type": "Artifact \u2014 Contraption",
             "number": 142,
             "color_identity": "C",
             "cost": "",
@@ -2416,9 +2222,7 @@
             "artist": "Nathan Chen",
             "alias": "",
             "position": "101",
-            "notes": "Design-MA-Free-Slot\nLore-World-Orrery\nTag-Outside\n\n!tag<world> orrery",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-MA-Free-Slot\nLore-World-Orrery\nTag-Outside\n\n!tag<world> orrery"
         },
         {
             "card_name": "Power Lines",
@@ -2438,9 +2242,7 @@
             "artist": "PAN PING",
             "alias": "",
             "position": "102",
-            "notes": "Design-RA-Free-Slot\nLore-World-Factotum\nTag-Outside\n\n!tag<world> factotum",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RA-Free-Slot\nLore-World-Factotum\nTag-Outside\n\n!tag<world> factotum"
         },
         {
             "card_name": "Impassable Forest",
@@ -2460,15 +2262,13 @@
             "artist": "Acidify Art",
             "alias": "",
             "position": "103",
-            "notes": "Design-UL-Free-Slot\nLore-World-Krokrvegr\nTag-Outside\n\n!tag<world> krokrvegr",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UL-Free-Slot\nLore-World-Krokrvegr\nTag-Outside\n\n!tag<world> krokrvegr"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 113,
             "color_identity": "W",
             "cost": "",
@@ -2482,15 +2282,13 @@
             "artist": "Ulysses Pita",
             "alias": "",
             "position": "104",
-            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 115,
             "color_identity": "U",
             "cost": "",
@@ -2504,15 +2302,13 @@
             "artist": "Tiberius Viris",
             "alias": "",
             "position": "105",
-            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 122,
             "color_identity": "B",
             "cost": "",
@@ -2526,15 +2322,13 @@
             "artist": "MiaStendal",
             "alias": "",
             "position": "106",
-            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 128,
             "color_identity": "R",
             "cost": "",
@@ -2548,15 +2342,13 @@
             "artist": "Michiel Rensen",
             "alias": "",
             "position": "107",
-            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 133,
             "color_identity": "G",
             "cost": "",
@@ -2570,9 +2362,7 @@
             "artist": "Ulysses Pita",
             "alias": "",
             "position": "108",
-            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-VAST\nLore-World-Vastara\n\n!tag<world> vastara"
         },
         {
             "card_name": "Leyline of Frost",
@@ -2592,15 +2382,13 @@
             "artist": "Fel-X",
             "alias": "",
             "position": "109",
-            "notes": "Design-RC-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RC-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Frost Channeler",
             "color": "G",
             "rarity": "cube",
-            "type": "Snow Creature \u2013 Elf Druid",
+            "type": "Snow Creature \u2014 Elf Druid",
             "number": 51,
             "color_identity": "G",
             "cost": "{G}",
@@ -2614,15 +2402,13 @@
             "artist": "Raijin Art",
             "alias": "",
             "position": "110",
-            "notes": "Design-UG-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Snow-Covered Plains",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Snow Land \u2013 Plains",
+            "type": "Basic Snow Land \u2014 Plains",
             "number": 114,
             "color_identity": "W",
             "cost": "",
@@ -2636,15 +2422,13 @@
             "artist": "Fabrice ROS PATURAUX",
             "alias": "",
             "position": "111",
-            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Snow-Covered Island",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Snow Land \u2013 Island",
+            "type": "Basic Snow Land \u2014 Island",
             "number": 119,
             "color_identity": "U",
             "cost": "",
@@ -2658,15 +2442,13 @@
             "artist": "Klaus Pillon",
             "alias": "",
             "position": "112",
-            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Snow-Covered Swamp",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Snow Land \u2013 Swamp",
+            "type": "Basic Snow Land \u2014 Swamp",
             "number": 120,
             "color_identity": "B",
             "cost": "",
@@ -2680,15 +2462,13 @@
             "artist": "Czepeku",
             "alias": "",
             "position": "113",
-            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Snow-Covered Mountain",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Snow Land \u2013 Mountain",
+            "type": "Basic Snow Land \u2014 Mountain",
             "number": 129,
             "color_identity": "R",
             "cost": "",
@@ -2702,15 +2482,13 @@
             "artist": "GlobulArt",
             "alias": "",
             "position": "114",
-            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Snow-Covered Forest",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Snow Land \u2013 Forest",
+            "type": "Basic Snow Land \u2014 Forest",
             "number": 134,
             "color_identity": "G",
             "cost": "",
@@ -2724,15 +2502,13 @@
             "artist": "Henrik Evensen",
             "alias": "",
             "position": "115",
-            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-SVEL\nLore-World-Svellheim\n\n!tag<world> svellheim"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 110,
             "color_identity": "W",
             "cost": "",
@@ -2746,15 +2522,13 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "116",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 116,
             "color_identity": "U",
             "cost": "",
@@ -2768,15 +2542,13 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "117",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 121,
             "color_identity": "B",
             "cost": "",
@@ -2790,15 +2562,13 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "118",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 125,
             "color_identity": "R",
             "cost": "",
@@ -2812,15 +2582,13 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "119",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 130,
             "color_identity": "G",
             "cost": "",
@@ -2834,9 +2602,7 @@
             "artist": "Hato Tsuki",
             "alias": "",
             "position": "120",
-            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-OURO\nLore-World-Ouroboros\n\n!tag<world> Ouroboros"
         },
         {
             "card_name": "Explore the House",
@@ -2856,15 +2622,13 @@
             "artist": "James Fenner",
             "alias": "",
             "position": "121",
-            "notes": "Design-CG-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint\n\n!tag<world> ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CG-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint\n\n!tag<world> ouroboros"
         },
         {
             "card_name": "Melody, the House Itself",
             "color": "WUG",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Human Citizen",
+            "type": "Legendary Creature \u2014 Human Citizen",
             "number": 81,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
@@ -2878,15 +2642,13 @@
             "artist": "James Fenner",
             "alias": "",
             "position": "122",
-            "notes": "Design-RM-Free-Slot\nLore-Character-Melody\nLore-World-Ouroboros\nStyle-Spotlight-Legendary\n\n!tag<character> melody\n!tag<world> ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RM-Free-Slot\nLore-Character-Melody\nLore-World-Ouroboros\nStyle-Spotlight-Legendary\n\n!tag<character> melody\n!tag<world> ouroboros"
         },
         {
             "card_name": "Recursive Room",
             "color": "U",
             "rarity": "cube",
-            "type": "Enchantment \u2013 Room",
+            "type": "Enchantment \u2014 Room",
             "number": 31,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2911,9 +2673,7 @@
             "loyalty2": "",
             "artist2": "PLACEHOLDER",
             "alias2": "",
-            "notes": "Design-RU-Free-Slot\nLore-World-Ouroboros\n\n!tag<world> ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RU-Free-Slot\nLore-World-Ouroboros\n\n!tag<world> ouroboros"
         },
         {
             "card_name": "Snoop Around",
@@ -2923,7 +2683,7 @@
             "number": 27,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 Lock or unlock a door of target room you control.\n\u2022 Investigate twice. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Lock or unlock a door of target room you control.\n\u2022 Investigate twice. [i](To investigate, create a Clue token. It's an artifact with \u201c{2}, Sacrifice this token: Draw a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2933,9 +2693,7 @@
             "artist": "James Fenner",
             "alias": "",
             "position": "124",
-            "notes": "Design-UU-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UU-Free-Slot\nLore-World-Ouroboros\nTag-Custom-Reprint"
         },
         {
             "card_name": "Worlds within Worlds",
@@ -2955,9 +2713,7 @@
             "artist": "Vicky Brago-Mitchell",
             "alias": "",
             "position": "125",
-            "notes": "Design-UG-Free-Slot\nLore-World-Ouroboros\n\n!tag<world> ouroboros",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Ouroboros\n\n!tag<world> ouroboros"
         },
         {
             "card_name": "Fold Up",
@@ -2977,9 +2733,7 @@
             "artist": "Jim Plaxco",
             "alias": "",
             "position": "126",
-            "notes": "Design-RW-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RW-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Worldmaking",
@@ -2999,15 +2753,13 @@
             "artist": "Sittichai Dadas",
             "alias": "",
             "position": "127",
-            "notes": "Design-UG-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-UG-Free-Slot\nLore-World-Fabricia\nTag-Token-Copy\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 112,
             "color_identity": "W",
             "cost": "",
@@ -3021,15 +2773,13 @@
             "artist": "Olga Kurbatova",
             "alias": "",
             "position": "128",
-            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 117,
             "color_identity": "U",
             "cost": "",
@@ -3043,15 +2793,13 @@
             "artist": "Colourbox",
             "alias": "",
             "position": "129",
-            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 123,
             "color_identity": "B",
             "cost": "",
@@ -3065,15 +2813,13 @@
             "artist": "klyaksun",
             "alias": "",
             "position": "130",
-            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 126,
             "color_identity": "R",
             "cost": "",
@@ -3087,15 +2833,13 @@
             "artist": "Alexandr Gusev",
             "alias": "",
             "position": "131",
-            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 131,
             "color_identity": "G",
             "cost": "",
@@ -3109,15 +2853,13 @@
             "artist": "Picasa",
             "alias": "",
             "position": "132",
-            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-FABR\nLore-World-Fabricia\n\n!tag<world> fabricia"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 111,
             "color_identity": "W",
             "cost": "",
@@ -3131,15 +2873,13 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "133",
-            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 118,
             "color_identity": "U",
             "cost": "",
@@ -3153,15 +2893,13 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "134",
-            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 124,
             "color_identity": "B",
             "cost": "",
@@ -3175,15 +2913,13 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "135",
-            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 127,
             "color_identity": "R",
             "cost": "",
@@ -3197,15 +2933,13 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "136",
-            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "cube",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 132,
             "color_identity": "G",
             "cost": "",
@@ -3219,9 +2953,7 @@
             "artist": "Ustwo Games",
             "alias": "",
             "position": "137",
-            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-LL-Basic-BELV\nLore-World-Belvedere\n\n!tag<world> belvedere"
         },
         {
             "card_name": "Amber City",
@@ -3241,9 +2973,7 @@
             "artist": "TDSpiral",
             "alias": "",
             "position": "138",
-            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Summer\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Summer\n\n!tag<world> faerie"
         },
         {
             "card_name": "Amethyst City",
@@ -3263,9 +2993,7 @@
             "artist": "li shuxing",
             "alias": "",
             "position": "139",
-            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Autumn\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Autumn\n\n!tag<world> faerie"
         },
         {
             "card_name": "Basalt Ruins",
@@ -3285,9 +3013,7 @@
             "artist": "Terraform Studios",
             "alias": "",
             "position": "140",
-            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Chaos\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Chaos\n\n!tag<world> faerie"
         },
         {
             "card_name": "Emerald City",
@@ -3307,9 +3033,7 @@
             "artist": "lathander1987",
             "alias": "",
             "position": "141",
-            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Spring\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Spring\n\n!tag<world> faerie"
         },
         {
             "card_name": "Opal City",
@@ -3329,15 +3053,13 @@
             "artist": "molybdenumgp03",
             "alias": "",
             "position": "142",
-            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Winter\n\n!tag<world> faerie",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-CL-Cycle-Faerie-Land\nLore-World-Faerie\nStyle-Watermark-Faerie-Winter\n\n!tag<world> faerie"
         },
         {
             "card_name": "R, the Gunsmith",
             "color": "R",
             "rarity": "cube",
-            "type": "Legendary Creature \u2013 Dwarf Artificer",
+            "type": "Legendary Creature \u2014 Dwarf Artificer",
             "number": 43,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
@@ -3351,9 +3073,8 @@
             "artist": "jlewenhagen",
             "alias": "",
             "position": "143",
-            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier",
-            "image_type": "jpg",
-            "v_mana": ""
+            "notes": "Design-RR-Free-Slot\nLore-Character-R\nLore-World-Frontier\nStyle-Spotlight-Legendary\nTag-Custom-Reprint\n\n!tag<character> r\n!tag<world> frontier"
         }
-    ]
+    ],
+    "version": 4
 }
