@@ -4,6 +4,11 @@
             "set_code": "MAIN",
             "set_name": "Workspace: Imaginary Tales",
             "formats": ""
+        },
+        {
+            "set_code": "WRLD",
+            "set_name": "Workspace: Imaginary Worlds",
+            "formats": ""
         }
     ]
 }
